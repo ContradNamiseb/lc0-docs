@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::Edge_Iterator::Actualize" name="lczero::dag_classic::Edge_Iterator::Actualize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,191,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#acbc9782f31bf1771fb14ac75074666b6" title=" " alt="" coords="247,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,67,236,47,237,52,169,72"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a58aaa205c05fc56ff9c8c811dcef482d" title=" " alt="" coords="247,69,391,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,87,233,87,233,92,191,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a4a31fdd5dc2c8f467be7b3c146780900" title=" " alt="" coords="239,133,400,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,107,237,127,236,132,167,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OpenCL_Network::add_weights_short" name="OpenCL_Network::add_weights_short">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,5,615,45"/>
+<area shape="rect" id="Node000002" href="$classOpenCL__Network.html#a4d27f56109a5e032c286cde08900a3ea" title=" " alt="" coords="227,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,28,400,28,400,23,435,23"/>
+<area shape="rect" id="Node000003" href="$classOpenCL__Network.html#ae7ff9b9939036114af48519e567fb933" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,28,179,28,179,23,213,23"/>
+</map>

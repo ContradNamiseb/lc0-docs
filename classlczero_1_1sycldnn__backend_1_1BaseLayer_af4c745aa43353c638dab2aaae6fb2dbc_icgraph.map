@@ -1,0 +1,7 @@
+<map id="lczero::sycldnn_backend::BaseLayer::cublasRowMajorMatrixMul" name="lczero::sycldnn_backend::BaseLayer::cublasRowMajorMatrixMul">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,37,583,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1FusedWinogradConvSELayer.html#af8ae69986b6277e62550fc86ee5be897" title=" " alt="" coords="5,5,256,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,44,256,41,257,36,291,39"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#ae6493adcc9c7b36f14e09546a2c7c94b" title=" " alt="" coords="41,69,221,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,76,221,83,221,77,290,70"/>
+</map>

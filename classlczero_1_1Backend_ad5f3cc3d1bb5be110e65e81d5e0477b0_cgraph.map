@@ -1,0 +1,12 @@
+<map id="lczero::Backend::UpdateConfiguration" name="lczero::Backend::UpdateConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,272,80"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Backend.html#ab2f1fe2c6f29f95dc8faba740f62011e" title=" " alt="" coords="320,55,572,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,65,306,65,306,70,272,70"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="620,29,796,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,52,606,49,606,54,572,58"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#afedc88d517dbce6f94ab5b34faeb97cc" title=" " alt="" coords="646,79,770,104"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="572,76,633,82,632,87,572,82"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="677,31,671,21,674,11,687,5,708,3,734,6,744,15,741,19,732,11,708,8,688,10,678,15,676,20,681,28"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a12b56f360e640282ccab076049cdf34a" title=" " alt="" coords="844,79,947,104"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="770,89,830,89,830,94,770,94"/>
+</map>

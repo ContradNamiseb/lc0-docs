@@ -1,0 +1,9 @@
+<map id="lczero::SelfPlayGame::WriteTrainingData" name="lczero::SelfPlayGame::WriteTrainingData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,167,67"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1V6TrainingDataArray.html#a0cc04e9c0eb3c6c1a2f4983b5e9f7dff" title=" " alt="" coords="215,27,417,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,45,201,45,201,50,167,50"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#ab713fd18737b14c2e064420998cfa370" title=" " alt="" coords="465,5,656,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,33,451,28,452,34,418,38"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1TrainingDataWriter.html#a9e8371abee4eb1755e5efa1c082efeb9" title=" " alt="" coords="465,55,656,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,56,452,60,451,66,417,62"/>
+</map>

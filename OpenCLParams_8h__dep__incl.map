@@ -1,0 +1,26 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/backends/opencl/OpenCLParams.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/backends/opencl/OpenCLParams.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="316,5,528,75"/>
+<area shape="rect" id="Node000002" href="$OpenCL_8cc.html" title=" " alt="" coords="5,357,217,427"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,83,287,102,259,125,210,182,172,246,143,308,124,358,119,356,139,306,167,244,206,179,255,121,284,98,316,79"/>
+<area shape="rect" id="Node000003" href="$OpenCL_8h.html" title=" " alt="" coords="388,123,600,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,85,475,121,471,124,448,88"/>
+<area shape="rect" id="Node000004" href="$OpenCLBuffers_8h.html" title=" " alt="" coords="477,357,689,427"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="542,58,621,81,703,117,742,141,777,168,808,201,832,239,841,258,845,275,842,293,832,311,803,340,768,362,729,377,690,386,689,381,728,372,766,357,800,336,828,308,837,291,839,276,836,260,828,241,804,204,774,172,739,145,701,122,620,86,541,63"/>
+<area shape="rect" id="Node000006" href="$OpenCLTuner_8cc.html" title=" " alt="" coords="241,357,453,427"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="365,85,330,115,294,152,261,194,236,241,227,275,229,290,236,308,256,334,281,355,278,359,252,338,232,311,224,292,222,275,232,239,257,192,290,149,326,111,362,81"/>
+<area shape="rect" id="Node000007" href="$OpenCLTuner_8h.html" title=" " alt="" coords="245,240,457,309"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="396,88,379,124,364,185,356,240,351,239,359,184,374,122,391,86"/>
+<area shape="rect" id="Node000008" href="$network__opencl_8cc.html" title=" " alt="" coords="605,240,817,309"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="542,77,580,96,614,121,642,148,665,179,699,239,694,241,661,182,638,152,611,125,577,101,539,82"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="376,183,304,207,268,223,236,242,204,268,175,299,133,359,128,355,171,296,200,264,232,238,266,218,302,202,374,178"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="507,205,566,356,561,358,502,207"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="498,207,492,259,483,286,471,311,448,338,420,359,416,355,444,334,466,308,479,284,486,258,493,206"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="443,203,395,242,392,238,440,199"/>
+<area shape="poly" id="edge12_Node000003_Node000008" title=" " alt="" coords="571,196,649,237,647,242,568,201"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="570,345,511,193,516,191,575,343"/>
+<area shape="rect" id="Node000005" href="$OpenCLBuffers_8cc.html" title=" " alt="" coords="477,475,689,544"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="586,441,586,474,581,474,581,441"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="270,318,183,360,180,355,268,313"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="432,313,517,355,514,360,430,318"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="352,323,351,357,346,357,347,323"/>
+</map>

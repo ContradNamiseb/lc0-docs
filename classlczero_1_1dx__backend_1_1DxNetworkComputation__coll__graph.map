@@ -1,0 +1,18 @@
+<map id="lczero::dx_backend::DxNetworkComputation" name="lczero::dx_backend::DxNetworkComputation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1017,42,1204,82"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1NetworkComputation.html" title=" " alt="" coords="696,21,904,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="918,42,1018,51,1017,56,918,47"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxNetwork.html" title=" " alt="" coords="727,71,873,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="887,81,1017,68,1017,73,887,86"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Network.html" title=" " alt="" coords="399,5,523,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="537,27,673,54,730,69,729,74,671,59,536,33"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1NetworkCapabilities.html" title=" " alt="" coords="360,55,561,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="576,73,727,84,726,89,575,78"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dx__backend_1_1DxContext.html" title=" " alt="" coords="387,105,534,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="547,114,726,96,727,101,548,119"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html" title=" " alt="" coords="5,45,152,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="166,69,249,78,336,91,388,102,387,108,336,97,248,83,165,74"/>
+<area shape="rect" id="Node000008" href="$structlczero_1_1dx__backend_1_1DXAlloc.html" title=" " alt="" coords="5,141,152,181"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="166,169,250,177,349,181,455,180,561,169,613,157,665,142,753,109,755,114,667,147,615,163,562,174,456,185,349,187,249,182,166,175"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="166,151,336,135,387,130,387,135,336,141,166,156"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="lczero::dag_classic::Search::GetDrawScore" name="lczero::dag_classic::Search::GetDrawScore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,180,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a5993c7624e8135cf859119eb64ef4f33" title=" " alt="" coords="228,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,43,214,38,215,43,181,48"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PositionHistory.html#a44924455ccd62f0f2f2798dd403ba4f5" title=" " alt="" coords="243,69,411,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,67,229,73,229,79,180,72"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Position.html#a5e2e3b2b5af8379638b300a5872ae499" title=" " alt="" coords="473,37,649,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,75,459,69,460,74,411,81"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title=" " alt="" coords="477,101,645,141"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="411,98,464,105,463,111,411,103"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ChessBoard.html#a712259c26bc9c44dbff0ab563a851c01" title=" " alt="" coords="697,37,844,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="650,55,683,55,683,60,650,60"/>
+</map>

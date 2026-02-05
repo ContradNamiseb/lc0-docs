@@ -1,0 +1,11 @@
+<map id="lczero::dag_classic::Edge::SetP" name="lczero::dag_classic::Edge::SetP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,41,812,81"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a86c20cf5a2527058a837cc7f1b900592" title=" " alt="" coords="476,41,620,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="654,64,620,64,620,59,654,59"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a0726f814d7d4ad7f52cd41be76699a3c" title=" " alt="" coords="265,41,428,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,64,428,64,428,59,462,59"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title=" " alt="" coords="8,5,215,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,49,215,44,215,39,252,44"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title=" " alt="" coords="5,70,217,125"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,78,218,84,217,78,251,73"/>
+</map>

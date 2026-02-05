@@ -1,0 +1,36 @@
+<map id="lczero::ReverseBitsInBytes" name="lczero::ReverseBitsInBytes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="772,301,968,326"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1V6TrainingDataArray.html#accd1d568f16af88f0dd196301160b0ba" title=" " alt="" coords="215,13,449,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="841,294,775,245,681,180,568,111,509,80,448,53,409,41,411,36,450,48,511,75,571,107,684,175,778,241,844,290"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#adc8388e0d38bd2817f36c192fd556b59" title=" " alt="" coords="507,301,715,326"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="758,316,715,316,715,311,758,311"/>
+<area shape="rect" id="Node000017" href="$namespacelczero.html#a63654f3d43e7734894cbab1499be0932" title=" " alt="" coords="497,350,724,375"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="790,331,679,353,678,347,789,326"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SelfPlayGame.html#a2b64eaf61bca86d88a08315e8c16b6f1" title=" " alt="" coords="5,5,167,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,28,167,28,167,23,201,23"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="589,291,544,229,495,152,482,122,476,97,467,75,448,53,427,40,429,36,451,49,472,72,481,95,487,121,500,149,549,226,593,288"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1python_1_1GameState.html#a2f43cc96d220e49b8bf2d73a9a816d3b" title=" " alt="" coords="235,63,429,103"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="594,290,571,251,538,204,496,157,448,117,426,105,428,100,451,112,500,153,542,201,575,248,598,287"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a243aa1e7137173a0fc29a2b084d00c2b" title=" " alt="" coords="228,127,436,153"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="589,292,531,228,492,194,448,166,420,155,422,150,451,162,495,190,535,224,593,288"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#aff6561464d18820b20dba62fdd450a5a" title=" " alt="" coords="281,177,383,202"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="581,294,522,254,448,216,415,205,382,198,384,193,417,200,450,211,524,249,584,290"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#afb2423399f5243fcea97bfd5c3662bd0" title=" " alt="" coords="281,226,383,251"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="559,299,449,265,382,250,383,245,450,260,561,294"/>
+<area shape="rect" id="Node000009" href="$namespacelczero.html#a75b6b8bd08fec105aa62d69a0303f506" title=" " alt="" coords="281,275,383,301"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="493,305,383,295,383,290,493,300"/>
+<area shape="rect" id="Node000010" href="$namespacelczero.html#a66d8896dc65ad8461f529a521c03670e" title=" " alt="" coords="281,325,383,350"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="493,326,383,336,383,330,493,321"/>
+<area shape="rect" id="Node000011" href="$namespacelczero.html#a5d778917d351e4ba8506cbfaaf40687f" title=" " alt="" coords="281,374,383,399"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="524,332,498,340,475,352,450,364,384,381,383,376,448,359,472,347,496,335,523,327"/>
+<area shape="rect" id="Node000012" href="$namespacelczero.html#ab33c4e94ff64d3c8d9ebfc5590bfe86b" title=" " alt="" coords="281,423,383,449"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="508,334,499,339,483,356,476,375,468,394,451,413,418,428,384,436,382,431,416,423,448,409,464,392,471,373,479,354,496,335,505,330"/>
+<area shape="rect" id="Node000013" href="$namespacelczero.html#a938e706b2a75ce0420d48d9013f8e3fe" title=" " alt="" coords="281,473,383,498"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="505,335,499,339,487,353,480,368,476,399,472,431,465,447,451,462,419,480,384,487,383,482,417,475,448,458,460,444,467,429,471,398,475,366,482,350,496,335,501,331"/>
+<area shape="rect" id="Node000014" href="$namespacelczero.html#a8ca5854876e294ac4669a7b66a45c754" title=" " alt="" coords="281,522,383,547"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="504,335,499,339,483,359,476,380,476,423,476,468,468,490,451,511,436,522,419,530,383,538,382,532,417,525,433,518,447,507,463,487,470,467,471,423,471,379,479,357,495,335,500,331"/>
+<area shape="rect" id="Node000015" href="$namespacelczero.html#ae0ad1e7ec0b8d65b5d9e92ce425af187" title=" " alt="" coords="281,571,383,597"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="503,336,499,339,480,366,472,392,472,420,476,448,480,476,479,504,471,533,451,561,436,572,419,580,384,587,383,582,418,575,434,567,447,557,466,530,474,504,474,476,471,448,467,420,467,392,475,363,495,336,499,332"/>
+<area shape="rect" id="Node000016" href="$namespacelczero.html#a9501b7edb40ccbe27f5397028ab77fb7" title=" " alt="" coords="281,621,383,646"/>
+<area shape="poly" id="edge16_Node000004_Node000016" title=" " alt="" coords="503,336,499,339,477,372,469,405,470,438,476,472,482,507,483,541,475,576,451,610,436,622,419,630,383,637,382,632,418,625,434,617,447,606,470,574,478,541,477,507,471,473,465,439,463,404,472,369,495,336,499,332"/>
+</map>

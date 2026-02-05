@@ -1,0 +1,33 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/utils/logging.cc" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/utils/logging.cc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="581,5,785,60"/>
+<area shape="rect" id="Node000002" href="$logging_8h.html" title=" " alt="" coords="307,108,421,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,63,420,107,419,102,585,57"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="596,181,671,207"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="677,61,644,169,638,167,672,59"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="725,255,789,280"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="694,59,752,240,747,242,689,61"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="745,108,825,133"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="716,58,763,97,759,101,712,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,72,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,136,86,184,85,179,307,131"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,181,159,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="327,136,173,182,172,177,325,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="183,181,257,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,136,257,177,255,173,340,131"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,131,583,177,582,182,407,136"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="281,181,356,207"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="359,135,336,171,331,168,354,132"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="380,181,439,207"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="374,132,397,168,392,171,369,135"/>
+<area shape="rect" id="Node000009" href="$mutex_8h.html" title=" " alt="" coords="463,181,571,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="390,131,481,173,479,178,388,136"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="232,255,299,280"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="478,209,313,255,311,250,476,204"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="323,255,387,280"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="492,209,395,251,393,247,490,204"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="411,255,525,280"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="511,209,486,245,482,242,507,205"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="557,204,713,250,711,255,555,209"/>
+<area shape="rect" id="Node000014" href="$cppattributes_8h.html" title=" " alt="" coords="549,255,701,280"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="536,204,598,245,595,249,533,209"/>
+</map>

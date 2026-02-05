@@ -1,0 +1,10 @@
+<map id="lczero::BoolOption::SetVal" name="lczero::BoolOption::SetVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,147,87"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsParser_1_1Option.html#a5915eebce7cbd0e89b48578be2a3fe86" title=" " alt="" coords="203,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,50,188,41,190,47,147,55"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a8370a21d459f809e88026b71bb38a8ec" title=" " alt="" coords="195,94,369,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,78,203,89,202,94,146,83"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="248,96,241,86,245,76,259,70,282,67,311,71,322,80,319,84,308,76,282,73,260,75,249,79,246,85,252,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1TypeDict.html#a6ceb32d98d11e95dae97cdf757ee9e38" title=" " alt="" coords="417,94,636,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,104,404,104,404,109,369,109"/>
+</map>

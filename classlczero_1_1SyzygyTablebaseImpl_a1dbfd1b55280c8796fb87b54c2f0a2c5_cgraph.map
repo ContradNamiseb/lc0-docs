@@ -1,0 +1,29 @@
+<map id="lczero::SyzygyTablebaseImpl::probe_dtm_table" name="lczero::SyzygyTablebaseImpl::probe_dtm_table">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,159,216,199"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1SyzygyTablebaseImpl.html#a5c4b65021af58ecbc4b24d8b8ba0e6ee" title=" " alt="" coords="264,159,475,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,177,251,177,251,182,216,182"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1ChessBoard.html#a712259c26bc9c44dbff0ab563a851c01" title=" " alt="" coords="555,31,701,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,157,452,119,522,81,540,73,542,78,524,86,455,124,399,162"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1SyzygyTablebaseImpl.html#af4c864016f6949e391e57b1a8dcd60ae" title=" " alt="" coords="523,95,733,135"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="450,157,533,136,534,141,452,162"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1ChessBoard.html#a45bae22afa3ecc26233763bbdc577cec" title=" " alt="" coords="555,159,701,199"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="475,177,541,177,541,182,475,182"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1ChessBoard.html#ac74c92c22299c3332550032e114c5ed4" title=" " alt="" coords="555,223,701,263"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="452,197,542,219,541,225,450,202"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1ChessBoard.html#a2421e797e3a4c248a43685a70dad19fa" title=" " alt="" coords="555,287,701,327"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="399,197,455,235,524,273,542,281,540,285,522,278,452,240,396,202"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1SyzygyTablebaseImpl.html#a87593769d0eacdb8ebfc5b384fa99534" title=" " alt="" coords="781,35,992,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,93,786,76,787,81,716,98"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1SyzygyTablebaseImpl.html#acbf92e5a8714abe25682c977c94f2bcb" title=" " alt="" coords="781,99,992,139"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="733,114,768,115,768,120,733,120"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#ae28158dab5eaeb44bf1097a11820843a" title=" " alt="" coords="1074,5,1217,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="992,38,1060,28,1061,33,993,43"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1SyzygyTablebaseImpl.html#abbbbd3c8384b019a8f6ff92e0774e04b" title=" " alt="" coords="1040,55,1251,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="992,61,1027,63,1026,69,992,66"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1BitBoard.html#afdcbdf9e0887c6950ab163297429440b" title=" " alt="" coords="781,167,992,192"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="702,177,767,177,767,182,702,182"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="1063,139,1227,164"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="992,165,1049,159,1050,164,992,171"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1BitBoard.html#afe60aa18a0c9ad80bc121071c633d544" title=" " alt="" coords="1051,188,1240,213"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="992,185,1037,189,1037,194,992,191"/>
+</map>

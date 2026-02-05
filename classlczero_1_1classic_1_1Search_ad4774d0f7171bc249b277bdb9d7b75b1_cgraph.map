@@ -1,0 +1,9 @@
+<map id="lczero::classic::Search::StartThreads" name="lczero::classic::Search::StartThreads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,171,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchWorker.html#a0c800dadc41ab8309de8a781759d4e13" title=" " alt="" coords="219,37,429,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,55,205,55,205,60,171,60"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1SearchWorker.html#a1af2ab4563dda62acbea233b8a13660f" title=" " alt="" coords="477,5,688,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,42,464,37,464,43,430,47"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a29b51136280997b3a5b9912c324464c8" title=" " alt="" coords="500,69,665,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="430,68,487,75,486,80,429,73"/>
+</map>

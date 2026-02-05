@@ -1,0 +1,11 @@
+<map id="lczero::cudnn_backend::addBiasBatched" name="lczero::cudnn_backend::addBiasBatched">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,101,421,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1EncoderBlock.html#a21576713fff9f4f78d7c42f0495b1e5e" title=" " alt="" coords="20,5,189,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,97,203,60,171,48,173,43,205,55,286,93"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1AttentionPolicyHead.html#ac056531cd4119b13f729bb5a0c43ae4c" title=" " alt="" coords="5,69,204,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,110,204,106,205,100,239,105"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1cudnn__backend_1_1EmbeddingLayer.html#a3a786be92b46ef0726a8a1af0f875ac8" title=" " alt="" coords="17,133,192,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,137,192,144,192,139,238,132"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1cudnn__backend_1_1AttentionBody.html#ad955c8c15f55bd1ebe80f148ef08285b" title=" " alt="" coords="20,197,189,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="286,150,205,188,173,200,171,195,203,183,284,145"/>
+</map>

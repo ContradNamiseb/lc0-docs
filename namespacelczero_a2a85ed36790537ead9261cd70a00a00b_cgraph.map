@@ -1,0 +1,9 @@
+<map id="lczero::TEST" name="lczero::TEST">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,107,102"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1SyzygyTablebase.html#a6e3541146eba2873c5a35fe580db3122" title=" " alt="" coords="181,5,363,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,74,154,55,182,47,183,52,155,60,95,79"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SyzygyTablebase.html#ade7b03218332cbad754ff6816df6335c" title=" " alt="" coords="181,69,363,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,87,167,87,167,92,107,92"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a122b3962f89790b4442668cb2ea3f38f" title=" " alt="" coords="155,134,389,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,100,155,119,194,128,193,134,154,124,92,105"/>
+</map>

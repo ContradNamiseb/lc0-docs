@@ -1,0 +1,15 @@
+<map id="lczero::SelfPlayLoop::SelfPlayLoop" name="lczero::SelfPlayLoop::SelfPlayLoop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,159,81"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1StringUciResponder.html#af87fa67e0e33e5f41c7a047e73132f59" title=" " alt="" coords="207,41,404,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,59,193,59,193,64,159,64"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsParser.html#a556cd5dd6367f9c911500f769b1d69a1" title=" " alt="" coords="452,17,644,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,46,438,41,439,46,405,51"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1OptionsParser.html#ac2abdd7ac449125378417d7be01bcd07" title=" " alt="" coords="469,69,627,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="405,70,455,76,455,81,404,75"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsDict.html#a27d9a6a6f7e17651274dfb73d9211477" title=" " alt="" coords="692,5,837,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,25,678,24,678,30,644,30"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1OptionsDict.html#a9f7fd2d3cde25b44c7056753d9938a38" title=" " alt="" coords="692,69,837,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="628,87,678,87,678,92,628,92"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#abf578d6f4b0fe30b86c63e2898f98b80" title=" " alt="" coords="707,134,823,159"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="625,107,703,128,702,133,623,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lczero::FP32toBF16" name="lczero::FP32toBF16">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,63,413,88"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1onnx.html#a1fc0eb81dc0aad3177ad2444d64cb404" title=" " alt="" coords="19,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,62,218,46,167,33,168,28,219,41,280,57"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1XlaMutableTensor.html#ad15a6ca960490ca67aad5ea2501b024a" title=" " alt="" coords="19,55,205,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,78,205,78,205,73,253,73"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1BFloat16OnnxWeightsAdapter.html#a3c9b62da9257a4c89bfee82681f6bb5c" title=" " alt="" coords="5,119,219,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,94,185,122,183,117,280,89"/>
+</map>

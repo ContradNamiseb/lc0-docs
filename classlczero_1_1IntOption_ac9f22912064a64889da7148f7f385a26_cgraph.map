@@ -1,0 +1,10 @@
+<map id="lczero::IntOption::GetOptionString" name="lczero::IntOption::GetOptionString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,143,91"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1IntOption.html#aaf89e17cea4b146e9b7150391a772b87" title=" " alt="" coords="191,51,328,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,69,177,69,177,74,143,74"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="376,29,552,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,59,362,54,363,59,329,64"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsParser_1_1Option.html#a5915eebce7cbd0e89b48578be2a3fe86" title=" " alt="" coords="385,79,543,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="329,78,371,84,371,89,328,83"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="431,31,424,21,427,11,441,5,464,3,492,6,504,16,500,20,490,11,464,8,442,10,431,15,429,20,435,28"/>
+</map>

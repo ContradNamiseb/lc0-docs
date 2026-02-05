@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['readw1_0',['readw1',['../winograd__helper_8h.html#a69abcc9c4afb88a1311da8be6479d2d0',1,'winograd_helper.h']]],
+  ['readw2_1',['readw2',['../winograd__helper_8h.html#a6135abe760a6842fcc76e6254dd1b3a9',1,'winograd_helper.h']]],
+  ['register_5fbackend_2',['REGISTER_BACKEND',['../neural_2register_8h.html#a5ab7d82cd42a76768d026a374eb1900c',1,'register.h']]],
+  ['register_5fnetwork_3',['REGISTER_NETWORK',['../neural_2factory_8h.html#af219bf322aa35924d378cd40e2c314de',1,'factory.h']]],
+  ['register_5fnetwork_5fwith_5fcounter_4',['REGISTER_NETWORK_WITH_COUNTER',['../neural_2factory_8h.html#a981a7955bd541949fb400296f13210c4',1,'factory.h']]],
+  ['register_5fnetwork_5fwith_5fcounter2_5',['REGISTER_NETWORK_WITH_COUNTER2',['../neural_2factory_8h.html#a502a65e86c380b27d5d1fe09d449ad5f',1,'factory.h']]],
+  ['register_5fsearch_6',['REGISTER_SEARCH',['../search_2register_8h.html#a55397e88b0c7ac408c58e35c1758fbd8',1,'register.h']]],
+  ['release_7',['RELEASE',['../cppattributes_8h.html#a59a3415d4063936405dfca342973c2ea',1,'cppattributes.h']]],
+  ['release_5fshared_8',['RELEASE_SHARED',['../cppattributes_8h.html#a7aadf538f5e00720d3d0aaed62d0e9ab',1,'cppattributes.h']]],
+  ['reportcublaserrors_9',['ReportCUBLASErrors',['../cuda__common_8h.html#a7df6734b37d817be68002a816e49a5d1',1,'cuda_common.h']]],
+  ['reportcudaerrors_10',['reportcudaerrors',['../cuda__common_8h.html#ab0dc7d3b054b17644e2012df7c89a87c',1,'ReportCUDAErrors:&#160;cuda_common.h'],['../onnx__kernels_8h.html#ab0dc7d3b054b17644e2012df7c89a87c',1,'ReportCUDAErrors:&#160;onnx_kernels.h']]],
+  ['reportcudnnerrors_11',['ReportCUDNNErrors',['../cuda__common_8h.html#a545c2047e2a98d3b0a1dfe16c5a38f09',1,'cuda_common.h']]],
+  ['reportdxerrors_12',['ReportDxErrors',['../dx__common_8h.html#abe059b26b0fcb4a4d85b01fc9712e624',1,'dx_common.h']]],
+  ['requires_13',['REQUIRES',['../cppattributes_8h.html#a96848b74000220f6531e6f7ba197a296',1,'cppattributes.h']]],
+  ['requires_5fshared_14',['REQUIRES_SHARED',['../cppattributes_8h.html#ad8125cc8b9da0da1fc586ca0004d19da',1,'cppattributes.h']]],
+  ['return_5fcapability_15',['RETURN_CAPABILITY',['../cppattributes_8h.html#aa96911138a435675f82f670951e7ffce',1,'cppattributes.h']]]
+];

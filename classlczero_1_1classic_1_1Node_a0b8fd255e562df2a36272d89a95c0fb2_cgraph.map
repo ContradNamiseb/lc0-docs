@@ -1,0 +1,14 @@
+<map id="lczero::classic::Node::MakeTerminal" name="lczero::classic::Node::MakeTerminal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,160,139"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#ade3c2c7bc7bb0ac69860dc9ac989018c" title=" " alt="" coords="208,12,363,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,96,224,55,226,60,131,101"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Node.html#aaa2c61ee16fec921c7fdecf50162a4a9" title=" " alt="" coords="411,69,565,109"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="160,110,397,93,397,99,160,116"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Node.html#a0f7af240cf0e331e68a1cdcee8cb3397" title=" " alt="" coords="208,127,363,167"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="161,127,195,131,194,137,160,132"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Edge.html#ab4e66f5a2466905b5cfad6ad725c9723" title=" " alt="" coords="209,191,362,231"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="126,137,209,176,224,183,222,188,207,181,123,141"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#ab0190b6dc2b84eda2fff2a4190a8c824" title=" " alt="" coords="411,5,565,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,27,396,26,397,31,363,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,49,404,63,403,68,356,55"/>
+</map>

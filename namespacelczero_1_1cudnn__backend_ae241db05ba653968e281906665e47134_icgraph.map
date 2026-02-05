@@ -1,0 +1,7 @@
+<map id="lczero::cudnn_backend::globalAvgPool" name="lczero::cudnn_backend::globalAvgPool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,37,392,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1SELayer.html#a3c5714f4bdb6d1be72f85939806f13dc" title=" " alt="" coords="5,5,175,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,46,174,40,175,35,209,40"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1SELayer.html#afa95d7dc9b2d267743ce0e91dfff3902" title=" " alt="" coords="5,69,175,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,74,175,80,174,74,209,69"/>
+</map>

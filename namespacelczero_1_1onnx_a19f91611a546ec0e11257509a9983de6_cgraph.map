@@ -1,0 +1,17 @@
+<map id="lczero::onnx::MakeOnnxNetwork" name="lczero::onnx::MakeOnnxNetwork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,192,239,217"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#a560bea839f12efcf911389d94b5698d5" title=" " alt="" coords="293,29,513,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,190,193,129,237,94,285,65,306,56,308,61,288,70,240,99,197,133,136,194"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a7a5cef61f5c4aa5cba99b314e0ba05ac" title=" " alt="" coords="331,103,476,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="164,189,286,153,317,144,318,149,287,158,165,194"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="315,192,491,217"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="239,202,301,202,301,207,239,207"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="331,266,476,306"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="168,215,321,260,319,265,166,220"/>
+<area shape="rect" id="Node000006" href="$structlczero_1_1WeightsToOnnxConverterOptions.html#a491460a19ba430ac7280a00f760622fd" title=" " alt="" coords="287,330,520,370"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="140,215,202,264,243,291,288,316,305,323,303,328,286,320,241,296,199,268,136,220"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="358,31,348,21,354,11,372,5,403,3,444,7,455,12,458,18,453,21,451,16,443,12,403,8,373,10,357,15,354,20,362,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="352,104,348,94,357,84,375,79,403,77,436,79,453,87,451,92,434,85,403,82,376,84,360,89,354,95,357,102"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="358,194,348,184,354,174,372,167,403,165,444,170,455,175,458,181,453,183,451,179,443,175,403,171,373,173,357,178,354,183,362,190"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="352,267,348,256,357,247,375,241,403,239,436,242,453,249,451,254,434,247,403,245,376,247,360,252,354,257,357,265"/>
+</map>

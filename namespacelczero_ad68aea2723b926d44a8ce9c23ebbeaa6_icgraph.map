@@ -1,0 +1,14 @@
+<map id="lczero::ShowNetworkWeightsPolicyInfo" name="lczero::ShowNetworkWeightsPolicyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="900,22,1111,62"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#a75dd09ddcf6e4e823c5b7cbf76d56395" title=" " alt="" coords="616,29,852,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="886,45,852,45,852,39,886,39"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#a2fc1ee012ea1093d34cbbd1ebe6e1b67" title=" " alt="" coords="112,5,315,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,39,315,25,315,20,602,33"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a6a743a096dcae728f2659323db0e5a0a" title=" " alt="" coords="367,55,568,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="603,57,568,60,568,55,602,52"/>
+<area shape="rect" id="Node000004" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,35,60,42,60,37,109,30"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#ad30a300835aebdd20ccfdf663d2d81b7" title=" " alt="" coords="108,55,319,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="353,70,319,70,319,65,353,65"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="104,55,60,50,61,44,105,50"/>
+</map>

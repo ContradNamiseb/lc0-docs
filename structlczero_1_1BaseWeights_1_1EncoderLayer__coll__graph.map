@@ -1,0 +1,9 @@
+<map id="lczero::BaseWeights::EncoderLayer" name="lczero::BaseWeights::EncoderLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,196,338,236"/>
+<area shape="rect" id="Node000002" href="$structlczero_1_1BaseWeights_1_1MHA.html" title=" " alt="" coords="5,108,197,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,138,230,194,227,198,131,142"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1BaseWeights_1_1Smolgen.html" title=" " alt="" coords="25,5,178,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,59,104,108,99,108,99,59"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1BaseWeights_1_1FFN.html" title=" " alt="" coords="221,108,408,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,146,274,197,270,194,299,144"/>
+</map>

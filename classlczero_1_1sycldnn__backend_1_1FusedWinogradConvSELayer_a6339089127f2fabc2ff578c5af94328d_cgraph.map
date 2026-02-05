@@ -1,0 +1,16 @@
+<map id="lczero::sycldnn_backend::FusedWinogradConvSELayer::LoadWeights" name="lczero::sycldnn_backend::FusedWinogradConvSELayer::LoadWeights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,62,220,117"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#af39d2717c379e537912c31a25f99e492" title=" " alt="" coords="268,37,448,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,73,254,68,255,73,220,78"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1sycldnn__backend.html#a849f7946905a580d47a1c46b1fd4a403" title=" " alt="" coords="268,101,448,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="220,101,255,105,254,111,220,106"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a726581493bfb4d1a5ce0e3c88bdeedb4" title=" " alt="" coords="496,5,701,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,43,482,38,483,43,449,48"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="509,69,689,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="449,67,495,73,495,78,448,72"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="448,107,495,100,495,106,449,112"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a3c9c568c3a1e8f20a2e6aec31e339aca" title=" " alt="" coords="509,133,689,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="449,131,495,137,495,142,448,136"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#abb571037f42d6499226e7af5784ed104" title=" " alt="" coords="749,133,929,173"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="689,151,736,151,736,156,689,156"/>
+</map>

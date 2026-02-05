@@ -1,0 +1,17 @@
+<map id="lczero::DiscoverWeightsFile" name="lczero::DiscoverWeightsFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,207,170"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1CommandLine.html#a39d8158fe46dd09949398fc4a9922cfd" title=" " alt="" coords="301,5,463,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,143,177,100,214,76,254,55,287,42,289,47,256,60,217,80,180,104,124,147"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#a019bbee2f6d695bdf8ba424746afdaf4" title=" " alt="" coords="313,70,451,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,142,254,104,298,94,299,99,255,109,141,147"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#ae28158dab5eaeb44bf1097a11820843a" title=" " alt="" coords="311,119,453,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,145,297,137,297,142,207,151"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a5358a19b3751b51ae92dbf37b74d135c" title=" " alt="" coords="308,169,456,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="207,163,295,171,294,176,207,169"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a6c809301f4c10521a6f55fa52c2ebb6c" title=" " alt="" coords="255,218,509,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="144,168,255,203,297,213,296,218,254,208,142,173"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#a0a756b8cd7266ed0854b0c7003e6e77f" title=" " alt="" coords="275,267,489,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="124,168,180,210,217,233,256,252,282,261,280,266,254,257,214,238,177,214,121,172"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#abf578d6f4b0fe30b86c63e2898f98b80" title=" " alt="" coords="557,218,673,243"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="509,228,544,228,544,233,509,233"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/onnx/adapters.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/onnx/adapters.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,5,389,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,196,116,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,61,141,85,113,103,88,124,72,152,65,183,60,182,67,151,84,121,110,98,139,80,201,56"/>
+<area shape="rect" id="Node000003" href="$builder_8h.html" title=" " alt="" coords="99,123,257,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,77,205,116,202,112,251,73"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="224,196,348,221"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="296,75,290,183,285,182,291,75"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="372,196,485,221"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="324,73,413,183,409,187,320,77"/>
+<area shape="rect" id="Node000007" href="$weights__adapter_8h.html" title=" " alt="" coords="457,123,630,148"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="386,72,501,115,499,120,384,77"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="161,150,93,191,90,186,158,146"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="141,196,199,221"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="179,149,175,183,170,182,174,148"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="197,146,258,186,255,191,194,150"/>
+<area shape="poly" id="edge12_Node000007_Node000006" title=" " alt="" coords="526,150,460,191,458,186,524,146"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="510,196,577,221"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="546,148,546,182,541,182,541,148"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="601,196,672,221"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="560,146,612,185,609,190,557,150"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="696,196,759,221"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="574,146,685,188,683,193,572,151"/>
+</map>

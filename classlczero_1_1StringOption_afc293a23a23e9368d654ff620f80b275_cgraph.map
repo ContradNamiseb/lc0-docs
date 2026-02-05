@@ -1,0 +1,16 @@
+<map id="lczero::StringOption::ProcessShortFlagWithValue" name="lczero::StringOption::ProcessShortFlagWithValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,213,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsParser_1_1Option.html#a0a17b9ac6e3a9eb0b0fc0cedca41bedb" title=" " alt="" coords="261,5,428,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,41,247,36,248,41,214,46"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1StringOption.html#ad2a79a3dbcb13332619d579c6557c570" title=" " alt="" coords="269,69,420,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,69,256,75,255,80,213,74"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionId.html#a75e84b276002494cdc33c4ea229a2a65" title=" " alt="" coords="476,13,672,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,23,462,23,462,28,428,28"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1OptionsParser_1_1Option.html#a5915eebce7cbd0e89b48578be2a3fe86" title=" " alt="" coords="495,65,653,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,85,481,84,481,90,420,91"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1OptionsDict.html#a8370a21d459f809e88026b71bb38a8ec" title=" " alt="" coords="487,154,661,179"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="406,107,523,147,522,152,404,112"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="537,156,529,146,533,136,548,130,574,127,606,131,619,141,615,145,604,136,574,133,549,135,536,140,534,145,541,152"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1TypeDict.html#a6ceb32d98d11e95dae97cdf757ee9e38" title=" " alt="" coords="720,154,939,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="662,164,706,164,706,169,662,169"/>
+</map>

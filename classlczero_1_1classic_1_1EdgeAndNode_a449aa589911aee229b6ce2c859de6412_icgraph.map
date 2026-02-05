@@ -1,0 +1,15 @@
+<map id="lczero::classic::EdgeAndNode::GetMove" name="lczero::classic::EdgeAndNode::GetMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="477,133,656,173"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title=" " alt="" coords="233,69,415,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,132,400,112,401,107,478,127"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#ad39fbc8e102a32e91bb7c8717f9ce706" title=" " alt="" coords="241,133,407,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="464,156,407,156,407,151,464,151"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1SearchWorker.html#aea5d0a505a34001098b2514f1ce1b41d" title=" " alt="" coords="219,197,429,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="478,179,401,200,400,195,476,174"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title=" " alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,68,162,48,163,43,237,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title=" " alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,92,171,92,171,87,219,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title=" " alt="" coords="5,133,171,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="237,116,163,136,162,131,236,110"/>
+</map>

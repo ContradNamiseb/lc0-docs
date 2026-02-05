@@ -1,0 +1,9 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/xla/print_hlo.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/xla/print_hlo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="216,5,403,75"/>
+<area shape="rect" id="Node000002" href="$onnx2hlo_8cc.html" title=" " alt="" coords="5,123,192,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,84,162,125,159,120,235,79"/>
+<area shape="rect" id="Node000003" href="$print__hlo_8cc.html" title=" " alt="" coords="216,123,403,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,89,312,122,307,122,307,89"/>
+<area shape="rect" id="Node000004" href="$leela2onnx_8cc.html" title=" " alt="" coords="427,130,659,185"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="391,78,491,128,489,132,388,83"/>
+</map>

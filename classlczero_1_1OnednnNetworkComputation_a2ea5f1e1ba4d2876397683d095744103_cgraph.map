@@ -1,0 +1,7 @@
+<map id="lczero::OnednnNetworkComputation::ComputeBlocking" name="lczero::OnednnNetworkComputation::ComputeBlocking">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,264,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OnednnNetwork.html#a39a7a78c578dd6978bdd88fcc25e6806" title=" " alt="" coords="354,5,529,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,41,340,33,341,38,264,47"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OnednnNetworkComputation.html#a9898705ed8679dd2fb2088eaa5d76905" title=" " alt="" coords="312,69,571,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,68,299,72,298,77,264,73"/>
+</map>

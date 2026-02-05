@@ -1,0 +1,7 @@
+<map id="lczero::sycldnn_backend::cublasXgemm" name="lczero::sycldnn_backend::cublasXgemm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,37,413,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1EncoderBlock.html#a42ad3897c3816cdb19ba0f1987376f93" title=" " alt="" coords="5,5,185,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,45,185,41,186,35,220,40"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a0a79b09ffc9d265741c115ca8e4c0ab0" title=" " alt="" coords="5,69,185,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,75,186,79,185,74,219,69"/>
+</map>

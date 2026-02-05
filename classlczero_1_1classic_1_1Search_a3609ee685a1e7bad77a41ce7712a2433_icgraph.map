@@ -1,0 +1,18 @@
+<map id="lczero::classic::Search::GetDrawScore" name="lczero::classic::Search::GetDrawScore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,63,881,103"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#af237e12d90502e1a1541b479ae67761c" title=" " alt="" coords="432,5,668,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,63,637,48,638,43,703,58"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a34ea0b979efa5b2e1f006168452536d3" title=" " alt="" coords="219,56,384,96"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="702,84,384,80,384,74,702,79"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title=" " alt="" coords="467,120,633,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="703,107,633,124,632,118,702,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,51,385,62,384,57,438,45"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title=" " alt="" coords="5,56,171,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,79,171,79,171,73,205,73"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title=" " alt="" coords="5,120,171,160"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,103,156,123,154,117,220,98"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title=" " alt="" coords="219,120,384,160"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="454,143,384,143,384,137,454,137"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="220,118,154,99,156,93,221,113"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="205,143,171,143,171,137,205,137"/>
+</map>

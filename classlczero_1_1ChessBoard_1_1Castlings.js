@@ -1,0 +1,27 @@
+var classlczero_1_1ChessBoard_1_1Castlings =
+[
+    [ "Castlings", "classlczero_1_1ChessBoard_1_1Castlings.html#a97bcf034eaae7d75ad4fe7f0c994af8a", null ],
+    [ "as_int", "classlczero_1_1ChessBoard_1_1Castlings.html#a96cf15e5594ce9796700643bde7e2878", null ],
+    [ "as_string", "classlczero_1_1ChessBoard_1_1Castlings.html#a57317e4a3d49ad7e5a46641f2b35fbdd", null ],
+    [ "DebugString", "classlczero_1_1ChessBoard_1_1Castlings.html#a5094de5e4b703bfbb098b5b8c3d987d8", null ],
+    [ "Mirror", "classlczero_1_1ChessBoard_1_1Castlings.html#a5a7fc935a660287d3b76c1137fbce98e", null ],
+    [ "no_legal_castle", "classlczero_1_1ChessBoard_1_1Castlings.html#ad1227f86d5819bf2f5f1c5278e7b962c", null ],
+    [ "operator==", "classlczero_1_1ChessBoard_1_1Castlings.html#a8d98988cd22b47e22aef0b460696541e", null ],
+    [ "reset_they_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#adcde95a0c7f868073369cfd4c062f7fc", null ],
+    [ "reset_they_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#aece3daeb188fdab98565252cc7681721", null ],
+    [ "reset_we_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#a063e7eaeb8e09e792560a0bfdfe74e05", null ],
+    [ "reset_we_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#a85d49d6f76b28ff23c8b41624a841a78", null ],
+    [ "set_they_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#a747bebf8728dd8e2f39a28f842dc6ac4", null ],
+    [ "set_they_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#a41f95c60973a3c73695e92cd04437285", null ],
+    [ "set_we_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#a32dbd73e8129164c13705e6742f34722", null ],
+    [ "set_we_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#adb0b639d544320169f162a3a62c426bb", null ],
+    [ "they_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#ac0d6f9e8cd036cbc4844faa14f05697b", null ],
+    [ "they_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#a2d1e98d20faa1c9c9478e82395a17356", null ],
+    [ "we_can_00", "classlczero_1_1ChessBoard_1_1Castlings.html#a09a5166ab6c7c3ecdb6427ac31e4911b", null ],
+    [ "we_can_000", "classlczero_1_1ChessBoard_1_1Castlings.html#af05cd4e30bfcb9d02eeaff8a2509e262", null ],
+    [ "data_", "classlczero_1_1ChessBoard_1_1Castlings.html#a4d703a42c306a2da9a600695bd54b943", null ],
+    [ "our_kingside_rook", "classlczero_1_1ChessBoard_1_1Castlings.html#a36d5ef6b4187636c58790166511ed7cc", null ],
+    [ "our_queenside_rook", "classlczero_1_1ChessBoard_1_1Castlings.html#a5e65efdefea109c2b313a2068e8d28b1", null ],
+    [ "their_kingside_rook", "classlczero_1_1ChessBoard_1_1Castlings.html#a83e6b5a221d87d78bd04fb8f7713e2a8", null ],
+    [ "their_queenside_rook", "classlczero_1_1ChessBoard_1_1Castlings.html#ac7afa6bf3f54171cb2404b6870e6d079", null ]
+];

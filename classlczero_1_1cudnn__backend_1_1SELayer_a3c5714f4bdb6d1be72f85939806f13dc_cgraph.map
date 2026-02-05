@@ -1,0 +1,9 @@
+<map id="lczero::cudnn_backend::SELayer::Eval" name="lczero::cudnn_backend::SELayer::Eval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,175,109"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#a07a76f73142df89ff3ca2625fb5e9b08" title=" " alt="" coords="223,5,392,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,67,225,47,227,52,159,72"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#ae241db05ba653968e281906665e47134" title=" " alt="" coords="223,69,392,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,87,209,87,209,92,175,92"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1cudnn__backend.html#a261a1ced5b06214186df4b6c9d45b455" title=" " alt="" coords="223,133,392,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,107,227,127,225,132,158,112"/>
+</map>

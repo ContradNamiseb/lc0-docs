@@ -1,0 +1,23 @@
+<map id="lczero::classic::SearchParams" name="lczero::classic::SearchParams">
+<area shape="rect" id="Node000001" title=" " alt="" coords="911,101,1124,126"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1BaseSearchParams.html" title=" " alt="" coords="664,207,861,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,199,987,124,989,129,822,203"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionId.html" title=" " alt="" coords="295,79,419,105"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="393,71,435,53,483,39,555,30,628,29,700,34,770,44,893,71,981,98,980,103,892,77,769,49,700,39,628,34,555,35,485,44,437,58,395,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,112,462,177,473,190,485,200,516,209,561,216,664,223,664,228,560,221,515,215,483,205,469,194,458,181,383,116"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsDict.html" title=" " alt="" coords="284,230,429,255"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="443,246,538,249,640,245,663,243,664,248,640,251,538,254,443,252"/>
+<area shape="poly" id="edge9_Node000004_Node000004" title=" " alt="" coords="331,215,339,207,357,203,372,206,381,212,383,222,379,231,374,229,378,221,376,215,370,211,357,209,342,211,335,219"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,131,196,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,158,205,166,277,197,335,228,332,232,275,202,203,170,179,163"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="5,181,204,206"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="184,206,291,227,290,233,183,211"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="19,230,191,255"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="204,240,284,240,284,245,204,245"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="25,280,185,320"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="198,276,300,253,301,258,199,281"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,345,197,370"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="190,337,202,330,218,315,226,299,235,282,252,266,283,252,285,256,255,270,239,285,231,301,222,318,206,334,192,342"/>
+<area shape="rect" id="Node000010" href="$structlczero_1_1classic_1_1BaseSearchParams_1_1WDLRescaleParams.html" title=" " alt="" coords="253,280,460,320"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="473,293,556,284,639,269,715,244,717,249,641,275,556,290,474,298"/>
+</map>

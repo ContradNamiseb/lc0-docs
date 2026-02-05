@@ -1,0 +1,28 @@
+var sycl_2kernels_8h =
+[
+    [ "addBias_NCHW", "sycl_2kernels_8h.html#a8dbde1e661e0c0eb15ae7f929f23a643", null ],
+    [ "addBiasBatched", "sycl_2kernels_8h.html#a60390a5ea8a7691f64f749f4a20e5ef9", null ],
+    [ "addBiasBatched", "sycl_2kernels_8h.html#a3b00fdba38007b79f9a8e1f6f8ba9ee4", null ],
+    [ "addVectors", "sycl_2kernels_8h.html#a746c81b6a9fd4801debafed827ac6c78", null ],
+    [ "addVectorsHNC_NHC", "sycl_2kernels_8h.html#aad85329a85a79bda25546d326a9f68bc", null ],
+    [ "applyInputGating", "sycl_2kernels_8h.html#a4a68c68bbd98291f1d53d868d7eed6ec", null ],
+    [ "batchNorm", "sycl_2kernels_8h.html#a48afc7e50cd5080ad01f6803f983dd7a", null ],
+    [ "ComputePromotionLogits", "sycl_2kernels_8h.html#ad62317d17f519ba0f34867df66501598", null ],
+    [ "convertNCHWtoNHWC", "sycl_2kernels_8h.html#a6c7a67491dd4776c8426f71b32351f15", null ],
+    [ "copyTypeConverted", "sycl_2kernels_8h.html#af39d2717c379e537912c31a25f99e492", null ],
+    [ "expandPlanes_Fp16_NCHW", "sycl_2kernels_8h.html#a981ebf5f00b361b52f2a7c9a38e63325", null ],
+    [ "expandPlanes_Fp16_NHWC", "sycl_2kernels_8h.html#a3375a01ad4dbb84730e58e17079ab141", null ],
+    [ "expandPlanes_Fp32_NCHW", "sycl_2kernels_8h.html#aa6be31bc28e643160a7c0e45816377c7", null ],
+    [ "FilterTransform", "sycl_2kernels_8h.html#a849f7946905a580d47a1c46b1fd4a403", null ],
+    [ "genOffsetPointers", "sycl_2kernels_8h.html#af291fabcc8204616d22c233e18c13e16", null ],
+    [ "globalAvgPool", "sycl_2kernels_8h.html#a89c4e5f346b4070ffb8edbf7a71c725b", null ],
+    [ "globalScale", "sycl_2kernels_8h.html#a546fec3fb62e5e5405e59236b75e221d", null ],
+    [ "inputPreprocessForAttentionBody", "sycl_2kernels_8h.html#a0c8df9468f97666d8fcc0f7f9ca3d3c8", null ],
+    [ "InputTransform", "sycl_2kernels_8h.html#ae12977083c6e8124d07f70ce90a3f3ba", null ],
+    [ "LayerNorm", "sycl_2kernels_8h.html#a839d6cb2a01dc3e2d17f696a208cd2b9", null ],
+    [ "OutputInputTransform", "sycl_2kernels_8h.html#a6f940a22d4d6d98cb9fa952ab111a8eb", null ],
+    [ "OutputTransform", "sycl_2kernels_8h.html#a7ef1a7d6512b23426bd6096ca1e60fc6", null ],
+    [ "PolicyMap", "sycl_2kernels_8h.html#aad2dbbe7547c93508ff184d925f7f6d8", null ],
+    [ "Se_Fp16_NHWC", "sycl_2kernels_8h.html#a1030033dfeb8bdd198140c89820b8d37", null ],
+    [ "Softmax", "sycl_2kernels_8h.html#a94b68de7a3cdb9d37a214c36ec3ac3f2", null ]
+];

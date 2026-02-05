@@ -1,0 +1,27 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/chess/pgn.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/chess/pgn.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,5,509,60"/>
+<area shape="rect" id="Node000002" href="$game_8h.html" title=" " alt="" coords="311,108,521,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,74,419,108,413,108,413,74"/>
+<area shape="rect" id="Node000006" href="$tournament_8cc.html" title=" " alt="" coords="551,416,807,471"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="510,63,563,87,617,119,669,160,710,209,731,250,739,286,735,324,724,369,714,394,701,417,696,414,709,392,719,367,730,323,733,286,726,251,706,212,665,164,614,124,560,92,508,68"/>
+<area shape="rect" id="Node000007" href="$tournament_8h.html" title=" " alt="" coords="53,313,304,368"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="330,68,281,92,231,124,186,164,167,187,152,212,145,237,147,264,155,290,165,312,160,314,150,291,142,265,139,237,147,210,163,184,182,160,228,120,278,87,328,63"/>
+<area shape="rect" id="Node000003" href="$game_8cc.html" title=" " alt="" coords="179,211,397,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,173,323,213,320,208,371,169"/>
+<area shape="rect" id="Node000004" href="$multigame_8h.html" title=" " alt="" coords="421,211,667,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="461,169,512,208,509,213,458,173"/>
+<area shape="poly" id="edge12_Node000002_Node000006" title=" " alt="" coords="535,153,624,176,658,191,681,209,695,234,704,261,708,290,709,319,702,373,690,417,685,415,696,372,703,319,703,290,699,262,690,236,677,212,656,196,622,181,534,158"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="298,160,218,183,188,197,169,212,158,236,157,262,162,289,169,312,164,314,156,290,152,262,153,234,165,209,185,193,216,178,296,155"/>
+<area shape="rect" id="Node000005" href="$multigame_8cc.html" title=" " alt="" coords="365,313,616,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="526,279,507,314,502,312,521,276"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="593,272,630,312,658,365,675,415,670,416,653,367,626,315,590,276"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="437,271,275,316,273,311,435,266"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="318,367,551,414,550,419,317,372"/>
+<area shape="rect" id="Node000008" href="$loop_8cc.html" title=" " alt="" coords="5,519,213,573"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="155,381,137,417,122,471,114,519,109,518,117,469,132,415,150,379"/>
+<area shape="rect" id="Node000009" href="$loop_8h.html" title=" " alt="" coords="147,416,349,471"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="207,378,232,414,228,417,202,381"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="203,481,147,521,144,516,199,476"/>
+<area shape="rect" id="Node000010" href="$main_8cc.html" title=" " alt="" coords="237,519,424,573"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="280,480,311,517,307,520,276,483"/>
+</map>

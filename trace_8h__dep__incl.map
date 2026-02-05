@@ -1,0 +1,21 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/utils/trace.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/utils/trace.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="940,5,1127,60"/>
+<area shape="rect" id="Node000002" href="$main_8cc.html" title=" " alt="" coords="5,115,192,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="926,39,782,45,602,57,403,78,205,111,175,118,173,113,203,105,402,73,601,52,782,40,926,33"/>
+<area shape="rect" id="Node000003" href="$network__cuda_8cc.html" title=" " alt="" coords="217,108,429,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="926,45,702,69,571,87,441,111,430,113,429,108,439,105,570,82,701,64,926,40"/>
+<area shape="rect" id="Node000004" href="$network__onnx_8cc.html" title=" " alt="" coords="453,108,665,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="927,57,678,111,665,114,664,109,677,105,926,52"/>
+<area shape="rect" id="Node000005" href="$neural_2wrapper_8cc.html" title=" " alt="" coords="689,115,911,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="965,68,858,118,856,113,963,63"/>
+<area shape="rect" id="Node000006" href="$classic_2search_8cc.html" title=" " alt="" coords="935,108,1132,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1036,74,1036,108,1031,108,1031,74"/>
+<area shape="rect" id="Node000007" href="$search_2classic_2wrapper_8cc.html" title=" " alt="" coords="1156,108,1353,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1101,64,1187,105,1184,110,1098,69"/>
+<area shape="rect" id="Node000008" href="$dag__classic_2search_8cc.html" title=" " alt="" coords="1377,108,1564,177"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1141,53,1366,105,1378,109,1376,114,1365,111,1139,58"/>
+<area shape="rect" id="Node000009" href="$search_2dag__classic_2wrapper_8cc.html" title=" " alt="" coords="1588,108,1775,177"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1141,40,1344,64,1461,83,1577,105,1589,108,1587,113,1575,111,1460,88,1343,70,1140,46"/>
+<area shape="rect" id="Node000010" href="$trace_8cc.html" title=" " alt="" coords="1799,115,1988,170"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1141,35,1272,42,1434,55,1611,76,1787,105,1817,113,1816,118,1786,111,1610,81,1433,61,1271,48,1140,40"/>
+</map>

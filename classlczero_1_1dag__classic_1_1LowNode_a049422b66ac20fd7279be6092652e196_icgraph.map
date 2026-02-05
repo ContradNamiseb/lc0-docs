@@ -1,0 +1,13 @@
+<map id="lczero::dag_classic::LowNode::WLDMInvariantsHold" name="lczero::dag_classic::LowNode::WLDMInvariantsHold">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,133,519,173"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1LowNode.html#a173a151fa8e1376f63bb981d6722accf" title=" " alt="" coords="13,5,228,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,128,301,93,235,60,202,48,204,43,237,55,304,88,361,124"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1LowNode.html#a5763a639c59feaa32e332c3a282c3a19" title=" " alt="" coords="5,69,236,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,133,208,112,209,107,300,128"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1LowNode.html#a9fcb0a3b5d94e650908deff8ce1f5f0e" title=" " alt="" coords="15,133,227,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,156,227,156,227,151,270,151"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1LowNode.html#a32ceb87972a8aebe93788f440bf5f9d7" title=" " alt="" coords="26,197,215,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="300,179,209,200,208,195,299,174"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1LowNode.html#a0533a93aef8445afa0779adc13c3dc11" title=" " alt="" coords="37,261,204,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="361,183,304,218,237,252,204,264,202,259,235,247,301,214,358,179"/>
+</map>

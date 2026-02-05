@@ -1,0 +1,9 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/decoder.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/decoder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,5,459,60"/>
+<area shape="rect" id="Node000002" href="$network__check_8cc.html" title=" " alt="" coords="5,108,217,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,68,187,110,185,105,279,63"/>
+<area shape="rect" id="Node000003" href="$decoder_8cc.html" title=" " alt="" coords="241,115,461,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,74,354,115,349,115,349,74"/>
+<area shape="rect" id="Node000004" href="$rescorer_8cc.html" title=" " alt="" coords="486,108,673,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,64,509,105,507,110,418,68"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::cudnn_backend::FCLayer::LoadWeights" name="lczero::cudnn_backend::FCLayer::LoadWeights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,180,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#a12bd0aac736d929f444edc12183619f5" title=" " alt="" coords="228,5,404,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,42,214,37,215,42,181,47"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#a1557a406c5bc5df9077593fa061c2d6e" title=" " alt="" coords="231,69,401,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,67,218,73,217,78,180,73"/>
+</map>

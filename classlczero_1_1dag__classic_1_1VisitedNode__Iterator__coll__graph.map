@@ -1,0 +1,11 @@
+<map id="lczero::dag_classic::VisitedNode_Iterator&lt; is_const &gt;" name="lczero::dag_classic::VisitedNode_Iterator&lt; is_const &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="731,51,895,106"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html" title=" " alt="" coords="469,59,613,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,76,730,76,730,81,627,81"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="208,5,367,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,51,470,65,469,70,380,57"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Edge.html" title=" " alt="" coords="215,99,359,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="372,103,469,87,469,93,373,108"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Move.html" title=" " alt="" coords="5,106,111,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="124,116,215,116,215,121,124,121"/>
+</map>

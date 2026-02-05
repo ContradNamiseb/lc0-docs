@@ -1,0 +1,13 @@
+<map id="lczero::dag_classic::NodeTree" name="lczero::dag_classic::NodeTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="783,85,927,125"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html" title=" " alt="" coords="481,51,625,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,78,783,94,782,100,639,83"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="208,5,367,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,48,481,60,481,65,380,53"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Edge.html" title=" " alt="" coords="215,99,359,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,101,480,81,481,86,374,106"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Move.html" title=" " alt="" coords="5,106,111,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="124,116,215,116,215,121,124,121"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1PositionHistory.html" title=" " alt="" coords="469,115,637,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="651,125,758,119,782,116,783,121,759,124,652,130"/>
+</map>

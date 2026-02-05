@@ -1,0 +1,26 @@
+var classlczero_1_1PositionHistory =
+[
+    [ "PositionHistory", "classlczero_1_1PositionHistory.html#ab9186958314cafdf87ec5b62c9c4f596", null ],
+    [ "PositionHistory", "classlczero_1_1PositionHistory.html#a147081b7d4dce8ea98202b704d184d7c", null ],
+    [ "PositionHistory", "classlczero_1_1PositionHistory.html#ab2b52d45bf1ae5f402361033373067e5", null ],
+    [ "PositionHistory", "classlczero_1_1PositionHistory.html#a59c9ec2157d539264cd4341b907f27f5", null ],
+    [ "Append", "classlczero_1_1PositionHistory.html#a6ae43cabdeac3fc0a5cec144984ee2ca", null ],
+    [ "ComputeGameResult", "classlczero_1_1PositionHistory.html#aecae91c055d38dda2d1b5de54dcd5718", null ],
+    [ "ComputeLastMoveRepetitions", "classlczero_1_1PositionHistory.html#af0fb2acb8c37095c392289d4faca3de6", null ],
+    [ "DidRepeatSinceLastZeroingMove", "classlczero_1_1PositionHistory.html#aa80174968447065f895df635a129f96a", null ],
+    [ "GetLength", "classlczero_1_1PositionHistory.html#af58ee13dccd016977b7b9755c7a39927", null ],
+    [ "GetPositionAt", "classlczero_1_1PositionHistory.html#af6dbacd97981b367816bbbc5b30b5ecf", null ],
+    [ "GetPositions", "classlczero_1_1PositionHistory.html#ad63bcb96a0eb1194b78a4ab213436e3d", null ],
+    [ "HashLast", "classlczero_1_1PositionHistory.html#a29b4e8cd1f616cf1e3fdc0ef9d11f4c8", null ],
+    [ "IsBlackToMove", "classlczero_1_1PositionHistory.html#a44924455ccd62f0f2f2798dd403ba4f5", null ],
+    [ "Last", "classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae", null ],
+    [ "operator=", "classlczero_1_1PositionHistory.html#a19c7bc28eb0f0bda28a575657a98948e", null ],
+    [ "operator=", "classlczero_1_1PositionHistory.html#a2a8a21c80faf68cf8bff2f76feae473e", null ],
+    [ "Pop", "classlczero_1_1PositionHistory.html#ad96c4b8811cad9badafe7a12cc99e31c", null ],
+    [ "Reserve", "classlczero_1_1PositionHistory.html#aacef66da70f77b031f48b2b5f3bb001d", null ],
+    [ "Reset", "classlczero_1_1PositionHistory.html#afe95b1e359e66d71aac534b43bbd8ab1", null ],
+    [ "Reset", "classlczero_1_1PositionHistory.html#a01aede3788a70ae5a2ad5ddaeac7cae0", null ],
+    [ "Starting", "classlczero_1_1PositionHistory.html#a9460b9e5c157da40316bdeeb66c253f3", null ],
+    [ "Trim", "classlczero_1_1PositionHistory.html#a1195fca5294ecce5d2b31c28b0af7667", null ],
+    [ "positions_", "classlczero_1_1PositionHistory.html#a5f0aaf6201ae32b49e1f847f6d6f35d4", null ]
+];

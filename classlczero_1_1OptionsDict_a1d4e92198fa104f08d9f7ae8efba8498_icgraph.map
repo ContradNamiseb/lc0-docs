@@ -1,0 +1,28 @@
+<map id="lczero::OptionsDict::GetOrDefault" name="lczero::OptionsDict::GetOrDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,329,432,369"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="400,318,386,311,359,308,336,310,323,315,318,321,320,328,315,330,312,320,320,310,335,305,359,303,387,306,402,313"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1CudaNetwork.html#a019e15da7d32a5cab87befc6fd040b53" title=" " alt="" coords="43,5,201,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,317,341,260,320,191,305,155,286,120,264,88,237,59,220,47,200,39,202,34,222,43,240,55,268,84,291,117,310,153,325,189,346,259,357,316"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1CudnnNetwork.html#a52a03c660721a9810ae6feeaa2b73d35" title=" " alt="" coords="39,69,205,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,316,333,272,310,220,278,168,259,144,237,123,204,105,206,101,240,119,263,140,283,165,315,218,338,270,352,315"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1DxContext.html#a44494f0887e90d8fb3ce6a09e6b82319" title=" " alt="" coords="34,133,210,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,319,300,252,271,217,237,188,209,173,211,168,240,183,275,213,304,248,345,316"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1DxNetwork.html#a7d2e97be00819a05658e6a4699730e75" title=" " alt="" coords="30,197,214,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="328,321,287,285,237,252,210,240,212,235,240,247,290,281,331,317"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a50ba8cd031e94ed714f45910053d6570" title=" " alt="" coords="11,262,233,287"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="303,326,238,301,195,290,196,285,239,296,304,321"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#acd1d465e6e28c866c362e64b4dee9b73" title=" " alt="" coords="7,311,237,337"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="273,343,237,339,238,334,273,338"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1onnx.html#a19f91611a546ec0e11257509a9983de6" title=" " alt="" coords="5,361,239,386"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="273,361,239,364,238,359,273,355"/>
+<area shape="rect" id="Node000009" href="$namespacelczero.html#ab849f515223ece4fea7610106a5c4ab4" title=" " alt="" coords="14,410,230,435"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="302,377,239,400,191,413,190,407,238,395,300,372"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1metal__backend_1_1MetalNetwork.html#a3a94961a3451e66d19a52d378dbbfbc7" title=" " alt="" coords="11,460,233,500"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="330,381,289,416,240,449,209,462,207,457,237,444,286,412,327,377"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1OnednnNetwork.html#aba5306f4c7efb644b3b88a349261fca7" title=" " alt="" coords="35,524,209,564"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="345,383,304,450,275,485,240,514,211,529,208,525,237,510,271,481,299,447,340,380"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1onnx_1_1OnnxNetwork.html#ad1aaa1ddf2e88383e8e02510c41ed71b" title=" " alt="" coords="23,588,221,628"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="352,384,338,428,315,480,283,533,263,557,240,578,222,590,219,586,237,574,259,553,278,530,310,478,333,426,347,382"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1SyclNetwork.html#ac40e107a08599a2084d0e84ad90a1f80" title=" " alt="" coords="47,652,197,692"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="356,383,345,440,324,509,309,545,290,581,268,613,240,642,221,655,199,664,197,659,218,651,237,638,264,610,286,578,304,543,319,507,340,438,351,382"/>
+</map>

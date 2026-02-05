@@ -1,0 +1,28 @@
+var winograd__helper_8h =
+[
+    [ "FILTER_IDX_NCHW", "winograd__helper_8h.html#a38e77907333e2eec4874782a94dc9f91", null ],
+    [ "GemmN", "winograd__helper_8h.html#a57e490a4d130b15b647bc2f37c66af77", null ],
+    [ "INDEX_NCHW", "winograd__helper_8h.html#af9c5522ffb567acfc30af2b2eb0409ef", null ],
+    [ "INDEX_NHCW", "winograd__helper_8h.html#aca8f5bf1872404d24b018fbeb2460cbc", null ],
+    [ "readw1", "winograd__helper_8h.html#a69abcc9c4afb88a1311da8be6479d2d0", null ],
+    [ "readw2", "winograd__helper_8h.html#a6135abe760a6842fcc76e6254dd1b3a9", null ],
+    [ "TEMP_INDEX_HWNC", "winograd__helper_8h.html#ac0b35611da0ae70b025be2aa06320534", null ],
+    [ "activate", "winograd__helper_8h.html#a23f9670776d983a5337b3f07f272b7a8", null ],
+    [ "copyAs", "winograd__helper_8h.html#a3f34adb956772931a73c9b5627154b83", null ],
+    [ "FilterTransform", "winograd__helper_8h.html#a849f7946905a580d47a1c46b1fd4a403", null ],
+    [ "FilterTransform4x4", "winograd__helper_8h.html#abb571037f42d6499226e7af5784ed104", null ],
+    [ "filterTransform_kernel", "winograd__helper_8h.html#a3c9c568c3a1e8f20a2e6aec31e339aca", null ],
+    [ "InputTransform", "winograd__helper_8h.html#ae12977083c6e8124d07f70ce90a3f3ba", null ],
+    [ "InputTransform4x4", "winograd__helper_8h.html#aabd13b662f701c3285cf68b77c0bbcff", null ],
+    [ "InputTransform_kernel", "winograd__helper_8h.html#adc91f7d5d823c4a12cf53da63df2fe16", null ],
+    [ "matrixMul_gpu_serial", "winograd__helper_8h.html#a6280982d0fac199731c1cd44893f2305", null ],
+    [ "mishActivate", "winograd__helper_8h.html#a22d0b48537a7d6d0a809f725b5b248a0", null ],
+    [ "OutputTransform", "winograd__helper_8h.html#a7ef1a7d6512b23426bd6096ca1e60fc6", null ],
+    [ "OutputTransform4x4", "winograd__helper_8h.html#a149d93a69437f82b951f87af2aae47e2", null ],
+    [ "OutputTransform_kernel", "winograd__helper_8h.html#a9ea1924dc9dd770a1e19ad91d1208d00", null ],
+    [ "OutputTransform_relu_InputTransform_kernel", "winograd__helper_8h.html#a2ceedce9e44ec1b3f9f77d5fa444a784", null ],
+    [ "OutputTransform_SE_relu_InputTransform_kernel", "winograd__helper_8h.html#ae2ac883421c789f21516f6cf2753b97c", null ],
+    [ "warpMax", "winograd__helper_8h.html#a4cfd43560307895ed540d061164798d1", null ],
+    [ "warpReduce", "winograd__helper_8h.html#ab58ef575ea312a6a881aedfbc9da9e69", null ],
+    [ "kOpInpTransformBlockSize", "winograd__helper_8h.html#a37518599f4b4d56cdcc15836362e2e87", null ]
+];

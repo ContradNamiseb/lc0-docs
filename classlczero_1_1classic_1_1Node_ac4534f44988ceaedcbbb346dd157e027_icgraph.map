@@ -1,0 +1,13 @@
+<map id="lczero::classic::Node::VisitedNodes" name="lczero::classic::Node::VisitedNodes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="848,37,1003,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#aba2fd2fa6182d4e641dfd707e4efb1f3" title=" " alt="" coords="645,37,800,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,60,801,60,801,55,834,55"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title=" " alt="" coords="432,37,597,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="631,60,597,60,597,55,631,55"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title=" " alt="" coords="219,37,384,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,60,384,60,384,55,418,55"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title=" " alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,46,171,40,171,35,206,40"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title=" " alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="206,74,171,80,171,74,205,69"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lczero::dx_backend::DxContext::getCommandList" name="lczero::dx_backend::DxContext::getCommandList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,85,765,125"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1ConvMetaCommand.html#a4bcc54f139d8404ccf86d89686ba9e1b" title=" " alt="" coords="251,5,488,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,84,478,63,479,57,563,79"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxNetwork.html#af849b6336696a6eebce2b8392c4771dc" title=" " alt="" coords="296,85,443,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="533,107,443,107,443,102,533,102"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1GemmMetaCommand.html#aca62af408caf2d68c4cde2a056bea74d" title=" " alt="" coords="240,149,499,204"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="563,131,479,152,478,147,562,125"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1DxNetworkComputation.html#a4676362e48b9610e16c873ef25eaecde" title=" " alt="" coords="5,77,192,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,107,192,107,192,102,282,102"/>
+</map>

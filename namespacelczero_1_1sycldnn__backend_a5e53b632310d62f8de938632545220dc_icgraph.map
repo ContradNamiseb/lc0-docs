@@ -1,0 +1,11 @@
+<map id="lczero::sycldnn_backend::NCHWtoNHWC_kernel" name="lczero::sycldnn_backend::NCHWtoNHWC_kernel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,69,660,109"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a6c7a67491dd4776c8426f71b32351f15" title=" " alt="" coords="252,69,432,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,92,432,92,432,87,466,87"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1AttentionPolicyHead.html#a77a3a182be20acf77bbb528d61baef2c" title=" " alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,68,179,48,180,43,255,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a0a79b09ffc9d265741c115ca8e4c0ab0" title=" " alt="" coords="15,69,195,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,92,195,92,195,87,238,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a6fa896dd187abfb27d9450c2e9a9d266" title=" " alt="" coords="15,133,195,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,116,180,136,179,131,253,110"/>
+</map>

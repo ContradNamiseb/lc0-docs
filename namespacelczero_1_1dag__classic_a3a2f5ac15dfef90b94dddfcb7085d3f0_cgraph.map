@@ -1,0 +1,11 @@
+<map id="lczero::dag_classic::TreeWalk" name="lczero::dag_classic::TreeWalk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,149,75"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1dag__classic.html#a7eb79a46067e2ffe76651ef8e66b1fba" title=" " alt="" coords="197,35,341,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,52,184,52,184,57,150,57"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="233,35,231,25,237,16,250,10,269,8,292,11,304,18,302,23,290,16,269,13,251,15,240,20,236,26,238,34"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a96c54aaa0722ef9a369dfbf76efb0471" title=" " alt="" coords="389,5,533,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,41,376,36,376,41,342,46"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title=" " alt="" coords="581,35,736,75"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="342,54,389,55,533,55,568,54,568,59,533,60,389,60,342,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,33,568,39,567,44,533,39"/>
+</map>

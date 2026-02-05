@@ -1,0 +1,7 @@
+<map id="lczero::cudnn_backend::ResidualBlock::LoadWeights0" name="lczero::cudnn_backend::ResidualBlock::LoadWeights0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,227,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#a1557a406c5bc5df9077593fa061c2d6e" title=" " alt="" coords="275,5,444,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,40,261,36,261,41,227,45"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#acc8fe627029e98d8c7fd4c1ecb48864c" title=" " alt="" coords="275,69,444,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,69,261,74,261,79,226,75"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/backends/dx/layers_dx.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/backends/dx/layers_dx.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,5,299,75"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,123,93,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,77,91,117,88,112,144,73"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,123,195,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,76,168,111,163,109,177,74"/>
+<area shape="rect" id="Node000004" href="$dx__common_8h.html" title=" " alt="" coords="228,196,343,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,74,275,183,270,185,210,76"/>
+<area shape="rect" id="Node000014" href="$shader__wrapper_8h.html" title=" " alt="" coords="270,123,407,148"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="247,73,310,113,308,117,244,77"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,269,80,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,224,94,269,92,263,246,219"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="104,269,189,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="264,224,183,265,180,261,262,219"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="214,269,285,295"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="282,223,264,258,259,256,277,220"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="345,343,412,368"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="295,220,366,330,362,333,291,223"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="360,269,443,295"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="305,219,372,260,369,264,303,224"/>
+<area shape="rect" id="Node000010" href="$fp16__utils_8h.html" title=" " alt="" coords="467,269,597,295"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="326,219,480,263,478,268,324,224"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="508,297,417,339,415,334,506,292"/>
+<area shape="rect" id="Node000011" href="$bit_8h.html" title=" " alt="" coords="491,343,573,368"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="535,295,535,329,529,329,529,295"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="474,416,513,441"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="528,370,508,405,504,403,523,367"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="537,416,604,441"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="541,367,560,403,556,405,536,370"/>
+<area shape="poly" id="edge15_Node000014_Node000004" title=" " alt="" coords="332,150,304,187,300,184,328,147"/>
+</map>

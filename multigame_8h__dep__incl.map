@@ -1,0 +1,17 @@
+<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/selfplay/multigame.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/selfplay/multigame.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,5,416,60"/>
+<area shape="rect" id="Node000002" href="$multigame_8cc.html" title=" " alt="" coords="5,108,256,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,69,175,110,172,105,238,65"/>
+<area shape="rect" id="Node000003" href="$tournament_8cc.html" title=" " alt="" coords="164,211,420,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,74,295,210,290,210,290,74"/>
+<area shape="rect" id="Node000004" href="$tournament_8h.html" title=" " alt="" coords="331,108,581,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,65,415,105,412,110,346,69"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="403,172,336,213,334,208,400,168"/>
+<area shape="rect" id="Node000005" href="$loop_8cc.html" title=" " alt="" coords="353,313,561,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="459,177,460,313,454,313,454,177"/>
+<area shape="rect" id="Node000006" href="$loop_8h.html" title=" " alt="" coords="495,211,697,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="505,168,561,208,558,213,502,173"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="551,275,495,315,492,311,547,271"/>
+<area shape="rect" id="Node000007" href="$main_8cc.html" title=" " alt="" coords="585,313,772,368"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="628,274,659,312,655,315,624,278"/>
+</map>

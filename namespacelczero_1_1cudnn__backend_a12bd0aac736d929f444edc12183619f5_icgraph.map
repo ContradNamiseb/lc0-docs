@@ -1,0 +1,11 @@
+<map id="lczero::cudnn_backend::convertNCHWtoNHWC" name="lczero::cudnn_backend::convertNCHWtoNHWC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,101,428,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1AttentionPolicyHead.html#ac056531cd4119b13f729bb5a0c43ae4c" title=" " alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,98,203,60,170,48,172,43,205,55,289,93"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1AttentionBody.html#ad955c8c15f55bd1ebe80f148ef08285b" title=" " alt="" coords="20,69,189,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,110,189,103,190,98,238,105"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1cudnn__backend_1_1FCLayer.html#a053ee521026b06e5dea7519d9c9b4b76" title=" " alt="" coords="17,133,192,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,138,193,144,192,139,238,133"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1cudnn__backend_1_1ConvLayer.html#a2595ffadaf508532785ab445fa7b4fa2" title=" " alt="" coords="9,197,200,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="289,150,205,188,172,200,170,195,203,183,287,145"/>
+</map>

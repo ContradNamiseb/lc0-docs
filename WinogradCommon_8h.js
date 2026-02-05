@@ -1,0 +1,28 @@
+var WinogradCommon_8h =
+[
+    [ "GemmN", "WinogradCommon_8h.html#a57e490a4d130b15b647bc2f37c66af77", null ],
+    [ "INDEX_NCHW", "WinogradCommon_8h.html#af9c5522ffb567acfc30af2b2eb0409ef", null ],
+    [ "TEMP_INDEX_HWNC", "WinogradCommon_8h.html#ac0b35611da0ae70b025be2aa06320534", null ],
+    [ "inputTransform4x4_gpu", "WinogradCommon_8h.html#a286c2e73d0b71292eee912e189c26402", null ],
+    [ "matrixMul_gpu_serial_4x4x6", "WinogradCommon_8h.html#a2f7d509cd12a8a852e476f55a86b2761", null ],
+    [ "matrixMul_gpu_serial_4x6x6", "WinogradCommon_8h.html#a346588294e464007d90f2c6017f22bf2", null ],
+    [ "matrixMul_gpu_serial_6x6x6", "WinogradCommon_8h.html#a025701c42e6f153da53db7f68cb26aa1", null ],
+    [ "outputTransform4x4_gpu", "WinogradCommon_8h.html#abeba30c1158e1e13439585e7c252de16", null ],
+    [ "bias", "WinogradCommon_8h.html#aee9f893f61a29b8380b2d165ceb36a2a", null ],
+    [ "C", "WinogradCommon_8h.html#adcba18a68df3ec436a0388b52104cc96", null ],
+    [ "consts", "WinogradCommon_8h.html#a2fea9894ddbcc1c382eba721a811c0df", null ],
+    [ "fusedSe", "WinogradCommon_8h.html#a2525feae055fd1c500a83ab2f1aa7567", null ],
+    [ "input", "WinogradCommon_8h.html#aba9cd67e67fe1d1e46c1f273b3e68d67", null ],
+    [ "output", "WinogradCommon_8h.html#acdb1009d58a21974bf65d60a5ef9929e", null ],
+    [ "relu", "WinogradCommon_8h.html#ae8670e2619fccada7849217c79ddc2b6", null ],
+    [ "se_b1", "WinogradCommon_8h.html#a8f948b328fb2ac29e3a5d4631413e42a", null ],
+    [ "se_b2", "WinogradCommon_8h.html#a4c90ad513f6c6bcadee5b99bfce0a462", null ],
+    [ "se_K", "WinogradCommon_8h.html#af5ba747eba7bcc8cdac24b6ff381238b", null ],
+    [ "se_w1", "WinogradCommon_8h.html#a1d3410bb707546a29041194e4a448aab", null ],
+    [ "se_w2", "WinogradCommon_8h.html#a35f24adf6105d5da732ba8f903f08112", null ],
+    [ "skipAdd", "WinogradCommon_8h.html#ac0a07b36553378d79b347894013a10c4", null ],
+    [ "skipConnection", "WinogradCommon_8h.html#a5adef40b60d6dd602adb014cfe2be368", null ],
+    [ "transformedInput", "WinogradCommon_8h.html#aa13515ee2920c088cfd0577533f2c501", null ],
+    [ "transformedOutput", "WinogradCommon_8h.html#a94966c31e0e354792cb9b506c0447e91", null ],
+    [ "useBias", "WinogradCommon_8h.html#a4658185fbe067c218e0916fcaaac2ef7", null ]
+];

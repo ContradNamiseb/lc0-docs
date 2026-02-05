@@ -1,0 +1,7 @@
+<map id="lczero::getMaxAttentionBodySize" name="lczero::getMaxAttentionBodySize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,45,449,70"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1CudaNetwork.html#a019e15da7d32a5cab87befc6fd040b53" title=" " alt="" coords="5,5,163,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,45,163,38,163,33,219,40"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SyclNetwork.html#ac40e107a08599a2084d0e84ad90a1f80" title=" " alt="" coords="9,69,159,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,74,160,82,159,77,218,69"/>
+</map>

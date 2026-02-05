@@ -1,0 +1,9 @@
+<map id="IsMultiple" name="IsMultiple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="640,13,727,38"/>
+<area shape="rect" id="Node000002" href="$classTuner.html#a2bfaeb90694210da86ed5eb2d46fe69d" title=" " alt="" coords="449,5,592,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="626,28,592,28,592,23,626,23"/>
+<area shape="rect" id="Node000003" href="$classTuner.html#a9437db519f76d5219cddaa4f4c6a78d9" title=" " alt="" coords="251,13,401,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,28,402,28,402,23,435,23"/>
+<area shape="rect" id="Node000004" href="$classTuner.html#acdbd707892d8d4fdb800d798a5da0d17" title=" " alt="" coords="5,13,203,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,28,203,28,203,23,237,23"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::dag_classic::EdgeAndNode::GetQ" name="lczero::dag_classic::EdgeAndNode::GetQ">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,168,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a52d0fdb2d36bac9a7ebc7baea41f9df1" title=" " alt="" coords="216,5,360,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,42,202,36,203,42,169,47"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#ab0eab142d2f0f96212e8b4105ac87ce6" title=" " alt="" coords="216,69,360,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,68,203,73,202,78,168,73"/>
+</map>
