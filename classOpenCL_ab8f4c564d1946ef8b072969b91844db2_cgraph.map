@@ -1,9 +1,0 @@
-<map id="OpenCL::initialize" name="OpenCL::initialize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,141,95"/>
-<area shape="rect" id="Node000002" href="$OpenCL_8cc.html#a0a2cbd6381b91cbd638c5a21334cb64f" title=" " alt="" coords="203,5,355,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,67,193,46,194,52,120,73"/>
-<area shape="rect" id="Node000003" href="$classOpenCL.html#a6702a11a2e55b964ea7c25adccc42fda" title=" " alt="" coords="189,70,368,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,80,176,80,176,85,142,85"/>
-<area shape="rect" id="Node000004" href="$OpenCL_8cc.html#a2d674e5662adc0876c1d2abf572915eb" title=" " alt="" coords="240,119,317,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,93,227,117,225,122,126,98"/>
-</map>

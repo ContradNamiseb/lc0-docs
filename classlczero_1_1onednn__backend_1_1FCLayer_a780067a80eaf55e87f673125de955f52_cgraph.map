@@ -1,9 +1,0 @@
-<map id="lczero::onednn_backend::FCLayer::Eval" name="lczero::onednn_backend::FCLayer::Eval">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,184,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1onednn__backend_1_1BaseLayer.html#a4081599be3a185892abe3e158aee88ad" title=" " alt="" coords="232,5,411,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,67,236,47,237,52,167,72"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1onednn__backend_1_1BaseLayer.html#a656c83371b2524ee30427c57ee4ec692" title=" " alt="" coords="232,69,411,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,87,218,87,218,92,185,92"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1onednn__backend_1_1BaseLayer.html#ab1a14de061f7863eb8531351b24236d0" title=" " alt="" coords="232,133,411,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,107,237,127,236,132,166,112"/>
-</map>

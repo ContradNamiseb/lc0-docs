@@ -1,7 +1,0 @@
-<map id="OpenCLBuffers::squeeze_excitation" name="OpenCLBuffers::squeeze_excitation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,185,45"/>
-<area shape="rect" id="Node000002" href="$classOpenCLBuffers.html#af41d9b20b6adcad16284e233e7c3228c" title=" " alt="" coords="233,13,441,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,23,220,23,220,28,185,28"/>
-<area shape="rect" id="Node000003" href="$OpenCL_8h.html#aad46fe2e8a51addef22d690ce00d9198" title=" " alt="" coords="489,13,588,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,23,476,23,476,28,441,28"/>
-</map>

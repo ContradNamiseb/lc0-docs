@@ -1,7 +1,0 @@
-<map id="OpenCLBuffers::OpenCLBuffers" name="OpenCLBuffers::OpenCLBuffers">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,228,56"/>
-<area shape="rect" id="Node000002" href="$OpenCL_8h.html#aad46fe2e8a51addef22d690ce00d9198" title=" " alt="" coords="356,5,455,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,31,342,21,342,26,228,36"/>
-<area shape="rect" id="Node000003" href="$classOpenCL__Network.html#a49d91ace833ebdd13faddef775906bac" title=" " alt="" coords="276,55,535,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,50,263,53,262,58,228,55"/>
-</map>

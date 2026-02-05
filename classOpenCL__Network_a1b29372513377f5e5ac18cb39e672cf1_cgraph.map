@@ -1,9 +1,0 @@
-<map id="OpenCL_Network::push_se" name="OpenCL_Network::push_se">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,200,70"/>
-<area shape="rect" id="Node000002" href="$classOpenCL__Network.html#a2c20514a46ef4e160d03b9bfae694beb" title=" " alt="" coords="253,5,416,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,42,239,36,240,41,196,47"/>
-<area shape="rect" id="Node000003" href="$classOpenCL__Network.html#ad4fb8fd726c2ae5061ceffe56c13b25d" title=" " alt="" coords="248,69,421,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,67,235,73,234,78,195,73"/>
-<area shape="rect" id="Node000004" href="$classOpenCL__Network.html#a3ed953edee4e954fbe941982ccb8648c" title=" " alt="" coords="469,69,636,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="422,87,455,87,455,92,422,92"/>
-</map>
