@@ -1,4 +1,4 @@
 var atomic__vector_8h =
 [
-    [ "lczero::AtomicVector< T >", "classlczero_1_1AtomicVector.html", "classlczero_1_1AtomicVector" ]
+    [ "lczero::AtomicVector< T >", "pages/classlczero_1_1AtomicVector.html", "classlczero_1_1AtomicVector" ]
 ];

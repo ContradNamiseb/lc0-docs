@@ -104,7 +104,7 @@ function getScript(scriptName, func) {
   script.onload = func;
   // Use jsBasePath for loading scripts (ensures navtreeindex files are found in js/)
   var name = scriptName.indexOf('/') === -1 ? scriptName : scriptName.substring(scriptName.lastIndexOf('/') + 1);
-  script.src = jsBasePath + name + '.js';
+  script.src = jsBasePath + name + '.js?v=3';
   head.appendChild(script);
 }
 

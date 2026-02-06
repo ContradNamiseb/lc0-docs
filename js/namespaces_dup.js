@@ -1,4 +1,4 @@
 var namespaces_dup =
 [
-    [ "lczero", "namespacelczero.html", "namespacelczero" ]
+    [ "lczero", "pages/namespacelczero.html", "namespacelczero" ]
 ];
