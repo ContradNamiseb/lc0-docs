@@ -1,9 +1,0 @@
-<map id="lczero::Random::GetInt" name="lczero::Random::GetInt">
-<area shape="rect" id="Node000001" title=" " alt="" coords="484,31,655,56"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1Random.html#a14ad1e985dde4373518b8f284511d771" title=" " alt="" coords="249,5,431,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,35,431,31,432,25,471,30"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1Random.html#a1e59074dc7e8348a80e47f0e81db5058" title=" " alt="" coords="244,55,436,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="470,56,436,60,436,55,470,51"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1TrainingDataWriter.html#ae9ad06b6159ce02917cba3d1ee7f4665" title=" " alt="" coords="5,47,196,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,70,196,70,196,65,230,65"/>
-</map>

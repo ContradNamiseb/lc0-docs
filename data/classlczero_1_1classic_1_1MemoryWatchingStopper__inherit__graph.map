@@ -1,7 +1,0 @@
-<map id="lczero::classic::MemoryWatchingStopper" name="lczero::classic::MemoryWatchingStopper">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,240,192"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1VisitsStopper.html" title=" " alt="" coords="19,79,226,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,118,125,152,120,152,120,118"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1SearchStopper.html" title=" " alt="" coords="15,5,230,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,44,125,79,120,79,120,44"/>
-</map>

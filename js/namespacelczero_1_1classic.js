@@ -40,7 +40,7 @@ var namespacelczero_1_1classic =
     [ "MakeLegacyTimeManager", "namespacelczero_1_1classic.html#ac8e2a11fda6f194ef7b0ee5b230638fd", null ],
     [ "MakeSimpleTimeManager", "namespacelczero_1_1classic.html#af577151fcb1e3559ad0e26a85e67c51d", null ],
     [ "MakeSmoothTimeManager", "namespacelczero_1_1classic.html#aaa4941b3712acdeb1db000b0ad28256c", null ],
-    [ "MakeTimeManager", "namespacelczero_1_1classic.html#ad58f6501e45be5e32f54fb868f4e8ed7", null ],
+    [ "MakeTimeManager", "namespacelczero_1_1classic.html#ade97c121eeaa52f2b5b402a8f3c80c2d", null ],
     [ "operator<", "namespacelczero_1_1classic.html#a4a0341ab1375f022eea062bb485390dc", null ],
     [ "PopulateCommonStopperOptions", "namespacelczero_1_1classic.html#afe27cc4562aafa333c0163fe08a375be", null ],
     [ "PopulateIntrinsicStoppers", "namespacelczero_1_1classic.html#a2b37307c87b7ec804b955d087a59a934", null ],

@@ -1,5 +1,7 @@
 var sycl__common_8h =
 [
+    [ "lczero::sycldnn_backend::DeviceCapabilities", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities" ],
+    [ "lczero::sycldnn_backend::DeviceCapabilities::DeviceInfo", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities_1_1DeviceInfo.html", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities_1_1DeviceInfo" ],
     [ "SYCL_SUB_GROUP_SIZE", "sycl__common_8h.html#a5070bbcdde5418140c7598ee8099a735", null ],
     [ "DivUp", "sycl__common_8h.html#ae623c78b0cd12094c831d2ebff262128", null ],
     [ "kMaxResBlockFusingChannels", "sycl__common_8h.html#a2309a382abdf2f2e4c29795f0c2cf59a", null ],

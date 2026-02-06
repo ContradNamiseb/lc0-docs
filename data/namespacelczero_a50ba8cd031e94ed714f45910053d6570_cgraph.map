@@ -1,6 +1,0 @@
-<map id="lczero::MakeCudaNetworkAuto" name="lczero::MakeCudaNetworkAuto">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,228,62"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="276,29,421,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,262,47,262,52,228,52"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="305,30,303,20,310,10,325,5,349,3,376,6,390,13,388,18,374,11,349,8,326,10,313,15,308,21,310,28"/>
-</map>

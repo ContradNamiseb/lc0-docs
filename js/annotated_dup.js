@@ -107,6 +107,7 @@ var annotated_dup =
         [ "AttentionPolicyHead", "classlczero_1_1sycldnn__backend_1_1AttentionPolicyHead.html", "classlczero_1_1sycldnn__backend_1_1AttentionPolicyHead" ],
         [ "BaseLayer", "classlczero_1_1sycldnn__backend_1_1BaseLayer.html", "classlczero_1_1sycldnn__backend_1_1BaseLayer" ],
         [ "Conv1Layer", "classlczero_1_1sycldnn__backend_1_1Conv1Layer.html", "classlczero_1_1sycldnn__backend_1_1Conv1Layer" ],
+        [ "DeviceCapabilities", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities" ],
         [ "EmbeddingLayer", "classlczero_1_1sycldnn__backend_1_1EmbeddingLayer.html", "classlczero_1_1sycldnn__backend_1_1EmbeddingLayer" ],
         [ "EncoderBlock", "classlczero_1_1sycldnn__backend_1_1EncoderBlock.html", "classlczero_1_1sycldnn__backend_1_1EncoderBlock" ],
         [ "FCLayer", "classlczero_1_1sycldnn__backend_1_1FCLayer.html", "classlczero_1_1sycldnn__backend_1_1FCLayer" ],

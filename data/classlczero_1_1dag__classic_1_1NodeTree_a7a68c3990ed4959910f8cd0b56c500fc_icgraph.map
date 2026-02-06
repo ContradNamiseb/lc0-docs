@@ -1,7 +1,0 @@
-<map id="lczero::dag_classic::NodeTree::HeadPosition" name="lczero::dag_classic::NodeTree::HeadPosition">
-<area shape="rect" id="Node000001" title=" " alt="" coords="249,37,435,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1NodeTree.html#af08d49956974eef8808730c5be7e560c" title=" " alt="" coords="13,5,193,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,46,193,40,194,35,236,40"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1NodeTree.html#aa47c07e775570aa3e6f5734d8f4b0554" title=" " alt="" coords="5,69,201,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,74,202,79,201,74,235,69"/>
-</map>

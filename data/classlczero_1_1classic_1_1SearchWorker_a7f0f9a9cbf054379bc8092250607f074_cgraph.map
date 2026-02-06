@@ -1,9 +1,0 @@
-<map id="lczero::classic::SearchWorker::GatherMinibatch" name="lczero::classic::SearchWorker::GatherMinibatch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,216,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#abc2501252905568e0fb22ceb1bddcdff" title=" " alt="" coords="264,5,421,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,67,256,46,257,52,185,72"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#aaa2c61ee16fec921c7fdecf50162a4a9" title=" " alt="" coords="265,69,420,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,87,252,87,252,92,216,92"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Node.html#a2111e0877d5221a8be8f92b63154ca65" title=" " alt="" coords="265,133,420,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,107,257,127,256,132,183,112"/>
-</map>

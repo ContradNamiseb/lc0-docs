@@ -1,7 +1,0 @@
-<map id="lczero::SelfPlayGame::PopulateUciParams" name="lczero::SelfPlayGame::PopulateUciParams">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,167,45"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsParser.html#a556cd5dd6367f9c911500f769b1d69a1" title=" " alt="" coords="215,13,407,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,23,201,23,201,28,167,28"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a27d9a6a6f7e17651274dfb73d9211477" title=" " alt="" coords="455,5,600,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,23,441,23,441,28,407,28"/>
-</map>

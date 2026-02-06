@@ -1,9 +1,0 @@
-<map id="lczero::PolicyEvaluator::Gather" name="lczero::PolicyEvaluator::Gather">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,176,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#ac6c6ab4b61ef21f9e4d7fa27028fd22b" title=" " alt="" coords="238,5,393,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,67,231,47,232,52,162,72"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1NodeTree.html#affc2ee1110e11eac151c68b96a73ff5e" title=" " alt="" coords="224,69,407,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,87,210,87,210,92,177,92"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1NodeTree.html#a734f3fca4d8812ae932ab9591df24e49" title=" " alt="" coords="224,133,407,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,107,232,127,231,132,161,112"/>
-</map>

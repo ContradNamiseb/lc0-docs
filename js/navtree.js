@@ -26,67 +26,57 @@ var navTreeSubIndices = new Array();
 var arrowDown = '&#9660;';
 var arrowRight = '&#9658;';
 
-function getData(varName)
-{
+function getData(varName) {
   var i = varName.lastIndexOf('/');
-  var n = i>=0 ? varName.substring(i+1) : varName;
-  return eval(n.replace(/\-/g,'_'));
+  var n = i >= 0 ? varName.substring(i + 1) : varName;
+  return eval(n.replace(/\-/g, '_'));
 }
 
-function stripPath(uri)
-{
-  return uri.substring(uri.lastIndexOf('/')+1);
+function stripPath(uri) {
+  return uri.substring(uri.lastIndexOf('/') + 1);
 }
 
-function stripPath2(uri)
-{
+function stripPath2(uri) {
   var i = uri.lastIndexOf('/');
-  var s = uri.substring(i+1);
-  var m = uri.substring(0,i+1).match(/\/d\w\/d\w\w\/$/);
-  return m ? uri.substring(i-6) : s;
+  var s = uri.substring(i + 1);
+  var m = uri.substring(0, i + 1).match(/\/d\w\/d\w\w\/$/);
+  return m ? uri.substring(i - 6) : s;
 }
 
-function hashValue()
-{
-  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g,'');
+function hashValue() {
+  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g, '');
 }
 
-function hashUrl()
-{
-  return '#'+hashValue();
+function hashUrl() {
+  return '#' + hashValue();
 }
 
-function pathName()
-{
+function pathName() {
   return $(location).attr('pathname').replace(/[^-A-Za-z0-9+&@#/%?=~_|!:,.;\(\)]/g, '');
 }
 
-function localStorageSupported()
-{
+function localStorageSupported() {
   try {
     return 'localStorage' in window && window['localStorage'] !== null && window.localStorage.getItem;
   }
-  catch(e) {
+  catch (e) {
     return false;
   }
 }
 
-function storeLink(link)
-{
+function storeLink(link) {
   if (!$("#nav-sync").hasClass('sync') && localStorageSupported()) {
-      window.localStorage.setItem('navpath',link);
+    window.localStorage.setItem('navpath', link);
   }
 }
 
-function deleteLink()
-{
+function deleteLink() {
   if (localStorageSupported()) {
-    window.localStorage.setItem('navpath','');
+    window.localStorage.setItem('navpath', '');
   }
 }
 
-function cachedLink()
-{
+function cachedLink() {
   if (localStorageSupported()) {
     return window.localStorage.getItem('navpath');
   } else {
@@ -94,37 +84,46 @@ function cachedLink()
   }
 }
 
-function getScript(scriptName,func)
-{
+// Determine the base path for JS files from the current script location
+var jsBasePath = (function () {
+  var scripts = document.getElementsByTagName('script');
+  for (var i = scripts.length - 1; i >= 0; i--) {
+    var src = scripts[i].src;
+    if (src && src.indexOf('navtree.js') !== -1) {
+      return src.substring(0, src.lastIndexOf('/') + 1);
+    }
+  }
+  return '';
+})();
+
+function getScript(scriptName, func) {
   var head = document.getElementsByTagName("head")[0];
   var script = document.createElement('script');
   script.id = scriptName;
   script.type = 'text/javascript';
   script.onload = func;
-  
-  var m = scriptName.match(/^((?:\.\.\/)*)(.*)$/);
-  script.src = (m?m[1]:'')+'js/'+(m?m[2]:scriptName)+'.js';
-
+  // Use jsBasePath for loading scripts (ensures navtreeindex files are found in js/)
+  var name = scriptName.indexOf('/') === -1 ? scriptName : scriptName.substring(scriptName.lastIndexOf('/') + 1);
+  script.src = jsBasePath + name + '.js';
   head.appendChild(script);
 }
 
-function createIndent(o,domNode,node,level)
-{
-  var level=-1;
+function createIndent(o, domNode, node, level) {
+  var level = -1;
   var n = node;
-  while (n.parentNode) { level++; n=n.parentNode; }
+  while (n.parentNode) { level++; n = n.parentNode; }
   if (node.childrenData) {
     var imgNode = document.createElement("span");
     imgNode.className = 'arrow';
-    imgNode.style.paddingLeft=(16*level).toString()+'px';
-    imgNode.innerHTML=arrowRight;
+    imgNode.style.paddingLeft = (16 * level).toString() + 'px';
+    imgNode.innerHTML = arrowRight;
     node.plus_img = imgNode;
     node.expandToggle = document.createElement("a");
     node.expandToggle.href = "javascript:void(0)";
-    node.expandToggle.onclick = function() {
+    node.expandToggle.onclick = function () {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
-        node.plus_img.innerHTML=arrowRight;
+        node.plus_img.innerHTML = arrowRight;
         node.expanded = false;
       } else {
         expandNode(o, node, false, true);
@@ -135,7 +134,7 @@ function createIndent(o,domNode,node,level)
   } else {
     var span = document.createElement("span");
     span.className = 'arrow';
-    span.style.width   = 16*(level+1)+'px';
+    span.style.width = 16 * (level + 1) + 'px';
     span.innerHTML = '&#160;';
     domNode.appendChild(span);
   }
@@ -143,37 +142,34 @@ function createIndent(o,domNode,node,level)
 
 var animationInProgress = false;
 
-function gotoAnchor(anchor,aname,updateLocation)
-{
+function gotoAnchor(anchor, aname, updateLocation) {
   var pos, docContent = $('#doc-content');
   var ancParent = $(anchor.parent());
   if (ancParent.hasClass('memItemLeft') ||
-      ancParent.hasClass('memtitle') ||
-      ancParent.hasClass('fieldname') ||
-      ancParent.hasClass('fieldtype') ||
-      ancParent.is(':header'))
-  {
+    ancParent.hasClass('memtitle') ||
+    ancParent.hasClass('fieldname') ||
+    ancParent.hasClass('fieldtype') ||
+    ancParent.is(':header')) {
     pos = ancParent.position().top;
   } else if (anchor.position()) {
     pos = anchor.position().top;
   }
   if (pos) {
     var dist = Math.abs(Math.min(
-               pos-docContent.offset().top,
-               docContent[0].scrollHeight-
-               docContent.height()-docContent.scrollTop()));
-    animationInProgress=true;
+      pos - docContent.offset().top,
+      docContent[0].scrollHeight -
+      docContent.height() - docContent.scrollTop()));
+    animationInProgress = true;
     docContent.animate({
       scrollTop: pos + docContent.scrollTop() - docContent.offset().top
-    },Math.max(50,Math.min(500,dist)),function(){
-      if (updateLocation) window.location.href=aname;
-      animationInProgress=false;
+    }, Math.max(50, Math.min(500, dist)), function () {
+      if (updateLocation) window.location.href = aname;
+      animationInProgress = false;
     });
   }
 }
 
-function newNode(o, po, text, link, childrenData, lastNode)
-{
+function newNode(o, po, text, link, childrenData, lastNode) {
   var node = new Object();
   node.children = Array();
   node.childrenData = childrenData;
@@ -191,7 +187,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
   node.labelSpan = document.createElement("span");
   node.labelSpan.className = "label";
 
-  createIndent(o,node.itemDiv,node,0);
+  createIndent(o, node.itemDiv, node, 0);
   node.itemDiv.appendChild(node.labelSpan);
   node.li.appendChild(node.itemDiv);
 
@@ -202,37 +198,35 @@ function newNode(o, po, text, link, childrenData, lastNode)
   a.appendChild(node.label);
   if (link) {
     var url;
-    if (link.substring(0,1)=='^') {
+    if (link.substring(0, 1) == '^') {
       url = link.substring(1);
       link = url;
     } else {
-      url = node.relpath+link;
+      url = node.relpath + link;
     }
-    a.className = stripPath(link.replace('#',':'));
-    if (link.indexOf('#')!=-1) {
-      var aname = '#'+link.split('#')[1];
+    a.className = stripPath(link.replace('#', ':'));
+    if (link.indexOf('#') != -1) {
+      var aname = '#' + link.split('#')[1];
       var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
-      a.href = srcPage!=targetPage ? url : "javascript:void(0)";
-      a.onclick = function(){
+      a.href = srcPage != targetPage ? url : "javascript:void(0)";
+      a.onclick = function () {
         storeLink(link);
-        if (!$(a).parent().parent().hasClass('selected'))
-        {
+        if (!$(a).parent().parent().hasClass('selected')) {
           $('.item').removeClass('selected');
           $('.item').removeAttr('id');
           $(a).parent().parent().addClass('selected');
-          $(a).parent().parent().attr('id','selected');
+          $(a).parent().parent().attr('id', 'selected');
         }
         var anchor = $(aname);
-        gotoAnchor(anchor,aname,true);
+        gotoAnchor(anchor, aname, true);
       };
     } else {
       a.href = url;
-      a.onclick = function() { storeLink(link); }
+      a.onclick = function () { storeLink(link); }
     }
   } else {
-    if (childrenData != null)
-    {
+    if (childrenData != null) {
       a.className = "nolink";
       a.href = "javascript:void(0)";
       a.onclick = node.expandToggle.onclick;
@@ -240,7 +234,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
   }
 
   node.childrenUL = null;
-  node.getChildrenUL = function() {
+  node.getChildrenUL = function () {
     if (!node.childrenUL) {
       node.childrenUL = document.createElement("ul");
       node.childrenUL.className = "children_ul";
@@ -253,27 +247,25 @@ function newNode(o, po, text, link, childrenData, lastNode)
   return node;
 }
 
-function showRoot()
-{
+function showRoot() {
   var headerHeight = $("#top").height();
   var footerHeight = $("#nav-path").height();
   var windowHeight = $(window).height() - headerHeight - footerHeight;
-  (function (){ // retry until we can scroll to the selected item
+  (function () { // retry until we can scroll to the selected item
     try {
-      var navtree=$('#nav-tree');
-      navtree.scrollTo('#selected',100,{offset:-windowHeight/2});
+      var navtree = $('#nav-tree');
+      navtree.scrollTo('#selected', 100, { offset: -windowHeight / 2 });
     } catch (err) {
       setTimeout(arguments.callee, 0);
     }
   })();
 }
 
-function expandNode(o, node, imm, setFocus)
-{
+function expandNode(o, node, imm, setFocus) {
   if (node.childrenData && !node.expanded) {
-    if (typeof(node.childrenData)==='string') {
-      var varName    = node.childrenData;
-      getScript(node.relpath+varName,function(){
+    if (typeof (node.childrenData) === 'string') {
+      var varName = node.childrenData;
+      getScript(node.relpath + varName, function () {
         node.childrenData = getData(varName);
         expandNode(o, node, imm, setFocus);
       });
@@ -291,90 +283,86 @@ function expandNode(o, node, imm, setFocus)
   }
 }
 
-function glowEffect(n,duration)
-{
-  n.addClass('glow').delay(duration).queue(function(next){
-    $(this).removeClass('glow');next();
+function glowEffect(n, duration) {
+  n.addClass('glow').delay(duration).queue(function (next) {
+    $(this).removeClass('glow'); next();
   });
 }
 
-function highlightAnchor()
-{
+function highlightAnchor() {
   var aname = hashUrl();
   var anchor = $(aname);
-  if (anchor.parent().attr('class')=='memItemLeft'){
-    var rows = $('.memberdecls tr[class$="'+hashValue()+'"]');
-    glowEffect(rows.children(),300); // member without details
-  } else if (anchor.parent().attr('class')=='fieldname'){
-    glowEffect(anchor.parent().parent(),1000); // enum value
-  } else if (anchor.parent().attr('class')=='fieldtype'){
-    glowEffect(anchor.parent().parent(),1000); // struct field
+  if (anchor.parent().attr('class') == 'memItemLeft') {
+    var rows = $('.memberdecls tr[class$="' + hashValue() + '"]');
+    glowEffect(rows.children(), 300); // member without details
+  } else if (anchor.parent().attr('class') == 'fieldname') {
+    glowEffect(anchor.parent().parent(), 1000); // enum value
+  } else if (anchor.parent().attr('class') == 'fieldtype') {
+    glowEffect(anchor.parent().parent(), 1000); // struct field
   } else if (anchor.parent().is(":header")) {
-    glowEffect(anchor.parent(),1000); // section header
+    glowEffect(anchor.parent(), 1000); // section header
   } else {
-    glowEffect(anchor.next(),1000); // normal member
+    glowEffect(anchor.next(), 1000); // normal member
   }
 }
 
-function selectAndHighlight(hash,n)
-{
+function selectAndHighlight(hash, n) {
   var a;
   if (hash) {
-    var link=stripPath(pathName())+':'+hash.substring(1);
-    a=$('.item a[class$="'+link+'"]');
+    var link = stripPath(pathName()) + ':' + hash.substring(1);
+    a = $('.item a[class$="' + link + '"]');
   }
   if (a && a.length) {
     a.parent().parent().addClass('selected');
-    a.parent().parent().attr('id','selected');
+    a.parent().parent().attr('id', 'selected');
     highlightAnchor();
   } else if (n) {
     $(n.itemDiv).addClass('selected');
-    $(n.itemDiv).attr('id','selected');
+    $(n.itemDiv).attr('id', 'selected');
   }
-  var topOffset=5;
-  if (typeof page_layout!=='undefined' && page_layout==1) {
-    topOffset+=$('#top').outerHeight();
+  var topOffset = 5;
+  if (typeof page_layout !== 'undefined' && page_layout == 1) {
+    topOffset += $('#top').outerHeight();
   }
   if ($('#nav-tree-contents .item:first').hasClass('selected')) {
-    topOffset+=25;
+    topOffset += 25;
   }
-  $('#nav-sync').css('top',topOffset+'px');
+  $('#nav-sync').css('top', topOffset + 'px');
   showRoot();
 }
 
-function showNode(o, node, index, hash)
-{
+function showNode(o, node, index, hash) {
   if (node && node.childrenData) {
-    if (typeof(node.childrenData)==='string') {
-      var varName    = node.childrenData;
-      getScript(node.relpath+varName,function(){
+    if (typeof (node.childrenData) === 'string') {
+      var varName = node.childrenData;
+      getScript(node.relpath + varName, function () {
         node.childrenData = getData(varName);
-        showNode(o,node,index,hash);
+        showNode(o, node, index, hash);
       });
     } else {
       if (!node.childrenVisited) {
         getNode(o, node);
       }
-      $(node.getChildrenUL()).css({'display':'block'});
+      $(node.getChildrenUL()).css({ 'display': 'block' });
       node.plus_img.innerHTML = arrowDown;
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
-      if (index+1<o.breadcrumbs.length) {
-        showNode(o,n,index+1,hash);
+      if (index + 1 < o.breadcrumbs.length) {
+        showNode(o, n, index + 1, hash);
       } else {
-        if (typeof(n.childrenData)==='string') {
+        if (typeof (n.childrenData) === 'string') {
           var varName = n.childrenData;
-          getScript(n.relpath+varName,function(){
+          getScript(n.relpath + varName, function () {
             n.childrenData = getData(varName);
-            node.expanded=false;
-            showNode(o,node,index,hash); // retry with child node expanded
+            node.expanded = false;
+            showNode(o, node, index, hash); // retry with child node expanded
           });
         } else {
           var rootBase = stripPath(o.toroot.replace(/\..+$/, ''));
-          if (rootBase=="index" || rootBase=="pages" || rootBase=="search") {
+          if (rootBase == "index" || rootBase == "pages" || rootBase == "search") {
             expandNode(o, n, true, false);
           }
-          selectAndHighlight(hash,n);
+          selectAndHighlight(hash, n);
         }
       }
     }
@@ -387,7 +375,7 @@ function removeToInsertLater(element) {
   var parentNode = element.parentNode;
   var nextSibling = element.nextSibling;
   parentNode.removeChild(element);
-  return function() {
+  return function () {
     if (nextSibling) {
       parentNode.insertBefore(element, nextSibling);
     } else {
@@ -396,25 +384,23 @@ function removeToInsertLater(element) {
   };
 }
 
-function getNode(o, po)
-{
+function getNode(o, po) {
   var insertFunction = removeToInsertLater(po.li);
   po.childrenVisited = true;
-  var l = po.childrenData.length-1;
+  var l = po.childrenData.length - 1;
   for (var i in po.childrenData) {
     var nodeData = po.childrenData[i];
     po.children[i] = newNode(o, po, nodeData[0], nodeData[1], nodeData[2],
-      i==l);
+      i == l);
   }
   insertFunction();
 }
 
-function gotoNode(o,subIndex,root,hash,relpath)
-{
-  var nti = navTreeSubIndices[subIndex][root+hash];
+function gotoNode(o, subIndex, root, hash, relpath) {
+  var nti = navTreeSubIndices[subIndex][root + hash];
   o.breadcrumbs = $.extend(true, [], nti ? nti : navTreeSubIndices[subIndex][root]);
-  if (!o.breadcrumbs && root!=NAVTREE[0][1]) { // fallback: show index
-    navTo(o,NAVTREE[0][1],"",relpath);
+  if (!o.breadcrumbs && root != NAVTREE[0][1]) { // fallback: show index
+    navTo(o, NAVTREE[0][1], "", relpath);
     $('.item').removeClass('selected');
     $('.item').removeAttr('id');
   }
@@ -424,74 +410,69 @@ function gotoNode(o,subIndex,root,hash,relpath)
   }
 }
 
-function navTo(o,root,hash,relpath)
-{
+function navTo(o, root, hash, relpath) {
   var link = cachedLink();
   if (link) {
     var parts = link.split('#');
     root = parts[0];
-    if (parts.length>1) hash = '#'+parts[1].replace(/[^\w\-]/g,'');
-    else hash='';
+    if (parts.length > 1) hash = '#' + parts[1].replace(/[^\w\-]/g, '');
+    else hash = '';
   }
   if (hash.match(/^#l\d+$/)) {
-    var anchor=$('a[name='+hash.substring(1)+']');
-    glowEffect(anchor.parent(),1000); // line number
-    hash=''; // strip line number anchors
+    var anchor = $('a[name=' + hash.substring(1) + ']');
+    glowEffect(anchor.parent(), 1000); // line number
+    hash = ''; // strip line number anchors
   }
-  var url=root+hash;
-  var i=-1;
-  while (NAVTREEINDEX[i+1]<=url) i++;
-  if (i==-1) { i=0; root=NAVTREE[0][1]; } // fallback: show index
+  var url = root + hash;
+  var i = -1;
+  while (NAVTREEINDEX[i + 1] <= url) i++;
+  if (i == -1) { i = 0; root = NAVTREE[0][1]; } // fallback: show index
   if (navTreeSubIndices[i]) {
-    gotoNode(o,i,root,hash,relpath)
+    gotoNode(o, i, root, hash, relpath)
   } else {
-    getScript(relpath+'navtreeindex'+i,function(){
-      navTreeSubIndices[i] = eval('NAVTREEINDEX'+i);
+    getScript(relpath + 'navtreeindex' + i, function () {
+      navTreeSubIndices[i] = eval('NAVTREEINDEX' + i);
       if (navTreeSubIndices[i]) {
-        gotoNode(o,i,root,hash,relpath);
+        gotoNode(o, i, root, hash, relpath);
       }
     });
   }
 }
 
-function showSyncOff(n,relpath)
-{
-    n.html('<img src="'+relpath+'sync_off.png" title="'+SYNCOFFMSG+'"/>');
+function showSyncOff(n, relpath) {
+  n.html('<img src="' + relpath + 'sync_off.png" title="' + SYNCOFFMSG + '"/>');
 }
 
-function showSyncOn(n,relpath)
-{
-    n.html('<img src="'+relpath+'sync_on.png" title="'+SYNCONMSG+'"/>');
+function showSyncOn(n, relpath) {
+  n.html('<img src="' + relpath + 'sync_on.png" title="' + SYNCONMSG + '"/>');
 }
 
-function toggleSyncButton(relpath)
-{
+function toggleSyncButton(relpath) {
   var navSync = $('#nav-sync');
   if (navSync.hasClass('sync')) {
     navSync.removeClass('sync');
-    showSyncOff(navSync,relpath);
-    storeLink(stripPath2(pathName())+hashUrl());
+    showSyncOff(navSync, relpath);
+    storeLink(stripPath2(pathName()) + hashUrl());
   } else {
     navSync.addClass('sync');
-    showSyncOn(navSync,relpath);
+    showSyncOn(navSync, relpath);
     deleteLink();
   }
 }
 
 var loadTriggered = false;
 var readyTriggered = false;
-var loadObject,loadToRoot,loadUrl,loadRelPath;
+var loadObject, loadToRoot, loadUrl, loadRelPath;
 
-$(window).on('load',function(){
+$(window).on('load', function () {
   if (readyTriggered) { // ready first
-    navTo(loadObject,loadToRoot,loadUrl,loadRelPath);
+    navTo(loadObject, loadToRoot, loadUrl, loadRelPath);
     showRoot();
   }
-  loadTriggered=true;
+  loadTriggered = true;
 });
 
-function initNavTree(toroot,relpath)
-{
+function initNavTree(toroot, relpath) {
   var o = new Object();
   o.toroot = toroot;
   o.node = new Object();
@@ -499,7 +480,7 @@ function initNavTree(toroot,relpath)
   o.node.childrenData = NAVTREE;
   o.node.children = new Array();
   o.node.childrenUL = document.createElement("ul");
-  o.node.getChildrenUL = function() { return o.node.childrenUL; };
+  o.node.getChildrenUL = function () { return o.node.childrenUL; };
   o.node.li.appendChild(o.node.childrenUL);
   o.node.depth = 0;
   o.node.relpath = relpath;
@@ -512,51 +493,51 @@ function initNavTree(toroot,relpath)
   if (localStorageSupported()) {
     var navSync = $('#nav-sync');
     if (cachedLink()) {
-      showSyncOff(navSync,relpath);
+      showSyncOff(navSync, relpath);
       navSync.removeClass('sync');
     } else {
-      showSyncOn(navSync,relpath);
+      showSyncOn(navSync, relpath);
     }
-    navSync.click(function(){ toggleSyncButton(relpath); });
+    navSync.click(function () { toggleSyncButton(relpath); });
   }
 
   if (loadTriggered) { // load before ready
-    navTo(o,toroot,hashUrl(),relpath);
+    navTo(o, toroot, hashUrl(), relpath);
     showRoot();
   } else { // ready before load
-    loadObject  = o;
-    loadToRoot  = toroot;
-    loadUrl     = hashUrl();
+    loadObject = o;
+    loadToRoot = toroot;
+    loadUrl = hashUrl();
     loadRelPath = relpath;
-    readyTriggered=true;
+    readyTriggered = true;
   }
 
-  $(window).bind('hashchange', function(){
-     if (window.location.hash && window.location.hash.length>1){
-       var a;
-       if ($(location).attr('hash')){
-         var clslink=stripPath(pathName())+':'+hashValue();
-         a=$('.item a[class$="'+clslink.replace(/</g,'\\3c ')+'"]');
-       }
-       if (a==null || !$(a).parent().parent().hasClass('selected')){
-         $('.item').removeClass('selected');
-         $('.item').removeAttr('id');
-       }
-       var link=stripPath2(pathName());
-       navTo(o,link,hashUrl(),relpath);
-     } else if (!animationInProgress) {
-       $('#doc-content').scrollTop(0);
-       $('.item').removeClass('selected');
-       $('.item').removeAttr('id');
-       navTo(o,toroot,hashUrl(),relpath);
-     }
+  $(window).bind('hashchange', function () {
+    if (window.location.hash && window.location.hash.length > 1) {
+      var a;
+      if ($(location).attr('hash')) {
+        var clslink = stripPath(pathName()) + ':' + hashValue();
+        a = $('.item a[class$="' + clslink.replace(/</g, '\\3c ') + '"]');
+      }
+      if (a == null || !$(a).parent().parent().hasClass('selected')) {
+        $('.item').removeClass('selected');
+        $('.item').removeAttr('id');
+      }
+      var link = stripPath2(pathName());
+      navTo(o, link, hashUrl(), relpath);
+    } else if (!animationInProgress) {
+      $('#doc-content').scrollTop(0);
+      $('.item').removeClass('selected');
+      $('.item').removeAttr('id');
+      navTo(o, toroot, hashUrl(), relpath);
+    }
   })
 
-  $("div.toc a[href]").click(function(e) {
+  $("div.toc a[href]").click(function (e) {
     e.preventDefault();
     var docContent = $('#doc-content');
     var aname = $(this).attr("href");
-    gotoAnchor($(aname),aname,true);
+    gotoAnchor($(aname), aname, true);
   })
 }
 /* @license-end */

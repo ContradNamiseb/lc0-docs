@@ -1,9 +1,0 @@
-<map id="lczero::PjrtDevice::ToString" name="lczero::PjrtDevice::ToString">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,141,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1PjrtCommon.html#a327976e2d703f116d508fca42dcc6902" title=" " alt="" coords="189,37,340,77"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,55,175,55,175,60,142,60"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1PjrtCommon.html#aba9878fd9815252d2cf78fc786fbc95d" title=" " alt="" coords="388,5,559,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,43,374,38,375,43,341,48"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1PjrtCommon.html#a78c392c566249989054b3179d7b950a7" title=" " alt="" coords="398,69,549,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="341,66,385,73,384,78,340,72"/>
-</map>

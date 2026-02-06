@@ -1,9 +1,0 @@
-<map id="lczero::XlaMutableTensor::GetBufferSize" name="lczero::XlaMutableTensor::GetBufferSize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,191,95"/>
-<area shape="rect" id="Node000002" href="$namespacelczero.html#a57a89bbb3d7691c090c918eb2431fdbb" title=" " alt="" coords="246,5,417,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,53,265,31,267,37,181,58"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1XlaMutableTensor.html#a628983e72e600ce9a42e6e9e793da776" title=" " alt="" coords="239,55,424,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,73,225,73,225,78,191,78"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1XlaMutableTensor.html#ac8147227f8f90c183d00db07e1e561ee" title=" " alt="" coords="239,119,424,159"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,93,245,113,244,118,171,98"/>
-</map>

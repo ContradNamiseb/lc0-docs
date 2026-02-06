@@ -1,7 +1,0 @@
-<map id="lczero::classic::Edge::SetP" name="lczero::classic::Edge::SetP">
-<area shape="rect" id="Node000001" title=" " alt="" coords="467,5,620,45"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#a0b8fd255e562df2a36272d89a95c0fb2" title=" " alt="" coords="264,5,419,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,28,419,28,419,23,453,23"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1SearchWorker.html#a745943387c25632f355c794421cb28f0" title=" " alt="" coords="5,5,216,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,28,216,28,216,23,250,23"/>
-</map>

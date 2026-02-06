@@ -1,7 +1,0 @@
-<map id="lczero::KingAttackInfo::is_pinned" name="lczero::KingAttackInfo::is_pinned">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,45"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1BitBoard.html#a19855cfecc8374909ac9ceed137553c1" title=" " alt="" coords="219,13,373,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,205,23,205,28,171,28"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="421,13,585,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,23,408,23,408,28,374,28"/>
-</map>

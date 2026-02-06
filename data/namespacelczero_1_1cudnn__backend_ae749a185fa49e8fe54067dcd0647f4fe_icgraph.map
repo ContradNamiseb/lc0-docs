@@ -1,7 +1,0 @@
-<map id="lczero::cudnn_backend::expandPlanes_NCHW" name="lczero::cudnn_backend::expandPlanes_NCHW">
-<area shape="rect" id="Node000001" title=" " alt="" coords="219,37,389,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1CudaNetwork.html#aa3b5bd67092d91cdf27dca2ebfbd1e5c" title=" " alt="" coords="9,5,167,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,45,166,40,167,34,205,40"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1CudnnNetwork.html#ad973be46523f335bfc5cf31e9f4cd207" title=" " alt="" coords="5,69,171,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,75,171,80,171,74,205,69"/>
-</map>

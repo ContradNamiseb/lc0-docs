@@ -1,9 +1,0 @@
-<map id="lczero::classic::NodeTree::GetPlyCount" name="lczero::classic::NodeTree::GetPlyCount">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,188,67"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1Position.html#a46d218a438dc14aa85e701b4cd1f4d46" title=" " alt="" coords="236,5,447,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,34,222,30,223,35,188,39"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1NodeTree.html#a9c62a71af446bf3e62538de0231e0c34" title=" " alt="" coords="250,55,433,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,55,237,61,236,66,188,60"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title=" " alt="" coords="495,55,663,95"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,73,481,73,481,78,433,78"/>
-</map>

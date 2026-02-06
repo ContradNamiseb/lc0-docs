@@ -1,7 +1,0 @@
-<map id="lczero::dx_backend::ShaderWrapper::AddVectors" name="lczero::dx_backend::ShaderWrapper::AddVectors">
-<area shape="rect" id="Node000001" title=" " alt="" coords="200,37,411,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1ConvLayer.html#a2fcc98c3d66a94545f20e596c5a60360" title=" " alt="" coords="5,5,152,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,43,152,38,153,33,187,38"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1FCLayer.html#a657cb1852a45cfd8298879e28a6f3c22" title=" " alt="" coords="5,69,152,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,77,153,82,152,76,186,72"/>
-</map>

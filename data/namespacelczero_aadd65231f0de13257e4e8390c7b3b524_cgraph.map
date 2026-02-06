@@ -1,9 +1,0 @@
-<map id="lczero::apply_se" name="lczero::apply_se">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,132,56"/>
-<area shape="rect" id="Node000002" href="$namespacelczero.html#aac113329d209c13ff117e596f6c3a59a" title=" " alt="" coords="180,31,303,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,41,166,41,166,46,132,46"/>
-<area shape="rect" id="Node000003" href="$namespacelczero.html#a80f2203e46075fcfca58c0760a6affec" title=" " alt="" coords="351,5,452,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,31,336,26,337,31,303,36"/>
-<area shape="rect" id="Node000004" href="$namespacelczero.html#a41b4f50df7c669535ad15f7a0053d54b" title=" " alt="" coords="353,55,449,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,50,340,56,340,61,303,55"/>
-</map>

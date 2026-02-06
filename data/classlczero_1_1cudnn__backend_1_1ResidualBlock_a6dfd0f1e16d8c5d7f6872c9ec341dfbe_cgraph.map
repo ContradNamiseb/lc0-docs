@@ -1,7 +1,0 @@
-<map id="lczero::cudnn_backend::ResidualBlock::Eval" name="lczero::cudnn_backend::ResidualBlock::Eval">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,175,89"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1BaseLayer.html#af340ecb04241d8f8988eb53b90a94a0c" title=" " alt="" coords="223,5,436,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,53,209,48,209,53,175,59"/>
-<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#a6e5b744b1a0faa8eedd8df3f3808f42e" title=" " alt="" coords="245,85,414,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,79,231,87,231,93,174,84"/>
-</map>

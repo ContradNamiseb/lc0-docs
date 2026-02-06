@@ -1,9 +1,0 @@
-<map id="lczero::NetworkFactory::Create" name="lczero::NetworkFactory::Create">
-<area shape="rect" id="Node000001" title=" " alt="" coords="253,69,424,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1python_1_1Backend.html#a37cd8b0fa03e3648ef20565b0e0d19f1" title=" " alt="" coords="17,5,194,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,68,178,48,179,43,253,63"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1NetworkFactory.html#acfb3d83425b0166c60c33ad6c631f90d" title=" " alt="" coords="20,69,191,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,92,191,92,191,87,239,87"/>
-<area shape="rect" id="Node000004" href="$namespacelczero.html#aba5c0f055265aa41d496bbd73eb87de4" title=" " alt="" coords="5,134,205,159"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,115,158,137,157,131,243,110"/>
-</map>

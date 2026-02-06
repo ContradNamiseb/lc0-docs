@@ -1,5 +1,0 @@
-<map id="lczero::sycldnn_backend::Se_Fp16_NHWC" name="lczero::sycldnn_backend::Se_Fp16_NHWC">
-<area shape="rect" id="Node000001" title=" " alt="" coords="233,5,413,45"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#a3c3c4c6e00fe195d3c73078277b52024" title=" " alt="" coords="5,5,185,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,28,185,28,185,23,219,23"/>
-</map>

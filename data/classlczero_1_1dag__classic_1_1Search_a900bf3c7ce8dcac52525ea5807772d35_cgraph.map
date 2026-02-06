@@ -1,7 +1,0 @@
-<map id="lczero::dag_classic::Search::GetBestRootChildWithTemperature" name="lczero::dag_classic::Search::GetBestRootChildWithTemperature">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,16,203,71"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1Random.html#a56bd43d254b6608e573474715400dd7b" title=" " alt="" coords="267,5,421,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,30,253,25,253,30,203,36"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1Random.html#a2c8df5e1d452d68b003979de410ba299" title=" " alt="" coords="251,55,437,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,51,237,54,237,59,203,56"/>
-</map>

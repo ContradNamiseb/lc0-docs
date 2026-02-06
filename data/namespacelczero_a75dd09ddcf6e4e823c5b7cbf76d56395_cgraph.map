@@ -1,7 +1,0 @@
-<map id="lczero::ShowNetworkWeightsInfo" name="lczero::ShowNetworkWeightsInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,241,70"/>
-<area shape="rect" id="Node000002" href="$namespacelczero.html#a9640af0c6245f07e724511fc48e81d7d" title=" " alt="" coords="289,5,500,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,42,275,37,276,42,232,47"/>
-<area shape="rect" id="Node000003" href="$namespacelczero.html#ad68aea2723b926d44a8ce9c23ebbeaa6" title=" " alt="" coords="289,69,500,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,67,276,73,275,78,231,73"/>
-</map>

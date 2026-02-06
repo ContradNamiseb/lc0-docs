@@ -1,5 +1,0 @@
-<map id="lczero::CudaNetwork::forwardEval" name="lczero::CudaNetwork::forwardEval">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,163,45"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#ae749a185fa49e8fe54067dcd0647f4fe" title=" " alt="" coords="211,5,381,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,23,197,23,197,28,163,28"/>
-</map>

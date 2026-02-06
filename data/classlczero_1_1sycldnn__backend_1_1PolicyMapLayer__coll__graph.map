@@ -1,8 +1,0 @@
-<map id="lczero::sycldnn_backend::PolicyMapLayer&lt; DataType &gt;" name="lczero::sycldnn_backend::PolicyMapLayer&lt; DataType &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,229,237"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html" title=" " alt="" coords="23,108,212,148"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,162,120,197,115,197,115,162"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html" title=" " alt="" coords="23,5,212,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,59,120,108,115,108,115,59"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="227,16,239,25,231,33,213,37,212,31,228,28,233,26,224,21"/>
-</map>

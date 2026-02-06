@@ -1,9 +1,0 @@
-<map id="lczero::sycldnn_backend::AttentionBody::AttentionBody" name="lczero::sycldnn_backend::AttentionBody::AttentionBody">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,228,77"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#af39d2717c379e537912c31a25f99e492" title=" " alt="" coords="276,37,456,77"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,55,262,55,262,60,228,60"/>
-<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a726581493bfb4d1a5ce0e3c88bdeedb4" title=" " alt="" coords="504,5,709,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,43,490,38,491,43,457,48"/>
-<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="517,69,697,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="457,67,503,73,503,78,456,72"/>
-</map>

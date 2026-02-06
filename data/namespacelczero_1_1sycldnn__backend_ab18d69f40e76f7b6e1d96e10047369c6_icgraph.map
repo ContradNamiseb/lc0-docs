@@ -1,7 +1,0 @@
-<map id="lczero::sycldnn_backend::addBias_NCHW_kernel" name="lczero::sycldnn_backend::addBias_NCHW_kernel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="461,5,641,45"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a8dbde1e661e0c0eb15ae7f929f23a643" title=" " alt="" coords="233,5,413,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,28,413,28,413,23,447,23"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1Conv1Layer.html#a1f5581b22bef2fc9674786b399773e88" title=" " alt="" coords="5,5,185,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,28,185,28,185,23,219,23"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lczero::classic::NodeTree" name="lczero::classic::NodeTree">
-<area shape="rect" id="Node000001" title=" " alt="" coords="187,93,370,119"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html" title=" " alt="" coords="5,5,160,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,34,253,91,251,96,120,39"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="175,10,187,18,178,25,161,28,160,23,176,20,181,18,173,15"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1PositionHistory.html" title=" " alt="" coords="261,5,429,31"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="330,43,290,94,286,91,326,40"/>
-</map>

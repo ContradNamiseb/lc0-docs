@@ -80,6 +80,8 @@ var hierarchy =
     [ "lczero::Convolution1< use_eigen >", "classlczero_1_1Convolution1.html", null ],
     [ "lczero::cudnn_backend::CudaGraphCapture< DataType >", "structlczero_1_1cudnn__backend_1_1CudaGraphCapture.html", null ],
     [ "lczero::cudnn_backend::CudaGraphExec< DataType >", "structlczero_1_1cudnn__backend_1_1CudaGraphExec.html", null ],
+    [ "lczero::sycldnn_backend::DeviceCapabilities", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html", null ],
+    [ "lczero::sycldnn_backend::DeviceCapabilities::DeviceInfo", "structlczero_1_1sycldnn__backend_1_1DeviceCapabilities_1_1DeviceInfo.html", null ],
     [ "lczero::dx_backend::DXAlloc", "structlczero_1_1dx__backend_1_1DXAlloc.html", null ],
     [ "lczero::dx_backend::DxContext", "classlczero_1_1dx__backend_1_1DxContext.html", null ],
     [ "lczero::classic::Edge", "classlczero_1_1classic_1_1Edge.html", null ],

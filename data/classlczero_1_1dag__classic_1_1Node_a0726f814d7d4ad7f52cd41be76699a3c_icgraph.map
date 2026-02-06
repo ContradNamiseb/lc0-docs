@@ -1,7 +1,0 @@
-<map id="lczero::dag_classic::Node::MakeTerminal" name="lczero::dag_classic::Node::MakeTerminal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="265,41,428,81"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title=" " alt="" coords="8,5,215,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,49,215,44,215,39,252,44"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title=" " alt="" coords="5,70,217,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,78,218,84,217,78,251,73"/>
-</map>

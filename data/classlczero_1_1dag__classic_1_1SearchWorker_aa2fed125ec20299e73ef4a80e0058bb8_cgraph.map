@@ -1,7 +1,0 @@
-<map id="lczero::dag_classic::SearchWorker::RunBlocking" name="lczero::dag_classic::SearchWorker::RunBlocking">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,213,89"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#ac7481d4df18a272c05366249735e6f4d" title=" " alt="" coords="261,5,465,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,51,248,46,248,52,214,57"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Search.html#a70c6b224bf79f8f29de99e0b40487ca3" title=" " alt="" coords="274,85,453,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,81,261,87,260,93,213,86"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lczero::cudnn_backend::ConvLayer::init" name="lczero::cudnn_backend::ConvLayer::init">
-<area shape="rect" id="Node000001" title=" " alt="" coords="229,37,399,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1ConvLayer.html#a5ea0cfff687405d5f733b5242d8c285b" title=" " alt="" coords="5,5,181,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,46,181,41,182,35,216,40"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1ConvLayer.html#a9a15399dac36071ba9d665ea202febd6" title=" " alt="" coords="5,69,181,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,74,182,79,181,74,215,69"/>
-</map>

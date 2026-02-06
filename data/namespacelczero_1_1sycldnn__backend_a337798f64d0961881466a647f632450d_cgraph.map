@@ -1,9 +1,0 @@
-<map id="lczero::sycldnn_backend::allocAndUpload" name="lczero::sycldnn_backend::allocAndUpload">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,185,77"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#af39d2717c379e537912c31a25f99e492" title=" " alt="" coords="233,37,413,77"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,55,220,55,220,60,186,60"/>
-<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a726581493bfb4d1a5ce0e3c88bdeedb4" title=" " alt="" coords="461,5,667,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,43,447,38,448,43,414,48"/>
-<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="474,69,654,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,67,461,73,460,78,413,72"/>
-</map>

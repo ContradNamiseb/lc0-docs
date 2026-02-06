@@ -1,9 +1,0 @@
-<map id="lczero::ChessBoard::kings" name="lczero::ChessBoard::kings">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,152,63"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1BitBoard.html#afdcbdf9e0887c6950ab163297429440b" title=" " alt="" coords="200,31,411,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,41,186,41,186,46,152,46"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="471,5,635,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,30,458,25,458,30,411,35"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1BitBoard.html#afe60aa18a0c9ad80bc121071c633d544" title=" " alt="" coords="459,55,648,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,51,445,54,444,59,410,56"/>
-</map>

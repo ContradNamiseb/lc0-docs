@@ -1,7 +1,0 @@
-<map id="outputTransform4x4_gpu" name="outputTransform4x4_gpu">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,189,70"/>
-<area shape="rect" id="Node000002" href="$WinogradCommon_8h.html#a2f7d509cd12a8a852e476f55a86b2761" title=" " alt="" coords="237,5,400,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,42,223,36,224,42,186,47"/>
-<area shape="rect" id="Node000003" href="$WinogradCommon_8h.html#a346588294e464007d90f2c6017f22bf2" title=" " alt="" coords="237,69,400,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,67,224,73,223,78,185,73"/>
-</map>

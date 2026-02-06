@@ -1,9 +1,0 @@
-<map id="lczero::HloTensorType::Rank" name="lczero::HloTensorType::Rank">
-<area shape="rect" id="Node000001" title=" " alt="" coords="191,69,353,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1HloBuilder.html#a835037e59dbc593085d4b5b6090d82f7" title=" " alt="" coords="5,5,143,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,68,136,48,137,43,197,63"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1HloBuilder.html#a41ac9369fc6bca5caf8f77d5768578a8" title=" " alt="" coords="5,69,143,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,92,143,92,143,87,177,87"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1HloBuilder.html#a7319841364f617966c1a328a513a3b1b" title=" " alt="" coords="5,133,143,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,116,137,136,136,131,196,111"/>
-</map>

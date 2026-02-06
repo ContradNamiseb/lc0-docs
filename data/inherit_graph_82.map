@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classlczero_1_1Evaluator.html" title=" " alt="" coords="5,31,136,56"/>
-<area shape="rect" id="Node000001" href="$classlczero_1_1PolicyEvaluator.html" title=" " alt="" coords="184,5,355,31"/>
-<area shape="poly" id="edge35_Node000000_Node000001" title=" " alt="" coords="149,31,183,26,184,32,150,36"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1ValueEvaluator.html" title=" " alt="" coords="186,55,353,80"/>
-<area shape="poly" id="edge36_Node000000_Node000002" title=" " alt="" coords="150,50,186,55,185,60,149,55"/>
-</map>

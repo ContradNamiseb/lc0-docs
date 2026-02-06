@@ -1,7 +1,0 @@
-<map id="lczero::Backend" name="lczero::Backend">
-<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,251,31"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1CachingBackend.html" title=" " alt="" coords="5,79,181,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,41,111,81,107,76,161,37"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1MockBackend.html" title=" " alt="" coords="206,79,365,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,37,271,76,268,81,214,41"/>
-</map>

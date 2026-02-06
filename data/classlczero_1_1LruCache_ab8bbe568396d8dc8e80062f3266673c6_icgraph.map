@@ -1,7 +1,0 @@
-<map id="lczero::LruCache::MaybeCleanup" name="lczero::LruCache::MaybeCleanup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="268,31,503,56"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1LruCache.html#a68bbe8480db70d85223d57572acc981b" title=" " alt="" coords="25,5,200,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,34,200,29,200,23,255,29"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1LruCache.html#afa54ffeb0f715087588419fe8c22fd90" title=" " alt="" coords="5,55,220,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,58,220,61,220,55,254,52"/>
-</map>

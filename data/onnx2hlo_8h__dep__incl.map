@@ -1,9 +1,0 @@
-<map id="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/xla/onnx2hlo.h" name="/home/contrad&#45;namiseb/Desktop/Github/lc0&#45;linux&#45;binaries/src/neural/xla/onnx2hlo.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="242,5,429,75"/>
-<area shape="rect" id="Node000002" href="$network__xla_8cc.html" title=" " alt="" coords="5,123,217,192"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,83,178,125,176,120,257,79"/>
-<area shape="rect" id="Node000003" href="$onnx2hlo_8cc.html" title=" " alt="" coords="242,123,429,192"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,89,338,122,333,122,333,89"/>
-<area shape="rect" id="Node000004" href="$leela2onnx_8cc.html" title=" " alt="" coords="453,130,685,185"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="417,78,517,128,515,132,414,83"/>
-</map>

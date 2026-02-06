@@ -1,9 +1,0 @@
-<map id="lczero::classic::Node::GetNStarted" name="lczero::classic::Node::GetNStarted">
-<area shape="rect" id="Node000001" title=" " alt="" coords="491,37,645,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a9d7fd7a99a347314137648dc7ea0550a" title=" " alt="" coords="248,5,427,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,47,426,40,427,35,477,42"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1SearchWorker.html#aa8e89917ce2a6adb625523228be76bf3" title=" " alt="" coords="232,69,443,109"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,73,443,77,443,72,476,67"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a02090f53992a27fb31bc90ee4503e763" title=" " alt="" coords="5,5,184,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,28,184,28,184,23,234,23"/>
-</map>

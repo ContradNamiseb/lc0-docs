@@ -1,7 +1,0 @@
-<map id="lczero::sycldnn_backend::expandPlanes_Fp16_NHWC" name="lczero::sycldnn_backend::expandPlanes_Fp16_NHWC">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,41,215,81"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="263,5,443,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,43,249,38,250,43,215,48"/>
-<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#accb71d919acf44f43e024cb982d05ca4" title=" " alt="" coords="263,70,443,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,74,250,79,249,85,214,79"/>
-</map>

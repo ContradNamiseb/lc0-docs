@@ -1,9 +1,0 @@
-<map id="lczero::WeightsToOnnxConverterOptions::StringToDataType" name="lczero::WeightsToOnnxConverterOptions::StringToDataType">
-<area shape="rect" id="Node000001" title=" " alt="" coords="389,23,623,63"/>
-<area shape="rect" id="Node000002" href="$namespacelczero.html#a2fc1ee012ea1093d34cbbd1ebe6e1b67" title=" " alt="" coords="123,5,326,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,34,326,30,326,24,376,29"/>
-<area shape="rect" id="Node000004" href="$namespacelczero_1_1onnx.html#a19f91611a546ec0e11257509a9983de6" title=" " alt="" coords="108,55,341,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="376,57,342,60,341,55,376,52"/>
-<area shape="rect" id="Node000003" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,5,60,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,21,60,21,60,15,110,15"/>
-</map>

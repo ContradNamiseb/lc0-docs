@@ -1,7 +1,0 @@
-<map id="lczero::classic::BaseSearchParams::GetTaskWorkersPerSearchWorker" name="lczero::classic::BaseSearchParams::GetTaskWorkersPerSearchWorker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="269,30,516,85"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchWorker.html#a6b2ba6d40faba5bc8731e62157322224" title=" " alt="" coords="8,5,219,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,44,219,40,219,35,256,39"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#aac7e7c2044a11a8a03c7681d36915154" title=" " alt="" coords="5,69,221,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,76,222,80,221,74,255,70"/>
-</map>

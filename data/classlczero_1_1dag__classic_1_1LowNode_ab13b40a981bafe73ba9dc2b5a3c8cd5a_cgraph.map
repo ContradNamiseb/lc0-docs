@@ -1,7 +1,0 @@
-<map id="lczero::dag_classic::LowNode::~LowNode" name="lczero::dag_classic::LowNode::~LowNode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,175,93"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#a77408c15eb58223040acd0114ab24bd2" title=" " alt="" coords="223,5,400,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,55,209,48,210,54,176,60"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#afffd7d6978f54f2663b23446dbe80c11" title=" " alt="" coords="223,84,400,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,85,210,91,209,96,175,90"/>
-</map>

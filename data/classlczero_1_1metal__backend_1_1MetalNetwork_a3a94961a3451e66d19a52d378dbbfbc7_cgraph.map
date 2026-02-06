@@ -1,8 +1,0 @@
-<map id="lczero::metal_backend::MetalNetwork::MetalNetwork" name="lczero::metal_backend::MetalNetwork::MetalNetwork">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,228,89"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1metal__backend.html#ac5301e6ede50384be4dbdca488f5ce4b" title=" " alt="" coords="276,5,444,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,47,262,40,263,46,228,52"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="287,93,433,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,87,274,95,273,100,227,92"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="315,94,312,84,319,74,335,69,360,67,388,70,404,77,401,82,387,75,360,72,337,74,322,79,317,85,320,92"/>
-</map>

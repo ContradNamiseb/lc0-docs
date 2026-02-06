@@ -1,9 +1,0 @@
-<map id="lczero::classic::BaseSearchParams::GetPerPvCounters" name="lczero::classic::BaseSearchParams::GetPerPvCounters">
-<area shape="rect" id="Node000001" title=" " alt="" coords="432,37,629,77"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a34ea0b979efa5b2e1f006168452536d3" title=" " alt="" coords="219,37,384,77"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,60,384,60,384,55,418,55"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title=" " alt="" coords="5,5,171,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,46,171,40,171,35,206,40"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title=" " alt="" coords="5,69,171,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="206,74,171,80,171,74,205,69"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lczero::SelfPlayLoop::SendTournament" name="lczero::SelfPlayLoop::SendTournament">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,159,45"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1StringUciResponder.html#ae1388424eb5f5320c6f1948c2956e358" title=" " alt="" coords="207,5,404,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,23,193,23,193,28,159,28"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1StringUciResponder.html#ab0ec14aa847fa6784410735ff5f20b1c" title=" " alt="" coords="452,5,649,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,23,438,23,438,28,404,28"/>
-</map>

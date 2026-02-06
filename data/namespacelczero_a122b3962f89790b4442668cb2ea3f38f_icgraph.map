@@ -1,7 +1,0 @@
-<map id="lczero::TestValidRootExpectation" name="lczero::TestValidRootExpectation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="155,31,389,56"/>
-<area shape="rect" id="Node000002" href="$namespacelczero.html#a2a85ed36790537ead9261cd70a00a00b" title=" " alt="" coords="5,5,107,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,32,107,27,107,21,150,26"/>
-<area shape="rect" id="Node000003" href="$namespacelczero.html#aece732c7ffd2d1e17d884b11f27596f0" title=" " alt="" coords="5,55,107,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,60,107,64,107,59,144,55"/>
-</map>

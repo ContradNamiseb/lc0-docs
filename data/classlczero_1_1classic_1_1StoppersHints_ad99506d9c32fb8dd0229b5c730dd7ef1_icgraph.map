@@ -1,9 +1,0 @@
-<map id="lczero::classic::StoppersHints::UpdateEstimatedRemainingPlayouts" name="lczero::classic::StoppersHints::UpdateEstimatedRemainingPlayouts">
-<area shape="rect" id="Node000001" title=" " alt="" coords="263,62,509,117"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1VisitsStopper.html#a77cecad9eb69f2b82ff923569c7b1dc0" title=" " alt="" coords="7,5,213,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,61,196,48,197,43,255,56"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1PlayoutsStopper.html#ae72f00f87391053b35a7cd7c89ee8af7" title=" " alt="" coords="21,69,199,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,92,199,92,199,87,249,87"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1SmartPruningStopper.html#ad16300a99ac7030fafd3d67b111f9668" title=" " alt="" coords="5,133,215,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,122,197,136,196,131,254,117"/>
-</map>

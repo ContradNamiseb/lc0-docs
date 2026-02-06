@@ -1,7 +1,0 @@
-<map id="lczero::cudnn_backend::FusedWinogradConvSELayer::LoadSEWeights" name="lczero::cudnn_backend::FusedWinogradConvSELayer::LoadSEWeights">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,220,85"/>
-<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#a1557a406c5bc5df9077593fa061c2d6e" title=" " alt="" coords="268,5,437,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,40,254,36,255,41,221,46"/>
-<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#a4c26fc39140e9b131a54ec99c4c087a8" title=" " alt="" coords="268,69,437,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,69,255,74,254,79,220,74"/>
-</map>

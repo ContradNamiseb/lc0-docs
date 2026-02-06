@@ -1,9 +1,0 @@
-<map id="lczero::cudnn_backend::FilterTransform" name="lczero::cudnn_backend::FilterTransform">
-<area shape="rect" id="Node000001" title=" " alt="" coords="275,85,444,125"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1FusedWinogradConvSELayer.html#a054f3a72efc59214f78ba004857e9bef" title=" " alt="" coords="9,5,223,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,83,208,63,210,57,279,78"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1ResidualBlock.html#afb11ef1531362982bbf99429464ccee6" title=" " alt="" coords="5,85,227,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,107,227,107,227,102,261,102"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1cudnn__backend_1_1ResidualBlock.html#aef258f5d55629d4d8b568f59f71d9725" title=" " alt="" coords="5,149,227,189"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,131,193,151,192,146,269,126"/>
-</map>

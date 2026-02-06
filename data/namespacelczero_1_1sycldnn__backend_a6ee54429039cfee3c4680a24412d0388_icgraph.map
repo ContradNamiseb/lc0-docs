@@ -1,7 +1,0 @@
-<map id="lczero::sycldnn_backend::CpuTranspose" name="lczero::sycldnn_backend::CpuTranspose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="283,49,463,89"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1FusedWinogradConvSELayer.html#a05c7c3234066bdeb2c470bc94d4240f3" title=" " alt="" coords="13,5,227,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,57,227,51,228,45,269,51"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#a67f6ea7a306c74920b1d0861cb9954f7" title=" " alt="" coords="5,85,235,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,86,235,91,234,86,269,81"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="lczero::MultiHeadWeights::MultiHeadWeights" name="lczero::MultiHeadWeights::MultiHeadWeights">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,193,75"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1LayerAdapter.html#aff1d38c44801af32e6bc8c6dc3419714" title=" " alt="" coords="241,35,397,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,52,228,52,228,57,193,57"/>
-<area shape="rect" id="Node000003" href="$classlczero_1_1LayerAdapter.html#af8a525483092f1f51d99cc68a4d2b968" title=" " alt="" coords="461,5,617,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,42,447,35,448,40,398,47"/>
-<area shape="rect" id="Node000004" href="$classlczero_1_1LayerAdapter.html#a9f33690af106344f2b7e62e63ead0511" title=" " alt="" coords="445,70,633,95"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,62,432,66,431,72,398,67"/>
-</map>
