@@ -20,7 +20,7 @@ This was generated from lc0-master commit(7f572ae89884ef9f5012afe9f5127dc069ab6c
 
 ## Site Access
 
-The documentation is hosted at: https://contradnamiseb.github.io/lc0-docs.github.io
+The documentation is hosted at: https://contradnamiseb.github.io/lc0-docs/
 
 ---
 Made with Antigravity and Gemini
