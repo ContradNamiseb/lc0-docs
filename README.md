@@ -1,6 +1,7 @@
 # Lc0 Doxygen Documentation
 
 This directory contains the doxygen generated documentation for Leela Chess Zero engine.
+This was generated from lc0-master commit(7f572ae89884ef9f5012afe9f5127dc069ab6c9b).
 
 ## Directory Structure:
 
