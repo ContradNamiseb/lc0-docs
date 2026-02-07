@@ -1,0 +1,9 @@
+<map id="lczero::classic::SearchWorker::DoBackupUpdateSingleNode" name="lczero::classic::SearchWorker::DoBackupUpdateSingleNode">
+<area shape="rect" id="Node000001" title="Updates a single node and propagates values up the tree." alt="" coords="5,69,221,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#af1c56c2703f77874bab9398cf5bdbf0f" title="Gets the visit count N for this node." alt="" coords="269,5,424,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,67,259,46,261,52,188,72"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#aaa2c61ee16fec921c7fdecf50162a4a9" title="Gets the parent node." alt="" coords="269,69,424,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,87,256,87,256,92,222,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Node.html#a9a029bbb5ca2df3622d1b202c93da4fb" title="Checks if this is a terminal node (game over)." alt="" coords="269,133,424,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,107,261,127,259,132,186,112"/>
+</map>

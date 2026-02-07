@@ -1,0 +1,15 @@
+<map id="lczero::ApplySEUnit" name="lczero::ApplySEUnit">
+<area shape="rect" id="Node000001" title="Applies Squeeze&#45;and&#45;Excitation (SE) unit." alt="" coords="5,88,155,113"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#aadd65231f0de13257e4e8390c7b3b524" title="Applies Squeeze&#45;and&#45;Excitation (SE) scaling." alt="" coords="242,31,369,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,85,202,66,239,57,240,62,203,71,130,90"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1FullyConnectedLayer.html#a490b343cddfe5be4e3ca896e75ba9bee" title="Performs batched forward inference (input size to output size)." alt="" coords="203,81,408,121"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="155,98,189,98,189,103,155,103"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#addaf50dd5991d77990953d8a87b9aef9" title="Computes global average pooling." alt="" coords="235,145,375,185"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,111,223,138,221,144,125,116"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#aac113329d209c13ff117e596f6c3a59a" title="Applies activation function to a single value." alt="" coords="456,31,579,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,41,442,41,442,46,369,46"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a80f2203e46075fcfca58c0760a6affec" title=" " alt="" coords="627,5,728,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,31,612,26,613,31,579,36"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a41b4f50df7c669535ad15f7a0053d54b" title=" " alt="" coords="629,55,725,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="579,50,616,56,616,61,579,55"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="lczero::dag_classic::Node::GetSibling" name="lczero::dag_classic::Node::GetSibling">
+<area shape="rect" id="Node000001" title="Gets pointer to the next sibling node." alt="" coords="784,153,928,193"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title=" " alt="" coords="551,117,736,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,161,736,155,737,150,771,156"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1VisitedNode__Iterator.html#a5de1f3ceef3bef8320a31b8460875c9b" title=" " alt="" coords="561,181,725,236"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="771,190,726,197,725,192,770,185"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#aaa7920888aaec7046a00685904c048e6" title="Creates &quot;begin()&quot; iterator." alt="" coords="304,5,461,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="588,113,502,75,461,60,463,55,504,70,590,108"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#a439dbeacb5651bf5c2aaa9160e737b65" title=" " alt="" coords="263,85,503,125"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,126,503,122,503,117,537,121"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#a8516b15dc8a78cfe4a85c9249b419cfb" title=" " alt="" coords="281,149,484,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="537,152,484,159,484,154,536,147"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#acae86b92c6ccac65bf9bc48f9bea3d99" title=" " alt="" coords="5,77,215,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="249,107,215,107,215,102,249,102"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1VisitedNode__Iterator.html#a7e6d3773eefbbcc8c3cdb1a3858ddb03" title=" " alt="" coords="301,213,465,268"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="548,223,465,233,465,228,547,218"/>
+</map>

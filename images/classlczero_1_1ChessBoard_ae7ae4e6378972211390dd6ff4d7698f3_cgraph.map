@@ -1,0 +1,23 @@
+<map id="lczero::ChessBoard::IsValid" name="lczero::ChessBoard::IsValid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,152,237"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1ChessBoard.html#a639fe9f9322150c557a78aae4f7e2b40" title=" " alt="" coords="200,5,347,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,196,131,128,162,90,198,55,205,50,208,55,202,59,166,93,135,131,93,198"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1ChessBoard.html#a45bae22afa3ecc26233763bbdc577cec" title=" " alt="" coords="200,69,347,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,195,144,158,199,119,209,113,212,118,201,124,147,162,103,199"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1ChessBoard.html#ac74c92c22299c3332550032e114c5ed4" title=" " alt="" coords="200,133,347,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="139,195,198,175,200,180,141,200"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1ChessBoard.html#a4ff6ab258621e94fb4dff398d3a9c27d" title=" " alt="" coords="200,197,347,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="152,215,186,215,186,220,152,220"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1ChessBoard.html#af1cf4f04db5f12c6e14c509127456443" title=" " alt="" coords="200,261,347,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="141,235,200,254,198,259,139,240"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1ChessBoard.html#ab3dac08b8fd24e8a1a8276af8f2fd975" title=" " alt="" coords="200,325,347,365"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="103,236,147,273,201,311,212,317,209,321,199,316,144,277,100,240"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1ChessBoard.html#a2421e797e3a4c248a43685a70dad19fa" title=" " alt="" coords="200,389,347,429"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="93,236,135,303,166,341,202,375,208,380,205,384,198,379,162,345,131,306,88,239"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1BitBoard.html#afdcbdf9e0887c6950ab163297429440b" title=" " alt="" coords="395,77,605,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,87,381,87,381,92,347,92"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="666,51,830,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="605,76,652,71,653,76,606,81"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1BitBoard.html#afe60aa18a0c9ad80bc121071c633d544" title=" " alt="" coords="653,101,843,126"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="606,97,640,100,639,105,605,102"/>
+</map>

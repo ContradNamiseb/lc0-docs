@@ -1,0 +1,27 @@
+var classOpenCL__Network =
+[
+    [ "OpenCL_Network", "pages/classOpenCL__Network.html#adcee4941c94e916053e55dd25f0c8190", null ],
+    [ "acquire_buffers", "pages/classOpenCL__Network.html#a1bd9d78dcaf53c4d8fd3a549b6e9ce28", null ],
+    [ "add_weights", "pages/classOpenCL__Network.html#a3ed953edee4e954fbe941982ccb8648c", null ],
+    [ "add_weights_short", "pages/classOpenCL__Network.html#a40dafa50a2f0748c9807d942674e52ec", null ],
+    [ "get_layer_count", "pages/classOpenCL__Network.html#a2c20514a46ef4e160d03b9bfae694beb", null ],
+    [ "getMaxMatchSize", "pages/classOpenCL__Network.html#a49d91ace833ebdd13faddef775906bac", null ],
+    [ "getOpenCL", "pages/classOpenCL__Network.html#a3db5b9c0f5a1366572e203fc00ddd318", null ],
+    [ "push_conv_policy", "pages/classOpenCL__Network.html#ae7ff9b9939036114af48519e567fb933", null ],
+    [ "push_input_convolution", "pages/classOpenCL__Network.html#a83403e6a548ff9c2b9cea5845d12c2bd", null ],
+    [ "push_moves_left", "pages/classOpenCL__Network.html#a47ed85a2bb46031e8ec9dd3e4a3412bc", null ],
+    [ "push_policy", "pages/classOpenCL__Network.html#a9f70a7cd8ab1f58ee9a0ccc978969f8d", null ],
+    [ "push_residual", "pages/classOpenCL__Network.html#ab8f385396653fa2831dddbad1e31de27", null ],
+    [ "push_se", "pages/classOpenCL__Network.html#a1b29372513377f5e5ac18cb39e672cf1", null ],
+    [ "push_value", "pages/classOpenCL__Network.html#ac864b809b7b87527885055deeeec4d95", null ],
+    [ "push_weights", "pages/classOpenCL__Network.html#ad4fb8fd726c2ae5061ceffe56c13b25d", null ],
+    [ "push_weights_short", "pages/classOpenCL__Network.html#a4d27f56109a5e032c286cde08900a3ea", null ],
+    [ "release_buffers", "pages/classOpenCL__Network.html#a6c2d9ff163fc0d7c2f1e13a52a414b64", null ],
+    [ "setMaxMatchSize", "pages/classOpenCL__Network.html#aa9ce9a66d1db46bfbdd6183ce7dc75f0", null ],
+    [ "OpenCLBuffers", "pages/classOpenCL__Network.html#a53faf3cbbbf6a3280fa6d891665658ef", null ],
+    [ "m_buffers_pool", "pages/classOpenCL__Network.html#ab2cdfc24b50a2822d55cc01d9fb96951", null ],
+    [ "m_layers", "pages/classOpenCL__Network.html#a8312c75f3748c75bf42672959576f301", null ],
+    [ "m_max_batch_size", "pages/classOpenCL__Network.html#a3e67e049c27782d5eada44096a208f97", null ],
+    [ "m_opencl", "pages/classOpenCL__Network.html#acb7bd3a72ff0a1e400cbd41d2ea4f756", null ],
+    [ "m_pool_mutex", "pages/classOpenCL__Network.html#a1eaa246b61c7bf971067befa9fd73062", null ]
+];

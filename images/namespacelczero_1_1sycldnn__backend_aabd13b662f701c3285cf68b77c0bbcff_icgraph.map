@@ -1,0 +1,14 @@
+<map id="lczero::sycldnn_backend::InputTransform4x4" name="lczero::sycldnn_backend::InputTransform4x4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="495,117,675,157"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#adc91f7d5d823c4a12cf53da63df2fe16" title=" " alt="" coords="250,5,430,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,112,496,85,446,60,414,48,416,43,448,55,498,80,543,107"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a33e83062645519945d6a315fa3f0bc5c" title=" " alt="" coords="233,70,447,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="481,123,446,117,447,112,482,118"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#a2ceedce9e44ec1b3f9f77d5fa444a784" title=" " alt="" coords="250,149,430,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="482,156,430,164,430,159,481,151"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#ae2ac883421c789f21516f6cf2753b97c" title=" " alt="" coords="243,227,437,282"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="541,167,448,217,419,230,417,225,445,212,538,162"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1sycldnn__backend.html#a6f940a22d4d6d98cb9fa952ab111a8eb" title=" " alt="" coords="5,196,185,236"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,196,186,204,185,199,236,190"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="229,240,185,233,186,228,229,235"/>
+</map>

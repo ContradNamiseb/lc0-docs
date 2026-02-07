@@ -1,0 +1,32 @@
+<map id="lczero::dx_backend::DxNetworkComputation::ComputeBlocking" name="lczero::dx_backend::DxNetworkComputation::ComputeBlocking">
+<area shape="rect" id="Node000001" title="Executes the neural network computation for the accumulated batch." alt="" coords="5,295,192,350"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxNetwork.html#af849b6336696a6eebce2b8392c4771dc" title=" " alt="" coords="260,267,407,307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,306,246,297,247,303,192,311"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1dx__backend_1_1DxNetworkComputation.html#a7d8f13b97923155876697f0b73956a5c" title="Returns the number of samples currently in the batch." alt="" coords="240,331,427,386"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="192,334,227,340,226,345,192,340"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxContext.html#aa795b20ea07610c6a77fb58f568b69a3" title=" " alt="" coords="495,5,683,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,266,356,222,384,165,423,106,446,79,473,55,482,49,485,54,476,59,450,83,427,109,388,168,361,224,344,268"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a06545657412b4122e35155866f7dba32" title=" " alt="" coords="475,69,704,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,265,396,197,432,159,473,126,497,112,500,117,476,130,436,163,400,201,349,268"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dx__backend_1_1DxContext.html#a54599da96517879bbbcf6f2cb5263e4b" title=" " alt="" coords="491,184,687,224"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="395,264,513,226,514,231,397,269"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dx__backend_1_1DxContext.html#a4709b9114ed071a7a42856f3561fad70" title=" " alt="" coords="764,137,923,177"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="350,264,401,214,435,189,474,170,544,150,617,141,688,139,751,143,750,148,688,145,618,146,545,155,476,174,438,193,404,218,353,268"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dx__backend_1_1DxContext.html#a3a80835a3354b18df44c46dddbbe2d7c" title=" " alt="" coords="763,209,923,249"/>
+<area shape="poly" id="edge13_Node000002_Node000008" title=" " alt="" coords="407,276,749,237,750,242,407,281"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dx__backend_1_1DxContext.html#a2a3832beca8e92a4b4ef6311c2b8fc68" title=" " alt="" coords="752,288,935,328"/>
+<area shape="poly" id="edge15_Node000002_Node000009" title=" " alt="" coords="407,287,738,301,738,306,407,292"/>
+<area shape="rect" id="Node000010" href="$namespacelczero.html#ad924bd540eb63c7cf75aa51b7184127e" title=" " alt="" coords="516,350,663,375"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="398,304,475,328,529,344,528,349,474,333,396,309"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dx__backend_1_1DxContext.html#ac57df9f39e43ac4dcc83b3ff0e58d60d" title=" " alt="" coords="480,400,699,440"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="406,304,428,318,445,336,453,353,461,370,476,386,485,391,482,396,473,390,456,373,448,356,440,339,425,322,403,309"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1dx__backend_1_1DxContext.html#a1af303dff3e7227a64820f32206744f1" title=" " alt="" coords="475,464,703,504"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="408,303,429,318,442,335,449,353,453,386,457,419,464,435,477,450,482,454,478,459,473,454,459,437,452,420,447,387,444,354,437,338,425,322,405,308"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1dx__backend_1_1DxContext.html#a4ded2411cd9b1bd5b621a593c16c2878" title=" " alt="" coords="501,528,678,568"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="409,303,429,318,446,344,453,369,454,394,452,419,451,443,452,467,460,491,477,514,490,525,487,529,473,518,455,493,447,468,445,443,447,419,449,394,448,370,441,346,425,322,405,307"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1dx__backend.html#a9c56e4705e0fb4ce2e7e4b3c239f31a8" title=" " alt="" coords="770,69,917,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="704,87,756,87,756,92,704,92"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="687,183,750,172,751,177,688,189"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="688,211,750,217,749,223,687,216"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="640,222,782,280,780,285,638,227"/>
+</map>

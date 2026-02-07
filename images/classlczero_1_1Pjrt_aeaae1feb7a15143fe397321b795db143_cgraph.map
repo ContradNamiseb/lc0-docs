@@ -1,0 +1,9 @@
+<map id="lczero::Pjrt::CreateClient" name="lczero::Pjrt::CreateClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,185,70"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1PjrtCommon.html#a327976e2d703f116d508fca42dcc6902" title=" " alt="" coords="233,37,384,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,55,219,55,219,60,185,60"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PjrtCommon.html#aba9878fd9815252d2cf78fc786fbc95d" title=" " alt="" coords="432,5,603,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,43,418,38,419,43,385,48"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PjrtCommon.html#a78c392c566249989054b3179d7b950a7" title=" " alt="" coords="442,69,593,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,66,429,73,428,78,384,72"/>
+</map>

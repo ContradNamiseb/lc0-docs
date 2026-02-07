@@ -1,0 +1,11 @@
+<map id="lczero::dx_backend::DxContext::ScheduleUpload" name="lczero::dx_backend::DxContext::ScheduleUpload">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,217,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxContext.html#a54599da96517879bbbcf6f2cb5263e4b" title=" " alt="" coords="265,69,461,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,87,251,87,251,92,218,92"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxContext.html#a4709b9114ed071a7a42856f3561fad70" title=" " alt="" coords="521,5,680,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,67,512,46,514,51,439,72"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1DxContext.html#a3a80835a3354b18df44c46dddbbe2d7c" title=" " alt="" coords="521,69,681,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="461,87,507,87,507,92,461,92"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1DxContext.html#a2a3832beca8e92a4b4ef6311c2b8fc68" title=" " alt="" coords="509,133,692,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="439,107,514,127,512,132,438,112"/>
+</map>

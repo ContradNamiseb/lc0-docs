@@ -1,0 +1,7 @@
+<map id="src/neural/backends/blas/blas.h" name="src/neural/backends/blas/blas.h">
+<area shape="rect" id="Node000001" title="Includes BLAS (Basic Linear Algebra Subprograms) headers based on configuration." alt="" coords="16,5,167,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,73,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,47,57,83,52,80,77,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,93,189,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,44,130,80,126,83,102,47"/>
+</map>

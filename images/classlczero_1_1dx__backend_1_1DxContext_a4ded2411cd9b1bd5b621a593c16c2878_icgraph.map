@@ -1,0 +1,11 @@
+<map id="lczero::dx_backend::DxContext::UavBarrier" name="lczero::dx_backend::DxContext::UavBarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,77,612,117"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxNetwork.html#af849b6336696a6eebce2b8392c4771dc" title=" " alt="" coords="240,13,387,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,75,379,55,380,50,445,70"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1ConvLayer.html#a2fcc98c3d66a94545f20e596c5a60360" title=" " alt="" coords="240,77,387,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,99,387,99,387,94,420,94"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1FCLayer.html#a657cb1852a45cfd8298879e28a6f3c22" title=" " alt="" coords="240,141,387,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="445,123,380,143,379,138,443,118"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxNetworkComputation.html#a4676362e48b9610e16c873ef25eaecde" title="Executes the neural network computation for the accumulated batch." alt="" coords="5,5,192,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,35,192,35,192,30,226,30"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classlczero_1_1cudnn__backend_1_1BaseLayer.html" title="Base class for neural network layers in CUDA backend." alt="" coords="5,341,195,381"/>
+<area shape="rect" id="Node000001" href="$classlczero_1_1cudnn__backend_1_1AttentionBody.html" title="Attention Body." alt="" coords="251,5,465,45"/>
+<area shape="poly" id="edge19_Node000000_Node000001" title=" " alt="" coords="105,327,119,269,145,195,163,157,185,120,211,85,241,55,259,43,262,48,244,59,215,89,190,123,168,160,150,197,125,270,110,329"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1cudnn__backend_1_1AttentionPolicyHead.html" title="Attention Policy Head." alt="" coords="273,70,443,125"/>
+<area shape="poly" id="edge20_Node000000_Node000002" title=" " alt="" coords="111,327,131,284,159,233,196,180,241,135,272,117,274,122,244,139,200,184,164,235,136,286,116,329"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1cudnn__backend_1_1Conv1Layer.html" title="1x1 Convolution Layer." alt="" coords="259,149,457,189"/>
+<area shape="poly" id="edge21_Node000000_Node000003" title=" " alt="" coords="119,328,169,263,203,228,241,199,265,187,267,192,244,204,206,232,173,266,123,332"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1cudnn__backend_1_1ConvLayer.html" title="Convolutional Layer using CuDNN." alt="" coords="263,213,453,253"/>
+<area shape="poly" id="edge22_Node000000_Node000004" title=" " alt="" coords="135,331,184,296,242,263,272,251,274,256,244,268,187,300,138,335"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1cudnn__backend_1_1EmbeddingLayer.html" title="Embedding Layer." alt="" coords="243,277,473,317"/>
+<area shape="poly" id="edge23_Node000000_Node000005" title=" " alt="" coords="194,335,276,315,278,320,195,341"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1cudnn__backend_1_1FCLayer.html" title="Fully Connected Layer." alt="" coords="271,341,445,381"/>
+<area shape="poly" id="edge24_Node000000_Node000006" title=" " alt="" coords="208,359,270,359,270,364,208,364"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1cudnn__backend_1_1FusedWinogradConvSELayer.html" title="Multi&#45;pass Winograd Convolution fused with (optional) SE." alt="" coords="251,406,465,461"/>
+<area shape="poly" id="edge25_Node000000_Node000007" title=" " alt="" coords="186,382,260,403,259,409,185,388"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1cudnn__backend_1_1PolicyMapLayer.html" title="Policy Map Layer." alt="" coords="246,485,470,525"/>
+<area shape="poly" id="edge26_Node000000_Node000008" title=" " alt="" coords="133,389,183,430,244,470,275,483,273,488,241,474,180,435,130,393"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1cudnn__backend_1_1ResidualBlock.html" title="Residual Block Layer." alt="" coords="251,549,465,589"/>
+<area shape="poly" id="edge27_Node000000_Node000009" title=" " alt="" coords="121,392,170,465,205,503,244,535,266,547,264,551,241,540,201,507,166,468,116,395"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1cudnn__backend_1_1SELayer.html" title="Fused Squeeze&#45;and&#45;Excitation (SE) Layer." alt="" coords="271,613,445,653"/>
+<area shape="poly" id="edge28_Node000000_Node000010" title=" " alt="" coords="114,393,132,440,160,496,197,552,219,577,244,599,272,615,270,620,241,604,216,581,193,555,155,498,127,442,109,395"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1cudnn__backend_1_1ValueHead.html" title="Value Head." alt="" coords="263,677,453,717"/>
+<area shape="poly" id="edge29_Node000000_Node000011" title=" " alt="" coords="110,394,125,453,150,525,168,563,190,600,215,634,244,663,264,676,261,680,241,667,211,637,185,603,163,566,145,527,119,454,105,395"/>
+</map>

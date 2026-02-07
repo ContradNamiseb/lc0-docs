@@ -1,0 +1,29 @@
+<map id="lczero::Position::GetGamePly" name="lczero::Position::GetGamePly">
+<area shape="rect" id="Node000001" title=" " alt="" coords="545,287,756,313"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="289,128,471,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,282,496,206,425,170,427,166,499,202,621,277"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Search.html#a0da95ebed57fa9b2cb45c4d2998fb123" title="Computes the best move, maybe with temperature (according to the settings)." alt="" coords="263,216,497,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="582,287,465,259,466,253,583,281"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1classic_1_1NodeTree.html#ac331c59ed262c5bfde63f102624084d4" title="Gets the number of plies (half&#45;moves) in the game." alt="" coords="289,280,471,320"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="531,303,472,303,472,297,531,297"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dag__classic_1_1NodeTree.html#af08d49956974eef8808730c5be7e560c" title=" " alt="" coords="290,344,470,384"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="583,319,466,347,465,341,582,313"/>
+<area shape="rect" id="Node000012" href="$namespacelczero.html#aac4de64d54d6d119ebda60c89f9df514" title=" " alt="" coords="301,409,459,434"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="624,323,568,362,498,398,459,411,457,406,496,394,565,357,621,319"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title="Gets the best move and ponder move." alt="" coords="27,5,193,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,123,278,91,214,60,182,48,184,43,216,55,280,86,337,118"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="27,69,193,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,128,192,110,194,105,276,123"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title="Resets cached best move for temperature re&#45;sampling." alt="" coords="27,133,193,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,153,193,154,193,149,275,147"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Search.html#a76d8a8d159468740fed91e627d667c7f" title="Returns best move, from the point of view of white player. And also ponder." alt="" coords="25,197,195,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="249,230,195,226,196,221,249,224"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Search.html#a89e9003f75bf3ffb8d25ad66255c6e79" title=" " alt="" coords="11,261,209,301"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="250,261,210,267,209,262,249,255"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1Search.html#a6e62151c00059fe47433a225de750eff" title="Resets the best move status." alt="" coords="18,325,202,365"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="277,264,264,270,250,281,241,292,231,304,216,316,191,328,189,323,213,311,227,300,237,289,246,277,261,266,274,259"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1Position.html#abcff79e1a2e18acab475b82618586978" title=" " alt="" coords="5,402,215,427"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="287,422,215,420,215,415,287,416"/>
+<area shape="rect" id="Node000014" href="$namespacelczero.html#adcf2f6b9d32f566b478274fe485f7d99" title=" " alt="" coords="59,451,161,477"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="288,439,161,459,160,453,287,433"/>
+</map>

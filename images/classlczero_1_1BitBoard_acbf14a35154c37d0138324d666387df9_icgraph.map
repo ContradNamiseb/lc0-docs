@@ -1,0 +1,45 @@
+<map id="lczero::BitBoard::intersects" name="lczero::BitBoard::intersects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="840,431,1037,457"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1ChessBoard.html#ab24b2476e34ef43596501ac717832fb3" title=" " alt="" coords="641,240,788,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,424,739,282,742,278,913,420"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1ChessBoard.html#a7d970bc551931e66ee9c5923c827b1cf" title=" " alt="" coords="637,576,792,616"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="909,467,747,578,744,574,906,462"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PgnReader.html#af10cd52a86b3b23ac21e49e59a0b53aa" title=" " alt="" coords="415,5,561,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="699,228,682,189,658,143,627,98,588,59,560,44,563,39,591,55,631,95,663,141,687,186,704,226"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ChessBoard.html#ad09e84ee411b61f7245c148718c33786" title=" " alt="" coords="415,69,561,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="691,230,647,176,619,148,588,124,560,110,563,105,591,119,623,144,651,172,695,227"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Position.html#a6e6b392da7d9f25294981ba156aba837" title=" " alt="" coords="397,134,579,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="678,233,636,202,588,174,554,162,555,157,590,170,639,198,681,229"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1NodeTree.html#a92173c725272da4b10edeeee814b92dc" title="Sets the tree to a new position, attempting to reuse existing nodes." alt="" coords="397,208,579,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="627,250,579,244,580,238,628,245"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a24d4ddd5b1b7991ffe378ca3421cf083" title="Sets the position in the tree, trying to reuse the tree." alt="" coords="387,272,589,312"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="628,275,590,280,589,275,627,270"/>
+<area shape="rect" id="Node000011" href="$namespacelczero.html#aaf329f45cbf736b11997d4d471f8b299" title=" " alt="" coords="437,337,539,362"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="669,289,590,326,540,342,538,337,588,322,666,284"/>
+<area shape="rect" id="Node000012" href="$namespacelczero.html#a856ae0d0ec4ed19e7fbad2883502e6c4" title=" " alt="" coords="437,386,539,411"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="690,292,647,336,620,358,591,377,565,388,540,395,538,389,564,383,588,372,617,354,643,333,687,289"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="526,196,513,189,488,187,466,189,453,193,448,199,451,207,446,208,443,198,450,189,465,183,488,181,514,184,529,191"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1BackendBenchmark.html#a4fa16ad3601134c32a5305ddaf721d72" title=" " alt="" coords="108,191,339,217"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="383,221,339,217,339,212,383,216"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1Benchmark.html#a67c3e9827ab9e3e1abad604c3eed0573" title=" " alt="" coords="135,241,311,266"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="383,241,312,248,311,242,383,235"/>
+<area shape="rect" id="Node000008" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,217,60,242"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="115,221,61,228,60,223,114,216"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="121,243,60,235,60,230,122,238"/>
+<area shape="rect" id="Node000014" href="$namespacelczero.html#a002a1334bbb92f17df62f49688f309c9" title=" " alt="" coords="437,435,539,461"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="688,567,645,519,618,496,588,476,564,465,538,458,540,453,566,460,591,471,621,491,648,515,692,563"/>
+<area shape="rect" id="Node000015" href="$namespacelczero.html#a6bac51d7f12e1d9aa07956935efcd9d9" title=" " alt="" coords="437,485,539,510"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="672,570,632,547,588,525,538,510,540,504,590,520,635,542,674,566"/>
+<area shape="rect" id="Node000016" href="$namespacelczero.html#a1149989f9489a6c4929b699f8f7afeba" title=" " alt="" coords="437,534,539,559"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="623,579,538,560,539,555,624,574"/>
+<area shape="rect" id="Node000017" href="$namespacelczero.html#ab08db0b0aaf2b94f240b1f26dacaf920" title=" " alt="" coords="437,583,539,609"/>
+<area shape="poly" id="edge18_Node000013_Node000017" title=" " alt="" coords="623,599,539,599,539,593,623,593"/>
+<area shape="rect" id="Node000018" href="$namespacelczero.html#aa6f21bd46edd4b8558f167a76a42ecd3" title=" " alt="" coords="437,633,539,658"/>
+<area shape="poly" id="edge19_Node000013_Node000018" title=" " alt="" coords="624,618,539,637,538,632,623,613"/>
+<area shape="rect" id="Node000019" href="$namespacelczero.html#a2f43ee609349904cc86c49b793425877" title=" " alt="" coords="437,682,539,707"/>
+<area shape="poly" id="edge20_Node000013_Node000019" title=" " alt="" coords="675,626,635,651,590,673,540,688,538,683,588,668,633,646,673,622"/>
+<area shape="rect" id="Node000020" href="$namespacelczero.html#a0afad60c125834afd6a0d15becfe1b0a" title=" " alt="" coords="437,731,539,757"/>
+<area shape="poly" id="edge21_Node000013_Node000020" title=" " alt="" coords="693,629,649,677,621,702,591,722,566,733,540,740,538,735,564,728,588,718,618,697,645,673,689,625"/>
+<area shape="rect" id="Node000021" href="$namespacelczero.html#a862bf5b1503ebbf79dbb8176596e8eb7" title=" " alt="" coords="437,781,539,806"/>
+<area shape="poly" id="edge22_Node000013_Node000021" title=" " alt="" coords="701,630,683,664,659,702,628,740,591,772,566,784,540,791,538,786,564,779,588,767,624,736,655,699,679,661,697,627"/>
+</map>

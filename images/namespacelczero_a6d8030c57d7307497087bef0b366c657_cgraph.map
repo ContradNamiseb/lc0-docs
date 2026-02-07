@@ -1,0 +1,10 @@
+<map id="lczero::Activate" name="lczero::Activate">
+<area shape="rect" id="Node000001" title="Applies activation with batch normalization parameters: output = activation(gamma * data + bias + bet..." alt="" coords="5,29,128,55"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#aac113329d209c13ff117e596f6c3a59a" title="Applies activation function to a single value." alt="" coords="176,55,299,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,48,163,54,162,59,128,54"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#a80f2203e46075fcfca58c0760a6affec" title=" " alt="" coords="347,5,448,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="128,35,333,20,333,25,128,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,52,341,32,343,37,280,57"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a41b4f50df7c669535ad15f7a0053d54b" title=" " alt="" coords="349,55,445,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="299,65,336,65,336,70,299,70"/>
+</map>

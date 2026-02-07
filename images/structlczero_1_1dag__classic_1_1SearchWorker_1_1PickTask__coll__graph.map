@@ -1,0 +1,13 @@
+<map id="lczero::dag_classic::SearchWorker::PickTask" name="lczero::dag_classic::SearchWorker::PickTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="735,85,917,125"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html" title="Represents an expanded edge in the search DAG." alt="" coords="481,51,625,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,79,735,91,734,96,639,84"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="208,5,367,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,48,481,60,481,65,380,53"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Edge.html" title="Represents a single edge in the search graph (a move)." alt="" coords="215,99,359,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,101,480,81,481,86,374,106"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Move.html" title=" " alt="" coords="5,106,111,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="124,116,215,116,215,121,124,121"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1PositionHistory.html" title=" " alt="" coords="469,115,637,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="651,123,710,119,734,116,735,121,711,124,651,128"/>
+</map>

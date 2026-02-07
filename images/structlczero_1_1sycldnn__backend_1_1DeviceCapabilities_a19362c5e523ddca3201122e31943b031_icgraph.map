@@ -1,0 +1,20 @@
+<map id="lczero::sycldnn_backend::DeviceCapabilities::GetMaxWorkgroupSize" name="lczero::sycldnn_backend::DeviceCapabilities::GetMaxWorkgroupSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,158,727,213"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a60390a5ea8a7691f64f749f4a20e5ef9" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="285,69,465,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,154,498,124,460,112,462,107,500,119,571,150"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#a3b00fdba38007b79f9a8e1f6f8ba9ee4" title=" " alt="" coords="285,133,465,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="532,175,465,167,466,162,533,170"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1sycldnn__backend.html#a4a68c68bbd98291f1d53d868d7eed6ec" title=" " alt="" coords="285,197,465,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="533,201,466,209,465,204,532,195"/>
+<area shape="rect" id="Node000009" href="$namespacelczero_1_1sycldnn__backend.html#a0c8df9468f97666d8fcc0f7f9ca3d3c8" title=" " alt="" coords="252,261,499,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="571,221,500,252,462,264,460,259,498,247,569,216"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1EncoderBlock.html#a42ad3897c3816cdb19ba0f1987376f93" title=" " alt="" coords="15,5,195,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,69,189,48,190,43,277,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1AttentionPolicyHead.html#a77a3a182be20acf77bbb528d61baef2c" title="Evaluates the layer." alt="" coords="5,69,204,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,92,204,92,204,87,272,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1sycldnn__backend_1_1EmbeddingLayer.html#a1acdc08d2cfa475e7f57de7f46416db9" title="Evaluates the layer." alt="" coords="15,133,195,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="277,115,190,136,189,131,276,110"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a0a79b09ffc9d265741c115ca8e4c0ab0" title="Evaluates the layer." alt="" coords="15,229,195,269"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="274,112,254,124,238,138,229,153,221,169,206,187,176,212,145,232,142,227,172,207,202,183,216,166,224,150,234,135,250,119,271,108"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="238,268,194,263,195,257,239,262"/>
+</map>

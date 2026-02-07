@@ -1,0 +1,13 @@
+<map id="lczero::dx_backend::PolicyMapLayer::LoadWeights" name="lczero::dx_backend::PolicyMapLayer::LoadWeights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,229,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxContext.html#a9468d127c455878e9667ea430fa7d624" title=" " alt="" coords="277,69,489,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,87,263,87,263,92,230,92"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxContext.html#a54599da96517879bbbcf6f2cb5263e4b" title=" " alt="" coords="537,69,733,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,87,523,87,523,92,490,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1DxContext.html#a4709b9114ed071a7a42856f3561fad70" title=" " alt="" coords="793,5,952,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,67,784,46,786,51,711,72"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1DxContext.html#a3a80835a3354b18df44c46dddbbe2d7c" title=" " alt="" coords="793,69,953,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="733,87,779,87,779,92,733,92"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dx__backend_1_1DxContext.html#a2a3832beca8e92a4b4ef6311c2b8fc68" title=" " alt="" coords="781,133,964,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="711,107,786,127,784,132,710,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="lczero::sycldnn_backend::Conv1Layer&lt; DataType &gt;" name="lczero::sycldnn_backend::Conv1Layer&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title="1x1 Convolution Layer." alt="" coords="5,197,204,237"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html" title="Base class for neural network layers in SYCL backend." alt="" coords="10,108,199,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,162,107,197,102,197,102,162"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html" title="Base class for neural network layers in SYCL backend." alt="" coords="10,5,199,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,59,107,108,102,108,102,59"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="214,16,226,25,218,33,200,37,199,31,216,28,221,26,211,21"/>
+</map>

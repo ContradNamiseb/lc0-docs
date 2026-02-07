@@ -1,0 +1,31 @@
+<map id="src/chess/board.h" name="src/chess/board.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,239,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,152,89,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,33,126,53,98,80,79,110,65,140,61,138,74,108,94,77,122,49,151,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,225,156,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,33,111,51,72,77,36,111,21,131,11,153,8,166,10,177,27,197,55,212,85,224,83,229,52,217,24,201,6,179,3,166,6,151,17,128,32,108,69,73,108,47,143,29"/>
+<area shape="rect" id="Node000004" href="$bitboard_8h.html" title=" " alt="" coords="107,79,237,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,31,175,65,169,65,169,31"/>
+<area shape="rect" id="Node000007" href="$types_8h.html" title=" " alt="" coords="215,152,326,177"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="196,29,225,49,252,77,265,108,271,138,266,139,260,110,247,80,221,53,193,33"/>
+<area shape="rect" id="Node000010" href="$hashcat_8h.html" title=" " alt="" coords="484,79,601,104"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="232,28,471,74,470,79,231,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="155,106,87,147,84,142,152,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="171,105,137,213,132,211,166,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="459,225,525,251"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="237,95,369,114,428,129,452,139,468,150,479,163,487,179,494,211,489,212,482,181,475,166,465,154,449,144,427,134,368,119,237,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="210,225,273,251"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="178,104,206,176,228,213,223,215,202,178,173,105"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="189,102,245,142,242,146,186,106"/>
+<area shape="rect" id="Node000008" href="$bititer_8h.html" title=" " alt="" coords="351,152,455,177"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="210,101,353,145,352,151,208,107"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="249,180,164,221,161,217,246,175"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="307,175,446,219,445,224,305,180"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="268,179,254,214,249,212,263,177"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="419,175,468,214,465,219,415,179"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="363,225,434,251"/>
+<area shape="poly" id="edge14_Node000008_Node000009" title=" " alt="" coords="405,178,403,212,397,212,399,178"/>
+<area shape="poly" id="edge17_Node000010_Node000005" title=" " alt="" coords="541,105,503,213,498,212,536,104"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="581,152,691,177"/>
+<area shape="poly" id="edge18_Node000010_Node000011" title=" " alt="" coords="559,102,612,141,608,146,556,106"/>
+</map>

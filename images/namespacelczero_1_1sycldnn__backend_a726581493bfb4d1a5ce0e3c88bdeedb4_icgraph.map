@@ -1,0 +1,25 @@
+<map id="lczero::sycldnn_backend::copyTypeConverted_kernel" name="lczero::sycldnn_backend::copyTypeConverted_kernel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,313,716,353"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#af39d2717c379e537912c31a25f99e492" title=" " alt="" coords="283,313,463,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,336,463,336,463,331,497,331"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a337798f64d0961881466a647f632450d" title=" " alt="" coords="30,5,210,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,301,346,248,321,182,284,116,260,86,233,59,209,45,212,40,236,55,264,82,288,113,326,180,351,246,367,299"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a49d63ecf64d458888f1c8a99651b1e57" title=" " alt="" coords="9,69,231,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,301,338,260,311,212,276,164,233,123,213,112,216,107,236,119,280,161,315,209,343,258,361,299"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1sycldnn__backend_1_1FusedWinogradConvSELayer.html#a05c7c3234066bdeb2c470bc94d4240f3" title=" " alt="" coords="13,134,227,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="344,304,296,253,266,227,233,204,210,191,212,186,236,199,269,223,300,249,348,301"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#a67f6ea7a306c74920b1d0861cb9954f7" title=" " alt="" coords="5,213,235,253"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="322,309,234,268,199,256,201,251,236,263,325,304"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a6fa896dd187abfb27d9450c2e9a9d266" title=" " alt="" coords="30,277,210,317"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="269,321,210,313,211,308,270,316"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1sycldnn__backend_1_1FusedWinogradConvSELayer.html#a6339089127f2fabc2ff578c5af94328d" title=" " alt="" coords="13,342,227,397"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="269,351,228,357,227,351,269,345"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1sycldnn__backend_1_1Conv1Layer.html#a5835ced405831d6ebe58293824809ebc" title=" " alt="" coords="21,421,219,461"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="329,363,284,387,236,410,199,424,197,419,234,406,282,383,326,358"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#ae4d0224f944ca4d111c2dea10156acd1" title=" " alt="" coords="30,485,210,525"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="351,366,302,422,271,451,236,476,211,488,209,483,233,471,267,447,298,419,347,363"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#ae53b2cce5d14f918ac6fb1de439a2e06" title=" " alt="" coords="9,549,231,589"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="361,367,342,407,314,453,279,500,236,539,216,551,213,547,233,535,275,496,310,450,337,404,356,365"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#a58e69978defd6b67f89586c168c366cb" title=" " alt="" coords="9,613,231,653"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="366,368,350,420,324,483,287,548,263,577,236,603,218,615,215,611,233,599,259,574,283,545,320,481,345,418,361,366"/>
+</map>

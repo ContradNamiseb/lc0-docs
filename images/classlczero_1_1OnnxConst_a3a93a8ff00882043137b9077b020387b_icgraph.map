@@ -1,0 +1,26 @@
+<map id="lczero::OnnxConst::GetDimensions" name="lczero::OnnxConst::GetDimensions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,220,581,260"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OnnxBuilder.html#a3c3e53b5de976d5b5b2566a98bf778c8" title=" " alt="" coords="236,248,385,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,255,386,260,385,255,420,250"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OnnxBuilder.html#a1a1af843a99a951fd3d10b4125b932d3" title=" " alt="" coords="22,5,171,45"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="462,215,341,141,265,99,187,60,158,48,160,43,189,55,267,94,343,136,465,210"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OnnxBuilder.html#ab472fac751bfd9c648280a7026e485f9" title=" " alt="" coords="5,70,188,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,238,249,172,220,139,187,110,162,98,164,93,189,106,224,135,254,169,296,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="289,237,186,59,168,48,171,43,190,56,294,235"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1OnnxBuilder.html#a121fb11d3bafb648fdf0d45de7021d7f" title=" " alt="" coords="22,120,171,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="277,241,235,207,187,174,161,162,164,158,189,170,239,202,280,237"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1OnnxBuilder.html#a72c560987b36716ef7e133391769500c" title=" " alt="" coords="17,184,176,224"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,246,163,227,165,221,231,241"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1OnnxBuilder.html#a950683c24612a8120bbd7cd8d5e2b15e" title=" " alt="" coords="22,248,171,288"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="222,271,172,271,172,265,222,265"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1OnnxBuilder.html#a1232e92d47579664b42670f2c2d1f34b" title=" " alt="" coords="6,313,187,338"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="223,294,146,315,144,310,222,289"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1OnnxBuilder.html#afe1822a015bf55dda4dad2da13260f7c" title=" " alt="" coords="22,363,171,403"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="275,298,235,326,189,353,162,365,160,360,187,348,232,322,272,294"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1OnnxBuilder.html#acf855d7acc4159cdb83b667c7abbed07" title=" " alt="" coords="22,427,171,467"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="293,301,250,360,222,390,190,417,168,429,165,424,186,412,218,386,246,356,288,298"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1OnnxBuilder.html#a2ea5c4b5d8a86ecbbde915ad3f000fef" title=" " alt="" coords="22,491,171,531"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="301,303,285,343,261,391,229,439,190,481,171,493,168,488,186,477,225,436,256,388,280,341,296,301"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1OnnxBuilder.html#ad1d756e45936a8e00380d43c4e6c5db1" title=" " alt="" coords="22,555,171,595"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="306,302,293,354,271,419,237,486,215,517,190,545,173,557,170,552,186,541,211,514,232,483,266,417,288,353,301,301"/>
+</map>

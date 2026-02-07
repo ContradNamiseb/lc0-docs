@@ -1,0 +1,7 @@
+<map id="lczero::cudnn_backend::CudaGraphCapture::EndCapture" name="lczero::cudnn_backend::CudaGraphCapture::EndCapture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,5,752,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1CudnnNetworkComputation.html#a35e38e266b2daaf44a990b5f4c526c3c" title="Captures the CUDA graph for the current batch." alt="" coords="219,5,468,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,28,468,28,468,23,503,23"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1CudnnNetwork.html#a52a03c660721a9810ae6feeaa2b73d35" title=" " alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+</map>

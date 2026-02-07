@@ -1,0 +1,15 @@
+<map id="lczero::dag_classic::ReleaseNodesWork::swap" name="lczero::dag_classic::ReleaseNodesWork::swap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="492,91,691,131"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1ReleaseNodesWork.html#a3780a0e74382a1372d999719f243d877" title=" " alt="" coords="268,5,432,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,90,432,62,433,57,517,85"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#add6ff5d90fc6952a857e9642efd2095f" title="Main function for the GC thread." alt="" coords="261,84,439,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,114,439,114,439,109,478,109"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#a4d02bacefa350f4f8abd3d41cba02841" title="Moves thread local GC queue to the shared queue." alt="" coords="256,163,444,217"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="517,138,435,165,434,160,516,133"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#ae1fd83fa14035569cbb188ca36f362fe" title=" " alt="" coords="18,84,195,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,114,196,114,196,109,247,109"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a3a47c6f48f117a57746e9bfba4c15398" title="Resets to a specific GameState." alt="" coords="5,166,208,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="242,191,208,190,208,185,242,186"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1NodeTree.html#ae1d57456d5fc43ddbb79858eaee3a5c8" title="Resets the current head to ensure it doesn&#39;t carry over details." alt="" coords="5,230,208,270"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="243,219,189,233,188,227,242,214"/>
+</map>

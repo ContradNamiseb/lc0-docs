@@ -1,0 +1,7 @@
+<map id="lczero::onnx::AsDataType" name="lczero::onnx::AsDataType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,45,467,70"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1onnx_1_1OnnxComputation.html#ae3484fb90606e7663e071d398f82ee81" title="Adds a sample to the current batch for computation." alt="" coords="5,5,232,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,47,232,42,233,37,267,41"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1onnx_1_1OnnxComputation.html#a91917aaea7b48838ca445be2937dd6dd" title=" " alt="" coords="5,69,232,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,73,233,78,232,72,266,68"/>
+</map>

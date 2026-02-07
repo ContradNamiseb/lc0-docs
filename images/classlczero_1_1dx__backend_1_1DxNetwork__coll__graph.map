@@ -1,0 +1,14 @@
+<map id="lczero::dx_backend::DxNetwork" name="lczero::dx_backend::DxNetwork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="696,71,843,111"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Network.html" title="Abstract base class for a neural network backend." alt="" coords="399,5,523,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,27,673,55,715,69,714,74,671,61,535,32"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1NetworkCapabilities.html" title="Describes the capabilities and requirements of a neural network backend." alt="" coords="360,55,561,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="575,74,696,83,696,88,575,79"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1DxContext.html" title=" " alt="" coords="387,105,534,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="547,115,672,102,695,99,696,104,672,107,548,120"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html" title=" " alt="" coords="5,45,152,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,69,249,78,336,91,388,102,387,108,336,97,248,83,165,74"/>
+<area shape="rect" id="Node000006" href="$structlczero_1_1dx__backend_1_1DXAlloc.html" title=" " alt="" coords="5,141,152,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="166,170,250,179,349,183,455,181,561,169,607,157,652,142,728,109,730,114,654,147,608,163,562,174,456,187,349,189,249,184,166,176"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="166,151,336,135,387,130,387,135,336,141,166,156"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::classic::NodeTree::HeadPosition" name="lczero::classic::NodeTree::HeadPosition">
+<area shape="rect" id="Node000001" title="Gets the current board position." alt="" coords="236,37,419,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1NodeTree.html#ac331c59ed262c5bfde63f102624084d4" title="Gets the number of plies (half&#45;moves) in the game." alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,45,188,41,189,35,223,40"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1NodeTree.html#abe720c306b13829e2c843ba1e5b89d3c" title="Checks if it&#39;s black&#39;s turn to move." alt="" coords="5,69,188,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,74,189,79,188,74,222,69"/>
+</map>

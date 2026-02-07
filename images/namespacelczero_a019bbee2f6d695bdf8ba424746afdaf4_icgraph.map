@@ -1,0 +1,16 @@
+<map id="lczero::GetFileList" name="lczero::GetFileList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="739,102,877,127"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#a38ea175c729253e6aedd1acb21af9663" title=" " alt="" coords="469,45,670,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,101,690,85,634,73,635,67,691,80,750,96"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#aa3ac7c0c7e0c181d4aa11335f75ee63f" title=" " alt="" coords="448,95,691,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="725,117,691,117,691,112,725,112"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#a2db2c5c67c054923a863197eaab20bda" title=" " alt="" coords="249,130,399,155"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="758,134,691,149,614,156,535,158,399,152,400,147,535,153,613,151,690,144,757,129"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#a924441cf058aab0d628cc4f721f64a0a" title=" " alt="" coords="248,45,400,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,60,400,60,400,55,455,55"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1NetworkAsBackendFactory.html#ae7431423cc420de634afc36d940afb18" title="Creates a new Backend instance with the given options." alt="" coords="5,5,200,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,47,200,42,201,37,234,42"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1NetworkFactory.html#acfb3d83425b0166c60c33ad6c631f90d" title="Helper function to load or reload a network based on options." alt="" coords="17,69,188,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="235,73,188,80,188,74,234,68"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="435,133,400,137,399,131,434,127"/>
+</map>

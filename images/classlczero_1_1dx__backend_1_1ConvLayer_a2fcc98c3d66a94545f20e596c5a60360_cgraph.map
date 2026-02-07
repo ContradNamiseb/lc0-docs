@@ -1,0 +1,32 @@
+<map id="lczero::dx_backend::ConvLayer::Eval" name="lczero::dx_backend::ConvLayer::Eval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,325,152,365"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a92687f4f915ed3144219fd8434cba824" title=" " alt="" coords="234,5,445,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,325,89,271,109,198,125,159,144,121,169,86,198,55,220,41,223,46,202,59,173,89,149,124,129,161,114,200,94,272,85,326"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a27387f2ad0239b6f56660c2e7067bd8d" title=" " alt="" coords="242,69,437,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="82,324,95,281,118,226,152,168,174,142,198,119,228,103,230,107,202,123,177,145,156,171,123,228,100,283,87,326"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a0595ed6ca03cadf072d43ac89373cdab" title=" " alt="" coords="221,133,457,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="87,324,104,292,128,254,160,215,198,183,209,177,212,181,202,188,164,219,133,257,108,295,92,326"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dx__backend_1_1GemmMetaCommand.html#a4bb4fe9d9054aa56796f67e0c0d1880e" title=" " alt="" coords="213,197,466,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="98,323,141,284,169,264,199,247,216,240,218,244,201,252,172,268,145,288,101,327"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dx__backend_1_1ConvMetaCommand.html#a3a581bdf6e989419e34859764dc3cee5" title=" " alt="" coords="218,261,461,301"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="152,323,199,311,236,302,237,307,201,316,153,328"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a53d271213999bc766035f414846dbbab" title=" " alt="" coords="223,325,456,365"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="152,343,209,343,209,348,152,348"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#ae6e0d1a5d04f4ccdb38a742b57de70ff" title=" " alt="" coords="216,389,463,429"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="153,362,201,375,237,384,236,389,199,380,152,368"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dx__backend_1_1ConvMetaCommand.html#a991d946e133657fe0c2dcf943fccb8cf" title=" " alt="" coords="211,453,467,493"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="101,363,145,402,172,422,201,439,218,446,216,451,199,444,169,427,141,406,98,367"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dx__backend_1_1GemmMetaCommand.html#a533295a9aabfa968cf7c3fa9854d9ac4" title=" " alt="" coords="200,517,479,557"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="92,364,108,396,133,433,164,471,202,503,212,509,209,514,198,508,160,475,128,437,104,398,87,367"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html#a07bf930f6fe738cbf1a7862441f7f810" title=" " alt="" coords="262,581,417,621"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="87,365,100,408,123,463,156,520,177,545,202,567,224,581,249,590,248,595,222,585,198,571,174,549,152,523,118,465,95,409,82,366"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1dx__backend_1_1DxContext.html#a4ded2411cd9b1bd5b621a593c16c2878" title=" " alt="" coords="251,645,428,685"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="85,365,94,419,114,491,129,530,149,567,173,602,202,631,219,643,238,652,236,656,216,648,198,635,169,605,144,570,125,532,109,493,89,420,80,366"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1dx__backend.html#a9c56e4705e0fb4ce2e7e4b3c239f31a8" title=" " alt="" coords="527,357,673,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,35,480,55,510,87,535,124,555,163,570,204,590,282,599,343,594,344,585,283,565,205,550,165,530,126,506,90,477,59,444,40"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="459,171,480,183,519,219,550,262,573,305,590,343,585,345,568,308,545,265,515,223,477,187,456,175"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="456,357,513,364,513,369,456,362"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="463,392,513,385,513,391,463,397"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="440,451,478,439,554,402,556,407,480,444,442,456"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="452,515,477,503,507,482,534,457,576,407,580,410,538,461,510,486,480,508,454,520"/>
+</map>

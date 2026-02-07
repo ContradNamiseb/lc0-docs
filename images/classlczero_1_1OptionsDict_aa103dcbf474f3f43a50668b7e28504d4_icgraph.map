@@ -1,0 +1,11 @@
+<map id="lczero::OptionsDict::AddSubdictFromString" name="lczero::OptionsDict::AddSubdictFromString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,101,423,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1python_1_1Backend.html#a37cd8b0fa03e3648ef20565b0e0d19f1" title=" " alt="" coords="14,5,191,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,98,199,60,167,48,169,43,201,55,284,93"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1NetworkAsBackendFactory.html#ae7431423cc420de634afc36d940afb18" title="Creates a new Backend instance with the given options." alt="" coords="5,69,200,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,110,200,105,200,100,235,105"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1NetworkFactory.html#acfb3d83425b0166c60c33ad6c631f90d" title="Helper function to load or reload a network based on options." alt="" coords="17,133,188,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,138,188,144,188,139,234,133"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1classic.html#ade97c121eeaa52f2b5b402a8f3c80c2d" title="Creates a time manager based on configuration." alt="" coords="8,197,197,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,150,201,188,169,200,167,195,199,183,282,145"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/neural/decoder.h" name="src/neural/decoder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,336,31"/>
+<area shape="rect" id="Node000002" href="$network__check_8cc.html" title=" " alt="" coords="5,79,156,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,39,125,81,123,76,220,34"/>
+<area shape="rect" id="Node000003" href="$decoder_8cc.html" title=" " alt="" coords="180,86,339,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,44,262,86,257,86,257,44"/>
+<area shape="rect" id="Node000004" href="$rescorer_8cc.html" title=" " alt="" coords="363,86,561,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,33,433,83,432,88,300,38"/>
+</map>

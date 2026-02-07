@@ -1,0 +1,7 @@
+<map id="lczero::sycldnn_backend::warpMax" name="lczero::sycldnn_backend::warpMax">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,37,415,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#ab3d2db8fe9d2abd3f3b8214316215499" title=" " alt="" coords="6,5,186,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,46,186,41,186,35,222,40"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#aeba843a3da07dcd0d48b9e6928616d93" title=" " alt="" coords="5,69,187,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,74,187,79,186,74,221,69"/>
+</map>

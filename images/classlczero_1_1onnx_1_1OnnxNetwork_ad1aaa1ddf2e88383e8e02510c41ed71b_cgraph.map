@@ -1,0 +1,10 @@
+<map id="lczero::onnx::OnnxNetwork::OnnxNetwork" name="lczero::onnx::OnnxNetwork::OnnxNetwork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,204,89"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1onnx_1_1OnnxNetwork.html#a739d70e1cb1599ac9e8c25db796f2407" title=" " alt="" coords="252,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,49,238,43,239,48,205,54"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="279,93,424,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,84,266,95,265,101,204,90"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1CommandLine.html#a39d8158fe46dd09949398fc4a9922cfd" title=" " alt="" coords="499,5,661,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,23,485,23,485,28,451,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="309,94,306,84,313,74,328,69,351,67,378,70,392,77,390,82,376,75,351,72,330,74,316,79,312,85,314,92"/>
+</map>

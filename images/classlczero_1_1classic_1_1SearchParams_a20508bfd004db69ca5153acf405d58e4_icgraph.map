@@ -1,0 +1,12 @@
+<map id="lczero::classic::SearchParams::Populate" name="lczero::classic::SearchParams::Populate">
+<area shape="rect" id="Node000001" title="Populates UCI options with search parameters." alt="" coords="589,35,803,75"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1SelfPlayTournament.html#a1bc371f1fb156aac3cc9af508563c3a0" title=" " alt="" coords="343,5,541,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,43,541,39,542,34,576,38"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Benchmark.html#a67c3e9827ab9e3e1abad604c3eed0573" title=" " alt="" coords="113,66,289,91"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="576,63,290,77,289,72,576,58"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SelfPlayLoop.html#aaba4adc71017e5da5eef1673d520833a" title=" " alt="" coords="108,15,295,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,29,295,30,295,24,329,24"/>
+<area shape="rect" id="Node000004" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,42,60,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,45,61,53,60,48,107,40"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="99,67,60,61,61,56,100,62"/>
+</map>

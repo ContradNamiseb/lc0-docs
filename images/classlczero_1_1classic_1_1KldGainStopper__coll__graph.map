@@ -1,0 +1,5 @@
+<map id="lczero::classic::KldGainStopper" name="lczero::classic::KldGainStopper">
+<area shape="rect" id="Node000001" title="Stopper based on Kullback&#45;Leibler divergence gain." alt="" coords="27,79,199,119"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchStopper.html" title="Abstract base class for search stopping conditions." alt="" coords="5,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,44,115,79,110,79,110,44"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="lczero::LruCache::MakePending" name="lczero::LruCache::MakePending">
+<area shape="rect" id="Node000001" title=" " alt="" coords="551,29,775,55"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1LruCache.html#a68bbe8480db70d85223d57572acc981b" title=" " alt="" coords="25,5,200,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,39,200,24,200,19,537,34"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1LruCache.html#ab8bbe568396d8dc8e80062f3266673c6" title=" " alt="" coords="268,55,503,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="537,56,503,59,503,54,537,51"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="300,55,183,33,184,28,301,50"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1LruCache.html#afa54ffeb0f715087588419fe8c22fd90" title=" " alt="" coords="5,55,220,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="254,70,220,70,220,65,254,65"/>
+</map>

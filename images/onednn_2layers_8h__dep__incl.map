@@ -1,0 +1,7 @@
+<map id="src/neural/backends/onednn/layers.h" name="src/neural/backends/onednn/layers.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,256,45"/>
+<area shape="rect" id="Node000002" href="$onednn_2layers_8cc.html" title=" " alt="" coords="5,93,156,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,56,105,95,101,91,146,52"/>
+<area shape="rect" id="Node000003" href="$network__onednn_8cc.html" title=" " alt="" coords="180,93,384,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,52,261,91,258,95,212,56"/>
+</map>

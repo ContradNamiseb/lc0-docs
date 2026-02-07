@@ -1,0 +1,37 @@
+<map id="src/neural/backends/onednn/layers.h" name="src/neural/backends/onednn/layers.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,346,45"/>
+<area shape="rect" id="Node000002" href="$activation__function_8h.html" title=" " alt="" coords="5,93,181,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,48,146,90,143,85,231,43"/>
+<area shape="rect" id="Node000003" href="$exception_8h.html" title=" " alt="" coords="205,101,336,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,46,273,87,268,87,268,46"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="361,101,439,126"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="301,43,372,91,369,95,298,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="165,181,251,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,128,228,172,224,169,259,125"/>
+<area shape="rect" id="Node000005" href="$logging_8h.html" title=" " alt="" coords="276,181,391,207"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="282,125,318,169,313,172,278,128"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="20,255,87,280"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="289,209,101,257,99,252,288,204"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="111,255,174,280"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="304,209,188,252,186,247,302,204"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="198,255,271,280"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="319,209,263,249,260,244,316,205"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="296,255,371,280"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="336,207,336,241,331,241,331,207"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="395,255,469,280"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="351,205,406,244,403,249,348,209"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="493,255,552,280"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="365,204,481,248,479,253,363,209"/>
+<area shape="rect" id="Node000012" href="$mutex_8h.html" title=" " alt="" coords="577,255,685,280"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="382,204,570,249,569,254,380,209"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="395,328,461,353"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="599,283,474,326,473,321,597,278"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="485,328,549,353"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="614,282,549,323,546,318,611,278"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="573,328,688,353"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="633,280,633,314,628,314,628,280"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="712,328,776,353"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="650,278,716,318,713,323,647,282"/>
+<area shape="rect" id="Node000017" href="$cppattributes_8h.html" title=" " alt="" coords="800,328,952,353"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="671,277,824,322,823,327,669,283"/>
+</map>

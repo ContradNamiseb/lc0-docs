@@ -1,0 +1,9 @@
+<map id="lczero::sycldnn_backend::globalScale_kernel_fp16_nhwc" name="lczero::sycldnn_backend::globalScale_kernel_fp16_nhwc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,37,691,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a546fec3fb62e5e5405e59236b75e221d" title=" " alt="" coords="233,37,413,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,60,414,60,414,55,448,55"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#ae6935c3fcff90413081153986034d460" title=" " alt="" coords="5,5,185,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,45,185,41,186,35,220,40"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#a3c3c4c6e00fe195d3c73078277b52024" title=" " alt="" coords="5,69,185,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,75,186,79,185,74,219,69"/>
+</map>

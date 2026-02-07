@@ -1,0 +1,5 @@
+<map id="lczero::classic::SearchWorker::InitializeIteration" name="lczero::classic::SearchWorker::InitializeIteration">
+<area shape="rect" id="Node000001" title="Phase 1: Initialize internal structures for iteration." alt="" coords="5,5,216,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Backend.html#ac42344f6ef57b59cdf35503b3c961808" title="Creates a new computation instance for this backend." alt="" coords="264,13,523,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,23,250,23,250,28,216,28"/>
+</map>

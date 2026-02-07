@@ -1,0 +1,9 @@
+<map id="lczero::sycldnn_backend::FCLayer::FCLayer" name="lczero::sycldnn_backend::FCLayer::FCLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,185,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html#abd2da34d0620849388d3f7c4400e853c" title=" " alt="" coords="233,5,413,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,67,237,47,239,52,168,72"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html#a8077a8b0390f07dd382f5b7d5c3aeb81" title=" " alt="" coords="233,69,413,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,87,220,87,220,92,186,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1BaseLayer.html#a14401085c1aeefa263f447eb160ae710" title=" " alt="" coords="233,133,413,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,107,239,127,237,132,167,112"/>
+</map>

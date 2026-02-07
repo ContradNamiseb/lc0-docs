@@ -1,0 +1,5 @@
+<map id="lczero::dx_backend::DxNetworkComputation::GetBatchSize" name="lczero::dx_backend::DxNetworkComputation::GetBatchSize">
+<area shape="rect" id="Node000001" title="Returns the number of samples currently in the batch." alt="" coords="240,5,427,60"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxNetworkComputation.html#a4676362e48b9610e16c873ef25eaecde" title="Executes the neural network computation for the accumulated batch." alt="" coords="5,5,192,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,35,192,35,192,30,227,30"/>
+</map>

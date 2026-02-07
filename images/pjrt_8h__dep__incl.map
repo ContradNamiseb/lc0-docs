@@ -1,0 +1,11 @@
+<map id="src/neural/backends/xla/pjrt.h" name="src/neural/backends/xla/pjrt.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,5,243,45"/>
+<area shape="rect" id="Node000002" href="$pjrt_8cc.html" title=" " alt="" coords="5,93,156,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,57,102,95,98,91,137,53"/>
+<area shape="rect" id="Node000003" href="$xla__runner_8h.html" title=" " alt="" coords="180,93,331,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,53,238,91,234,95,195,57"/>
+<area shape="rect" id="Node000004" href="$network__xla_8cc.html" title=" " alt="" coords="92,181,243,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,145,189,183,185,179,224,141"/>
+<area shape="rect" id="Node000005" href="$xla__runner_8cc.html" title=" " alt="" coords="267,181,417,221"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="286,141,325,179,321,183,282,145"/>
+</map>

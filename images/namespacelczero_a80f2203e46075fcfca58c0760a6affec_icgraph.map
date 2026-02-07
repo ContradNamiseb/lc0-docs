@@ -1,0 +1,21 @@
+<map id="lczero::mish" name="lczero::mish">
+<area shape="rect" id="Node000001" title=" " alt="" coords="575,105,676,131"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#aac113329d209c13ff117e596f6c3a59a" title="Applies activation function to a single value." alt="" coords="404,105,527,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,121,527,121,527,115,561,115"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#ac2c4b0766b006a694f1ea13b9e33baf7" title="Applies activation function to a vector with bias: output = activation(data + bias)." alt="" coords="218,5,341,31"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="591,101,526,70,429,43,341,28,342,23,430,38,528,65,593,96"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a6d8030c57d7307497087bef0b366c657" title="Applies activation with batch normalization parameters: output = activation(gamma * data + bias + bet..." alt="" coords="218,56,341,81"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="568,104,526,95,429,82,340,75,341,69,429,77,527,90,569,99"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#afb0bb31293e73826ebaf0a7d38d4a4ad" title="Computes: array = activation(array + bias)." alt="" coords="204,156,355,181"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="565,137,527,145,438,157,355,166,354,161,437,152,526,139,564,131"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#a5de3d4a04337ce71314be0b7d30f6dd4" title="Computes: array = activation(array + residual + bias)." alt="" coords="203,205,356,231"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="591,139,528,167,440,192,357,209,356,204,438,187,526,162,589,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,99,399,72,355,46,324,33,326,28,357,41,402,67,439,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,104,328,84,329,79,404,99"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#aadd65231f0de13257e4e8390c7b3b524" title="Applies Squeeze&#45;and&#45;Excitation (SE) scaling." alt="" coords="216,105,343,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="390,121,343,121,343,115,390,115"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="405,137,328,158,326,153,404,132"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="440,142,402,170,357,196,329,208,327,203,355,192,399,165,437,137"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#ae6c39e6497f9da52ad07c00ec5932d19" title="Applies Squeeze&#45;and&#45;Excitation (SE) unit." alt="" coords="5,105,155,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="202,121,155,121,155,115,202,115"/>
+</map>

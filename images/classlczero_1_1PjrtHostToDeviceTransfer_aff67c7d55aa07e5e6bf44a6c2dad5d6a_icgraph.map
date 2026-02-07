@@ -1,0 +1,7 @@
+<map id="lczero::PjrtHostToDeviceTransfer::Await" name="lczero::PjrtHostToDeviceTransfer::Await">
+<area shape="rect" id="Node000001" title="Blocks until the transfer is complete." alt="" coords="309,37,489,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1PjrtHostToDeviceTransfer.html#a93c62ceb0778a36d095b5a7aa96bc1c5" title="Waits for the transfer to complete and releases the ownership of the buffer." alt="" coords="16,5,251,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,48,251,42,251,37,296,42"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PjrtHostToDeviceTransfer.html#a9d59fcc82d4358c9770c27e428b61887" title=" " alt="" coords="5,69,261,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,72,262,77,261,71,295,67"/>
+</map>

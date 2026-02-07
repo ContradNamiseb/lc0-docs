@@ -1,0 +1,16 @@
+<map id="lczero::NetworkFactory::Get" name="lczero::NetworkFactory::Get">
+<area shape="rect" id="Node000001" title="Retrieves the singleton instance of the NetworkFactory." alt="" coords="484,159,685,185"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1python_1_1Backend.html#a20a0c501156bcba7f49a0f26e00c4746" title=" " alt="" coords="245,5,422,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,152,502,110,435,66,394,48,396,43,437,62,505,106,560,148"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1python_1_1Backend.html#a37cd8b0fa03e3648ef20565b0e0d19f1" title=" " alt="" coords="5,92,183,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,155,497,130,435,111,370,101,304,98,183,103,183,98,304,93,371,96,437,105,498,125,551,150"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1python.html#a1c378d3a34bf40aa8d3c81d9fa618635" title=" " alt="" coords="231,120,436,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,160,436,156,436,150,472,155"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1NetworkFactory.html#acfb3d83425b0166c60c33ad6c631f90d" title="Helper function to load or reload a network based on options." alt="" coords="248,184,419,224"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="472,189,419,196,418,191,471,184"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#aba5c0f055265aa41d496bbd73eb87de4" title=" " alt="" coords="233,249,433,274"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="546,193,437,239,393,251,392,246,435,233,544,188"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1NetworkFactory_1_1Register.html#a52fdf00d3a7189233eb9b3150ef9e8d4" title="Registers a network factory function." alt="" coords="248,299,419,339"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="562,196,507,242,437,288,407,301,405,296,435,283,504,238,558,192"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="217,129,182,125,183,120,217,124"/>
+</map>

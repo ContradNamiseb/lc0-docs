@@ -1,0 +1,11 @@
+<map id="lczero::onnx::OnnxComputation&lt; DataType &gt;" name="lczero::onnx::OnnxComputation&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title="ONNX computation class." alt="" coords="17,181,244,221"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1NetworkComputation.html" title="Abstract interface for neural network computation backends." alt="" coords="5,93,213,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,131,129,181,124,182,112,133"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1onnx_1_1OnnxNetwork.html" title="ONNX network implementation." alt="" coords="238,93,437,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,127,173,184,171,179,299,122"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Network.html" title="Abstract base class for a neural network backend." alt="" coords="182,5,306,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,38,326,91,323,95,265,42"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1NetworkCapabilities.html" title="Describes the capabilities and requirements of a neural network backend." alt="" coords="330,5,531,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="410,42,352,95,349,91,406,38"/>
+</map>

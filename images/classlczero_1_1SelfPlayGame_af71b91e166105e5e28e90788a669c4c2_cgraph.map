@@ -1,0 +1,11 @@
+<map id="lczero::SelfPlayGame::GetMoves" name="lczero::SelfPlayGame::GetMoves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,167,95"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Move.html#ae57e4f27218352868f1912c7390862c3" title=" " alt="" coords="234,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,53,240,32,241,37,163,58"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#aaa2c61ee16fec921c7fdecf50162a4a9" title="Gets the parent node." alt="" coords="225,55,380,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,73,212,73,212,78,167,78"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Position.html#a5e2e3b2b5af8379638b300a5872ae499" title=" " alt="" coords="215,119,391,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,93,222,113,221,118,154,98"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ChessBoard.html#a712259c26bc9c44dbff0ab563a851c01" title=" " alt="" coords="439,119,585,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,137,425,137,425,142,391,142"/>
+</map>

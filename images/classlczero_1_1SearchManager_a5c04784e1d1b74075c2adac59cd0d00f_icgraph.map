@@ -1,0 +1,9 @@
+<map id="lczero::SearchManager::Get" name="lczero::SearchManager::Get">
+<area shape="rect" id="Node000001" title="Gets the singleton instance of the SearchManager." alt="" coords="367,35,568,60"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#a8a6eb700c0373d585982c60597a1fc09" title=" " alt="" coords="108,5,319,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,37,319,33,319,28,354,32"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1SearchManager_1_1Register.html#a6984da948fdfbd666a16cf7bf7578d3a" title="Registers a factory with the SearchManager singleton." alt="" coords="128,55,299,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,63,299,69,298,63,353,57"/>
+<area shape="rect" id="Node000003" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,21,60,21,60,15,95,15"/>
+</map>

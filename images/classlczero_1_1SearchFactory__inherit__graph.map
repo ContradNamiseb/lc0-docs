@@ -1,0 +1,5 @@
+<map id="lczero::SearchFactory" name="lczero::SearchFactory">
+<area shape="rect" id="Node000001" title="Factory interface for creating search algorithm instances." alt="" coords="23,5,183,31"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1MockSearchFactory.html" title="Mock implementation of SearchFactory for unit testing." alt="" coords="5,79,200,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,44,105,79,100,79,100,44"/>
+</map>

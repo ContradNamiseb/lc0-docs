@@ -1,0 +1,10 @@
+<map id="lczero::classic::Search::GetTimeSinceStart" name="lczero::classic::Search::GetTimeSinceStart">
+<area shape="rect" id="Node000001" title="Gets milliseconds since search started." alt="" coords="432,35,597,75"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,51,171,34,171,28,418,45"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a34ea0b979efa5b2e1f006168452536d3" title="Sends UCI info string." alt="" coords="219,63,384,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,70,385,74,384,69,418,65"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="212,62,162,48,164,43,214,56"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="205,88,171,89,171,84,205,83"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="lczero::dag_classic::Node::IsTerminal" name="lczero::dag_classic::Node::IsTerminal">
+<area shape="rect" id="Node000001" title="Returns whether the node is terminal (game end)." alt="" coords="497,221,641,261"/>
+<area shape="rect" id="Node000002" href="$structlczero_1_1dag__classic_1_1SearchWorker_1_1NodeToProcess.html#a079f593a6feaf8725206c232a7aa790a" title="Returns true if evaluation can proceed out of order (e.g., hit in cache/TT)." alt="" coords="224,5,449,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,209,510,141,481,105,448,73,430,62,433,58,451,69,485,101,514,138,555,207"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1dag__classic_1_1SearchWorker_1_1NodeToProcess.html#adb39765575414822152d77839506b845" title="Checks if the node can be extended (not collision, not terminal, not already fully expanded)." alt="" coords="224,84,449,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="533,214,494,183,448,154,422,141,424,136,451,149,497,178,537,209"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a7436764f0fb85af1f7a132bfdd82bd44" title=" " alt="" coords="239,163,435,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="483,222,418,206,419,201,485,217"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a4da50481bf99a9d4200df90707b2eb07" title="Adds a move to current_head_." alt="" coords="5,253,176,293"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="484,249,177,270,176,264,484,244"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Node.html#a235a47352b0fcb886a7c65090f86ea15" title="Marks the node as non&#45;terminal, recomputing stats." alt="" coords="243,278,430,318"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="485,264,419,281,418,275,483,259"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title="Adjust parameters for updating node &#160;&#160;and its parent low node." alt="" coords="231,343,443,397"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="537,272,497,303,451,332,424,345,422,340,448,328,494,299,533,268"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a4f5c5b9bfc730b94035cbca6185ffe29" title="Check if there is a reason to stop picking and pick @node." alt="" coords="237,421,437,476"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="555,275,514,344,485,380,451,412,433,424,430,419,448,408,481,377,510,341,551,272"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1Search.html#aea1ff1139fdcadca9318dc78c0a790ec" title="Returns the evaluation of the best move, WITHOUT temperature." alt="" coords="9,163,172,203"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="225,186,172,186,172,181,225,181"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="229,290,176,284,177,279,230,284"/>
+</map>

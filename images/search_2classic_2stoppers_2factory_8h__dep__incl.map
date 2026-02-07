@@ -1,0 +1,15 @@
+<map id="src/search/classic/stoppers/factory.h" name="src/search/classic/stoppers/factory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,5,585,45"/>
+<area shape="rect" id="Node000002" href="$search_2classic_2stoppers_2factory_8cc.html" title=" " alt="" coords="5,93,153,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,45,167,96,154,99,153,93,165,91,429,40"/>
+<area shape="rect" id="Node000003" href="$search_2classic_2wrapper_8cc.html" title=" " alt="" coords="178,93,314,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,52,305,96,304,91,441,47"/>
+<area shape="rect" id="Node000004" href="$search_2dag__classic_2wrapper_8cc.html" title=" " alt="" coords="339,93,505,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,57,444,95,441,91,482,53"/>
+<area shape="rect" id="Node000005" href="$game_8cc.html" title=" " alt="" coords="529,101,685,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="547,53,596,98,593,102,543,57"/>
+<area shape="rect" id="Node000006" href="$tournament_8cc.html" title=" " alt="" coords="710,101,905,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="592,47,769,98,768,103,591,52"/>
+<area shape="rect" id="Node000007" href="$benchmark_8cc.html" title=" " alt="" coords="929,101,1101,126"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="599,37,917,91,957,98,956,103,916,96,598,43"/>
+</map>

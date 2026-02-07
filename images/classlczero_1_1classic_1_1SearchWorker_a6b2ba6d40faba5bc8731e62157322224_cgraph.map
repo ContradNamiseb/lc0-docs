@@ -1,0 +1,13 @@
+<map id="lczero::classic::SearchWorker::SearchWorker" name="lczero::classic::SearchWorker::SearchWorker">
+<area shape="rect" id="Node000001" title="Constructs a SearchWorker." alt="" coords="5,105,216,145"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a623289db5798806ebd73f85ce7437bb7" title="Gets maximum out&#45;of&#45;order evaluations factor." alt="" coords="264,5,541,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,103,203,78,263,55,291,46,293,51,265,60,205,83,152,108"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a50706e8ce27d9ea9bef7c996567a94a1" title="Gets mini&#45;batch size for neural network evaluation." alt="" coords="304,69,501,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,110,290,100,291,106,216,115"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a1b7ad54fa9ae1ea50ac0dc747650e828" title="Gets task workers per search worker." alt="" coords="279,134,526,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,136,266,142,265,147,216,141"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1SearchWorker.html#a47bd6b07057e9b2b3d261a82757532e3" title="Main loop for a search worker thread to process tasks." alt="" coords="297,213,508,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,143,203,171,265,198,295,207,293,212,263,202,200,176,146,148"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a1c25c4347d2a8e708375b051441a268c" title=" " alt="" coords="589,221,752,246"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="508,231,576,231,576,236,508,236"/>
+</map>

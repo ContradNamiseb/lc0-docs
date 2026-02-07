@@ -1,0 +1,7 @@
+<map id="lczero::PositionToFen" name="lczero::PositionToFen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,31,421,56"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Position.html#abcff79e1a2e18acab475b82618586978" title=" " alt="" coords="5,5,215,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,36,215,32,215,27,249,31"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#adcf2f6b9d32f566b478274fe485f7d99" title=" " alt="" coords="59,55,161,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,56,161,65,161,59,249,50"/>
+</map>

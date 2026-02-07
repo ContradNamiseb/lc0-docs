@@ -1,0 +1,16 @@
+<map id="lczero::python::Backend::Backend" name="lczero::python::Backend::Backend">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,183,167"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsDict.html#aa103dcbf474f3f43a50668b7e28504d4" title=" " alt="" coords="246,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,124,169,90,229,55,246,48,248,53,232,60,172,94,123,129"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1NetworkFactory.html#a0cbb392053ecb47fbf6a5d29215b51eb" title="Creates a backend instance based on the provided configuration." alt="" coords="248,69,419,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,124,235,110,237,115,179,129"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1NetworkFactory.html#a0fa0c0d4641b5445883de018178c2f24" title="Retrieves the singleton instance of the NetworkFactory." alt="" coords="484,134,685,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,144,470,144,470,149,183,149"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1python.html#a1c378d3a34bf40aa8d3c81d9fa618635" title=" " alt="" coords="231,184,436,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,164,237,178,235,183,177,169"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1python_1_1Weights.html#a94695cce02749d2c0c845526723d10d8" title=" " alt="" coords="246,248,421,288"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="123,165,172,199,232,234,248,241,246,245,229,238,169,204,119,169"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="421,181,514,160,516,165,422,187"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1NetworkFactory.html#a16605b57ac11bc30273d788a2843d6c6" title="Returns a list of available backend names." alt="" coords="499,184,670,224"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="436,201,486,201,486,207,436,207"/>
+</map>

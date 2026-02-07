@@ -1,0 +1,11 @@
+<map id="lczero::metal_backend::MetalNetworkComputation" name="lczero::metal_backend::MetalNetworkComputation">
+<area shape="rect" id="Node000001" title="Metal network computation class." alt="" coords="70,196,277,236"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1NetworkComputation.html" title="Abstract interface for neural network computation backends." alt="" coords="5,101,213,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,136,164,194,159,197,122,139"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1metal__backend_1_1MetalNetwork.html" title="Metal network implementation." alt="" coords="237,93,405,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,143,203,198,200,194,281,139"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Network.html" title="Abstract base class for a neural network backend." alt="" coords="166,5,290,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,38,304,91,300,95,247,42"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1NetworkCapabilities.html" title="Describes the capabilities and requirements of a neural network backend." alt="" coords="314,5,515,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="396,42,342,95,338,91,392,38"/>
+</map>

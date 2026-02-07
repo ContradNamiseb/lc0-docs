@@ -1,0 +1,28 @@
+var network__opencl_8cc =
+[
+    [ "buffers_", "pages/network__opencl_8cc.html#a386250db3e1656609a205357cb775a2f", null ],
+    [ "capabilities_", "pages/network__opencl_8cc.html#aa56617127cd647313f05c7a4698e8c73", null ],
+    [ "ip2_mov_b", "pages/network__opencl_8cc.html#a8d8044f5c0b060e248f1e45f67817ce0", null ],
+    [ "ip2_mov_w", "pages/network__opencl_8cc.html#a40542f9e923a2d00ceb4b61c1a8e3a7a", null ],
+    [ "ip2_val_b", "pages/network__opencl_8cc.html#aac6ee95096e562b2d6fb7fd31351fc6a", null ],
+    [ "ip2_val_w", "pages/network__opencl_8cc.html#af64c09d2318c6e81788f4554a81d15a6", null ],
+    [ "kHardMaxBatchSize", "pages/network__opencl_8cc.html#aebc1e199347de45b390e54c69a56e196", null ],
+    [ "kHeight", "pages/network__opencl_8cc.html#a1e57cc5e582910af068d7eab9bcbc70e", null ],
+    [ "kPolicyOutputs", "pages/network__opencl_8cc.html#a652232abf8132363e75ed6b2663b1b5c", null ],
+    [ "kPolicyUsedPlanes", "pages/network__opencl_8cc.html#a4eecd877abb403cd3fbdb6fe6429ec19", null ],
+    [ "kSquares", "pages/network__opencl_8cc.html#ae104b8be706d8ff0dba5b48c63fe9fc4", null ],
+    [ "kWidth", "pages/network__opencl_8cc.html#ab8c032cd096cf9fe104c14e22d1aabfa", null ],
+    [ "m_values_", "pages/network__opencl_8cc.html#ad78260e147e9b959151d33222da52481", null ],
+    [ "moves_left_", "pages/network__opencl_8cc.html#a5962f2d981f098ad69c81771db5452da", null ],
+    [ "num_moves_channels", "pages/network__opencl_8cc.html#a8232eef5f37a49b1d9b20e073254d02d", null ],
+    [ "num_output_policies", "pages/network__opencl_8cc.html#a0a09602f1079d10be40e6f9a30512e6e", null ],
+    [ "num_value_channels", "pages/network__opencl_8cc.html#a61dbea764db327202d0337b9c4517bad", null ],
+    [ "opencl_", "pages/network__opencl_8cc.html#aecd06521a00a92cd6ee13f3cb18f2417", null ],
+    [ "opencl_net_", "pages/network__opencl_8cc.html#a290cb2cf1d16f360b5cd9473915bf582", null ],
+    [ "params_", "pages/network__opencl_8cc.html#a77a657c3061d26e1d79c8c62a900e59a", null ],
+    [ "planes_", "pages/network__opencl_8cc.html#aafac8228fa13836712ee015df23e6aa5", null ],
+    [ "policies_", "pages/network__opencl_8cc.html#aff398f49f0cb9f221b38a455af52446b", null ],
+    [ "q_values_", "pages/network__opencl_8cc.html#a83359b94a2ad05b5463cdc01f9d4df96", null ],
+    [ "wdl_", "pages/network__opencl_8cc.html#a705d0a7ba8d3c6c61f9486a9e37c0197", null ],
+    [ "weights_", "pages/network__opencl_8cc.html#a53940e02cf7f745b37ce2b30dca83d40", null ]
+];

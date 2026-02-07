@@ -1,0 +1,116 @@
+<map id="lczero::ChessBoard::rooks" name="lczero::ChessBoard::rooks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="739,791,885,831"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#adc8388e0d38bd2817f36c192fd556b59" title=" " alt="" coords="483,396,691,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="791,781,593,423,598,421,795,778"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1ChessBoard.html#ae7ae4e6378972211390dd6ff4d7698f3" title=" " alt="" coords="513,1741,660,1781"/>
+<area shape="poly" id="edge15_Node000001_Node000017" title=" " alt="" coords="805,846,595,1741,590,1740,800,844"/>
+<area shape="rect" id="Node000029" href="$classlczero_1_1PgnReader.html#a4eabc8b5548ce1886e8a63211976c7e4" title=" " alt="" coords="513,154,660,194"/>
+<area shape="poly" id="edge20_Node000001_Node000029" title=" " alt="" coords="801,779,759,608,727,496,688,384,640,277,597,196,602,193,645,275,693,383,732,495,764,607,806,778"/>
+<area shape="rect" id="Node000030" href="$classlczero_1_1ChessBoard.html#aa6d933726bfce835ecf7ce2b0094a63f" title=" " alt="" coords="513,1194,660,1234"/>
+<area shape="poly" id="edge22_Node000001_Node000030" title=" " alt="" coords="795,845,601,1195,597,1193,791,842"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1V6TrainingDataArray.html#accd1d568f16af88f0dd196301160b0ba" title=" " alt="" coords="200,108,435,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,385,508,256,469,190,450,165,433,148,410,136,413,131,436,144,454,161,473,187,513,253,577,383"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1python_1_1GameState.html#a2f43cc96d220e49b8bf2d73a9a816d3b" title=" " alt="" coords="220,158,415,198"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="571,385,550,346,519,300,480,252,433,212,412,201,414,196,436,208,484,249,523,297,554,344,576,382"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a243aa1e7137173a0fc29a2b084d00c2b" title="Encodes a position history into input planes for the neural network." alt="" coords="213,59,421,84"/>
+<area shape="poly" id="edge4_Node000002_Node000006" title=" " alt="" coords="570,385,480,207,469,174,463,146,454,122,433,98,415,87,418,82,436,93,459,119,468,145,474,172,485,205,574,383"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#aff6561464d18820b20dba62fdd450a5a" title=" " alt="" coords="267,617,368,643"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="576,435,555,474,524,521,484,568,436,607,403,622,369,630,368,624,401,617,433,603,480,564,519,518,550,471,571,433"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#afb2423399f5243fcea97bfd5c3662bd0" title=" " alt="" coords="267,667,368,692"/>
+<area shape="poly" id="edge6_Node000002_Node000008" title=" " alt="" coords="579,436,561,484,531,544,490,605,465,633,436,656,403,672,369,680,368,675,402,667,433,652,461,629,486,602,527,541,556,482,574,434"/>
+<area shape="rect" id="Node000009" href="$namespacelczero.html#a75b6b8bd08fec105aa62d69a0303f506" title=" " alt="" coords="267,223,368,248"/>
+<area shape="poly" id="edge7_Node000002_Node000009" title=" " alt="" coords="566,387,512,323,475,290,433,262,401,249,368,242,369,237,403,244,436,257,478,285,516,319,570,383"/>
+<area shape="rect" id="Node000010" href="$namespacelczero.html#a66d8896dc65ad8461f529a521c03670e" title=" " alt="" coords="267,272,368,297"/>
+<area shape="poly" id="edge8_Node000002_Node000010" title=" " alt="" coords="558,389,503,349,469,329,434,311,401,300,368,293,369,288,402,295,436,306,472,324,506,345,561,385"/>
+<area shape="rect" id="Node000011" href="$namespacelczero.html#a5d778917d351e4ba8506cbfaaf40687f" title=" " alt="" coords="267,321,368,347"/>
+<area shape="poly" id="edge9_Node000002_Node000011" title=" " alt="" coords="537,394,434,361,367,346,369,340,435,356,539,389"/>
+<area shape="rect" id="Node000012" href="$namespacelczero.html#ab33c4e94ff64d3c8d9ebfc5590bfe86b" title=" " alt="" coords="267,371,368,396"/>
+<area shape="poly" id="edge10_Node000002_Node000012" title=" " alt="" coords="469,400,368,391,368,386,469,395"/>
+<area shape="rect" id="Node000013" href="$namespacelczero.html#a938e706b2a75ce0420d48d9013f8e3fe" title=" " alt="" coords="267,420,368,445"/>
+<area shape="poly" id="edge11_Node000002_Node000013" title=" " alt="" coords="469,422,368,431,368,426,469,417"/>
+<area shape="rect" id="Node000014" href="$namespacelczero.html#a8ca5854876e294ac4669a7b66a45c754" title=" " alt="" coords="267,469,368,495"/>
+<area shape="poly" id="edge12_Node000002_Node000014" title=" " alt="" coords="536,428,435,459,369,475,367,470,434,454,535,423"/>
+<area shape="rect" id="Node000015" href="$namespacelczero.html#ae0ad1e7ec0b8d65b5d9e92ce425af187" title=" " alt="" coords="267,519,368,544"/>
+<area shape="poly" id="edge13_Node000002_Node000015" title=" " alt="" coords="560,432,505,471,436,509,402,520,369,527,368,522,401,515,434,504,502,467,557,428"/>
+<area shape="rect" id="Node000016" href="$namespacelczero.html#a9501b7edb40ccbe27f5397028ab77fb7" title=" " alt="" coords="267,568,368,593"/>
+<area shape="poly" id="edge14_Node000002_Node000016" title=" " alt="" coords="570,434,515,497,478,530,436,558,403,571,369,579,368,574,401,566,433,553,474,526,511,493,566,431"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1ChessBoard.html#ab24b2476e34ef43596501ac717832fb3" title=" " alt="" coords="244,2249,391,2289"/>
+<area shape="poly" id="edge16_Node000017_Node000018" title=" " alt="" coords="588,1795,581,1883,573,1940,560,2002,540,2066,514,2129,480,2187,436,2239,415,2254,392,2263,390,2258,413,2249,433,2235,476,2184,510,2127,535,2064,554,2001,568,1939,576,1882,582,1794"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1PgnReader.html#af10cd52a86b3b23ac21e49e59a0b53aa" title=" " alt="" coords="5,1091,152,1131"/>
+<area shape="poly" id="edge17_Node000018_Node000019" title=" " alt="" coords="229,2260,212,2251,198,2238,184,2213,171,2171,148,2048,128,1887,112,1706,89,1353,78,1132,83,1132,94,1353,117,1705,134,1886,153,2047,176,2169,189,2210,202,2235,215,2247,232,2256"/>
+<area shape="rect" id="Node000027" href="$namespacelczero.html#aaf329f45cbf736b11997d4d471f8b299" title=" " alt="" coords="28,2229,129,2255"/>
+<area shape="poly" id="edge18_Node000018_Node000027" title=" " alt="" coords="230,2262,129,2250,130,2245,231,2257"/>
+<area shape="rect" id="Node000028" href="$namespacelczero.html#a856ae0d0ec4ed19e7fbad2883502e6c4" title=" " alt="" coords="28,2283,129,2308"/>
+<area shape="poly" id="edge19_Node000018_Node000028" title=" " alt="" coords="231,2281,130,2293,129,2287,230,2276"/>
+<area shape="poly" id="edge21_Node000029_Node000019" title=" " alt="" coords="559,146,506,93,472,67,434,49,367,24,309,9,283,9,257,14,230,27,202,48,188,70,174,107,150,221,131,372,114,543,93,879,83,1091,78,1091,87,879,109,543,125,371,145,220,169,105,183,67,198,44,227,22,255,9,282,3,310,4,368,19,436,44,474,63,509,88,563,142"/>
+<area shape="poly" id="edge50_Node000030_Node000007" title=" " alt="" coords="578,1181,560,1063,529,905,509,825,486,753,461,695,433,656,419,646,403,639,368,632,369,626,404,634,421,641,437,652,465,692,491,751,514,824,534,903,565,1062,584,1180"/>
+<area shape="poly" id="edge51_Node000030_Node000008" title=" " alt="" coords="584,1180,580,1086,573,1024,561,958,542,889,515,822,479,760,433,707,419,697,403,689,368,682,369,677,404,684,421,692,436,703,484,757,520,820,547,888,566,956,578,1024,585,1085,589,1180"/>
+<area shape="poly" id="edge52_Node000030_Node000009" title=" " alt="" coords="578,1181,510,672,466,395,447,303,432,261,419,250,403,243,368,236,369,231,405,238,422,246,437,258,452,301,471,394,515,671,584,1180"/>
+<area shape="poly" id="edge53_Node000030_Node000010" title=" " alt="" coords="579,1181,558,988,523,710,502,572,479,451,456,359,444,329,433,311,419,300,403,292,368,286,369,280,405,287,422,295,437,307,449,326,461,358,484,450,507,571,528,710,564,987,585,1180"/>
+<area shape="poly" id="edge54_Node000030_Node000011" title=" " alt="" coords="582,1181,573,1009,563,889,549,761,529,634,504,518,472,423,453,387,433,360,419,349,403,342,368,335,369,330,405,337,422,345,437,356,458,384,477,421,509,517,535,633,554,760,568,889,578,1008,587,1180"/>
+<area shape="poly" id="edge55_Node000030_Node000012" title=" " alt="" coords="581,1181,571,1018,546,785,526,666,501,557,470,468,452,435,433,409,419,399,403,391,368,384,369,379,404,386,422,394,437,406,457,432,475,466,506,556,531,665,551,784,576,1017,587,1180"/>
+<area shape="poly" id="edge56_Node000030_Node000013" title=" " alt="" coords="581,1181,569,1026,542,809,523,697,498,596,468,514,451,482,433,459,419,448,403,441,368,434,369,429,405,436,422,444,437,455,456,479,473,511,503,595,528,696,548,808,574,1026,586,1180"/>
+<area shape="poly" id="edge57_Node000030_Node000014" title=" " alt="" coords="580,1181,567,1035,539,832,519,729,495,635,466,559,450,530,433,508,419,498,403,490,368,483,369,478,405,485,422,493,437,504,455,527,471,557,500,634,525,728,544,831,572,1034,586,1180"/>
+<area shape="poly" id="edge58_Node000030_Node000015" title=" " alt="" coords="580,1181,565,1044,536,856,516,761,492,674,464,604,449,577,433,557,419,547,403,540,368,533,369,527,404,535,422,542,437,554,453,574,469,602,497,673,521,760,541,855,570,1043,585,1180"/>
+<area shape="poly" id="edge59_Node000030_Node000016" title=" " alt="" coords="579,1181,562,1054,532,881,512,793,489,714,462,649,448,625,433,607,419,596,403,589,368,582,369,577,404,584,421,592,436,603,452,622,467,647,494,712,518,792,538,879,568,1053,584,1180"/>
+<area shape="poly" id="edge23_Node000030_Node000019" title=" " alt="" coords="579,1248,561,1299,532,1359,513,1389,491,1418,465,1443,436,1463,373,1493,343,1502,315,1505,287,1504,259,1496,229,1483,198,1463,161,1428,132,1386,111,1339,96,1291,80,1199,77,1132,82,1132,86,1198,101,1289,116,1337,137,1384,165,1425,202,1459,232,1478,261,1491,288,1498,315,1500,342,1497,371,1488,433,1459,462,1439,487,1414,509,1386,528,1356,556,1297,574,1246"/>
+<area shape="poly" id="edge40_Node000030_Node000027" title=" " alt="" coords="584,1249,570,1316,544,1401,525,1446,501,1490,471,1530,436,1564,405,1583,374,1591,344,1590,314,1587,285,1584,257,1585,229,1594,202,1615,186,1635,172,1663,146,1737,126,1827,111,1925,91,2111,83,2229,78,2229,86,2111,105,1924,121,1826,141,1736,167,1661,182,1633,198,1611,227,1589,256,1580,285,1578,315,1582,344,1585,373,1585,403,1578,433,1560,467,1526,496,1487,520,1444,539,1400,565,1314,578,1247"/>
+<area shape="poly" id="edge49_Node000030_Node000028" title=" " alt="" coords="580,1248,535,1451,508,1588,485,1729,481,1839,476,2022,463,2202,452,2267,445,2289,437,2303,399,2328,356,2343,311,2349,264,2348,219,2342,177,2332,110,2311,112,2306,178,2327,220,2337,265,2343,310,2344,355,2338,396,2324,433,2299,440,2287,447,2266,458,2202,470,2022,475,1839,480,1729,503,1588,530,1450,575,1247"/>
+<area shape="rect" id="Node000031" href="$classlczero_1_1ChessBoard.html#ad5d4cf80ce0ec8cb52569f10b61dc00f" title=" " alt="" coords="244,1625,391,1665"/>
+<area shape="poly" id="edge24_Node000030_Node000031" title=" " alt="" coords="585,1249,572,1322,547,1418,528,1470,503,1520,473,1567,436,1608,416,1623,392,1634,390,1629,413,1619,433,1604,469,1563,498,1517,523,1467,542,1417,567,1321,579,1248"/>
+<area shape="rect" id="Node000032" href="$classlczero_1_1PgnReader.html#a636cd1c5e93331c03cb081564bc63353" title=" " alt="" coords="244,717,391,757"/>
+<area shape="poly" id="edge25_Node000030_Node000032" title=" " alt="" coords="582,1181,573,1098,564,1044,550,987,531,928,506,871,473,817,433,771,413,757,390,748,392,743,416,752,436,767,478,814,511,868,536,926,556,986,569,1043,578,1097,587,1180"/>
+<area shape="rect" id="Node000033" href="$classlczero_1_1Position.html#abc1d6d648e248871faab82d8445e0eec" title=" " alt="" coords="225,1689,410,1715"/>
+<area shape="poly" id="edge27_Node000030_Node000033" title=" " alt="" coords="588,1248,581,1335,573,1391,560,1452,541,1514,514,1574,480,1630,436,1679,411,1694,409,1690,433,1675,476,1627,510,1572,536,1512,554,1450,568,1390,576,1334,582,1248"/>
+<area shape="rect" id="Node000034" href="$classlczero_1_1python_1_1GameState.html#aad806e1d3194fa33555fa8060cd6b0ff" title=" " alt="" coords="220,1739,415,1779"/>
+<area shape="poly" id="edge28_Node000030_Node000034" title=" " alt="" coords="589,1248,584,1343,577,1405,564,1472,545,1541,519,1610,483,1673,436,1729,416,1744,413,1740,433,1726,478,1670,514,1607,540,1540,559,1471,572,1404,579,1342,583,1248"/>
+<area shape="rect" id="Node000035" href="$namespacelczero.html#a06ad4bba53fa648d981fd97954ec6d89" title="Reconstructs a ChessBoard object from input planes." alt="" coords="235,1804,399,1829"/>
+<area shape="poly" id="edge29_Node000030_Node000035" title=" " alt="" coords="584,1249,566,1370,535,1533,515,1616,492,1691,466,1752,437,1793,420,1806,401,1814,399,1809,417,1801,433,1790,461,1749,487,1689,510,1614,530,1532,561,1369,578,1248"/>
+<area shape="rect" id="Node000036" href="$namespacelczero.html#ab89ba46dc9bd2050ded0c51c28a3ec43" title=" " alt="" coords="267,1853,368,1879"/>
+<area shape="poly" id="edge30_Node000030_Node000036" title=" " alt="" coords="582,1248,556,1387,518,1576,475,1749,455,1811,437,1844,422,1855,404,1863,369,1870,368,1865,403,1858,419,1851,433,1840,450,1808,470,1748,513,1575,551,1386,577,1247"/>
+<area shape="rect" id="Node000037" href="$namespacelczero.html#a002a1334bbb92f17df62f49688f309c9" title=" " alt="" coords="267,1903,368,1928"/>
+<area shape="poly" id="edge31_Node000030_Node000037" title=" " alt="" coords="582,1248,509,1611,466,1800,449,1863,437,1893,422,1905,404,1912,369,1920,368,1914,403,1907,419,1900,433,1890,444,1862,461,1799,504,1610,576,1247"/>
+<area shape="rect" id="Node000038" href="$namespacelczero.html#a6bac51d7f12e1d9aa07956935efcd9d9" title=" " alt="" coords="267,1952,368,1977"/>
+<area shape="poly" id="edge32_Node000030_Node000038" title=" " alt="" coords="581,1248,501,1646,437,1942,422,1954,405,1962,369,1969,368,1964,403,1957,419,1949,432,1939,496,1645,576,1247"/>
+<area shape="rect" id="Node000039" href="$namespacelczero.html#a1149989f9489a6c4929b699f8f7afeba" title=" " alt="" coords="267,2001,368,2027"/>
+<area shape="poly" id="edge33_Node000030_Node000039" title=" " alt="" coords="581,1248,485,1729,480,1770,480,1807,484,1871,483,1901,476,1931,462,1961,437,1992,422,2004,404,2011,369,2019,368,2013,403,2006,419,1999,433,1988,457,1958,471,1929,478,1901,479,1871,475,1807,475,1770,480,1728,576,1247"/>
+<area shape="rect" id="Node000040" href="$namespacelczero.html#ab08db0b0aaf2b94f240b1f26dacaf920" title=" " alt="" coords="267,2051,368,2076"/>
+<area shape="poly" id="edge34_Node000030_Node000040" title=" " alt="" coords="581,1248,539,1451,485,1729,479,1799,475,1891,463,1980,452,2016,437,2041,422,2053,405,2061,369,2068,368,2063,403,2056,419,2049,433,2038,448,2013,458,1979,469,1891,474,1799,480,1728,533,1450,576,1247"/>
+<area shape="rect" id="Node000041" href="$namespacelczero.html#aa6f21bd46edd4b8558f167a76a42ecd3" title=" " alt="" coords="267,2100,368,2125"/>
+<area shape="poly" id="edge35_Node000030_Node000041" title=" " alt="" coords="581,1248,538,1451,485,1729,480,1810,477,1917,473,1970,466,2019,454,2061,437,2091,422,2102,405,2110,369,2118,368,2112,403,2105,419,2098,433,2087,450,2059,461,2018,468,1970,472,1916,475,1810,480,1728,532,1450,575,1247"/>
+<area shape="rect" id="Node000042" href="$namespacelczero.html#a2f43ee609349904cc86c49b793425877" title=" " alt="" coords="267,2149,368,2175"/>
+<area shape="poly" id="edge36_Node000030_Node000042" title=" " alt="" coords="580,1248,537,1451,485,1729,480,1822,479,1942,476,2003,469,2059,456,2106,437,2140,422,2152,405,2160,369,2167,368,2162,403,2155,419,2147,433,2136,451,2104,464,2058,471,2003,474,1942,475,1821,480,1729,532,1450,575,1247"/>
+<area shape="rect" id="Node000043" href="$namespacelczero.html#a0afad60c125834afd6a0d15becfe1b0a" title=" " alt="" coords="267,2199,368,2224"/>
+<area shape="poly" id="edge37_Node000030_Node000043" title=" " alt="" coords="580,1248,536,1451,509,1589,485,1729,482,1775,481,1833,481,1968,479,2036,472,2098,458,2151,449,2172,437,2189,422,2201,405,2209,369,2216,368,2211,403,2204,419,2197,433,2186,444,2170,453,2149,466,2098,473,2035,476,1968,476,1833,476,1774,480,1728,504,1588,531,1450,575,1247"/>
+<area shape="rect" id="Node000044" href="$namespacelczero.html#a862bf5b1503ebbf79dbb8176596e8eb7" title=" " alt="" coords="267,781,368,807"/>
+<area shape="poly" id="edge38_Node000030_Node000044" title=" " alt="" coords="580,1181,570,1105,546,1007,527,956,502,906,471,860,433,820,402,804,368,797,369,791,404,799,436,816,475,856,507,903,532,954,551,1006,575,1104,586,1180"/>
+<area shape="rect" id="Node000045" href="$namespacelczero.html#a54d23127fd1c9a3a2b1a24bc73d2f316" title=" " alt="" coords="267,831,368,856"/>
+<area shape="poly" id="edge39_Node000030_Node000045" title=" " alt="" coords="578,1181,565,1114,539,1029,520,985,496,942,467,903,433,870,402,853,368,846,369,841,404,848,436,865,471,900,501,939,525,983,544,1027,570,1113,584,1180"/>
+<area shape="rect" id="Node000046" href="$namespacelczero.html#aa432f41168c823e355f2fc7e95cedaa7" title=" " alt="" coords="267,880,368,905"/>
+<area shape="poly" id="edge41_Node000030_Node000046" title=" " alt="" coords="576,1182,560,1124,532,1052,513,1015,490,979,464,947,433,919,402,903,368,896,369,891,404,898,436,915,468,943,495,976,517,1012,537,1050,565,1122,581,1180"/>
+<area shape="rect" id="Node000047" href="$namespacelczero.html#a7d7c36ff5505982f56e91a742b02c129" title=" " alt="" coords="267,929,368,955"/>
+<area shape="poly" id="edge42_Node000030_Node000047" title=" " alt="" coords="572,1182,553,1133,524,1075,484,1017,460,991,433,968,402,953,368,946,369,941,403,948,436,964,464,987,488,1013,529,1072,558,1131,577,1180"/>
+<area shape="rect" id="Node000048" href="$namespacelczero.html#a687957fa6af40057328e362bdecc0439" title=" " alt="" coords="267,979,368,1004"/>
+<area shape="poly" id="edge43_Node000030_Node000048" title=" " alt="" coords="567,1183,546,1144,516,1099,478,1056,433,1019,401,1005,368,997,369,992,403,1000,436,1015,482,1052,520,1096,550,1141,572,1180"/>
+<area shape="rect" id="Node000049" href="$namespacelczero.html#a73dff04f80f27f039ffba20b336c88af" title=" " alt="" coords="267,1028,368,1053"/>
+<area shape="poly" id="edge44_Node000030_Node000049" title=" " alt="" coords="561,1185,507,1125,472,1094,433,1069,401,1056,368,1048,369,1043,403,1050,436,1064,475,1090,511,1121,565,1181"/>
+<area shape="rect" id="Node000050" href="$namespacelczero.html#a85b769a1fac6e5d6addde75cc1c14867" title=" " alt="" coords="267,1077,368,1103"/>
+<area shape="poly" id="edge45_Node000030_Node000050" title=" " alt="" coords="548,1188,496,1151,434,1118,401,1107,368,1100,369,1094,402,1102,436,1113,499,1147,551,1183"/>
+<area shape="rect" id="Node000051" href="$namespacelczero.html#aa6fe3c49ad3e5a1199ccf7fdc2938331" title=" " alt="" coords="267,1127,368,1152"/>
+<area shape="poly" id="edge46_Node000030_Node000051" title=" " alt="" coords="515,1192,434,1167,367,1152,369,1147,435,1162,516,1187"/>
+<area shape="rect" id="Node000052" href="$namespacelczero.html#a699cbb267dbda604e91cf3eaa4321634" title=" " alt="" coords="267,1176,368,1201"/>
+<area shape="poly" id="edge47_Node000030_Node000052" title=" " alt="" coords="499,1209,368,1196,368,1191,500,1203"/>
+<area shape="rect" id="Node000053" href="$namespacelczero.html#a88e28c99b55a4bc61358ee9e7e5b9a00" title=" " alt="" coords="267,1225,368,1251"/>
+<area shape="poly" id="edge48_Node000030_Node000053" title=" " alt="" coords="500,1225,368,1236,368,1231,499,1219"/>
+<area shape="rect" id="Node000054" href="$namespacelczero.html#adcf2f6b9d32f566b478274fe485f7d99" title=" " alt="" coords="267,1275,368,1300"/>
+<area shape="poly" id="edge60_Node000030_Node000054" title=" " alt="" coords="517,1241,435,1266,369,1281,367,1276,434,1261,516,1236"/>
+<area shape="rect" id="Node000055" href="$namespacelczero.html#a5b347785b5660cfbccc5fcd534cd9cfa" title=" " alt="" coords="267,1324,368,1349"/>
+<area shape="poly" id="edge61_Node000030_Node000055" title=" " alt="" coords="552,1245,499,1282,436,1315,402,1326,369,1333,368,1328,401,1321,434,1310,496,1277,548,1241"/>
+<area shape="rect" id="Node000056" href="$namespacelczero.html#a0ae5883f9e17a7f53e989fdc6b6f494c" title=" " alt="" coords="267,1373,368,1399"/>
+<area shape="poly" id="edge62_Node000030_Node000056" title=" " alt="" coords="565,1247,511,1308,475,1339,436,1365,403,1378,369,1385,368,1380,401,1372,433,1360,472,1334,507,1304,561,1244"/>
+<area shape="rect" id="Node000057" href="$namespacelczero.html#abce15bea18cc0f83e145a96921c4435d" title=" " alt="" coords="267,1423,368,1448"/>
+<area shape="poly" id="edge63_Node000030_Node000057" title=" " alt="" coords="572,1248,551,1287,520,1332,482,1377,436,1414,403,1428,369,1436,368,1430,401,1423,433,1409,478,1373,516,1329,546,1284,568,1245"/>
+<area shape="rect" id="Node000058" href="$namespacelczero.html#a7da62ecf0ad5da45c2f69e37bb98e221" title=" " alt="" coords="267,1524,368,1549"/>
+<area shape="poly" id="edge64_Node000030_Node000058" title=" " alt="" coords="580,1248,563,1305,534,1374,493,1446,466,1478,436,1507,404,1525,369,1535,368,1530,402,1520,433,1503,462,1475,488,1443,529,1372,558,1303,575,1247"/>
+<area shape="poly" id="edge26_Node000032_Node000019" title=" " alt="" coords="232,752,202,771,169,808,143,850,123,896,108,943,90,1029,83,1092,78,1091,85,1029,103,941,118,894,139,848,165,805,198,767,229,748"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="lczero::HloBuilder::Slice" name="lczero::HloBuilder::Slice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,143,237"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1HloTensorType.html#a57327ffa08bbe3edfc2324c3f6d64ef9" title=" " alt="" coords="191,5,353,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,196,123,128,153,89,189,55,196,50,200,54,192,59,157,93,127,131,87,199"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1HloTensorType.html#a7ef1ce8e924a8e1c5138e32c76b97286" title=" " alt="" coords="191,69,353,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,195,136,157,189,119,200,113,203,118,192,124,139,162,97,199"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1HloTensorType.html#abf61a5b73cbc58023ef8b17dfef1ff72" title=" " alt="" coords="191,133,353,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,195,196,175,198,180,137,200"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1HloBuilder.html#a4f199fc356dd1a2957318575c2460400" title=" " alt="" coords="203,197,341,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,215,190,215,190,220,143,220"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1HloTensorType.html#a972dcf7f43d16cb57e7c2a48d3be2002" title=" " alt="" coords="191,261,353,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="137,235,198,255,196,260,136,240"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1HloTensorType.html#a1516e1609b88b3c48de30f39a491d4bd" title=" " alt="" coords="191,325,353,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="97,236,139,273,192,311,203,317,200,322,189,316,136,277,94,240"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1HloTensorType.html#a14b66298d1f41f7afa4f4c22bda688a8" title=" " alt="" coords="191,389,353,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="87,236,127,304,157,342,192,375,200,380,196,385,189,379,153,345,123,307,83,239"/>
+</map>

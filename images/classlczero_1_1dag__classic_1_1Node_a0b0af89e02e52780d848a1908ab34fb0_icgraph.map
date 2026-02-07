@@ -1,0 +1,39 @@
+<map id="lczero::dag_classic::Node::GetM" name="lczero::dag_classic::Node::GetM">
+<area shape="rect" id="Node000001" title="Returns the estimated moves remaining." alt="" coords="827,138,971,178"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Search.html#aea1ff1139fdcadca9318dc78c0a790ec" title="Returns the evaluation of the best move, WITHOUT temperature." alt="" coords="299,18,462,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="876,128,835,79,808,55,778,38,738,24,697,15,613,8,532,12,462,22,462,17,532,7,613,3,698,10,740,19,780,33,811,51,839,75,880,125"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#ae83d61bd115b926a31c0f689591688d1" title=" " alt="" coords="579,47,743,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="840,135,778,109,725,90,727,85,780,104,842,130"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title="Adjust parameters for updating node &#160;&#160;and its parent low node." alt="" coords="5,123,217,177"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="813,154,779,153,473,148,218,151,218,145,473,143,779,147,813,149"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a4f5c5b9bfc730b94035cbca6185ffe29" title="Check if there is a reason to stop picking and pick @node." alt="" coords="561,163,761,217"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="813,172,762,179,761,174,812,167"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Node.html#aa0a35fcaaa44369c32bab642cf5d14e7" title=" " alt="" coords="557,242,766,282"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="860,188,822,211,780,233,748,244,746,239,778,228,819,207,857,183"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1dag__classic_1_1LowNode.html#a049422b66ac20fd7279be6092652e196" title=" " alt="" coords="544,514,779,554"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="880,191,678,515,673,512,875,188"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="565,60,462,49,462,44,566,55"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Node.html#a7b1c29c277d63cbdac27ad4e1bec3f53" title="Adjusts value statistics for terminal nodes." alt="" coords="286,354,475,394"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="613,291,558,318,497,345,461,357,460,352,495,340,556,314,610,286"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Node.html#a35df217fd99100d6b0cfa1b5b73c5ecf" title="Finalizes score update with new backpropagated values." alt="" coords="278,162,483,202"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="571,241,543,233,495,217,455,205,456,200,497,212,545,228,573,236"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1Node.html#a235a47352b0fcb886a7c65090f86ea15" title="Marks the node as non&#45;terminal, recomputing stats." alt="" coords="287,290,474,330"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="544,285,475,297,474,292,543,280"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dag__classic_1_1Node.html#a0726f814d7d4ad7f52cd41be76699a3c" title="Marks the node as terminal." alt="" coords="299,226,462,266"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="543,258,462,253,462,248,543,253"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a4da50481bf99a9d4200df90707b2eb07" title="Adds a move to current_head_." alt="" coords="26,290,197,330"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="274,313,197,313,197,307,274,307"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="289,225,264,217,172,180,174,175,266,212,291,220"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title="Extends a leaf node by generating moves and checking for terminal states." alt="" coords="8,226,215,266"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="285,249,215,249,215,243,285,243"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1dag__classic_1_1LowNode.html#a173a151fa8e1376f63bb981d6722accf" title="Updates statistics for terminal node encounters." alt="" coords="273,482,488,522"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="530,522,488,517,488,512,531,517"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1dag__classic_1_1LowNode.html#a5763a639c59feaa32e332c3a282c3a19" title="Updates the node with newly computed value v." alt="" coords="265,546,496,586"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="531,552,496,556,496,550,530,546"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1dag__classic_1_1LowNode.html#a9fcb0a3b5d94e650908deff8ce1f5f0e" title="Reverts terminal status using information from a node." alt="" coords="275,610,487,650"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="601,562,497,601,459,613,457,607,495,596,599,557"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1dag__classic_1_1LowNode.html#a32ceb87972a8aebe93788f440bf5f9d7" title="Marks the node as terminal with a specific result." alt="" coords="286,674,475,714"/>
+<area shape="poly" id="edge18_Node000013_Node000017" title=" " alt="" coords="632,566,572,616,536,642,497,664,468,677,466,672,495,660,533,638,569,612,628,562"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1dag__classic_1_1LowNode.html#a0533a93aef8445afa0779adc13c3dc11" title="Populates the node with neural network evaluation results." alt="" coords="297,418,464,458"/>
+<area shape="poly" id="edge19_Node000013_Node000018" title=" " alt="" coords="599,511,495,473,457,461,459,456,497,468,601,506"/>
+</map>

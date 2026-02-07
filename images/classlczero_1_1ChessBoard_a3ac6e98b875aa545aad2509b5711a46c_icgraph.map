@@ -1,0 +1,19 @@
+<map id="lczero::ChessBoard::IsUnderCheck" name="lczero::ChessBoard::IsUnderCheck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="636,63,783,103"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1ChessBoard.html#ad09e84ee411b61f7245c148718c33786" title=" " alt="" coords="424,5,571,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="622,62,570,48,572,43,624,57"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SyzygyTablebase.html#ad9e247dff5ecff5863dca670b02d5d2a" title="Probes DTZ tables to determine distance to zeroing move." alt="" coords="407,144,588,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="645,110,551,146,549,141,643,105"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1SyzygyTablebase.html#a5b6232e20ebbc9ff983e5b14abfdff5b" title="Probes DTZ tables to determine safe moves on the optimal path." alt="" coords="166,75,347,115"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="622,88,348,95,347,90,622,82"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="533,132,520,125,497,123,477,125,465,129,461,135,463,143,458,144,455,134,462,125,476,119,497,117,522,120,535,128"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="414,143,326,117,327,112,415,138"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#af922f64433bb32795f3f14b6d5086f33" title=" " alt="" coords="155,151,359,177"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="393,167,359,167,359,161,393,161"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a501bbad87d7bf4b07337c66fe8457445" title=" " alt="" coords="5,102,107,127"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="191,151,106,130,107,124,192,145"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#aaadcfee2ec671feff49b3d246954ed56" title=" " alt="" coords="5,151,107,177"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="141,167,107,167,107,161,141,161"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#a916d4611c688907e006b39eefc1ac6f0" title=" " alt="" coords="5,201,107,226"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="192,183,107,204,106,198,191,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::classic::BaseSearchParams::GetMaxConcurrentSearchers" name="lczero::classic::BaseSearchParams::GetMaxConcurrentSearchers">
+<area shape="rect" id="Node000001" title="Gets maximum concurrent searcher threads." alt="" coords="219,37,483,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Search.html#a2631f9396f69fc6ca010ff942f9a64cb" title=" " alt="" coords="16,5,160,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,42,160,37,161,31,205,37"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#aa6fa118dfb685a139d11cd8c9a4f173a" title="Constructs a Search instance." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,78,171,82,170,77,205,72"/>
+</map>

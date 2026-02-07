@@ -1,0 +1,16 @@
+<map id="lczero::sycldnn_backend::ResidualBlock::LoadWeights1" name="lczero::sycldnn_backend::ResidualBlock::LoadWeights1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,227,109"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#af39d2717c379e537912c31a25f99e492" title=" " alt="" coords="275,37,455,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,72,261,68,261,73,227,78"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1sycldnn__backend.html#a849f7946905a580d47a1c46b1fd4a403" title="Winograd filter transformation." alt="" coords="275,101,455,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,101,261,105,261,111,227,106"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a726581493bfb4d1a5ce0e3c88bdeedb4" title=" " alt="" coords="503,5,708,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,43,489,38,489,43,455,48"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="515,69,695,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,67,502,73,501,78,455,72"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="455,107,501,100,502,106,455,112"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a3c9c568c3a1e8f20a2e6aec31e339aca" title=" " alt="" coords="515,133,695,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="455,131,502,137,501,142,455,136"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#abb571037f42d6499226e7af5784ed104" title=" " alt="" coords="756,133,936,173"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="696,151,742,151,742,156,696,156"/>
+</map>

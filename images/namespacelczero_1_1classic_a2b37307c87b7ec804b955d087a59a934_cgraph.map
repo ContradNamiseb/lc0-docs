@@ -1,0 +1,8 @@
+<map id="lczero::classic::PopulateIntrinsicStoppers" name="lczero::classic::PopulateIntrinsicStoppers">
+<area shape="rect" id="Node000001" title="Adds KLD gain and smart pruning stoppers to a chain." alt="" coords="5,47,184,87"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1ChainedSearchStopper.html#a90aa214ec3a9bb862eb377be46bb8c4e" title="Adds a stopper to the chain." alt="" coords="232,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,48,218,42,219,48,185,54"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="243,94,419,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,79,242,89,242,94,184,84"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="293,96,285,86,289,76,305,70,331,67,364,71,377,81,374,85,362,76,331,73,306,75,293,80,290,85,297,92"/>
+</map>

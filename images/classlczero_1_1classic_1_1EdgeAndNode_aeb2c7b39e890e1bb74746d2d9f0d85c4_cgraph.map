@@ -1,0 +1,5 @@
+<map id="lczero::classic::EdgeAndNode::IsTbTerminal" name="lczero::classic::EdgeAndNode::IsTbTerminal">
+<area shape="rect" id="Node000001" title="Checks if node is tablebase terminal." alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#a49c5294d02c51cab7f6b40e097b2bf67" title="Checks if node is terminal due to tablebase lookup." alt="" coords="232,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,218,23,218,28,184,28"/>
+</map>

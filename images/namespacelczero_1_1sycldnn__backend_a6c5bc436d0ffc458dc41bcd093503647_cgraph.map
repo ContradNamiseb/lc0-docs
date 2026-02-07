@@ -1,0 +1,7 @@
+<map id="lczero::sycldnn_backend::addBiasBatched_kernel" name="lczero::sycldnn_backend::addBiasBatched_kernel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,45"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a23f9670776d983a5337b3f07f272b7a8" title=" " alt="" coords="236,5,416,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,222,23,222,28,188,28"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#a22d0b48537a7d6d0a809f725b5b248a0" title=" " alt="" coords="464,5,644,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,23,450,23,450,28,416,28"/>
+</map>

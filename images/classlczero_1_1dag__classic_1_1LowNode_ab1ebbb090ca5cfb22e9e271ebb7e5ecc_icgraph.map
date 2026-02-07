@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::LowNode::IsTerminal" name="lczero::dag_classic::LowNode::IsTerminal">
+<area shape="rect" id="Node000001" title="Returns whether the node is terminal." alt="" coords="265,5,431,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1LowNode.html#a9fcb0a3b5d94e650908deff8ce1f5f0e" title="Reverts terminal status using information from a node." alt="" coords="5,5,217,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,28,217,28,217,23,251,23"/>
+</map>

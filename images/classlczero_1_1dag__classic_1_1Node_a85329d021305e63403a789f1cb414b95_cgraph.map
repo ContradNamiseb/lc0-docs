@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::Node::GetNStarted" name="lczero::dag_classic::Node::GetNStarted">
+<area shape="rect" id="Node000001" title="Returns N + N_in_flight (visits committed + visits in progress)." alt="" coords="5,5,157,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a569cee4a78cce38612675e01d6c0f17e" title="Returns the number of threads currently visiting this node (virtual loss)." alt="" coords="205,5,360,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,23,191,23,191,28,158,28"/>
+</map>

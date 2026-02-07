@@ -1,0 +1,19 @@
+<map id="lczero::sycldnn_backend::Conv1Layer::Eval" name="lczero::sycldnn_backend::Conv1Layer::Eval">
+<area shape="rect" id="Node000001" title="Evaluates the layer." alt="" coords="5,69,185,109"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a8dbde1e661e0c0eb15ae7f929f23a643" title="Adds bias to convolution&#39;s output." alt="" coords="233,37,413,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,74,220,69,220,74,186,79"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#a746c81b6a9fd4801debafed827ac6c78" title="Adds two vectors (possibly of different sizes), with optional activation." alt="" coords="233,101,413,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="186,99,220,104,220,109,185,105"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ab18d69f40e76f7b6e1d96e10047369c6" title=" " alt="" coords="461,5,641,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,42,448,37,448,42,414,47"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="461,69,641,109"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="414,67,448,72,448,77,413,73"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#a23f9670776d983a5337b3f07f272b7a8" title=" " alt="" coords="689,69,869,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="624,43,695,63,693,68,623,48"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1sycldnn__backend.html#a22d0b48537a7d6d0a809f725b5b248a0" title=" " alt="" coords="917,69,1097,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="870,87,904,87,904,92,870,92"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="413,106,448,101,448,106,414,111"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1sycldnn__backend.html#aaf3a4fc505c1cc399435c6463879cee3" title=" " alt="" coords="461,133,641,173"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="414,131,448,136,448,141,413,137"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="623,131,693,111,695,116,624,136"/>
+</map>

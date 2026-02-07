@@ -1,0 +1,64 @@
+<map id="lczero::sycldnn_backend::mishActivate" name="lczero::sycldnn_backend::mishActivate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="967,517,1147,557"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a23f9670776d983a5337b3f07f272b7a8" title=" " alt="" coords="739,517,919,557"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="953,540,919,540,919,535,953,535"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ab18d69f40e76f7b6e1d96e10047369c6" title=" " alt="" coords="486,101,666,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="819,504,806,440,781,356,742,268,718,225,689,187,660,162,628,144,631,139,663,158,693,184,722,223,747,265,786,354,811,438,825,503"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a4fb1662b2b8e6fd80a8e78abd0e9b085" title=" " alt="" coords="485,389,667,429"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="792,511,745,476,689,444,660,432,662,427,692,439,748,471,795,506"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#a6c5bc436d0ffc458dc41bcd093503647" title=" " alt="" coords="485,453,667,493"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="735,516,655,496,656,491,736,511"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1sycldnn__backend.html#aaf3a4fc505c1cc399435c6463879cee3" title=" " alt="" coords="486,197,666,237"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="818,505,804,449,779,381,741,311,717,279,689,251,665,237,668,232,692,247,721,276,745,308,783,379,809,448,824,503"/>
+<area shape="rect" id="Node000016" href="$namespacelczero_1_1sycldnn__backend.html#aae475e6dcfa79ec599c087489541f9d3" title=" " alt="" coords="486,517,666,557"/>
+<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="725,540,666,540,666,535,725,535"/>
+<area shape="rect" id="Node000018" href="$namespacelczero_1_1sycldnn__backend.html#aa78f4a87fba83549d8d2559f65426039" title=" " alt="" coords="486,325,666,365"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="807,508,758,442,726,408,689,380,665,367,667,362,692,375,730,404,763,439,811,504"/>
+<area shape="rect" id="Node000020" href="$namespacelczero_1_1sycldnn__backend.html#a44a89510992a10b158bbf1e82278d20a" title=" " alt="" coords="461,261,691,301"/>
+<area shape="poly" id="edge22_Node000002_Node000020" title=" " alt="" coords="814,506,796,462,769,411,734,359,689,315,670,304,672,299,692,311,738,356,774,408,801,460,819,503"/>
+<area shape="rect" id="Node000021" href="$namespacelczero_1_1sycldnn__backend.html#a20e17fa456403315f52ae852c9416db9" title=" " alt="" coords="486,581,666,621"/>
+<area shape="poly" id="edge24_Node000002_Node000021" title=" " alt="" coords="736,563,656,584,655,579,735,558"/>
+<area shape="rect" id="Node000022" href="$namespacelczero_1_1sycldnn__backend.html#a33e83062645519945d6a315fa3f0bc5c" title=" " alt="" coords="469,646,683,701"/>
+<area shape="poly" id="edge25_Node000002_Node000022" title=" " alt="" coords="794,568,747,603,692,636,664,648,662,643,689,631,744,598,791,564"/>
+<area shape="rect" id="Node000023" href="$namespacelczero_1_1sycldnn__backend.html#a9ea1924dc9dd770a1e19ad91d1208d00" title=" " alt="" coords="483,725,669,765"/>
+<area shape="poly" id="edge26_Node000002_Node000023" title=" " alt="" coords="813,571,765,643,731,681,692,714,667,728,665,723,689,710,728,678,761,640,808,568"/>
+<area shape="rect" id="Node000026" href="$namespacelczero_1_1sycldnn__backend.html#a2ceedce9e44ec1b3f9f77d5fa444a784" title=" " alt="" coords="486,869,666,923"/>
+<area shape="poly" id="edge29_Node000002_Node000026" title=" " alt="" coords="825,571,811,632,787,709,769,750,748,789,723,826,692,859,668,876,665,872,689,855,718,823,744,787,765,747,782,707,806,631,820,570"/>
+<area shape="rect" id="Node000028" href="$namespacelczero_1_1sycldnn__backend.html#ae2ac883421c789f21516f6cf2753b97c" title=" " alt="" coords="479,790,673,845"/>
+<area shape="poly" id="edge31_Node000002_Node000028" title=" " alt="" coords="819,572,802,618,775,674,738,730,717,756,692,779,674,792,671,788,689,775,713,753,734,727,770,671,797,616,814,570"/>
+<area shape="rect" id="Node000029" href="$namespacelczero_1_1sycldnn__backend.html#abd7a65ee7b828c9ae2addadb5eb70c00" title=" " alt="" coords="486,948,666,988"/>
+<area shape="poly" id="edge33_Node000002_Node000029" title=" " alt="" coords="829,571,820,647,799,745,781,797,758,848,729,896,692,938,668,955,665,950,689,934,725,893,754,846,776,795,794,744,815,646,823,571"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#a8dbde1e661e0c0eb15ae7f929f23a643" title="Adds bias to convolution&#39;s output." alt="" coords="233,69,413,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,111,413,103,414,98,473,106"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1sycldnn__backend_1_1Conv1Layer.html#a1f5581b22bef2fc9674786b399773e88" title="Evaluates the layer." alt="" coords="5,5,185,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,68,166,48,168,43,239,63"/>
+<area shape="rect" id="Node000009" href="$namespacelczero_1_1sycldnn__backend.html#a746c81b6a9fd4801debafed827ac6c78" title="Adds two vectors (possibly of different sizes), with optional activation." alt="" coords="233,197,413,237"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="472,220,414,220,414,215,472,215"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="291,189,231,123,209,88,200,74,184,59,164,48,166,43,187,55,204,71,214,86,235,120,295,186"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a0a79b09ffc9d265741c115ca8e4c0ab0" title="Evaluates the layer." alt="" coords="5,69,185,109"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="285,191,238,157,184,124,158,112,160,107,187,119,241,152,288,187"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1sycldnn__backend_1_1ValueHead.html#af9839fab7dfcc32bb8d3121c4650a387" title="Evaluates the layer." alt="" coords="5,133,185,173"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="238,196,166,176,168,171,239,191"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#ae6935c3fcff90413081153986034d460" title=" " alt="" coords="5,325,185,365"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="288,248,241,282,187,316,160,328,158,323,184,311,238,278,285,244"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a18d936fcaa961c9238360c39dc6a1ded" title=" " alt="" coords="5,197,185,237"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="219,220,185,220,185,215,219,215"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#a3c3c4c6e00fe195d3c73078277b52024" title=" " alt="" coords="5,389,185,429"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="295,249,235,315,214,349,204,364,187,379,166,392,164,387,184,375,200,361,209,346,231,312,291,245"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a43b27b5d9f6964eb9562becaf3decddc" title=" " alt="" coords="5,261,185,301"/>
+<area shape="poly" id="edge15_Node000009_Node000015" title=" " alt="" coords="239,244,168,264,166,259,238,238"/>
+<area shape="rect" id="Node000017" href="$namespacelczero_1_1sycldnn__backend.html#a48afc7e50cd5080ad01f6803f983dd7a" title="Performs batch normalization." alt="" coords="233,517,413,557"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="472,540,414,540,414,535,472,535"/>
+<area shape="rect" id="Node000019" href="$namespacelczero_1_1sycldnn__backend.html#a546fec3fb62e5e5405e59236b75e221d" title=" " alt="" coords="233,325,413,365"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="472,348,414,348,414,343,472,343"/>
+<area shape="poly" id="edge20_Node000019_Node000012" title=" " alt="" coords="219,348,185,348,185,343,219,343"/>
+<area shape="poly" id="edge21_Node000019_Node000014" title=" " alt="" coords="239,372,168,392,166,387,238,366"/>
+<area shape="poly" id="edge23_Node000020_Node000019" title=" " alt="" coords="484,307,403,328,402,323,482,302"/>
+<area shape="rect" id="Node000024" href="$namespacelczero_1_1sycldnn__backend.html#a7ef1a7d6512b23426bd6096ca1e60fc6" title=" " alt="" coords="233,725,413,765"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="469,748,414,748,414,743,469,743"/>
+<area shape="rect" id="Node000025" href="$classlczero_1_1sycldnn__backend_1_1ResidualBlock.html#ae6493adcc9c7b36f14e09546a2c7c94b" title="Evaluates the layer." alt="" coords="5,725,185,765"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="219,748,185,748,185,743,219,743"/>
+<area shape="rect" id="Node000027" href="$namespacelczero_1_1sycldnn__backend.html#a6f940a22d4d6d98cb9fa952ab111a8eb" title=" " alt="" coords="233,836,413,876"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="472,882,413,873,414,868,473,877"/>
+<area shape="poly" id="edge32_Node000028_Node000027" title=" " alt="" coords="465,837,414,845,413,840,464,832"/>
+</map>

@@ -1,0 +1,115 @@
+<map id="lczero::dag_classic::Search::MaybeTriggerStop" name="lczero::dag_classic::Search::MaybeTriggerStop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1235,204,1275"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Search.html#a0da95ebed57fa9b2cb45c4d2998fb123" title="Computes the best move, maybe with temperature (according to the settings)." alt="" coords="575,482,809,522"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,1234,128,1178,157,1098,199,1008,250,922,298,858,351,796,464,684,570,592,650,528,654,532,573,596,468,688,355,800,302,861,254,925,203,1011,162,1100,133,1179,114,1236"/>
+<area shape="rect" id="Node000023" href="$classlczero_1_1dag__classic_1_1Search.html#aa4608e9f90c2fc8c71e916a95baa96df" title=" " alt="" coords="297,935,482,975"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="108,1234,124,1183,152,1116,193,1045,220,1013,250,985,282,968,285,972,254,989,224,1016,198,1048,157,1118,129,1185,113,1236"/>
+<area shape="rect" id="Node000024" href="$classlczero_1_1classic_1_1StoppersHints.html#aea0ae0c3a9dd1a5b63bea3355abbf290" title="Gets estimated remaining time." alt="" coords="252,999,527,1039"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="112,1233,132,1194,161,1144,201,1092,225,1069,250,1049,261,1043,263,1047,254,1053,228,1073,205,1096,166,1147,136,1196,117,1236"/>
+<area shape="rect" id="Node000025" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a3060ff0be13635c8280c85d20c1544d8" title="Gets garbage collection delay." alt="" coords="260,1063,519,1103"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="119,1233,173,1173,209,1140,251,1113,265,1106,268,1110,253,1117,213,1145,176,1177,123,1237"/>
+<area shape="rect" id="Node000026" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a4c486fce16e9d323db29d8c826dcdedf" title="Gets nodes per second limit." alt="" coords="291,1127,488,1167"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="138,1232,190,1204,251,1177,277,1168,278,1173,253,1182,192,1209,140,1237"/>
+<area shape="rect" id="Node000027" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#afffd7d6978f54f2663b23446dbe80c11" title="Access to the singleton instance." alt="" coords="301,1192,478,1246"/>
+<area shape="poly" id="edge31_Node000001_Node000027" title=" " alt="" coords="204,1240,287,1229,287,1235,205,1245"/>
+<area shape="rect" id="Node000028" href="$classlczero_1_1classic_1_1StoppersHints.html#a2a40954e29ea46430e7fdae58e6f28fc" title="Resets all hints to default values." alt="" coords="300,1271,479,1311"/>
+<area shape="poly" id="edge32_Node000001_Node000028" title=" " alt="" coords="205,1265,287,1275,286,1281,204,1270"/>
+<area shape="rect" id="Node000029" href="$classlczero_1_1dag__classic_1_1Search.html#aba46009d0ebf9df823d77039f7795fd7" title=" " alt="" coords="294,1335,485,1375"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="145,1273,195,1297,253,1321,281,1329,280,1335,251,1326,193,1302,142,1278"/>
+<area shape="rect" id="Node000062" href="$classlczero_1_1dag__classic_1_1Search.html#a0d0c66f8241535cc02d44413e5e1a149" title=" " alt="" coords="309,1399,469,1439"/>
+<area shape="poly" id="edge60_Node000001_Node000062" title=" " alt="" coords="124,1274,178,1330,214,1360,253,1385,297,1402,295,1407,251,1389,211,1364,174,1334,121,1277"/>
+<area shape="rect" id="Node000063" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#ae8b5cdc9bd2f68ef7cc97eb7cd070524" title="Starts the GC thread." alt="" coords="301,1464,478,1518"/>
+<area shape="poly" id="edge61_Node000001_Node000063" title=" " alt="" coords="118,1274,138,1311,168,1359,207,1407,254,1449,289,1467,286,1472,250,1453,203,1411,163,1362,133,1314,113,1276"/>
+<area shape="rect" id="Node000064" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#a468e81338438c0c9bc2f8c588e4ce3e8" title="Stops the GC thread." alt="" coords="282,1543,497,1583"/>
+<area shape="poly" id="edge62_Node000001_Node000064" title=" " alt="" coords="113,1274,128,1326,155,1396,174,1432,197,1468,223,1501,254,1529,271,1540,268,1544,250,1533,219,1504,192,1471,170,1435,150,1398,123,1328,108,1276"/>
+<area shape="rect" id="Node000065" href="$classlczero_1_1classic_1_1StoppersHints.html#adf60398e4a67b1cc27eb8faaf9b3e281" title="Updates estimated nodes per second." alt="" coords="288,1607,491,1647"/>
+<area shape="poly" id="edge63_Node000001_Node000065" title=" " alt="" coords="111,1275,122,1337,147,1424,166,1470,189,1515,218,1557,254,1593,277,1608,274,1612,250,1597,214,1561,185,1518,161,1472,142,1426,117,1339,106,1276"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Search.html#aff64ca381ef9132af3e3d61a05dafb71" title="Returns a child with most visits, with or without temperature." alt="" coords="857,510,1124,550"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="810,510,844,513,843,519,809,515"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Search.html#a900bf3c7ce8dcac52525ea5807772d35" title=" " alt="" coords="892,574,1089,629"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="747,519,858,559,884,568,883,573,856,564,745,524"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1Position.html#a46d218a438dc14aa85e701b4cd1f4d46" title=" " alt="" coords="885,653,1096,678"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="713,520,773,580,814,612,859,638,880,647,878,652,856,643,811,616,770,584,709,524"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a9880f17e1ba34d26c861ed70775a1fb5" title=" " alt="" coords="897,703,1085,743"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="707,520,731,557,765,602,808,648,859,688,885,700,883,705,856,692,805,652,761,606,726,560,703,523"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dag__classic_1_1Node.html#a52d0fdb2d36bac9a7ebc7baea41f9df1" title="Returns the visit count of this node/edge." alt="" coords="919,767,1063,807"/>
+<area shape="poly" id="edge9_Node000002_Node000011" title=" " alt="" coords="703,521,723,569,755,632,801,698,828,727,859,753,881,765,906,774,904,779,879,770,856,757,825,731,797,701,751,635,718,571,698,523"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1classic_1_1BaseSearchParams.html#af83573ed616f8eda6e69b722dd018c06" title="Gets delay before temperature decay starts." alt="" coords="861,115,1120,155"/>
+<area shape="poly" id="edge10_Node000002_Node000012" title=" " alt="" coords="700,480,778,305,823,214,842,183,855,165,862,160,866,164,859,169,846,186,828,217,783,308,705,483"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a6e1818c114fc5fb466cfc30b488d91b7" title="Gets number of moves for temperature decay." alt="" coords="881,179,1101,219"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="697,481,716,430,748,361,795,290,823,257,856,229,867,222,869,226,859,233,827,261,799,293,753,364,721,432,702,483"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1classic_1_1BaseSearchParams.html#ad8f5d5c7e9d66ae3208cf5c3c832a6be" title="Gets temperature for move selection randomization." alt="" coords="892,243,1089,283"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="701,480,724,440,758,389,802,337,828,313,856,293,878,281,880,286,859,297,831,317,806,341,762,393,728,443,706,483"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a8f497f70076b36950664f943dadb9dcc" title="Gets move number to cut off temperature." alt="" coords="861,395,1120,435"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="761,479,907,437,908,442,763,484"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1classic_1_1BaseSearchParams.html#ac0ece6f2b58ef79a139fc42be0e43acc" title="Gets endgame temperature value." alt="" coords="869,51,1113,91"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="701,480,748,379,807,244,818,202,821,167,830,134,840,118,855,101,860,97,864,101,859,105,844,121,835,136,827,168,823,203,812,245,753,382,706,483"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1dag__classic_1_1Node.html#a240ce4702454fa96f036be8b37f491df" title="Returns whether the node has a LowNode attached (children)." alt="" coords="915,331,1066,371"/>
+<area shape="poly" id="edge21_Node000002_Node000018" title=" " alt="" coords="714,479,775,430,814,403,856,381,901,365,903,370,858,386,817,408,778,434,717,483"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1PositionHistory.html#a44924455ccd62f0f2f2798dd403ba4f5" title=" " alt="" coords="1181,1054,1349,1094"/>
+<area shape="poly" id="edge23_Node000002_Node000019" title=" " alt="" coords="701,521,718,579,750,658,771,701,796,743,826,782,859,817,893,843,925,858,956,867,987,872,1052,884,1087,897,1125,918,1162,947,1194,979,1244,1041,1240,1044,1190,983,1158,951,1123,923,1085,902,1051,889,986,877,955,872,923,863,890,847,856,821,821,786,792,746,766,703,745,660,713,581,696,523"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title=" " alt="" coords="1411,824,1579,864"/>
+<area shape="poly" id="edge26_Node000002_Node000022" title=" " alt="" coords="772,479,897,458,973,452,1053,452,1135,459,1216,477,1292,506,1327,526,1360,550,1389,579,1414,611,1435,646,1452,683,1477,753,1490,810,1485,811,1472,755,1447,685,1430,649,1410,614,1385,582,1357,554,1324,531,1289,511,1214,482,1134,464,1053,457,973,457,898,464,773,484"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Random.html#a56bd43d254b6608e573474715400dd7b" title=" " alt="" coords="1188,565,1343,590"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1089,591,1174,583,1174,588,1090,596"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1Random.html#a2c8df5e1d452d68b003979de410ba299" title=" " alt="" coords="1172,614,1359,640"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1090,608,1158,615,1158,620,1089,614"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1Edge.html#a045b1c33985277b9711e9b3e13ea92de" title="Returns move from the point of view of the player making it." alt="" coords="1193,703,1337,743"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1085,720,1180,720,1180,726,1085,726"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="1177,154,1353,180"/>
+<area shape="poly" id="edge11_Node000012_Node000013" title=" " alt="" coords="1120,148,1164,153,1163,158,1120,153"/>
+<area shape="poly" id="edge12_Node000013_Node000013" title=" " alt="" coords="1228,156,1220,146,1224,136,1240,130,1265,128,1298,132,1310,141,1307,145,1296,137,1265,133,1241,135,1228,140,1225,145,1232,153"/>
+<area shape="poly" id="edge14_Node000014_Node000013" title=" " alt="" coords="1100,184,1164,176,1164,182,1101,189"/>
+<area shape="poly" id="edge16_Node000015_Node000013" title=" " alt="" coords="1084,240,1123,229,1178,207,1226,184,1229,189,1180,212,1125,234,1085,246"/>
+<area shape="poly" id="edge18_Node000016_Node000013" title=" " alt="" coords="1102,393,1122,381,1147,361,1169,337,1206,285,1234,234,1252,192,1257,194,1239,236,1211,288,1173,341,1151,365,1126,385,1105,397"/>
+<area shape="poly" id="edge20_Node000017_Node000013" title=" " alt="" coords="1085,89,1125,101,1180,123,1229,146,1226,151,1178,128,1123,106,1084,94"/>
+<area shape="poly" id="edge22_Node000018_Node000018" title=" " alt="" coords="940,332,937,321,945,312,963,306,991,304,1022,307,1040,315,1038,319,1021,312,991,310,964,312,948,317,942,322,945,330"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1Position.html#a5e2e3b2b5af8379638b300a5872ae499" title=" " alt="" coords="1407,1054,1583,1094"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1350,1071,1393,1071,1393,1076,1350,1076"/>
+<area shape="poly" id="edge25_Node000019_Node000022" title=" " alt="" coords="1285,1052,1461,873,1465,877,1289,1055"/>
+<area shape="poly" id="edge59_Node000029_Node000019" title=" " alt="" coords="486,1365,528,1385,564,1412,594,1441,618,1471,638,1502,667,1565,689,1629,712,1691,742,1750,763,1778,789,1804,820,1829,859,1851,932,1885,965,1895,996,1900,1027,1899,1058,1891,1089,1876,1122,1852,1143,1829,1161,1798,1177,1759,1192,1714,1216,1610,1234,1495,1246,1377,1254,1268,1261,1107,1266,1107,1259,1268,1251,1378,1239,1495,1221,1611,1197,1716,1182,1761,1166,1800,1147,1832,1126,1856,1092,1880,1060,1896,1028,1904,996,1905,963,1900,930,1890,856,1856,817,1833,785,1808,759,1781,738,1753,707,1693,684,1631,662,1567,633,1505,614,1474,590,1445,561,1416,525,1389,484,1370"/>
+<area shape="rect" id="Node000030" href="$classlczero_1_1dag__classic_1_1Node.html#a96c54aaa0722ef9a369dfbf76efb0471" title="Returns an iterator range for potential edges." alt="" coords="919,1916,1063,1956"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="486,1359,509,1369,529,1385,541,1405,550,1430,557,1492,556,1565,551,1645,546,1724,546,1796,555,1856,564,1878,577,1896,611,1923,650,1943,692,1956,737,1963,782,1965,825,1964,905,1954,905,1959,826,1969,781,1971,736,1968,691,1961,648,1948,608,1928,573,1900,559,1881,550,1857,541,1796,541,1723,546,1644,551,1565,552,1492,544,1431,536,1407,525,1389,506,1374,484,1364"/>
+<area shape="rect" id="Node000032" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a69eaa66a98318bc526ee34970c61da74" title="Whether to output verbose move statistics." alt="" coords="593,192,791,232"/>
+<area shape="poly" id="edge36_Node000029_Node000032" title=" " alt="" coords="484,1347,506,1337,525,1321,535,1302,543,1269,554,1172,560,1045,562,904,564,632,566,530,572,469,592,404,618,342,669,243,674,246,623,344,597,406,577,470,571,530,569,632,568,904,565,1046,559,1172,548,1270,540,1303,529,1325,509,1341,486,1352"/>
+<area shape="rect" id="Node000033" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="597,1335,787,1375"/>
+<area shape="poly" id="edge38_Node000029_Node000033" title=" " alt="" coords="485,1352,583,1352,583,1358,485,1358"/>
+<area shape="rect" id="Node000031" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title="Gets shared pointer to the underlying LowNode (position)." alt="" coords="1188,1916,1343,1956"/>
+<area shape="poly" id="edge35_Node000030_Node000031" title=" " alt="" coords="1063,1934,1174,1934,1174,1939,1063,1939"/>
+<area shape="poly" id="edge37_Node000032_Node000013" title=" " alt="" coords="703,190,726,155,760,111,804,69,829,51,856,37,929,11,960,5,990,3,1052,12,1125,37,1164,58,1199,86,1249,142,1245,145,1195,89,1161,62,1123,42,1050,17,990,8,961,10,930,16,858,42,832,55,807,73,764,115,730,158,707,193"/>
+<area shape="poly" id="edge46_Node000033_Node000011" title=" " alt="" coords="691,1335,695,1243,703,1178,716,1106,737,1031,766,956,805,886,829,853,856,824,878,807,905,796,907,801,881,812,859,828,833,857,809,888,771,958,742,1032,722,1107,708,1179,701,1244,696,1335"/>
+<area shape="poly" id="edge57_Node000033_Node000019" title=" " alt="" coords="697,1334,715,1283,747,1217,768,1183,794,1150,823,1121,856,1097,893,1078,933,1065,1015,1050,1095,1048,1168,1054,1167,1059,1095,1054,1015,1056,934,1070,895,1083,859,1101,826,1125,798,1154,773,1186,752,1220,720,1286,702,1336"/>
+<area shape="poly" id="edge41_Node000033_Node000030" title=" " alt="" coords="698,1375,709,1458,736,1583,757,1652,784,1722,818,1790,859,1852,892,1884,930,1908,927,1912,889,1888,855,1855,813,1793,779,1725,752,1654,731,1584,704,1459,692,1376"/>
+<area shape="rect" id="Node000034" href="$classlczero_1_1PositionHistory.html#a6ae43cabdeac3fc0a5cec144984ee2ca" title=" " alt="" coords="1181,824,1349,864"/>
+<area shape="poly" id="edge39_Node000033_Node000034" title=" " alt="" coords="692,1335,700,1256,710,1202,725,1143,746,1081,774,1021,810,966,856,918,890,894,929,874,969,859,1011,849,1093,837,1168,835,1168,840,1094,842,1012,854,971,864,931,879,893,898,859,922,814,969,778,1024,751,1083,730,1144,715,1203,706,1257,697,1335"/>
+<area shape="rect" id="Node000036" href="$classlczero_1_1Backend.html#ad4c40737a6c46f90998347603ee6235f" title="Attempts to retrieve a cached evaluation for a position." alt="" coords="889,932,1092,972"/>
+<area shape="poly" id="edge42_Node000033_Node000036" title=" " alt="" coords="693,1334,706,1267,735,1171,756,1120,783,1069,816,1023,856,982,875,970,878,974,859,987,820,1026,787,1072,761,1122,740,1173,712,1268,699,1335"/>
+<area shape="rect" id="Node000037" href="$classlczero_1_1dag__classic_1_1Node.html#a9528181256b91598b853d9a70e69710a" title="Returns the total visits of all children." alt="" coords="898,996,1083,1036"/>
+<area shape="poly" id="edge43_Node000033_Node000037" title=" " alt="" coords="696,1334,714,1278,745,1202,767,1162,792,1122,822,1085,856,1053,884,1036,886,1041,859,1057,826,1089,796,1125,771,1165,750,1205,719,1280,701,1336"/>
+<area shape="rect" id="Node000038" href="$classlczero_1_1dag__classic_1_1Search.html#af6d4f8c71b20d1d19ceb0d5e9b70e5dd" title="Returns the draw score at the root of the search." alt="" coords="903,1802,1078,1842"/>
+<area shape="poly" id="edge44_Node000033_Node000038" title=" " alt="" coords="697,1375,706,1452,717,1506,732,1564,752,1625,780,1685,815,1740,859,1788,892,1807,889,1812,856,1792,811,1743,775,1687,747,1627,726,1566,711,1507,701,1453,692,1376"/>
+<area shape="rect" id="Node000040" href="$classlczero_1_1dag__classic_1_1Node.html#a569cee4a78cce38612675e01d6c0f17e" title="Returns the number of threads currently visiting this node (virtual loss)." alt="" coords="913,1111,1068,1151"/>
+<area shape="poly" id="edge47_Node000033_Node000040" title=" " alt="" coords="703,1333,726,1296,761,1249,804,1201,856,1161,899,1142,901,1147,859,1165,808,1205,765,1252,730,1299,707,1336"/>
+<area shape="rect" id="Node000041" href="$classlczero_1_1dag__classic_1_1Node.html#ad9b6b3e9e8531063a0a3c6a63f0c0f00" title="Returns the number of edges from the underlying LowNode." alt="" coords="908,1175,1073,1215"/>
+<area shape="poly" id="edge48_Node000033_Node000041" title=" " alt="" coords="711,1333,773,1279,813,1250,856,1225,894,1210,896,1215,858,1230,816,1254,776,1283,715,1337"/>
+<area shape="rect" id="Node000042" href="$classlczero_1_1dag__classic_1_1Node.html#ab0eab142d2f0f96212e8b4105ac87ce6" title="Calculates the Q&#45;value (action value) of the node." alt="" coords="919,1239,1063,1279"/>
+<area shape="poly" id="edge49_Node000033_Node000042" title=" " alt="" coords="739,1333,857,1289,905,1275,906,1280,858,1294,741,1338"/>
+<area shape="rect" id="Node000043" href="$classlczero_1_1dag__classic_1_1Node.html#a38d367fe23b213aa584cd68973cdc2e2" title="Returns the total visits passed through this node." alt="" coords="909,1303,1072,1343"/>
+<area shape="poly" id="edge50_Node000033_Node000043" title=" " alt="" coords="787,1342,895,1331,896,1336,788,1348"/>
+<area shape="rect" id="Node000044" href="$classlczero_1_1dag__classic_1_1Node.html#a637e9d627de7c3a02bfad6c390287b9e" title="Returns sum of policy priors of visited children." alt="" coords="901,1367,1080,1407"/>
+<area shape="poly" id="edge51_Node000033_Node000044" title=" " alt="" coords="788,1363,888,1373,887,1379,787,1368"/>
+<area shape="rect" id="Node000046" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a38994bc329910803e5cbd67abbcfc47c" title="Gets WDL evaluation objectivity." alt="" coords="875,1431,1106,1471"/>
+<area shape="poly" id="edge52_Node000033_Node000046" title=" " alt="" coords="741,1373,858,1417,887,1425,885,1430,856,1422,739,1378"/>
+<area shape="rect" id="Node000047" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a415959a872a55358b82881dd1c764b05" title="Gets maximum WDL scaling factor." alt="" coords="892,1495,1089,1535"/>
+<area shape="poly" id="edge53_Node000033_Node000047" title=" " alt="" coords="715,1373,776,1427,816,1456,859,1481,880,1490,878,1495,856,1486,813,1461,773,1431,711,1377"/>
+<area shape="rect" id="Node000048" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a6e2d85f89d96daf2648e22bfdf29a395" title="Gets WDL rescale difference." alt="" coords="888,1559,1093,1599"/>
+<area shape="poly" id="edge54_Node000033_Node000048" title=" " alt="" coords="707,1374,730,1411,765,1458,808,1505,859,1545,877,1554,874,1559,856,1549,804,1509,761,1461,726,1414,703,1377"/>
+<area shape="rect" id="Node000049" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a6f69bf454e293817b484b95144624f89" title="Gets WDL rescale ratio." alt="" coords="883,1623,1099,1663"/>
+<area shape="poly" id="edge55_Node000033_Node000049" title=" " alt="" coords="703,1374,722,1423,755,1487,800,1553,828,1583,859,1609,872,1617,869,1621,856,1613,824,1587,796,1556,750,1489,717,1425,698,1376"/>
+<area shape="rect" id="Node000050" href="$classlczero_1_1dag__classic_1_1Node.html#aec8985126b4a91d140fb72dedf68c30a" title="Returns the average Win&#45;Loss score." alt="" coords="919,1687,1063,1727"/>
+<area shape="poly" id="edge56_Node000033_Node000050" title=" " alt="" coords="700,1375,716,1434,746,1515,767,1558,793,1601,824,1640,859,1673,881,1687,906,1696,905,1701,879,1691,856,1677,820,1643,789,1604,763,1561,741,1517,711,1436,695,1376"/>
+<area shape="rect" id="Node000051" href="$namespacelczero.html#a1de9dea5f14200afa8cc27fd63749b47" title="Converts a move to a neural network output index." alt="" coords="903,1752,1078,1777"/>
+<area shape="poly" id="edge58_Node000033_Node000051" title=" " alt="" coords="698,1375,710,1445,737,1544,758,1597,785,1649,818,1697,859,1737,891,1754,889,1759,856,1741,814,1700,780,1652,753,1599,732,1546,704,1446,693,1376"/>
+<area shape="poly" id="edge40_Node000034_Node000022" title=" " alt="" coords="1350,842,1397,842,1397,847,1350,847"/>
+<area shape="poly" id="edge45_Node000038_Node000019" title=" " alt="" coords="1077,1813,1102,1803,1122,1788,1139,1766,1155,1736,1182,1658,1205,1563,1223,1459,1248,1254,1259,1107,1265,1108,1253,1254,1229,1459,1210,1564,1188,1660,1160,1738,1144,1768,1126,1792,1104,1808,1079,1818"/>
+</map>

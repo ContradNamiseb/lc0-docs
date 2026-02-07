@@ -1,0 +1,5 @@
+<map id="lczero::onnx::OnnxNetwork::GetInputsOutputs" name="lczero::onnx::OnnxNetwork::GetInputsOutputs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,5,479,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1onnx_1_1OnnxComputation.html#a2d96a8b1efb3c23f1543668a16accd7a" title=" " alt="" coords="5,5,232,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,28,232,28,232,23,266,23"/>
+</map>

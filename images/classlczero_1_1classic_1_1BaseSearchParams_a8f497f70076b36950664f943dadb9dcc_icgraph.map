@@ -1,0 +1,19 @@
+<map id="lczero::classic::BaseSearchParams::GetTemperatureCutoffMove" name="lczero::classic::BaseSearchParams::GetTemperatureCutoffMove">
+<area shape="rect" id="Node000001" title="Gets move number to cut off temperature." alt="" coords="535,181,793,221"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="278,117,461,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,181,460,160,462,155,558,176"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Search.html#a0da95ebed57fa9b2cb45c4d2998fb123" title="Computes the best move, maybe with temperature (according to the settings)." alt="" coords="252,213,487,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,219,487,223,486,218,521,214"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title="Gets the best move and ponder move." alt="" coords="22,5,187,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,113,203,60,171,48,173,43,205,55,319,108"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="22,69,187,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,121,187,107,188,102,265,116"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title="Resets cached best move for temperature re&#45;sampling." alt="" coords="22,133,187,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="264,146,188,151,187,146,264,141"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Search.html#a76d8a8d159468740fed91e627d667c7f" title="Returns best move, from the point of view of white player. And also ponder." alt="" coords="19,197,190,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="238,228,190,225,190,220,238,223"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Search.html#a89e9003f75bf3ffb8d25ad66255c6e79" title=" " alt="" coords="5,261,204,301"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="246,258,205,266,204,261,245,253"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1Search.html#a6e62151c00059fe47433a225de750eff" title="Resets the best move status." alt="" coords="13,325,197,365"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="319,262,205,316,173,328,171,323,203,311,317,258"/>
+</map>

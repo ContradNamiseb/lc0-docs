@@ -1,0 +1,9 @@
+<map id="lczero::TransformForPosition" name="lczero::TransformForPosition">
+<area shape="rect" id="Node000001" title="Determines the required transformation for a position based on history." alt="" coords="5,55,212,80"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Position.html#a9f5f6a5c2faf1c8b7bf974a9dbd267b9" title=" " alt="" coords="260,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,52,277,31,278,36,173,57"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#ab713fd18737b14c2e064420998cfa370" title="Checks if the input format is one of the canonical formats." alt="" coords="260,55,451,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,65,246,65,246,70,212,70"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title=" " alt="" coords="271,105,439,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,77,259,100,258,105,164,83"/>
+</map>

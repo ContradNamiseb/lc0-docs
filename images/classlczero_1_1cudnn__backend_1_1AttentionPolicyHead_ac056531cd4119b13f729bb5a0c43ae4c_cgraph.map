@@ -1,0 +1,7 @@
+<map id="lczero::cudnn_backend::AttentionPolicyHead::Eval" name="lczero::cudnn_backend::AttentionPolicyHead::Eval">
+<area shape="rect" id="Node000001" title="Evaluates the layer." alt="" coords="5,37,204,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#a25149f337cb9e61c0ca65f2e47c7c11a" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="255,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,41,241,36,242,41,205,46"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#a12bd0aac736d929f444edc12183619f5" title="Converts tensor from NCHW to NHWC layout." alt="" coords="252,69,428,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,68,239,73,238,78,204,73"/>
+</map>

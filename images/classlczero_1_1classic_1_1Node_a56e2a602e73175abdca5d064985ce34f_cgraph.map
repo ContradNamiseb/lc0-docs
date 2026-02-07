@@ -1,0 +1,5 @@
+<map id="lczero::classic::Node::CreateEdges" name="lczero::classic::Node::CreateEdges">
+<area shape="rect" id="Node000001" title="Creates edges for all legal moves from this position." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Edge.html#a8b6b427d7dd6490a7ebd7498c8fb8dfc" title="Creates an array of edges from a list of legal moves." alt="" coords="208,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,23,194,23,194,28,160,28"/>
+</map>

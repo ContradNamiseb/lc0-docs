@@ -1,0 +1,7 @@
+<map id="lczero::CudaNetwork&lt; DataType &gt;" name="lczero::CudaNetwork&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title="CUDA network implementation." alt="" coords="82,93,239,133"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Network.html" title="Abstract base class for a neural network backend." alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,38,144,91,140,95,86,42"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1NetworkCapabilities.html" title="Describes the capabilities and requirements of a neural network backend." alt="" coords="153,5,355,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,42,182,95,178,91,231,38"/>
+</map>

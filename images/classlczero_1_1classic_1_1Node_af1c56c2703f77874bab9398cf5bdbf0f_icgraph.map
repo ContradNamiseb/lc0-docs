@@ -1,0 +1,55 @@
+<map id="lczero::classic::Node::GetN" name="lczero::classic::Node::GetN">
+<area shape="rect" id="Node000001" title="Gets the visit count N for this node." alt="" coords="780,475,935,515"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1V6TrainingDataArray.html#accd1d568f16af88f0dd196301160b0ba" title=" " alt="" coords="481,13,716,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,461,846,385,828,283,813,229,791,176,764,126,730,81,698,56,661,41,663,36,701,52,734,77,769,123,796,174,818,228,833,282,852,384,858,461"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1SearchWorker.html#a8e9a85cf333d10c15210ec677eae0438" title="Updates a single node and propagates values up the tree." alt="" coords="491,91,707,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="852,461,844,394,824,308,808,263,788,220,762,180,730,145,706,129,709,124,734,141,766,176,793,217,813,261,829,307,849,393,857,461"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="507,155,690,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="849,462,837,406,815,337,800,302,780,268,757,236,730,209,711,196,689,187,691,182,714,191,734,205,762,233,785,265,804,300,820,335,842,405,854,461"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1classic_1_1SearchWorker.html#abde95f25de7416e92958c8396a41bca3" title="Ensures 3&#45;fold repetition correctness by reverting terminal status if needed." alt="" coords="465,347,732,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="824,467,781,432,731,401,701,389,703,384,733,396,785,428,827,463"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1classic_1_1Search.html#af237e12d90502e1a1541b479ae67761c" title="Gets top N children without temperature." alt="" coords="481,219,717,259"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="844,462,829,419,805,367,773,316,753,293,730,273,711,261,714,257,734,269,757,289,777,313,810,365,834,417,849,460"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a04ce23856552c5dda5a0dffa8ebdc1d5" title="Gets draw probability with default for unexpanded nodes." alt="" coords="509,411,688,451"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="766,474,731,465,683,453,684,448,733,460,768,469"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1classic_1_1EdgeAndNode.html#ab44df3d3c8423c5a007ee54f1d047f9b" title="Gets moves left estimate with default for unexpanded nodes." alt="" coords="509,475,688,515"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="766,497,688,497,688,492,766,492"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a6c22b4bd0312b3273186d8c976c00589" title="Gets visit count from node." alt="" coords="509,603,688,643"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="827,526,785,561,733,593,689,609,687,604,731,588,781,557,824,522"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a2da97dd1ba61219f5b77970c65b20e34" title="Gets Q value with default for unexpanded nodes." alt="" coords="509,667,688,707"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="842,528,799,594,769,628,733,657,689,676,687,672,731,652,765,624,795,591,838,525"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title="Gets verbose debug info for a node." alt="" coords="516,283,681,323"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="838,464,795,398,765,365,731,337,707,325,681,316,682,311,709,320,733,332,769,361,799,395,842,461"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1classic_1_1EdgeAndNode.html#aac2a6781e544d3d3ddc131061693ba6f" title="Gets WL value with default for unexpanded nodes." alt="" coords="509,539,688,579"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="768,520,733,529,684,541,683,536,731,524,766,515"/>
+<area shape="rect" id="Node000021" href="$classlczero_1_1classic_1_1Node.html#a59295abdf94c3e095dd6d8186da09c53" title="Converts the node&#39;s children structure to a solid block for better memory locality." alt="" coords="521,731,676,771"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="849,529,834,573,810,625,777,677,757,700,734,721,707,736,677,746,676,741,704,731,730,716,753,697,773,674,805,622,829,571,844,527"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1classic_1_1VisitedNode__Iterator.html#a368a63890228cc70b86470d87bd8f71c" title=" " alt="" coords="501,795,697,835"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="854,529,842,585,820,654,804,690,785,725,762,757,734,785,698,805,696,800,730,781,757,753,780,722,800,687,815,652,837,583,849,528"/>
+<area shape="rect" id="Node000023" href="$classlczero_1_1classic_1_1VisitedNode__Iterator.html#a320a65460ad2792eeb947b02380096f9" title=" " alt="" coords="219,815,417,870"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="859,529,853,599,835,688,819,733,798,777,769,816,734,849,695,871,653,885,610,893,565,895,479,889,403,873,404,867,480,883,565,890,609,888,652,880,693,866,730,845,765,813,793,774,814,731,830,686,848,598,853,528"/>
+<area shape="rect" id="Node000024" href="$classlczero_1_1classic_1_1SearchWorker.html#aea5d0a505a34001098b2514f1ce1b41d" title="Worker task to pick nodes to extend from a sub&#45;tree." alt="" coords="493,909,704,949"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="858,529,852,603,834,701,818,753,797,803,769,851,734,893,706,912,703,908,730,889,765,848,792,801,813,751,829,700,847,603,853,528"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SelfPlayGame.html#a2b64eaf61bca86d88a08315e8c16b6f1" title=" " alt="" coords="237,5,399,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,28,399,28,399,23,467,23"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title="Gets the best move and ponder move." alt="" coords="235,69,401,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="495,154,465,145,369,112,371,107,466,140,496,149"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,248,171,288"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="493,159,430,153,361,152,289,158,220,175,187,189,157,209,110,250,106,246,154,205,184,185,218,169,288,153,360,147,431,148,494,154"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title="Resets cached best move for temperature re&#45;sampling." alt="" coords="235,184,401,224"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="494,188,401,198,400,193,493,183"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1classic_1_1Search.html#a34ea0b979efa5b2e1f006168452536d3" title="Sends UCI info string." alt="" coords="235,248,401,288"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="468,255,401,262,400,257,467,250"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="222,271,171,271,171,265,222,265"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,312,171,352"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="233,294,161,315,160,309,232,289"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1classic_1_1Search.html#ad39fbc8e102a32e91bb7c8717f9ce706" title="Gets the evaluation of the best move (without temperature)." alt="" coords="235,475,401,515"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="497,456,402,478,400,473,496,451"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="495,497,401,497,401,492,495,492"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title="Outputs detailed move statistics." alt="" coords="235,312,401,352"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="503,315,401,326,401,321,502,310"/>
+<area shape="poly" id="edge22_Node000019_Node000007" title=" " alt="" coords="232,311,160,291,161,285,233,306"/>
+<area shape="poly" id="edge21_Node000019_Node000012" title=" " alt="" coords="222,335,171,335,171,329,222,329"/>
+<area shape="poly" id="edge24_Node000020_Node000014" title=" " alt="" coords="496,538,400,516,402,511,497,533"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="487,828,418,835,417,830,487,823"/>
+</map>

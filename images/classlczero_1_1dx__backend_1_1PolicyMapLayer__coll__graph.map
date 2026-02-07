@@ -1,0 +1,13 @@
+<map id="lczero::dx_backend::PolicyMapLayer" name="lczero::dx_backend::PolicyMapLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,329,388,369"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1BaseLayer.html" title=" " alt="" coords="152,240,299,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,288,297,327,293,331,253,291"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="313,252,325,260,317,267,299,270,298,265,315,263,320,260,311,256"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1DxContext.html" title=" " alt="" coords="152,137,299,177"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="228,191,228,240,223,240,223,191"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dx__backend_1_1ShaderWrapper.html" title=" " alt="" coords="5,5,152,45"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="80,59,85,87,98,112,123,131,153,143,151,148,120,136,94,115,80,88,75,59"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1dx__backend_1_1DXAlloc.html" title=" " alt="" coords="253,5,400,45"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="378,53,389,68,403,97,414,137,414,164,410,196,400,235,382,281,365,309,342,331,339,327,360,306,378,279,395,233,405,195,409,164,409,138,398,99,384,71,373,56"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="244,55,229,71,222,86,220,104,223,137,217,137,214,104,217,85,224,68,241,51"/>
+</map>

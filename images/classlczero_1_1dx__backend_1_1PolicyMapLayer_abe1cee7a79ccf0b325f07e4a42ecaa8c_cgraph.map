@@ -1,0 +1,7 @@
+<map id="lczero::dx_backend::PolicyMapLayer::PolicyMapLayer" name="lczero::dx_backend::PolicyMapLayer::PolicyMapLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,213,60"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1DxContext.html#aed96d8b7f73955328b1d76baa8e07401" title=" " alt="" coords="261,13,444,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,30,247,30,247,35,213,35"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1dx__backend.html#a9c56e4705e0fb4ce2e7e4b3c239f31a8" title=" " alt="" coords="492,13,639,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,30,478,30,478,35,444,35"/>
+</map>

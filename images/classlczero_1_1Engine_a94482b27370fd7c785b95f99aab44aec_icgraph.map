@@ -1,0 +1,12 @@
+<map id="lczero::Engine::InitializeSearchPosition" name="lczero::Engine::InitializeSearchPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="672,17,849,57"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Engine.html#a5f35d99f3f64109e306eb0cc853c7815" title=" " alt="" coords="5,23,144,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="658,19,624,14,491,8,358,11,239,20,144,29,144,24,238,14,358,6,491,3,624,9,659,13"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Engine.html#af76840418227d35bd04970c1ec2821b9" title=" " alt="" coords="434,24,619,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="658,40,619,40,619,34,658,34"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Engine.html#a8a3eb72732db8964ad350c23f023a335" title=" " alt="" coords="429,74,624,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="659,61,588,76,587,71,658,56"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Engine.html#a2da13d48f3526c17988f75dfbf6057af" title=" " alt="" coords="192,48,381,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,77,381,74,382,68,416,72"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="178,51,144,47,145,41,179,45"/>
+</map>

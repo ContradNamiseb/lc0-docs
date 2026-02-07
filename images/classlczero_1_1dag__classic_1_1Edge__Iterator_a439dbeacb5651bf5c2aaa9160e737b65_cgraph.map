@@ -1,0 +1,14 @@
+<map id="lczero::dag_classic::Edge_Iterator::GetOrSpawnNode" name="lczero::dag_classic::Edge_Iterator::GetOrSpawnNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,245,171"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title=" " alt="" coords="293,72,479,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,128,283,112,284,118,215,133"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a4a31fdd5dc2c8f467be7b3c146780900" title=" " alt="" coords="527,133,688,173"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="246,149,513,150,513,155,246,154"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title="Gets shared pointer to the underlying LowNode (position)." alt="" coords="309,188,463,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,168,296,186,295,191,216,173"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#acbc9782f31bf1771fb14ac75074666b6" title="Gets pointer to the next sibling node." alt="" coords="535,5,679,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,69,526,47,528,52,454,75"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a58aaa205c05fc56ff9c8c811dcef482d" title=" " alt="" coords="535,69,679,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,88,521,88,521,93,479,94"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="460,110,522,127,521,132,458,115"/>
+</map>

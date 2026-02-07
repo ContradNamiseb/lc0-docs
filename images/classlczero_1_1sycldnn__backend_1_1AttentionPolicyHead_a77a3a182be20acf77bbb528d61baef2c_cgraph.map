@@ -1,0 +1,16 @@
+<map id="lczero::sycldnn_backend::AttentionPolicyHead::Eval" name="lczero::sycldnn_backend::AttentionPolicyHead::Eval">
+<area shape="rect" id="Node000001" title="Evaluates the layer." alt="" coords="5,85,204,125"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a60390a5ea8a7691f64f749f4a20e5ef9" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="252,53,432,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,89,238,84,239,89,205,94"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a6c7a67491dd4776c8426f71b32351f15" title="Converts tensor from NCHW to NHWC layout." alt="" coords="252,117,432,157"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,115,239,120,238,125,204,121"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="480,85,660,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,83,467,88,466,93,432,88"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#a19362c5e523ddca3201122e31943b031" title=" " alt="" coords="480,5,660,60"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="432,54,466,48,467,53,433,59"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#adb4c001f0f655323613bb1ecbc2a03c4" title=" " alt="" coords="708,13,889,53"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="660,30,694,30,694,35,660,35"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="432,121,466,117,467,122,433,127"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#a5e53b632310d62f8de938632545220dc" title=" " alt="" coords="480,149,660,189"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="433,147,467,152,466,157,432,152"/>
+</map>
