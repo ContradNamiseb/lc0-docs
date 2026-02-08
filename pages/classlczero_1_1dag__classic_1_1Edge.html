@@ -3,15 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-Q9ZYT7KV87');
-</script>
+    gtag('config', 'G-Q9ZYT7KV87');
+  </script>
 
   <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=11" />
@@ -152,7 +152,12 @@
         </tr>
         <tr class="memdesc:a045b1c33985277b9711e9b3e13ea92de">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns move from the point of view of the player making it. <br /></td>
+          <td class="mdescRight">Returns move from the point of view of the player making it.
+            <br />
+            @param as_opponent If true, returns the move as seen by the opponent (flipped).
+            @return The move object.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a045b1c33985277b9711e9b3e13ea92de">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -165,7 +170,10 @@
         <tr class="memdesc:a863337526f61afe436a9242350a2cdcf">
           <td class="mdescLeft">&#160;</td>
           <td class="mdescRight">Returns value of <a class="el" href="classlczero_1_1Move.html">Move</a> policy prior.
-            <br /></td>
+            <br />
+            This is the raw probability assigned by the neural network to this move, usually in the range [0, 1].
+            <br />
+          </td>
         </tr>
         <tr class="separator:a863337526f61afe436a9242350a2cdcf">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -179,7 +187,10 @@
         <tr class="memdesc:a7e146d32aad965882f92bcdebf19182e">
           <td class="mdescLeft">&#160;</td>
           <td class="mdescRight">Sets value of <a class="el" href="classlczero_1_1Move.html">Move</a> policy prior.
-            <br /></td>
+            <br />
+            @param val The new policy value (should be between 0 and 1).
+            <br />
+          </td>
         </tr>
         <tr class="separator:a7e146d32aad965882f92bcdebf19182e">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -207,7 +218,8 @@
           <td class="memItemRight" valign="bottom"><a class="el"
               href="classlczero_1_1dag__classic_1_1Edge.html#a5ee07420412c813599c4473202d38534">FromMovelist</a> (const
             <a class="el" href="namespacelczero.html#aa171f8367781ec0e439fb73801bae029">MoveList</a> &amp;<a class="el"
-              href="rescorer_8cc.html#aec06c2e966f0428705af6846da419aaf">moves</a>)</td>
+              href="rescorer_8cc.html#aec06c2e966f0428705af6846da419aaf">moves</a>)
+          </td>
         </tr>
         <tr class="memdesc:a5ee07420412c813599c4473202d38534">
           <td class="mdescLeft">&#160;</td>
@@ -280,8 +292,8 @@
           <li>The move itself (<code>move_</code>).</li>
           <li>The policy prior probability (<code>p_</code>) from the neural network.</li>
         </ul>
-        Edges are the link between <code>Node</code>s in the graph. The <code>EdgeAndNode</code> class extends this to
-        include the pointer to the child node.</p>
+        Edges are the link between <code>Node</code>s in the graph. The <code>LowNode</code> contains a list of these
+        edges, representing all legal moves from that position.</p>
         <p class="definition">Definition at line <a class="el" href="dag__classic_2node_8h_source.html#l00181">181</a>
           of file <a class="el" href="dag__classic_2node_8h_source.html">node.h</a>.</p>
       </div>
@@ -456,7 +468,8 @@
               href="dag__classic_2node_8cc_source.html">node.cc</a>.</p>
 
           <p class="reference">References <a class="el" href="dag__classic_2node_8h_source.html#l00207">move_</a>, and
-            <a class="el" href="rescorer_8cc_source.html#l00465">moves</a>.</p>
+            <a class="el" href="rescorer_8cc_source.html#l00465">moves</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8h_source.html#l00568">lczero::dag_classic::LowNode::LowNode()</a>, and <a

@@ -3,15 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-Q9ZYT7KV87');
-</script>
+    gtag('config', 'G-Q9ZYT7KV87');
+  </script>
 
   <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=11" />
@@ -115,8 +115,14 @@
     </div><!--header-->
     <div class="contents">
 
-      <p>Single thread worker of the search engine.
-        <a href="classlczero_1_1dag__classic_1_1SearchWorker.html#details">More...</a>
+      <p>Single thread worker of the search engine.</p>
+      <p>This class represents a single worker thread in the DAG-based MCTS. It performs the core search loop, including
+        node selection, expansion, evaluation, and backpropagation.</p>
+      <p>Because the search graph is a DAG (due to transpositions), the worker must handle re-encountering nodes that
+        have already been visited or are currently being visited by other threads. It uses a <code>BackupPath</code> to
+        track the sequence of nodes and edge indices traversed, allowing for correct backup of values even when paths
+        merge.</p>
+      <a href="classlczero_1_1dag__classic_1_1SearchWorker.html#details">More...</a>
       </p>
 
       <p><code>#include &lt;<a class="el" href="dag__classic_2search_8h_source.html">search.h</a>&gt;</code></p>
@@ -278,7 +284,12 @@
         </tr>
         <tr class="memdesc:aa2fed125ec20299e73ef4a80e0058bb8">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Runs iterations while needed (blocking). <br /></td>
+          <td class="mdescRight">Runs iterations while needed (blocking).
+            <br />
+            The main loop for the worker thread. It continuously calls ExecuteOneIteration() until the search is
+            stopped.
+            <br />
+          </td>
         </tr>
         <tr class="separator:aa2fed125ec20299e73ef4a80e0058bb8">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -291,7 +302,23 @@
         </tr>
         <tr class="memdesc:ac7481d4df18a272c05366249735e6f4d">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Does one full iteration of MCTS search: <br /></td>
+          <td class="mdescRight">Does one full iteration of MCTS search:
+            <br />
+            1. <b>Initialize</b>: Reset per-iteration workspace.
+            <br />
+            2. <b>Gather</b>: Traverse the DAG to find leaf nodes to expand (selection).
+            <br />
+            3. <b>Collision Check</b>: Handle transpositions and potential collisions.
+            <br />
+            4. <b>Compute</b>: Run the neural network inference on the gathered batch.
+            <br />
+            5. <b>Fetch</b>: Retrieve results from the backend and populate new nodes.
+            <br />
+            6. <b>Backup</b>: Propagate values (Q, N) up the tree to the root.
+            <br />
+            7. <b>Update</b>: Update global search statistics and check stopping conditions.
+            <br />
+          </td>
         </tr>
         <tr class="separator:ac7481d4df18a272c05366249735e6f4d">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -309,6 +336,7 @@
               <li>Initialize internal structures. </li>
             </ol>
             <br />
+            Prepares the worker for a new iteration, clearing previous batch data and resetting counters.
           </td>
         </tr>
         <tr class="separator:a3e02a0090bfa35d60d27ffcbf321e7e7">
@@ -327,6 +355,8 @@
               <li>Gather minibatch. </li>
             </ol>
             <br />
+            Traverses the DAG starting from the root to find leaf nodes or collisions to expand. This step builds the
+            <code>minibatch_</code> of nodes to be evaluated.
           </td>
         </tr>
         <tr class="separator:a0ebeb58069db8d540aabacbb8ed36bb4">
@@ -340,7 +370,12 @@
         </tr>
         <tr class="memdesc:a6a4a3414f834789177b88a3d0fcfa3ac">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">2b. Copy collisions into shared_collisions_. <br /></td>
+          <td class="mdescRight">2b. Copy collisions into shared_collisions_.
+            <br />
+            If multiple threads encounter the same node, it is marked as a collision. This step synchronizes these
+            collisions to a shared list to avoid redundant evaluations.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a6a4a3414f834789177b88a3d0fcfa3ac">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -358,6 +393,8 @@
               <li>Run NN computation. </li>
             </ol>
             <br />
+            Sends the gathered batch of positions to the backend for evaluation. This is typically the most
+            time-consuming step.
           </td>
         </tr>
         <tr class="separator:aa4fc26a748f1b5d948431392e46ec5ef">
@@ -376,6 +413,8 @@
               <li>Retrieve NN computations (and terminal values) into nodes. </li>
             </ol>
             <br />
+            Collects the results (policy and value) from the backend and updates the corresponding nodes with these
+            initial values.
           </td>
         </tr>
         <tr class="separator:a7050e77b804026b58f9373b13f56c9fa">
@@ -394,6 +433,8 @@
               <li>Propagate the new nodes' information to all their parents in the tree. </li>
             </ol>
             <br />
+            Backpropagates the evaluation results up the tree/DAG. For DAGs, this involves updating all parents of a
+            node, not just a single path.
           </td>
         </tr>
         <tr class="separator:a39ea47a10edf1493eeb2b8a65ad1620e">
@@ -413,6 +454,8 @@
                 progress information. </li>
             </ol>
             <br />
+            Updates global counters (nodes visited, playouts) and checks if stopping conditions (time, nodes) have been
+            met.
           </td>
         </tr>
         <tr class="separator:af4faf8a4866aebe5a0b6bc8d8641ef47">
@@ -1009,7 +1052,8 @@
               href="dag__classic_2search_8h_source.html#l00521">task_threads_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00501">task_workers_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00522">task_workspaces_</a>, and <a class="el"
-              href="dag__classic_2search_8h_source.html#l00216">lczero::dag_classic::Search::thread_count_</a>.</p>
+              href="dag__classic_2search_8h_source.html#l00216">lczero::dag_classic::Search::thread_count_</a>.
+          </p>
           <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-1-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -1231,7 +1275,8 @@
           <p class="reference">References <a class="el" href="memcache_8cc_source.html#l00047">d</a>, <a class="el"
               href="memcache_8cc_source.html#l00048">m</a>, <a class="el" href="memcache_8cc_source.html#l00050">p</a>,
             <a class="el" href="network__check_8cc_source.html#l00123">params_</a>, and <a class="el"
-              href="engine__test_8cc_source.html#l00082">search_</a>.</p>
+              href="engine__test_8cc_source.html#l00082">search_</a>.
+          </p>
 
         </div>
       </div>
@@ -1909,7 +1954,8 @@
               href="network__demux_8cc_source.html#l00047">computation_</a>, <a class="el"
               href="classlczero_1_1Backend.html#ac42344f6ef57b59cdf35503b3c961808">lczero::Backend::CreateComputation()</a>,
             <a class="el" href="trace_8h_source.html#l00070">LCTRACE_FUNCTION_SCOPE</a>, and <a class="el"
-              href="engine__test_8cc_source.html#l00082">search_</a>.</p>
+              href="engine__test_8cc_source.html#l00082">search_</a>.
+          </p>
           <div id="dynsection-8" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-8-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this

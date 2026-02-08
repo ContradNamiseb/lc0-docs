@@ -3,15 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-Q9ZYT7KV87');
-</script>
+    gtag('config', 'G-Q9ZYT7KV87');
+  </script>
 
   <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=11" />
@@ -116,6 +116,13 @@
     <div class="contents">
 
       <p><code>#include &lt;<a class="el" href="dag__classic_2search_8h_source.html">search.h</a>&gt;</code></p>
+      <p>Main search engine for the DAG-based MCTS implementation.</p>
+      <p>This class orchestrates the search process using a Directed Acyclic Graph (DAG) structure to handle
+        transpositions efficiently. It manages worker threads, neural network evaluations, time management, and UCI
+        communication.</p>
+      <p>Unlike the classic tree search, this implementation allows nodes to be shared across different paths
+        (transpositions), reducing redundant work and producing more accurate evaluations for transposition-heavy
+        positions.</p>
       <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
         <img id="dynsection-0-trigger" src="../images/closed.png" alt="+" /> Collaboration diagram for
         lczero::dag_classic::Search:
@@ -201,7 +208,8 @@
             infinite, bool ponder, const <a class="el" href="classlczero_1_1OptionsDict.html">OptionsDict</a>
             &amp;options, <a class="el"
               href="namespacelczero_1_1dag__classic.html#ab1330dd2e901e120384addce5f9f2a8f">TranspositionTable</a> *tt,
-            <a class="el" href="classlczero_1_1SyzygyTablebase.html">SyzygyTablebase</a> *syzygy_tb)</td>
+            <a class="el" href="classlczero_1_1SyzygyTablebase.html">SyzygyTablebase</a> *syzygy_tb)
+          </td>
         </tr>
         <tr class="separator:a2631f9396f69fc6ca010ff942f9a64cb">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -222,7 +230,14 @@
         </tr>
         <tr class="memdesc:acd2fb255753a493c49ca26b2d8770149">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Starts worker threads and returns immediately. <br /></td>
+          <td class="mdescRight">Starts worker threads and returns immediately.
+            <br />
+            This method launches the specified number of worker threads to perform the search asynchronously. Each
+            thread operates independently, exploring the DAG and updating node statistics.
+            <br />
+            @param how_many The number of worker threads to start.
+            <br />
+          </td>
         </tr>
         <tr class="separator:acd2fb255753a493c49ca26b2d8770149">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -235,7 +250,14 @@
         </tr>
         <tr class="memdesc:a1746928a67670e8657385b1dd262ff2a">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Starts search with k threads and wait until it finishes. <br /></td>
+          <td class="mdescRight">Starts search with k threads and wait until it finishes.
+            <br />
+            This is a blocking call that runs the search using the specified number of threads. It will not return until
+            the search is stopped (e.g., by time limits or external command).
+            <br />
+            @param threads The number of threads to use for the search.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a1746928a67670e8657385b1dd262ff2a">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -247,7 +269,12 @@
         </tr>
         <tr class="memdesc:a12d8bb6f6ee7c3672e9f4b71d65dcadf">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Stops search. At the end bestmove will be returned. <br /></td>
+          <td class="mdescRight">Stops search. At the end bestmove will be returned.
+            <br />
+            Signals the search to stop. The search will attempt to wrap up the current iteration and return the best
+            move found so far. This method is non-blocking.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a12d8bb6f6ee7c3672e9f4b71d65dcadf">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -259,7 +286,12 @@
         </tr>
         <tr class="memdesc:a87abe107bed54d13601178b59ddff36c">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Stops search, but does not return bestmove. The function is not blocking. <br /></td>
+          <td class="mdescRight">Stops search, but does not return bestmove. The function is not blocking.
+            <br />
+            Immediately signals the search to terminate. Unlike Stop(), this does not guarantee a valid best move is
+            returned. Used for abrupt termination.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a87abe107bed54d13601178b59ddff36c">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -271,7 +303,12 @@
         </tr>
         <tr class="memdesc:a9921af587624cf7f340995991b35d7aa">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Blocks until all worker thread finish. <br /></td>
+          <td class="mdescRight">Blocks until all worker thread finish.
+            <br />
+            Waits for all spawned worker threads to complete their execution and join. This should be called after
+            Stop() or Abort() to ensure clean shutdown.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a9921af587624cf7f340995991b35d7aa">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -284,7 +321,14 @@
         </tr>
         <tr class="memdesc:a70c6b224bf79f8f29de99e0b40487ca3">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns whether search is active. <br /></td>
+          <td class="mdescRight">Returns whether search is active.
+            <br />
+            Checks if the search is currently running. Worker threads use this to determine if they should continue
+            processing or exit.
+            <br />
+            @return True if the search is active, false otherwise.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a70c6b224bf79f8f29de99e0b40487ca3">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -299,7 +343,14 @@
         </tr>
         <tr class="memdesc:a76d8a8d159468740fed91e627d667c7f">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns best move, from the point of view of white player. And also ponder. <br /></td>
+          <td class="mdescRight">Returns best move, from the point of view of white player. And also ponder.
+            <br />
+            Retrieves the best move found by the search. If temperature is enabled (e.g., for training), the move is
+            selected probabilistically based on visit counts.
+            <br />
+            @return A pair containing the best move and the ponder move (response).
+            <br />
+          </td>
         </tr>
         <tr class="separator:a76d8a8d159468740fed91e627d667c7f">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -313,7 +364,16 @@
         </tr>
         <tr class="memdesc:aea1ff1139fdcadca9318dc78c0a790ec">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns the evaluation of the best move, WITHOUT temperature. <br /></td>
+          <td class="mdescRight">Returns the evaluation of the best move, WITHOUT temperature.
+            <br />
+            Provides the "objective" evaluation of the best move based on the search results, ignoring any temperature
+            settings that might affect move selection.
+            <br />
+            @param move Optional pointer to store the best move.
+            @param is_terminal Optional pointer to store whether the move leads to a terminal state.
+            @return The evaluation result (win/draw/loss probabilities).
+            <br />
+          </td>
         </tr>
         <tr class="separator:aea1ff1139fdcadca9318dc78c0a790ec">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -326,7 +386,11 @@
         </tr>
         <tr class="memdesc:af4d31a7eb070942b118ef554afa133a6">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns the total number of playouts in the search. <br /></td>
+          <td class="mdescRight">Returns the total number of playouts in the search.
+            <br />
+            @return The total number of MCTS simulations performed across all threads.
+            <br />
+          </td>
         </tr>
         <tr class="separator:af4d31a7eb070942b118ef554afa133a6">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -341,7 +405,11 @@
         </tr>
         <tr class="memdesc:ae59581ad312f92dc8ba044bbaa7f8c75">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns the search parameters. <br /></td>
+          <td class="mdescRight">Returns the search parameters.
+            <br />
+            @return A reference to the SearchParams object containing configuration for this search.
+            <br />
+          </td>
         </tr>
         <tr class="separator:ae59581ad312f92dc8ba044bbaa7f8c75">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -354,7 +422,12 @@
         </tr>
         <tr class="memdesc:a6e62151c00059fe47433a225de750eff">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Resets the best move status. <br /></td>
+          <td class="mdescRight">Resets the best move status.
+            <br />
+            Clears the cached best move information. Only relevant when temperature is used, to ensure independent
+            sampling for subsequent calls.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a6e62151c00059fe47433a225de750eff">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -515,7 +588,8 @@
         <tr class="memdesc:a2cd295c1c9bc4b06cd2298687a612a3b">
           <td class="mdescLeft">&#160;</td>
           <td class="mdescRight">Fills IterationStats with global (rather than per-thread) portion of search statistics.
-            <br /></td>
+            <br />
+          </td>
         </tr>
         <tr class="separator:a2cd295c1c9bc4b06cd2298687a612a3b">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -1067,7 +1141,8 @@
               href="dag__classic_2search_8h_source.html#l00214">pending_searchers_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00184">played_history_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00181">tt_</a>, and <a class="el"
-              href="dag__classic_2search_8h_source.html#l00218">uci_responder_</a>.</p>
+              href="dag__classic_2search_8h_source.html#l00218">uci_responder_</a>.
+          </p>
           <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-1-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -1266,7 +1341,8 @@
               href="rescorer_8cc_source.html#l00465">moves</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00188">params_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00184">played_history_</a>, and <a class="el"
-              href="dag__classic_2search_8h_source.html#l00180">root_node_</a>.</p>
+              href="dag__classic_2search_8h_source.html#l00180">root_node_</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2search_8cc_source.html#l00723">GetBestMove()</a>, <a class="el"
@@ -1732,7 +1808,8 @@
               href="dag__classic_2node_8h_source.html#l00804">lczero::dag_classic::EdgeAndNode::IsTerminal()</a>, <a
               class="el" href="dag__classic_2search_8h_source.html#l00198">nodes_mutex_</a>, <a class="el"
               href="dag__classic_2search_8h_source.html#l00184">played_history_</a>, and <a class="el"
-              href="dag__classic_2search_8h_source.html#l00180">root_node_</a>.</p>
+              href="dag__classic_2search_8h_source.html#l00180">root_node_</a>.
+          </p>
           <div id="dynsection-7" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-7-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -2015,7 +2092,8 @@
             <a class="el" href="random_8cc_source.html#l00054">lczero::Random::GetFloat()</a>, <a class="el"
               href="network__xla_8cc_source.html#l00063">idx</a>, <a class="el"
               href="syzygy_8cc_source.html#l00135">offset</a>, and <a class="el"
-              href="network__check_8cc_source.html#l00123">params_</a>.</p>
+              href="network__check_8cc_source.html#l00123">params_</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2search_8cc_source.html#l00745">EnsureBestMoveKnown()</a>.</p>
@@ -3505,7 +3583,8 @@
               href="timemgr_8h_source.html#l00047">lczero::classic::IterationStats::time_since_movestart</a>, <a
               class="el" href="timemgr_8h_source.html#l00053">lczero::classic::IterationStats::total_nodes</a>, <a
               class="el" href="dag__classic_2search_8h_source.html#l00218">uci_responder_</a>, and <a class="el"
-              href="timemgr_8cc_source.html#l00052">lczero::classic::StoppersHints::UpdateEstimatedNps()</a>.</p>
+              href="timemgr_8cc_source.html#l00052">lczero::classic::StoppersHints::UpdateEstimatedNps()</a>.
+          </p>
           <div id="dynsection-18" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-18-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -3806,7 +3885,8 @@
               class="el" href="timemgr_8h_source.html#l00047">lczero::classic::IterationStats::time_since_movestart</a>,
             <a class="el" href="timemgr_8h_source.html#l00088">lczero::classic::IterationStats::time_usage_hint_</a>, <a
               class="el" href="timemgr_8h_source.html#l00053">lczero::classic::IterationStats::total_nodes</a>, and <a
-              class="el" href="timemgr_8h_source.html#l00072">lczero::classic::IterationStats::win_found</a>.</p>
+              class="el" href="timemgr_8h_source.html#l00072">lczero::classic::IterationStats::win_found</a>.
+          </p>
 
         </div>
       </div>

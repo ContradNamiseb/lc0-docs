@@ -3,15 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9ZYT7KV87"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-Q9ZYT7KV87');
-</script>
+    gtag('config', 'G-Q9ZYT7KV87');
+  </script>
 
   <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=11" />
@@ -114,9 +114,13 @@
     </div><!--header-->
     <div class="contents">
 
-      <p>Represents an expanded edge in the search DAG.
-        <a href="classlczero_1_1dag__classic_1_1Node.html#details">More...</a>
-      </p>
+      <p>Represents an expanded edge in the search DAG.</p>
+      <p>A <code>Node</code> corresponds to an edge in the graph that has been visited. It wraps an <code>Edge</code>
+        (which contains the move and policy) and adds Monte Carlo statistics such as visit count (N), value (Q), and
+        virtual loss.</p>
+      <p>Crucially, a <code>Node</code> links to a <code>LowNode</code>, which represents the resulting position.
+        Multiple <code>Node</code>s from different parents can point to the same <code>LowNode</code>, forming the DAG
+        structure that handles transpositions.</p>
 
       <p><code>#include &lt;<a class="el" href="dag__classic_2node_8h_source.html">node.h</a>&gt;</code></p>
       <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -260,7 +264,12 @@
         </tr>
         <tr class="memdesc:add7268101cc94bfba94c12ed2ce987dd">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Gets the first child (sibling in the linked list of children). <br /></td>
+          <td class="mdescRight">Gets the first child (sibling in the linked list of children).
+            <br />
+            Returns a pointer to the first <code>Node</code> in the linked list of children. This list corresponds to
+            the edges leading out of the underlying position (LowNode).
+            <br />
+          </td>
         </tr>
         <tr class="separator:add7268101cc94bfba94c12ed2ce987dd">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -274,7 +283,11 @@
         </tr>
         <tr class="memdesc:acbc9782f31bf1771fb14ac75074666b6">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Gets pointer to the next sibling node. <br /></td>
+          <td class="mdescRight">Gets pointer to the next sibling node.
+            <br />
+            Returns a pointer to the next <code>Node</code> in the linked list of edges for the parent position.
+            <br />
+          </td>
         </tr>
         <tr class="separator:acbc9782f31bf1771fb14ac75074666b6">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -303,7 +316,11 @@
           <td class="mdescLeft">&#160;</td>
           <td class="mdescRight">Returns whether the node has a <a class="el"
               href="classlczero_1_1dag__classic_1_1LowNode.html"
-              title="Represents a unique position in the game DAG.">LowNode</a> attached (children). <br /></td>
+              title="Represents a unique position in the game DAG.">LowNode</a> attached (children).
+            <br />
+            A node has children if it points to a valid <code>LowNode</code> which contains the next set of legal moves.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a240ce4702454fa96f036be8b37f491df">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -316,7 +333,12 @@
         </tr>
         <tr class="memdesc:a637e9d627de7c3a02bfad6c390287b9e">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns sum of policy priors of visited children. <br /></td>
+          <td class="mdescRight">Returns sum of policy priors of visited children.
+            <br />
+            Used during selection to normalize policy probabilities of visited nodes against the total policy mass of
+            visited nodes.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a637e9d627de7c3a02bfad6c390287b9e">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -328,7 +350,11 @@
         </tr>
         <tr class="memdesc:a52d0fdb2d36bac9a7ebc7baea41f9df1">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns the visit count of this node/edge. <br /></td>
+          <td class="mdescRight">Returns the visit count of this node/edge.
+            <br />
+            This is the 'N' value in MCTS, representing how many times this edge has been traversed.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a52d0fdb2d36bac9a7ebc7baea41f9df1">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -341,7 +367,12 @@
         </tr>
         <tr class="memdesc:a569cee4a78cce38612675e01d6c0f17e">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Returns the number of threads currently visiting this node (virtual loss). <br /></td>
+          <td class="mdescRight">Returns the number of threads currently visiting this node (virtual loss).
+            <br />
+            Virtual loss is used to discourage other threads from exploring the exact same path simultaneously,
+            promoting diversity in parallel search.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a569cee4a78cce38612675e01d6c0f17e">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -393,7 +424,15 @@
         </tr>
         <tr class="memdesc:ab0eab142d2f0f96212e8b4105ac87ce6">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Calculates the Q-value (action value) of the node. <br /></td>
+          <td class="mdescRight">Calculates the Q-value (action value) of the node.
+            <br />
+            The Q-value represents the expected result of taking this action (move). It is a weighted combination of the
+            win/loss score (WL) and the draw probability (D), adjusted by the draw score.
+            <br />
+            @param draw_score The value assigned to a draw (typically 0.0 or 0.5 depending on configuration).
+            @return The computed Q-value.
+            <br />
+          </td>
         </tr>
         <tr class="separator:ab0eab142d2f0f96212e8b4105ac87ce6">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -542,7 +581,14 @@
         </tr>
         <tr class="memdesc:a57687f54a9b15abce8dd9e60ebd0f6ca">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Attempts to start a score update by incrementing virtual loss. <br /></td>
+          <td class="mdescRight">Attempts to start a score update by incrementing virtual loss.
+            <br />
+            This is an atomic operation. It tries to increment the `n_in_flight_` counter to signal that a thread is
+            processing this node. This helps in parallel search to coordinate multiple threads.
+            <br />
+            @return True if the update was started successfully.
+            <br />
+          </td>
         </tr>
         <tr class="separator:a57687f54a9b15abce8dd9e60ebd0f6ca">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -569,7 +615,17 @@
         </tr>
         <tr class="memdesc:a35df217fd99100d6b0cfa1b5b73c5ecf">
           <td class="mdescLeft">&#160;</td>
-          <td class="mdescRight">Finalizes score update with new backpropagated values. <br /></td>
+          <td class="mdescRight">Finalizes score update with new backpropagated values.
+            <br />
+            Updates the node's statistics (WL, D, M) with the results from a simulation (or neural net evaluation). This
+            is done atomically or with locks to ensure thread safety.
+            <br />
+            @param v The win/loss value to mix in.
+            @param d The draw probability to mix in.
+            @param m The moves left estimate to mix in.
+            @param multivisit The number of visits to add (usually 1).
+            <br />
+          </td>
         </tr>
         <tr class="separator:a35df217fd99100d6b0cfa1b5b73c5ecf">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -713,7 +769,12 @@
           <td class="mdescLeft">&#160;</td>
           <td class="mdescRight">Gets shared pointer to the underlying <a class="el"
               href="classlczero_1_1dag__classic_1_1LowNode.html"
-              title="Represents a unique position in the game DAG.">LowNode</a> (position). <br /></td>
+              title="Represents a unique position in the game DAG.">LowNode</a> (position).
+            <br />
+            The `LowNode` contains the actual game position data and legal moves. If this returns null, the node is a
+            leaf that hasn't been expanded yet (or is terminal).
+            <br />
+          </td>
         </tr>
         <tr class="separator:a7559ca78bef68f3a3002cd5b993f3124">
           <td class="memSeparator" colspan="2">&#160;</td>
@@ -1167,7 +1228,8 @@
             <a class="el"
               href="dag__classic_2node_8h_source.html#l01136">lczero::dag_classic::NodeGarbageCollector::Instance()</a>,
             <a class="el" href="dag__classic_2node_8h_source.html#l00509">sibling_</a>, and <a class="el"
-              href="dag__classic_2node_8cc_source.html#l00456">UnsetLowNode()</a>.</p>
+              href="dag__classic_2node_8cc_source.html#l00456">UnsetLowNode()</a>.
+          </p>
           <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-1-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -1495,7 +1557,8 @@
 
           <p class="reference">References <a class="el" href="dag__classic_2node_8cc_source.html#l00156">GetChild()</a>,
             <a class="el" href="dag__classic_2node_8h_source.html#l00494">low_node_</a>, and <a class="el"
-              href="dag__classic_2node_8cc_source.html#l00450">SetLowNode()</a>.</p>
+              href="dag__classic_2node_8cc_source.html#l00450">SetLowNode()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00676">lczero::dag_classic::NodeTree::MakeMove()</a>.</p>
@@ -2236,7 +2299,8 @@
               href="dag__classic_2node_8cc_source.html#l00234">lczero::dag_classic::LowNode::MakeNotTerminal()</a>, <a
               class="el"
               href="dag__classic_2search_8cc_source.html#l00636">lczero::dag_classic::Search::SendMovesStats()</a>, and
-            <a class="el" href="dag__classic_2node_8cc_source.html#l00481">lczero::dag_classic::TreeWalk()</a>.</p>
+            <a class="el" href="dag__classic_2node_8cc_source.html#l00481">lczero::dag_classic::TreeWalk()</a>.
+          </p>
           <div id="dynsection-12" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-12-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -2911,7 +2975,8 @@
               href="dag__classic_2search_8cc_source.html#l01623">lczero::dag_classic::SearchWorker::ShouldStopPickingHere()</a>,
             <a class="el" href="dag__classic_2node_8cc_source.html#l00481">lczero::dag_classic::TreeWalk()</a>, <a
               class="el" href="dag__classic_2node_8h_source.html#l01046">VisitedNodes()</a>, and <a class="el"
-              href="dag__classic_2node_8h_source.html#l01043">VisitedNodes()</a>.</p>
+              href="dag__classic_2node_8h_source.html#l01043">VisitedNodes()</a>.
+          </p>
           <div id="dynsection-20" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-20-trigger" src="../images/closed.png" alt="+" /> Here is the caller graph for this
@@ -3187,7 +3252,8 @@
             of file <a class="el" href="dag__classic_2node_8h_source.html">node.h</a>.</p>
 
           <p class="reference">References <a class="el" href="dag__classic_2node_8h_source.html#l00522">edge_</a>, and
-            <a class="el" href="dag__classic_2node_8cc_source.html#l00053">lczero::dag_classic::Edge::GetMove()</a>.</p>
+            <a class="el" href="dag__classic_2node_8cc_source.html#l00053">lczero::dag_classic::Edge::GetMove()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00183">DebugString()</a>, and <a class="el"
@@ -3351,7 +3417,8 @@
               href="dag__classic_2search_8cc_source.html#l01623">lczero::dag_classic::SearchWorker::ShouldStopPickingHere()</a>,
             and <a class="el"
               href="dag__classic_2node_8h_source.html#l00996">lczero::dag_classic::VisitedNode_Iterator&lt; is_const
-              &gt;::VisitedNode_Iterator()</a>.</p>
+              &gt;::VisitedNode_Iterator()</a>.
+          </p>
           <div id="dynsection-24" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-24-trigger" src="../images/closed.png" alt="+" /> Here is the caller graph for this
@@ -3750,7 +3817,8 @@
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2search_8cc_source.html#l00515">lczero::dag_classic::Search::GetVerboseStats()</a>, and
             <a class="el"
-              href="dag__classic_2node_8cc_source.html#l00234">lczero::dag_classic::LowNode::MakeNotTerminal()</a>.</p>
+              href="dag__classic_2node_8cc_source.html#l00234">lczero::dag_classic::LowNode::MakeNotTerminal()</a>.
+          </p>
           <div id="dynsection-28" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-28-trigger" src="../images/closed.png" alt="+" /> Here is the caller graph for this
@@ -3821,7 +3889,8 @@
             of file <a class="el" href="dag__classic_2node_8h_source.html">node.h</a>.</p>
 
           <p class="reference">References <a class="el" href="dag__classic_2node_8h_source.html#l00522">edge_</a>, and
-            <a class="el" href="dag__classic_2node_8cc_source.html#l00101">lczero::dag_classic::Edge::GetP()</a>.</p>
+            <a class="el" href="dag__classic_2node_8cc_source.html#l00101">lczero::dag_classic::Edge::GetP()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00183">DebugString()</a>, <a class="el"
@@ -4449,7 +4518,8 @@
               href="dag__classic_2search_8cc_source.html#l00745">lczero::dag_classic::Search::EnsureBestMoveKnown()</a>,
             <a class="el"
               href="dag__classic_2search_8cc_source.html#l00709">lczero::dag_classic::Search::GetBestEval()</a>, and <a
-              class="el" href="dag__classic_2node_8cc_source.html#l00161">HasChildren()</a>.</p>
+              class="el" href="dag__classic_2node_8cc_source.html#l00161">HasChildren()</a>.
+          </p>
           <div id="dynsection-37" onclick="return toggleVisibility(this)" class="dynheader closed"
             style="cursor:pointer;">
             <img id="dynsection-37-trigger" src="../images/closed.png" alt="+" /> Here is the call graph for this
@@ -4908,7 +4978,8 @@
               href="dag__classic_2node_8h_source.html#l00535">upper_bound_</a>, <a class="el"
               href="namespacelczero.html#ab8f8d7eebdf32c9d8aa6098b2b0d0f30a73c75337845a8a0081f229a5ba5e7eea">lczero::WHITE_WON</a>,
             <a class="el" href="dag__classic_2node_8h_source.html#l00502">wl_</a>, and <a class="el"
-              href="dag__classic_2node_8cc_source.html#l00637">WLDMInvariantsHold()</a>.</p>
+              href="dag__classic_2node_8cc_source.html#l00637">WLDMInvariantsHold()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00676">lczero::dag_classic::NodeTree::MakeMove()</a>.</p>
@@ -5134,7 +5205,8 @@
               href="network__xla_8cc_source.html#l00064">type</a>, <a class="el"
               href="namespacelczero.html#ab8f8d7eebdf32c9d8aa6098b2b0d0f30a73c75337845a8a0081f229a5ba5e7eea">lczero::WHITE_WON</a>,
             <a class="el" href="dag__classic_2node_8h_source.html#l00502">wl_</a>, and <a class="el"
-              href="dag__classic_2node_8cc_source.html#l00637">WLDMInvariantsHold()</a>.</p>
+              href="dag__classic_2node_8cc_source.html#l00637">WLDMInvariantsHold()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2search_8cc_source.html#l02016">lczero::dag_classic::SearchWorker::ExtendNode()</a>,
@@ -5549,7 +5621,8 @@
             of file <a class="el" href="dag__classic_2node_8h_source.html">node.h</a>.</p>
 
           <p class="reference">References <a class="el" href="dag__classic_2node_8h_source.html#l00522">edge_</a>, and
-            <a class="el" href="dag__classic_2node_8cc_source.html#l00092">lczero::dag_classic::Edge::SetP()</a>.</p>
+            <a class="el" href="dag__classic_2node_8cc_source.html#l00092">lczero::dag_classic::Edge::SetP()</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00279">MakeTerminal()</a>.</p>
@@ -5706,7 +5779,8 @@
               href="dag__classic_2node_8cc_source.html#l00456">UnsetLowNode()</a>, <a class="el"
               href="dag__classic_2node_8h_source.html#l00535">upper_bound_</a>, <a class="el"
               href="namespacelczero.html#ab8f8d7eebdf32c9d8aa6098b2b0d0f30a73c75337845a8a0081f229a5ba5e7eea">lczero::WHITE_WON</a>,
-            and <a class="el" href="dag__classic_2node_8h_source.html#l00502">wl_</a>.</p>
+            and <a class="el" href="dag__classic_2node_8h_source.html#l00502">wl_</a>.
+          </p>
 
           <p class="reference">Referenced by <a class="el"
               href="dag__classic_2node_8cc_source.html#l00698">lczero::dag_classic::NodeTree::TrimTreeAtHead()</a>.</p>
