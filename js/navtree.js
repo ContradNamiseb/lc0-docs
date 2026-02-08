@@ -512,6 +512,36 @@ function initNavTree(toroot, relpath) {
     readyTriggered = true;
   }
 
+  // Auto-expand "Search Topology" if it exists as a child of the root node
+  if (o.node.children && o.node.children.length > 0) {
+    // Usually the root node is "Leela Chess Zero"
+    var rootNode = o.node.children[0];
+
+    // Ensure the root node is expanded first so its children are populated
+    if (!rootNode.expanded) {
+      expandNode(o, rootNode, true, false);
+    }
+
+    // Now look for "Search Topology" in the root's children
+    if (rootNode.children) {
+      for (var i = 0; i < rootNode.children.length; i++) {
+        var child = rootNode.children[i];
+        if (child.label && child.label.nodeValue === "Search Topology") {
+          // Expand "Search Topology"
+          expandNode(o, child, true, false);
+
+          // Also expand its immediate children ("classic", "dag_classic")
+          if (child.children) {
+            for (var j = 0; j < child.children.length; j++) {
+              expandNode(o, child.children[j], true, false);
+            }
+          }
+          break; // Found it, stop searching
+        }
+      }
+    }
+  }
+
   $(window).bind('hashchange', function () {
     if (window.location.hash && window.location.hash.length > 1) {
       var a;
