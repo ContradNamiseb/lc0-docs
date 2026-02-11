@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::Search::WatchdogThread" name="lczero::dag_classic::Search::WatchdogThread">
+<area shape="rect" id="Node000001" title="Function which runs in a separate thread and watches for time and uci stop command." alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1StoppersHints.html#aea0ae0c3a9dd1a5b63bea3355abbf290" title="Gets estimated remaining time." alt="" coords="244,5,519,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
+</map>

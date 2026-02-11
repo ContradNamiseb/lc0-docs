@@ -1,0 +1,24 @@
+<map id="lczero::ValueEvaluator::MakeBestMove" name="lczero::ValueEvaluator::MakeBestMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,220,172,260"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1NodeTree.html#a0064276f4c8e213e3f3064503ab28102" title="Advances the current head by applying a move." alt="" coords="220,220,403,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,237,207,237,207,243,173,243"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PositionHistory.html#a6ae43cabdeac3fc0a5cec144984ee2ca" title="Appends a new position to the history by applying a move." alt="" coords="470,69,638,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,218,380,169,413,142,449,119,463,112,465,117,452,124,417,147,384,173,333,222"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Node.html#aeb6f1ac58613576bc3e327cb14100aa0" title="Creates a single child node with one edge." alt="" coords="464,133,644,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="367,217,483,176,485,181,369,222"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1classic_1_1Node.html#ac6c6ab4b61ef21f9e4d7fa27028fd22b" title="Returns an iterator range over all edges." alt="" coords="741,255,896,295"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="403,234,451,233,554,229,600,229,658,233,737,249,736,254,657,239,599,234,554,234,451,239,403,240"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1classic_1_1Node.html#a9a029bbb5ca2df3622d1b202c93da4fb" title="Checks if this is a terminal node (game over)." alt="" coords="477,248,631,288"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="403,248,463,255,463,260,402,253"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1classic_1_1Node.html#a39078862676638d44af1f0b05ff9bd33" title="Reverts this node from terminal back to non&#45;terminal." alt="" coords="477,312,631,352"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="357,258,452,298,473,305,471,310,450,302,355,263"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1classic_1_1Node.html#a5d61bbbf57b58980b03f1d1c8af1804e" title="Releases all children except one, which is kept." alt="" coords="451,376,657,416"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="332,258,383,310,416,338,452,362,465,368,462,373,449,366,413,342,379,314,328,262"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PositionHistory.html#af0fb2acb8c37095c392289d4faca3de6" title="Computes the number of repetitions for the last move." alt="" coords="705,5,932,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="637,67,722,46,723,51,638,72"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title="Gets the latest position of the game." alt="" coords="735,69,903,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="638,87,721,87,721,92,638,92"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Edge.html#a8b6b427d7dd6490a7ebd7498c8fb8dfc" title="Creates an array of edges from a list of legal moves." alt="" coords="742,133,895,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="644,151,728,151,728,156,644,156"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="631,313,727,292,728,297,632,318"/>
+</map>

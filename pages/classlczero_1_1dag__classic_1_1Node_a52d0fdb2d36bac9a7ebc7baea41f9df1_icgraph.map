@@ -1,0 +1,34 @@
+<map id="lczero::dag_classic::Node::GetN" name="lczero::dag_classic::Node::GetN">
+<area shape="rect" id="Node000001" title="Returns the visit count of this node/edge." alt="" coords="523,373,667,413"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a3e29fe78070d0cae9490b5cca7c48eb5" title="Generates Graphviz dot string for the subgraph starting at this node." alt="" coords="283,5,455,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,360,580,296,561,215,546,173,526,132,502,93,473,59,454,46,457,41,476,55,507,90,531,129,551,171,566,214,585,295,594,359"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Search.html#aa279fc07edbe93f7efadced5a1e320a2" title=" " alt="" coords="265,70,472,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="584,361,570,312,548,253,516,192,496,164,473,139,457,127,460,123,476,135,500,161,521,189,553,251,576,311,589,360"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a274220fc437a246105e3a4b9faa38d8b" title=" " alt="" coords="287,149,450,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="579,362,563,325,540,282,510,240,473,203,449,189,452,185,476,199,514,236,544,279,568,322,584,359"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#ae83d61bd115b926a31c0f689591688d1" title=" " alt="" coords="287,213,451,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="570,363,528,314,502,289,473,268,450,256,452,251,476,263,505,285,532,310,574,360"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#ae217a082bec6f50ef5fcdb12a40ddd7d" title=" " alt="" coords="287,469,450,509"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="550,422,476,460,443,472,441,467,474,455,548,418"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a7fa178b79ab16472dfb1f27e0875695e" title=" " alt="" coords="287,341,450,381"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="508,384,450,375,451,370,509,379"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="273,405,464,445"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="509,408,465,414,464,409,508,403"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#afe88a27421092d216263d95234bda8dd" title=" " alt="" coords="283,277,455,317"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="548,369,474,332,441,320,443,315,476,327,550,364"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title="Adjust parameters for updating node &#160;&#160;and its parent low node." alt="" coords="263,534,475,589"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="573,427,531,476,505,501,476,524,454,536,452,531,473,519,501,497,527,472,569,423"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1dag__classic_1_1VisitedNode__Iterator.html#a5de1f3ceef3bef8320a31b8460875c9b" title=" " alt="" coords="287,613,451,667"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="585,427,569,467,546,513,515,561,476,602,452,618,449,613,473,598,511,557,541,511,564,465,580,425"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1dag__classic_1_1VisitedNode__Iterator.html#a7e6d3773eefbbcc8c3cdb1a3858ddb03" title=" " alt="" coords="28,645,192,699"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="594,428,585,486,565,556,550,592,530,627,506,657,476,682,443,700,407,712,370,718,332,721,258,715,192,701,193,696,258,710,332,715,369,713,406,707,441,695,473,678,502,653,526,624,545,590,560,555,580,485,588,427"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a4f5c5b9bfc730b94035cbca6185ffe29" title="Check if there is a reason to stop picking and pick @node." alt="" coords="269,743,469,798"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="593,427,582,489,562,568,547,610,528,651,505,691,477,726,452,745,449,741,473,722,500,688,523,649,542,608,557,567,577,488,587,427"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1Search.html#aea1ff1139fdcadca9318dc78c0a790ec" title="Returns the evaluation of the best move (highest visit count), IGNORING temperature." alt="" coords="29,213,191,253"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="275,195,192,216,191,211,273,190"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="273,236,191,236,191,231,273,231"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#acae86b92c6ccac65bf9bc48f9bea3d99" title=" " alt="" coords="5,462,215,517"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="273,492,215,492,215,487,273,487"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="273,277,191,256,192,251,275,271"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="273,654,193,665,192,659,273,649"/>
+</map>

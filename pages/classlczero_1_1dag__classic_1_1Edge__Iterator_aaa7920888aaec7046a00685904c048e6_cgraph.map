@@ -1,0 +1,15 @@
+<map id="lczero::dag_classic::Edge_Iterator::Edge_Iterator" name="lczero::dag_classic::Edge_Iterator::Edge_Iterator">
+<area shape="rect" id="Node000001" title="Creates &quot;begin()&quot; iterator." alt="" coords="5,126,163,181"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title=" " alt="" coords="213,69,399,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,128,222,111,224,116,164,133"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1LowNode.html#a5e67b744ed99b0b345518872e75bbe5c" title="Gets the first child node." alt="" coords="229,133,383,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="163,151,215,151,215,156,163,156"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1LowNode.html#a24d6b73a78030882a63673b5836850fa" title="Returns number of legal moves (edges)." alt="" coords="211,197,401,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,174,224,191,222,196,163,179"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#acbc9782f31bf1771fb14ac75074666b6" title="Gets pointer to the next sibling node." alt="" coords="458,5,602,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,67,446,47,447,52,377,72"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a58aaa205c05fc56ff9c8c811dcef482d" title=" " alt="" coords="458,69,602,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,87,445,87,445,92,399,92"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a4a31fdd5dc2c8f467be7b3c146780900" title=" " alt="" coords="449,133,611,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="377,107,447,127,446,132,376,112"/>
+</map>

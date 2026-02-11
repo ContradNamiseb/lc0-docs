@@ -1,0 +1,13 @@
+<map id="lczero::PositionHistory::DidRepeatSinceLastZeroingMove" name="lczero::PositionHistory::DidRepeatSinceLastZeroingMove">
+<area shape="rect" id="Node000001" title="Checks for any repetitions since the last time the 50&#45;move rule was reset." alt="" coords="155,97,401,137"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#abce15bea18cc0f83e145a96921c4435d" title=" " alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,93,84,33,87,28,221,88"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#a7da62ecf0ad5da45c2f69e37bb98e221" title=" " alt="" coords="5,55,107,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,96,106,81,107,76,174,91"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a42ef85eebe1325e8df491b67d46490e8" title=" " alt="" coords="5,104,107,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,119,107,119,107,114,141,114"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a64a53cbcafafbc5d9c78dd15388ca8ab" title=" " alt="" coords="5,153,107,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,142,107,157,106,152,173,137"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#a1e591f89c4f6761752bbc01e6fb86828" title=" " alt="" coords="5,203,107,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="221,145,87,205,84,200,218,140"/>
+</map>

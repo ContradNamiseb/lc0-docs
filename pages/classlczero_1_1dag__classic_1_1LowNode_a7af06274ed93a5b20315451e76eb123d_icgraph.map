@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::LowNode::SetBounds" name="lczero::dag_classic::LowNode::SetBounds">
+<area shape="rect" id="Node000001" title="Sets value bounds." alt="" coords="243,5,409,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1LowNode.html#a32ceb87972a8aebe93788f440bf5f9d7" title="Marks the node as terminal with a specific result." alt="" coords="5,5,195,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,28,195,28,195,23,229,23"/>
+</map>

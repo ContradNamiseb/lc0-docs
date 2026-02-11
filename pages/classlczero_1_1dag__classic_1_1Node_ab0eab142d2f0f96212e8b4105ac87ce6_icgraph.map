@@ -1,0 +1,7 @@
+<map id="lczero::dag_classic::Node::GetQ" name="lczero::dag_classic::Node::GetQ">
+<area shape="rect" id="Node000001" title="Calculates the Q&#45;value (action value) of the node." alt="" coords="244,37,388,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a7fa178b79ab16472dfb1f27e0875695e" title=" " alt="" coords="19,5,182,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,47,182,40,182,35,231,42"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="5,69,196,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,73,197,78,196,72,230,67"/>
+</map>

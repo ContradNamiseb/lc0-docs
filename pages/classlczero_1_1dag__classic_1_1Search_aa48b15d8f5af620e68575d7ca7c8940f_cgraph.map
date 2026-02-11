@@ -1,0 +1,55 @@
+<map id="lczero::dag_classic::Search::GetVerboseStats" name="lczero::dag_classic::Search::GetVerboseStats">
+<area shape="rect" id="Node000001" title="Returns verbose information about given node, as vector of strings." alt="" coords="5,291,196,331"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a96c54aaa0722ef9a369dfbf76efb0471" title="Returns an iterator range for potential edges." alt="" coords="515,5,659,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,290,118,240,145,174,163,140,185,107,212,77,243,52,273,36,305,23,373,9,441,6,501,9,501,14,441,11,374,15,307,29,275,41,245,57,215,81,189,110,168,142,149,176,123,242,109,291"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a9528181256b91598b853d9a70e69710a" title="Returns the total visits of all children." alt="" coords="244,131,429,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,289,170,236,205,206,243,180,254,174,257,179,245,185,208,210,174,240,121,293"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1Node.html#a52d0fdb2d36bac9a7ebc7baea41f9df1" title="Returns the visit count of this node/edge." alt="" coords="265,195,409,235"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,288,243,244,262,237,264,242,245,249,145,293"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Node.html#a569cee4a78cce38612675e01d6c0f17e" title="Returns the number of threads currently visiting this node (virtual loss)." alt="" coords="259,259,414,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,295,245,288,246,294,197,300"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Node.html#ad9b6b3e9e8531063a0a3c6a63f0c0f00" title="Returns the number of edges from the underlying LowNode." alt="" coords="254,323,419,363"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="197,321,241,327,240,332,196,326"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Node.html#ab0eab142d2f0f96212e8b4105ac87ce6" title="Calculates the Q&#45;value (action value) of the node." alt="" coords="265,387,409,427"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="145,328,245,372,264,379,262,384,243,377,143,333"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1Node.html#a38d367fe23b213aa584cd68973cdc2e2" title="Returns the total visits passed through this node." alt="" coords="255,451,418,491"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="121,329,174,382,208,411,245,436,257,443,254,447,243,441,205,415,170,386,117,333"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1Node.html#a637e9d627de7c3a02bfad6c390287b9e" title="Returns sum of policy priors of visited children." alt="" coords="247,67,426,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="110,289,129,252,159,206,197,158,242,117,251,111,254,115,246,121,201,162,163,209,134,255,114,291"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1dag__classic_1_1Node.html#aec8985126b4a91d140fb72dedf68c30a" title="Returns the average Win&#45;Loss score." alt="" coords="265,515,409,555"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="114,330,134,366,163,412,201,459,246,501,254,506,251,511,242,505,197,463,159,415,129,369,110,332"/>
+<area shape="rect" id="Node000013" href="$namespacelczero.html#a1de9dea5f14200afa8cc27fd63749b47" title="Converts a move to a neural network output index." alt="" coords="249,579,424,605"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="110,330,126,378,153,442,193,508,217,538,246,565,255,571,252,576,242,569,213,542,188,511,148,444,121,380,105,332"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title="Gets shared pointer to the underlying LowNode (position)." alt="" coords="749,37,903,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="659,32,735,43,735,48,659,38"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1dag__classic_1_1Node.html#a98e2b6a22755dd39296214bf1969db22" title="Returns an iterator range for child nodes that have been visited." alt="" coords="507,69,666,109"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="426,85,494,86,493,91,426,90"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="666,76,734,67,735,72,667,81"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1Move.html#acfd7dffa1ee25335cdf6d491c0234d07" title="Gets the source square of the move." alt="" coords="754,505,898,530"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="390,577,428,564,452,551,476,539,545,524,615,515,740,511,740,516,615,520,546,529,478,544,454,555,430,569,392,582"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1Move.html#a44027392ace0f2aab156ded6db79bb88" title="Checks if the move is a promotion." alt="" coords="487,653,686,678"/>
+<area shape="poly" id="edge16_Node000013_Node000016" title=" " alt="" coords="371,602,478,639,510,647,509,652,477,644,369,607"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1Move.html#aa1f8647a227fb3fd8086d69aeae65d87" title="Gets the promotion piece type if this is a promotion move." alt="" coords="497,450,677,475"/>
+<area shape="poly" id="edge17_Node000013_Node000017" title=" " alt="" coords="404,577,428,565,443,548,451,531,459,513,476,495,508,478,510,482,479,499,464,516,456,533,448,551,431,569,407,582"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1Move.html#a32942da77fed0a1c88b139634355bcde" title="Gets the destination square of the move." alt="" coords="763,653,889,678"/>
+<area shape="poly" id="edge19_Node000013_Node000019" title=" " alt="" coords="352,603,404,648,439,671,478,688,516,698,556,703,635,702,709,692,770,679,771,684,710,698,635,707,555,708,515,703,476,693,437,676,401,652,349,607"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1Move.html#a4f4265b3d63caa54bf2e041b19568114" title="Creates a move for white pieces." alt="" coords="511,554,662,579"/>
+<area shape="poly" id="edge21_Node000013_Node000020" title=" " alt="" coords="424,581,497,573,498,578,424,586"/>
+<area shape="rect" id="Node000023" href="$classlczero_1_1Move.html#ab971f0e995e2de029b82a086c3c9aa97" title="Creates a promotion move for white pieces." alt="" coords="477,603,696,629"/>
+<area shape="poly" id="edge26_Node000013_Node000023" title=" " alt="" coords="424,598,464,602,464,607,424,603"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1Square.html#aec40d8b97f29773cc6672e67743e668d" title=" " alt="" coords="956,579,1131,605"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="873,528,909,539,999,572,997,577,907,544,872,533"/>
+<area shape="rect" id="Node000018" href="$structlczero_1_1PieceType.html#a7c841bdb4c51bb52037a9bc05c99134a" title=" " alt="" coords="755,440,897,480"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="677,459,741,458,741,464,677,464"/>
+<area shape="poly" id="edge20_Node000019_Node000015" title=" " alt="" coords="871,650,907,639,995,607,997,612,909,644,873,655"/>
+<area shape="poly" id="edge23_Node000020_Node000014" title=" " alt="" coords="648,551,750,530,751,535,649,557"/>
+<area shape="poly" id="edge25_Node000020_Node000019" title=" " alt="" coords="663,576,697,590,713,602,722,615,731,627,745,639,757,645,755,650,743,644,727,631,718,618,709,606,695,594,661,581"/>
+<area shape="rect" id="Node000021" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="744,603,908,629"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="649,577,751,598,750,603,648,582"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1Move.html#aa7eaefd8ab926d91e03ddcc0d588fb3e" title="Default constructor for a move." alt="" coords="751,554,901,579"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="662,564,738,564,738,569,662,569"/>
+<area shape="poly" id="edge28_Node000023_Node000014" title=" " alt="" coords="669,601,695,590,709,578,718,566,727,552,743,539,754,533,757,538,745,544,731,556,722,569,713,582,697,594,671,606"/>
+<area shape="poly" id="edge30_Node000023_Node000019" title=" " alt="" coords="649,626,751,647,750,652,648,631"/>
+<area shape="poly" id="edge27_Node000023_Node000021" title=" " alt="" coords="696,613,730,613,730,619,696,619"/>
+<area shape="poly" id="edge29_Node000023_Node000022" title=" " alt="" coords="648,601,750,580,751,585,649,606"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::classic::Search::SendMovesStats" name="lczero::classic::Search::SendMovesStats">
+<area shape="rect" id="Node000001" title="Outputs detailed move statistics." alt="" coords="219,37,384,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,46,171,40,171,35,206,40"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,74,171,80,171,74,205,69"/>
+</map>

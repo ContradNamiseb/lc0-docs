@@ -1,0 +1,5 @@
+<map id="lczero::CudnnNetworkComputation&lt; DataType &gt;" name="lczero::CudnnNetworkComputation&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title="CuDNN network computation class." alt="" coords="5,79,255,119"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1NetworkComputation.html" title="Abstract interface for neural network computation backends." alt="" coords="26,5,234,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,44,133,79,127,79,127,44"/>
+</map>

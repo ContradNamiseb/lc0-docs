@@ -1,0 +1,51 @@
+<map id="lczero::classic::Search::GetBestMove" name="lczero::classic::Search::GetBestMove">
+<area shape="rect" id="Node000001" title="Gets the best move and ponder move." alt="" coords="5,376,171,416"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="219,376,401,416"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,393,205,393,205,399,171,399"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a468ba3e8de48d6c519f88eadceb2252f" title="Gets best child without temperature randomization." alt="" coords="471,5,686,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,375,321,313,344,226,361,180,384,134,413,92,448,55,458,48,461,52,451,59,417,95,389,137,366,182,349,228,326,314,316,376"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3098475fe5e8e355263a0b9bddf88fd2" title="Gets best child with temperature for root node." alt="" coords="450,69,707,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,375,327,323,352,254,370,217,392,181,418,148,448,119,454,114,458,119,451,123,422,152,396,184,375,220,357,256,332,325,318,376"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1Position.html#a46d218a438dc14aa85e701b4cd1f4d46" title="Gets the number of half&#45;moves since the beginning of the game." alt="" coords="473,134,684,159"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="315,375,331,331,359,275,397,218,421,192,448,170,459,163,462,167,451,174,425,196,401,221,363,278,336,333,320,377"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a449aa589911aee229b6ce2c859de6412" title="Gets move from edge." alt="" coords="489,184,668,224"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="321,374,370,305,406,266,448,234,475,221,477,225,451,238,410,270,374,308,325,377"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1classic_1_1Node.html#af1c56c2703f77874bab9398cf5bdbf0f" title="Gets the visit count N for this node." alt="" coords="501,248,656,288"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="333,374,384,335,448,298,487,283,489,288,450,302,387,339,336,378"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1classic_1_1BaseSearchParams.html#af83573ed616f8eda6e69b722dd018c06" title="Gets delay before temperature decay starts." alt="" coords="449,312,708,352"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="394,373,480,353,482,358,395,379"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a6e1818c114fc5fb466cfc30b488d91b7" title="Gets number of moves for temperature decay." alt="" coords="469,376,689,416"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="401,393,455,393,455,399,401,399"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1classic_1_1BaseSearchParams.html#ad8f5d5c7e9d66ae3208cf5c3c832a6be" title="Gets temperature for move selection randomization." alt="" coords="480,440,677,480"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="395,413,482,434,480,439,394,419"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1classic_1_1BaseSearchParams.html#a8f497f70076b36950664f943dadb9dcc" title="Gets move number to cut off temperature." alt="" coords="449,504,708,544"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="336,414,387,453,451,490,469,497,467,502,448,494,384,457,333,418"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1classic_1_1BaseSearchParams.html#ac0ece6f2b58ef79a139fc42be0e43acc" title="Gets endgame temperature value." alt="" coords="457,568,701,608"/>
+<area shape="poly" id="edge20_Node000002_Node000017" title=" " alt="" coords="325,415,374,484,410,522,451,554,462,560,460,565,448,558,406,526,370,487,321,418"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1classic_1_1Node.html#a45b2545c65e4b3bdeed487ef5fc3dabf" title="Checks if this node has any child edges." alt="" coords="501,632,656,672"/>
+<area shape="poly" id="edge22_Node000002_Node000018" title=" " alt="" coords="320,415,337,458,364,513,402,570,425,596,451,618,490,637,487,642,448,622,421,600,398,573,359,516,332,460,315,417"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1PositionHistory.html#a44924455ccd62f0f2f2798dd403ba4f5" title="Checks if the next move in the history should be black&#39;s." alt="" coords="495,696,663,736"/>
+<area shape="poly" id="edge23_Node000002_Node000019" title=" " alt="" coords="317,415,330,469,355,542,373,580,395,618,421,652,451,682,483,700,480,705,448,686,417,656,390,620,368,582,350,544,325,471,312,417"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title="Gets the latest position of the game." alt="" coords="765,753,933,793"/>
+<area shape="poly" id="edge27_Node000002_Node000022" title=" " alt="" coords="315,416,322,482,343,574,360,622,383,669,413,711,451,746,485,766,522,781,561,791,600,797,679,799,751,792,752,797,680,804,600,802,559,797,520,786,482,771,448,750,409,715,379,672,355,624,337,575,317,483,310,417"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Random.html#a56bd43d254b6608e573474715400dd7b" title="Gets the singleton instance of the random number generator." alt="" coords="772,53,927,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,75,758,71,759,76,708,81"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1Random.html#a2c8df5e1d452d68b003979de410ba299" title="Generates a random float value in the range [0, max_val)." alt="" coords="756,102,943,127"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="708,99,742,102,742,107,707,104"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1classic_1_1Edge.html#ac97f0ece508dfc918eb302b81a8c6a26" title="Gets the move associated with this edge." alt="" coords="773,184,926,224"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="668,201,759,201,759,207,668,207"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1Move.html#ae57e4f27218352868f1912c7390862c3" title="Mirrors the ranks of the move (flips vertically)." alt="" coords="995,191,1133,217"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="926,201,982,201,982,207,926,207"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="761,447,937,473"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="677,350,709,362,773,398,824,436,821,441,770,403,707,366,675,354"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="814,449,807,439,811,429,825,423,849,421,879,424,891,433,888,438,877,429,849,426,827,428,815,433,812,438,819,446"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="665,413,782,442,781,447,663,419"/>
+<area shape="poly" id="edge17_Node000015_Node000013" title=" " alt="" coords="678,457,748,457,748,463,678,463"/>
+<area shape="poly" id="edge19_Node000016_Node000013" title=" " alt="" coords="663,501,781,473,782,478,665,507"/>
+<area shape="poly" id="edge21_Node000017_Node000013" title=" " alt="" coords="675,566,707,554,770,517,821,479,824,484,773,522,709,558,677,570"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1Position.html#a5e2e3b2b5af8379638b300a5872ae499" title="Checks if it&#39;s black&#39;s turn to move." alt="" coords="761,689,937,729"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="663,711,748,709,748,714,663,717"/>
+<area shape="poly" id="edge26_Node000019_Node000022" title=" " alt="" coords="664,731,752,750,751,755,662,736"/>
+<area shape="rect" id="Node000021" href="$classlczero_1_1ChessBoard.html#a712259c26bc9c44dbff0ab563a851c01" title="Checks if the board is flipped (currently black&#39;s turn to move)." alt="" coords="991,689,1137,729"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="938,707,977,707,977,712,938,712"/>
+</map>

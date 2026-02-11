@@ -1,0 +1,11 @@
+<map id="lczero::ChessBoard::HasMatingMaterial" name="lczero::ChessBoard::HasMatingMaterial">
+<area shape="rect" id="Node000001" title="Checks whether at least one side has sufficient material for checkmate." alt="" coords="5,47,160,87"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1BitBoard.html#ac5ab5710b6f8d85b21014ac1fff54484" title=" " alt="" coords="219,5,394,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,48,234,31,235,36,161,53"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1BitBoard.html#acbf14a35154c37d0138324d666387df9" title=" " alt="" coords="208,55,405,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,65,194,65,194,70,160,70"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ChessBoard.html#a0f21b051a004b0fba25071a9b07999bc" title="Gets the bitboard of knights on the board." alt="" coords="233,105,380,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,84,220,100,219,105,160,90"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ChessBoard.html#a4ff6ab258621e94fb4dff398d3a9c27d" title="Gets the bitboard of pawns on the board." alt="" coords="453,105,600,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="380,122,440,122,440,127,380,127"/>
+</map>

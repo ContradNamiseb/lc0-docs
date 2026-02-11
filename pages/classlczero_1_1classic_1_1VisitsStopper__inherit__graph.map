@@ -1,0 +1,7 @@
+<map id="lczero::classic::VisitsStopper" name="lczero::classic::VisitsStopper">
+<area shape="rect" id="Node000001" title="Stopper that limits search by total tree nodes (visits)." alt="" coords="19,79,226,104"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1MemoryWatchingStopper.html" title="Stopper that limits tree size based on available memory." alt="" coords="5,152,240,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,118,125,152,120,152,120,118"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchStopper.html" title="Abstract base class for search stopping conditions." alt="" coords="15,5,230,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,44,125,79,120,79,120,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lczero::classic::Node::GetBounds" name="lczero::classic::Node::GetBounds">
+<area shape="rect" id="Node000001" title="Gets the proven bounds on this node&#39;s game result." alt="" coords="232,5,387,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a0b8d8fc7f6a2fd949a3fd411be9ca970" title="Gets game result bounds from node." alt="" coords="5,5,184,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,28,184,28,184,23,218,23"/>
+</map>

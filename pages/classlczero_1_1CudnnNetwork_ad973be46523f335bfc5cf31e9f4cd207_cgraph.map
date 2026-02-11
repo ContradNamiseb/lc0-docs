@@ -1,0 +1,7 @@
+<map id="lczero::CudnnNetwork::forwardEval" name="lczero::CudnnNetwork::forwardEval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,171,77"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1cudnn__backend.html#ae749a185fa49e8fe54067dcd0647f4fe" title=" " alt="" coords="219,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,42,205,37,206,43,172,48"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#a8460ab7db0ff5cf65151e7dbda768b05" title="Unpacks input planes to NHWC layout." alt="" coords="219,69,389,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,67,206,72,205,77,171,72"/>
+</map>

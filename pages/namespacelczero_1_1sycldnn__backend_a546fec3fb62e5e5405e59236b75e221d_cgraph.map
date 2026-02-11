@@ -1,0 +1,14 @@
+<map id="lczero::sycldnn_backend::globalScale" name="lczero::sycldnn_backend::globalScale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,185,109"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="258,5,438,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,67,255,46,256,51,176,72"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#aa78f4a87fba83549d8d2559f65426039" title=" " alt="" coords="258,69,438,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,87,244,87,244,92,186,92"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a44a89510992a10b158bbf1e82278d20a" title=" " alt="" coords="233,133,463,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="176,107,256,127,255,133,174,112"/>
+<area shape="rect" id="Node000004" href="$namespacelczero_1_1sycldnn__backend.html#a23f9670776d983a5337b3f07f272b7a8" title=" " alt="" coords="511,101,691,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="439,98,497,106,497,111,438,103"/>
+<area shape="rect" id="Node000005" href="$namespacelczero_1_1sycldnn__backend.html#a22d0b48537a7d6d0a809f725b5b248a0" title=" " alt="" coords="739,101,919,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="691,119,725,119,725,124,691,124"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="463,136,496,132,497,137,463,141"/>
+</map>

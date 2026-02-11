@@ -1,0 +1,17 @@
+<map id="lczero::dag_classic::Node::WLDMInvariantsHold" name="lczero::dag_classic::Node::WLDMInvariantsHold">
+<area shape="rect" id="Node000001" title=" " alt="" coords="519,101,728,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a7b1c29c277d63cbdac27ad4e1bec3f53" title="Adjusts value statistics for terminal nodes." alt="" coords="273,5,463,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,98,470,60,435,48,437,43,472,55,566,93"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a35df217fd99100d6b0cfa1b5b73c5ecf" title="Finalizes score update with new backpropagated values." alt="" coords="265,69,471,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="505,109,471,105,471,100,506,104"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a235a47352b0fcb886a7c65090f86ea15" title="Marks the node as non&#45;terminal, recomputing stats." alt="" coords="275,133,461,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="506,139,462,144,461,139,505,133"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Node.html#a0726f814d7d4ad7f52cd41be76699a3c" title="Marks the node as terminal." alt="" coords="287,197,449,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="566,149,472,188,437,200,435,195,470,183,564,144"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a4da50481bf99a9d4200df90707b2eb07" title="Advances the current state of the game tree by one move." alt="" coords="26,133,197,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,156,197,156,197,151,261,151"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title="Extends a leaf node by generating moves and checking for terminal states." alt="" coords="8,197,215,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="273,220,215,220,215,215,273,215"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title="Adjust parameters for updating node &#160;&#160;and its parent low node." alt="" coords="5,262,217,317"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="284,244,210,265,208,259,282,238"/>
+</map>

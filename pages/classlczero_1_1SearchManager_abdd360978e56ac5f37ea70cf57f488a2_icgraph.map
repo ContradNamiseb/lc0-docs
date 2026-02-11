@@ -1,0 +1,5 @@
+<map id="lczero::SearchManager::AddSearchFactory" name="lczero::SearchManager::AddSearchFactory">
+<area shape="rect" id="Node000001" title="Registers a new search algorithm factory." alt="" coords="224,5,395,45"/>
+<area shape="rect" id="Node000002" href="$structlczero_1_1SearchManager_1_1Register.html#a6984da948fdfbd666a16cf7bf7578d3a" title="Registers a factory with the SearchManager singleton." alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,28,176,28,176,23,210,23"/>
+</map>

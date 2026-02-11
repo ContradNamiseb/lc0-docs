@@ -1,0 +1,5 @@
+<map id="lczero::classic::Search::WatchdogThread" name="lczero::classic::Search::WatchdogThread">
+<area shape="rect" id="Node000001" title="Watchdog thread monitoring time and stop commands." alt="" coords="5,5,171,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1StoppersHints.html#aea0ae0c3a9dd1a5b63bea3355abbf290" title="Gets estimated remaining time." alt="" coords="219,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,205,23,205,28,171,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lczero::classic::EdgeAndNode::GetP" name="lczero::classic::EdgeAndNode::GetP">
+<area shape="rect" id="Node000001" title="Gets policy prior from edge." alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Edge.html#a86b158a8be10e7fd25ef95c02bf2157e" title="Gets the policy prior probability P for this move." alt="" coords="232,5,385,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,218,23,218,28,184,28"/>
+</map>

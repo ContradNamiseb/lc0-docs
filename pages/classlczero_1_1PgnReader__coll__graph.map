@@ -1,0 +1,14 @@
+<map id="lczero::PgnReader" name="lczero::PgnReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,401,281,427"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1ChessBoard.html" title="Represents a chess board position in the Lc0 engine." alt="" coords="139,313,285,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,353,215,401,209,401,209,353"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="300,318,312,326,304,333,286,336,285,331,302,329,307,326,297,322"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1BitBoard.html" title=" " alt="" coords="5,145,131,170"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="74,183,89,235,103,263,122,287,140,301,162,311,159,316,138,306,118,291,99,266,84,237,69,184"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Square.html" title=" " alt="" coords="155,145,269,170"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="215,184,215,313,209,313,209,184"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ChessBoard_1_1Castlings.html" title=" " alt="" coords="293,137,440,177"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="357,191,332,242,314,268,292,291,272,305,251,316,248,311,270,301,289,287,310,265,327,239,353,189"/>
+<area shape="rect" id="Node000006" href="$structlczero_1_1File.html" title=" " alt="" coords="321,5,413,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="369,44,369,137,364,137,364,44"/>
+</map>

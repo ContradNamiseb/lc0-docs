@@ -1,0 +1,36 @@
+<map id="search/classic/search.h" name="search/classic/search.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,5,619,31"/>
+<area shape="rect" id="Node000002" href="$classic_2search_8cc.html" title=" " alt="" coords="5,79,184,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,35,166,81,165,76,449,30"/>
+<area shape="rect" id="Node000003" href="$search_2classic_2wrapper_8cc.html" title=" " alt="" coords="208,79,395,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="484,37,340,81,338,76,482,32"/>
+<area shape="rect" id="Node000004" href="$game_8h.html" title=" " alt="" coords="419,79,546,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="519,44,493,80,489,77,515,41"/>
+<area shape="rect" id="Node000008" href="$tournament_8cc.html" title=" " alt="" coords="422,299,594,324"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="548,42,560,78,560,104,552,179,535,251,516,299,511,297,529,250,547,178,555,104,555,79,543,44"/>
+<area shape="rect" id="Node000013" href="$benchmark_8cc.html" title=" " alt="" coords="715,152,864,177"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="634,30,721,48,756,61,779,77,790,95,795,116,794,152,789,152,790,116,785,97,775,80,754,66,719,53,633,35"/>
+<area shape="rect" id="Node000014" href="$benchmark_8h.html" title=" " alt="" coords="622,79,765,104"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="572,34,668,76,666,81,570,39"/>
+<area shape="rect" id="Node000005" href="$game_8cc.html" title=" " alt="" coords="176,152,309,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,110,282,154,281,149,430,105"/>
+<area shape="rect" id="Node000006" href="$multigame_8h.html" title=" " alt="" coords="334,152,495,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="464,116,428,154,424,150,460,112"/>
+<area shape="poly" id="edge14_Node000004_Node000008" title=" " alt="" coords="497,115,509,151,515,194,516,236,512,299,507,298,510,235,509,194,504,153,492,117"/>
+<area shape="rect" id="Node000009" href="$tournament_8h.html" title=" " alt="" coords="87,225,254,251"/>
+<area shape="poly" id="edge15_Node000004_Node000009" title=" " alt="" coords="406,107,254,133,193,145,166,154,158,170,158,189,168,225,163,226,153,190,153,169,162,150,191,140,253,128,405,102"/>
+<area shape="rect" id="Node000007" href="$multigame_8cc.html" title=" " alt="" coords="278,225,445,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="400,190,372,227,368,224,396,187"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="433,187,458,224,503,297,499,300,454,227,429,190"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="363,184,211,228,209,223,362,179"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="239,251,454,296,453,301,238,256"/>
+<area shape="rect" id="Node000010" href="$loop_8cc.html" title=" " alt="" coords="157,372,281,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="180,263,199,323,216,371,211,373,193,325,175,265"/>
+<area shape="rect" id="Node000011" href="$loop_8h.html" title=" " alt="" coords="209,299,327,324"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="199,257,254,296,251,301,196,261"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="254,337,229,373,224,370,250,334"/>
+<area shape="rect" id="Node000012" href="$main_8cc.html" title=" " alt="" coords="451,372,525,397"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="317,326,453,369,452,374,316,331"/>
+<area shape="poly" id="edge19_Node000014_Node000012" title=" " alt="" coords="693,118,684,162,669,216,644,274,628,301,609,326,590,343,569,356,526,375,524,370,566,352,587,338,605,322,624,298,639,271,664,214,679,160,687,117"/>
+<area shape="poly" id="edge20_Node000014_Node000013" title=" " alt="" coords="721,110,775,150,772,154,718,114"/>
+</map>

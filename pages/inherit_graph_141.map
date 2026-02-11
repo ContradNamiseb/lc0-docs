@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classlczero_1_1PjrtCommon.html" title="Shared base class for all PJRT wrappers." alt="" coords="5,153,156,179"/>
+<area shape="rect" id="Node000001" href="$classlczero_1_1Pjrt.html" title=" " alt="" coords="249,5,339,31"/>
+<area shape="poly" id="edge78_Node000000_Node000001" title=" " alt="" coords="97,141,141,90,170,63,203,40,248,23,249,28,205,44,173,67,145,93,101,144"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1PjrtClient.html" title=" " alt="" coords="229,55,359,80"/>
+<area shape="poly" id="edge79_Node000000_Node000002" title=" " alt="" coords="109,143,152,115,203,89,235,78,237,83,205,94,155,120,112,147"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PjrtDevice.html" title=" " alt="" coords="226,104,362,129"/>
+<area shape="poly" id="edge80_Node000000_Node000003" title=" " alt="" coords="149,148,238,127,239,132,150,153"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PjrtDeviceBuffer.html" title="Represents a buffer in device memory." alt="" coords="207,153,381,179"/>
+<area shape="poly" id="edge81_Node000000_Node000004" title=" " alt="" coords="170,163,206,163,206,169,170,169"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1PjrtEvent.html" title="Represents a PJRT event for asynchronous operations." alt="" coords="230,203,358,228"/>
+<area shape="poly" id="edge82_Node000000_Node000005" title=" " alt="" coords="150,179,239,200,238,205,149,184"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1PjrtExecutable.html" title=" " alt="" coords="213,252,375,277"/>
+<area shape="poly" id="edge83_Node000000_Node000006" title=" " alt="" coords="113,184,155,211,205,237,240,249,238,254,203,242,153,216,110,189"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1PjrtHostToDeviceTransfer.html" title="Handles ongoing host&#45;to&#45;device transfer." alt="" coords="204,302,384,342"/>
+<area shape="poly" id="edge84_Node000000_Node000007" title=" " alt="" coords="102,188,146,237,175,263,205,286,230,300,228,304,203,291,171,267,142,241,98,191"/>
+</map>

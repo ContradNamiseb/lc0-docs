@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::Node::DotEdgeString" name="lczero::dag_classic::Node::DotEdgeString">
+<area shape="rect" id="Node000001" title="Generates Graphviz dot string for the edge to the LowNode." alt="" coords="225,5,391,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a3e29fe78070d0cae9490b5cca7c48eb5" title="Generates Graphviz dot string for the subgraph starting at this node." alt="" coords="5,5,177,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,178,28,178,23,211,23"/>
+</map>

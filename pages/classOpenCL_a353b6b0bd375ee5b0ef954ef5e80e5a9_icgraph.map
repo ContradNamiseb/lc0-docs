@@ -1,0 +1,10 @@
+<map id="OpenCL::get_device_name" name="OpenCL::get_device_name">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,45,656,70"/>
+<area shape="rect" id="Node000002" href="$classTuner.html#a7c982d159ae183a1fb4cfdcfdebb4e7c" title=" " alt="" coords="251,5,413,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,45,413,39,414,34,455,40"/>
+<area shape="rect" id="Node000004" href="$classTuner.html#a4f5c2dbe3583e4b134811bab841dc217" title=" " alt="" coords="255,69,409,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,75,410,81,409,76,454,69"/>
+<area shape="rect" id="Node000003" href="$classTuner.html#acdbd707892d8d4fdb800d798a5da0d17" title=" " alt="" coords="5,45,203,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,41,195,47,194,42,237,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="241,79,194,73,195,67,242,74"/>
+</map>

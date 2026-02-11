@@ -1,0 +1,5 @@
+<map id="lczero::classic::EdgeAndNode::GetN" name="lczero::classic::EdgeAndNode::GetN">
+<area shape="rect" id="Node000001" title="Gets visit count from node." alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#af1c56c2703f77874bab9398cf5bdbf0f" title="Gets the visit count N for this node." alt="" coords="232,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,218,23,218,28,184,28"/>
+</map>

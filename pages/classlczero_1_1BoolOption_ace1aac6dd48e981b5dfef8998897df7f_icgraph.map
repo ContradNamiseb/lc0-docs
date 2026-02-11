@@ -1,0 +1,9 @@
+<map id="lczero::BoolOption::SetVal" name="lczero::BoolOption::SetVal">
+<area shape="rect" id="Node000001" title="Sets the boolean value in the options dictionary." alt="" coords="196,69,337,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1BoolOption.html#acb87fbc7714715661733abbfa5a03c77" title="Processes a long&#45;form command line flag for this option." alt="" coords="6,5,147,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,67,136,48,137,43,195,62"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1BoolOption.html#ae29c4c3c4baf89108ff6cff1a740cb87" title="Processes a short&#45;form command line flag for this option." alt="" coords="5,69,148,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,92,148,92,148,87,182,87"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1BoolOption.html#ad09e5fc24691ba06c7fdece415a8c56c" title="Sets the boolean value from a string representation." alt="" coords="6,133,147,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,116,137,136,136,131,193,111"/>
+</map>

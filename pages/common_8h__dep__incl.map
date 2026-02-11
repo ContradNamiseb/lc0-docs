@@ -1,0 +1,20 @@
+<map id="search/classic/stoppers/common.h" name="search/classic/stoppers/common.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="581,5,755,45"/>
+<area shape="rect" id="Node000002" href="$common_8cc.html" title=" " alt="" coords="384,93,557,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="613,53,515,96,513,91,611,48"/>
+<area shape="rect" id="Node000003" href="$search_2classic_2stoppers_2factory_8h.html" title=" " alt="" coords="581,93,755,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="671,59,671,93,665,93,665,59"/>
+<area shape="rect" id="Node000007" href="$game_8cc.html" title=" " alt="" coords="952,189,1085,214"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="719,49,997,186,994,191,717,54"/>
+<area shape="rect" id="Node000004" href="$search_2classic_2stoppers_2factory_8cc.html" title=" " alt="" coords="5,181,179,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,136,378,160,191,184,180,186,179,181,190,179,377,155,567,131"/>
+<area shape="rect" id="Node000005" href="$search_2classic_2wrapper_8cc.html" title=" " alt="" coords="203,189,389,214"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="574,139,346,191,345,186,573,134"/>
+<area shape="rect" id="Node000006" href="$search_2dag__classic_2wrapper_8cc.html" title=" " alt="" coords="413,181,557,221"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="617,142,526,184,524,179,614,137"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="759,134,973,186,971,191,758,139"/>
+<area shape="rect" id="Node000008" href="$tournament_8cc.html" title=" " alt="" coords="582,189,754,214"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="671,147,671,188,665,188,665,147"/>
+<area shape="rect" id="Node000009" href="$benchmark_8cc.html" title=" " alt="" coords="779,189,928,214"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="722,137,830,186,828,191,720,142"/>
+</map>

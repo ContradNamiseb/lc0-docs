@@ -1,0 +1,5 @@
+<map id="lczero::onnx::OnnxComputation::GetMVal" name="lczero::onnx::OnnxComputation::GetMVal">
+<area shape="rect" id="Node000001" title="Retrieves the M&#45;value (moves left) for a specific sample." alt="" coords="5,5,232,45"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1onnx.html#aa410def28b6d3e0cf6fc94a91e25560f" title=" " alt="" coords="280,13,439,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,23,266,23,266,28,232,28"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="lczero::CudnnNetwork::CudnnNetwork" name="lczero::CudnnNetwork::CudnnNetwork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,389,171,429"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1CudnnNetworkComputation.html#a9fd1e0538e85c5015968bf7b907bb2d6" title="Adds a sample (input planes) to the current batch." alt="" coords="219,5,468,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,389,95,324,116,235,132,186,154,138,182,94,217,55,222,51,226,55,221,59,186,97,159,141,137,188,121,236,101,325,93,389"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1CudnnNetworkComputation.html#a35e38e266b2daaf44a990b5f4c526c3c" title="Captures the CUDA graph for the current batch." alt="" coords="219,69,468,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,388,101,335,124,262,141,223,162,185,187,150,217,119,223,114,227,119,220,123,191,153,166,188,146,225,129,264,106,336,95,390"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1CudnnNetworkComputation.html#a49f7f7285fbf0d03aa16a9e5849bee21" title="Computes the network outputs for the current batch." alt="" coords="219,133,468,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="93,388,108,345,133,290,169,232,192,206,217,183,225,178,228,182,220,187,195,210,173,235,138,292,113,347,98,390"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1OptionsDict.html#a7a5cef61f5c4aa5cba99b314e0ba05ac" title=" " alt="" coords="271,221,416,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="101,387,148,330,181,299,217,272,256,255,258,260,220,277,184,303,152,334,105,391"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="255,310,431,335"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="125,387,168,365,218,345,252,336,253,341,220,351,171,370,127,392"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1CudnnNetwork.html#a11af8246252ee2273a99d2607133b79c" title=" " alt="" coords="261,360,426,400"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="170,397,247,388,247,394,171,403"/>
+<area shape="rect" id="Node000010" href="$namespacelczero.html#a240fb199a13e5acdecb5207efc7becde" title="Computes maximum attention head size." alt="" coords="224,425,463,450"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="171,416,214,421,214,426,170,421"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1Network.html#a2484378e03c5c5dd462f37b9fb93a99a" title="Gets the preferred batch size for this network." alt="" coords="252,475,435,515"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="135,427,220,460,246,468,244,473,218,465,133,432"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="271,563,416,603"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="110,428,158,475,220,524,277,555,275,560,217,529,154,479,106,432"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1CudnnNetwork.html#aaa5aca3441b4293598205c53091fbb25" title=" " alt="" coords="261,627,426,667"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="99,429,115,468,141,518,176,569,197,593,220,612,249,628,246,633,217,617,193,596,171,573,136,521,110,471,94,431"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1CudnnNetwork.html#afc88bf01f599de9213a448e6a24d45e2" title=" " alt="" coords="261,691,426,731"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="96,429,108,479,131,547,148,582,168,617,192,649,220,677,249,693,246,698,217,681,188,652,164,620,143,585,126,549,103,481,90,430"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1CudnnNetwork.html#a12df58f7d4e1c17e0977d793cfaa0e0f" title=" " alt="" coords="261,755,426,795"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="94,429,102,490,123,574,139,620,161,664,188,705,220,741,249,758,246,763,217,745,183,708,156,667,135,622,118,576,97,491,88,430"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1cudnn__backend.html#abe98729db620e6ebf04d17937ef638b6" title=" " alt="" coords="549,5,719,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,23,535,23,535,28,468,28"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1cudnn__backend_1_1CudaGraphCapture.html#a67792d891dfdd043b4c4e6aa46286cbf" title=" " alt="" coords="516,69,752,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="468,87,503,87,503,92,468,92"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="296,222,293,212,301,202,318,197,343,195,373,198,389,205,387,210,371,203,343,200,319,202,304,207,299,213,301,220"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="302,312,293,302,298,292,315,286,343,283,379,287,389,292,393,298,389,301,386,296,378,292,343,289,316,291,302,296,299,301,306,308"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="296,563,293,553,301,544,318,538,343,536,373,539,389,546,387,551,371,544,343,541,319,543,304,548,299,554,301,561"/>
+</map>

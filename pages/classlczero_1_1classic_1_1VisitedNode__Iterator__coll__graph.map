@@ -1,0 +1,6 @@
+<map id="lczero::classic::VisitedNode_Iterator&lt; is_const &gt;" name="lczero::classic::VisitedNode_Iterator&lt; is_const &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,200,133"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html" title="Represents a node in the MCTS (Monte Carlo Tree Search) game tree." alt="" coords="25,5,180,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,44,105,93,100,93,100,44"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="195,10,207,18,198,25,181,28,180,23,196,20,201,18,193,15"/>
+</map>

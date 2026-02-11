@@ -1,0 +1,11 @@
+<map id="lczero::sycldnn_backend::EmbeddingLayer::Eval" name="lczero::sycldnn_backend::EmbeddingLayer::Eval">
+<area shape="rect" id="Node000001" title="Evaluates the layer." alt="" coords="5,41,185,81"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a60390a5ea8a7691f64f749f4a20e5ef9" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="233,41,413,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,59,220,59,220,64,186,64"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="461,5,641,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,44,448,39,448,44,414,50"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#a19362c5e523ddca3201122e31943b031" title=" " alt="" coords="461,70,641,125"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,73,448,78,448,84,413,78"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#adb4c001f0f655323613bb1ecbc2a03c4" title=" " alt="" coords="689,77,871,117"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="641,95,676,95,676,100,641,100"/>
+</map>

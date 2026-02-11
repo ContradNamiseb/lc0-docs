@@ -1,0 +1,21 @@
+<map id="lczero::sycldnn_backend::EncoderBlock::Eval" name="lczero::sycldnn_backend::EncoderBlock::Eval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,185,141"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a60390a5ea8a7691f64f749f4a20e5ef9" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="233,133,413,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,131,220,136,220,141,185,137"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a151ed911b781f81dd5bf9c3a90f6ca26" title=" " alt="" coords="233,197,413,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="138,139,234,183,252,190,250,195,232,188,136,144"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1sycldnn__backend.html#af291fabcc8204616d22c233e18c13e16" title=" " alt="" coords="233,5,413,45"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="136,99,232,55,250,48,252,53,234,60,138,104"/>
+<area shape="rect" id="Node000009" href="$namespacelczero_1_1sycldnn__backend.html#a94b68de7a3cdb9d37a214c36ec3ac3f2" title=" " alt="" coords="233,69,413,109"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="185,106,220,101,220,106,186,111"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="461,61,641,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,131,474,103,475,108,388,136"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#a19362c5e523ddca3201122e31943b031" title=" " alt="" coords="461,126,641,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,151,448,151,448,156,414,156"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#adb4c001f0f655323613bb1ecbc2a03c4" title=" " alt="" coords="689,133,871,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="641,151,676,151,676,156,641,156"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#aa9badb0c3537b8ad33e6508dd64345a1" title=" " alt="" coords="478,205,625,230"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="414,215,464,215,464,220,414,220"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="406,43,457,55,455,61,405,48"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="414,84,447,82,448,88,414,89"/>
+</map>

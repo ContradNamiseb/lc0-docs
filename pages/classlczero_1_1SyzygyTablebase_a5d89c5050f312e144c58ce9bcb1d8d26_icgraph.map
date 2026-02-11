@@ -1,0 +1,25 @@
+<map id="lczero::SyzygyTablebase::search" name="lczero::SyzygyTablebase::search">
+<area shape="rect" id="Node000001" title="Internal search function for WDL probing." alt="" coords="643,63,824,103"/>
+<area shape="poly" id="edge13_Node000001_Node000001" title=" " alt="" coords="772,51,759,44,733,41,711,43,698,48,693,54,696,62,690,63,688,53,695,44,710,38,733,36,760,39,775,46"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1SyzygyTablebase.html#ad9e247dff5ecff5863dca670b02d5d2a" title="Probes DTZ tables to determine distance to zeroing move." alt="" coords="413,31,595,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,71,595,66,595,61,630,66"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1SyzygyTablebase.html#ad4abd1be345420a2b5c2b7defd66070a" title="Probes WDL tables for the given position." alt="" coords="413,95,595,135"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="630,100,595,105,595,99,629,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="543,19,529,12,504,9,482,11,469,16,464,22,466,30,461,31,459,21,465,12,481,6,504,4,531,7,545,14"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SyzygyTablebase.html#a5b6232e20ebbc9ff983e5b14abfdff5b" title="Probes DTZ tables to determine safe moves on the optimal path." alt="" coords="169,5,351,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="399,43,350,37,351,32,400,37"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#af922f64433bb32795f3f14b6d5086f33" title=" " alt="" coords="158,70,362,95"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="400,67,358,73,357,67,399,62"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#a501bbad87d7bf4b07337c66fe8457445" title=" " alt="" coords="5,21,107,46"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="193,69,154,60,106,48,107,43,155,55,194,64"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#aaadcfee2ec671feff49b3d246954ed56" title=" " alt="" coords="5,70,107,95"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="144,85,107,85,107,80,144,80"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#a916d4611c688907e006b39eefc1ac6f0" title=" " alt="" coords="5,119,107,145"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="194,101,155,111,107,122,106,117,154,105,193,96"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="429,92,412,85,364,60,332,48,334,43,366,55,414,80,431,87"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="399,104,357,98,358,93,400,98"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1classic_1_1SearchWorker.html#a745943387c25632f355c794421cb28f0" title="Extends a leaf node by generating legal moves and checking for terminal states." alt="" coords="155,120,365,160"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="400,128,366,132,365,126,400,123"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1SyzygyTablebase.html#ad491bbcfc4f73c814c600d6a8bbb70ae" title="Probes WDL tables to determine potentially optimal moves." alt="" coords="169,184,351,224"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="446,143,366,175,331,186,329,181,364,169,444,138"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lczero::classic::NodeTree::HeadPosition" name="lczero::classic::NodeTree::HeadPosition">
+<area shape="rect" id="Node000001" title="Gets the current board position." alt="" coords="5,5,188,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1PositionHistory.html#a3c88c46b830873770fe811722aad10ae" title="Gets the latest position of the game." alt="" coords="236,5,404,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,222,23,222,28,188,28"/>
+</map>

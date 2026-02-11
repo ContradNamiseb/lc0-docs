@@ -1,0 +1,11 @@
+<map id="lczero::classic::EdgeAndNode::GetU" name="lczero::classic::EdgeAndNode::GetU">
+<area shape="rect" id="Node000001" title="Calculates the UCT exploration bonus U." alt="" coords="5,37,184,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a9d7fd7a99a347314137648dc7ea0550a" title="Gets started visits from node." alt="" coords="232,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,42,218,37,219,42,185,47"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1EdgeAndNode.html#a567c24c0f1ef7ad1b8c047379536d349" title="Gets policy prior from edge." alt="" coords="232,69,411,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,67,219,72,218,77,184,73"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#aa14df2e6f72ca3c6350c79a50ff9f369" title="Gets the total started visits (completed + in&#45;flight)." alt="" coords="459,5,613,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,23,445,23,445,28,411,28"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Edge.html#a86b158a8be10e7fd25ef95c02bf2157e" title="Gets the policy prior probability P for this move." alt="" coords="459,69,613,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="411,87,445,87,445,92,411,92"/>
+</map>

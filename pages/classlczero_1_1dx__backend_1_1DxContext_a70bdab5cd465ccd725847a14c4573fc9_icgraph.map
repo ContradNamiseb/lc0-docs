@@ -1,0 +1,9 @@
+<map id="lczero::dx_backend::DxContext::getDevice" name="lczero::dx_backend::DxContext::getDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="312,91,485,131"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dx__backend_1_1ConvMetaCommand.html#a4bcc54f139d8404ccf86d89686ba9e1b" title=" " alt="" coords="16,5,253,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,90,226,63,228,58,319,85"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dx__backend_1_1GemmMetaCommand.html#aca62af408caf2d68c4cde2a056bea74d" title=" " alt="" coords="5,84,264,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,114,264,114,264,109,298,109"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1dx__backend_1_1InputsOutputsDx.html#a9e1f456d5c6764e92469064b52258ba9" title=" " alt="" coords="7,163,263,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,138,265,153,215,166,214,161,263,147,316,133"/>
+</map>

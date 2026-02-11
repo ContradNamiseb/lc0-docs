@@ -1,0 +1,5 @@
+<map id="lczero::Move::WhiteCastling" name="lczero::Move::WhiteCastling">
+<area shape="rect" id="Node000001" title="Creates a castling move for white pieces." alt="" coords="5,5,209,31"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Move.html#aa7eaefd8ab926d91e03ddcc0d588fb3e" title="Default constructor for a move." alt="" coords="257,5,407,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,15,243,15,243,21,210,21"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lczero::dag_classic::EdgeAndNode" name="lczero::dag_classic::EdgeAndNode">
+<area shape="rect" id="Node000001" title="Contains Edge and Node pair and set of proxy functions." alt="" coords="129,328,273,368"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge.html" title="Represents a single edge in the search graph (a move)." alt="" coords="189,108,333,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,162,247,229,226,305,215,329,210,327,221,303,242,227,254,161"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html" title="Represents an expanded edge in the search DAG." alt="" coords="69,225,213,265"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="231,160,200,189,161,227,157,223,196,185,227,156"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Move.html" title="Represents a chess move in the Lc0 engine." alt="" coords="208,5,313,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,45,263,108,258,108,258,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,276,192,327,187,329,157,279"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="5,93,164,163"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="93,175,102,200,120,223,116,227,97,203,88,177"/>
+</map>

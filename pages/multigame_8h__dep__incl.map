@@ -1,0 +1,17 @@
+<map id="selfplay/multigame.h" name="selfplay/multigame.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,5,291,31"/>
+<area shape="rect" id="Node000002" href="$multigame_8cc.html" title=" " alt="" coords="5,79,172,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,40,110,81,107,76,177,35"/>
+<area shape="rect" id="Node000003" href="$tournament_8cc.html" title=" " alt="" coords="123,152,295,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,45,211,152,206,152,207,45"/>
+<area shape="rect" id="Node000004" href="$tournament_8h.html" title=" " alt="" coords="249,79,416,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,35,314,76,311,81,240,40"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="302,113,230,154,228,149,300,108"/>
+<area shape="rect" id="Node000005" href="$loop_8cc.html" title=" " alt="" coords="271,225,395,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="335,118,335,225,330,225,330,118"/>
+<area shape="rect" id="Node000006" href="$loop_8h.html" title=" " alt="" coords="371,152,489,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="361,110,416,150,413,154,358,114"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="405,188,350,227,347,223,402,183"/>
+<area shape="rect" id="Node000007" href="$main_8cc.html" title=" " alt="" coords="419,225,492,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="441,189,454,224,449,226,436,191"/>
+</map>

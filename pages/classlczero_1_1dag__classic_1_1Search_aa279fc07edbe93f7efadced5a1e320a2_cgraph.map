@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::Search::GetBestChildrenNoTemperature" name="lczero::dag_classic::Search::GetBestChildrenNoTemperature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,212,85"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a96c54aaa0722ef9a369dfbf76efb0471" title="Returns an iterator range for potential edges." alt="" coords="260,5,404,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,40,246,35,247,40,213,45"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a52d0fdb2d36bac9a7ebc7baea41f9df1" title="Returns the visit count of this node/edge." alt="" coords="260,69,404,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,70,247,74,246,80,212,75"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title="Gets shared pointer to the underlying LowNode (position)." alt="" coords="452,5,607,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,23,438,23,438,28,404,28"/>
+</map>

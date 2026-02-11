@@ -1,0 +1,21 @@
+<map id="lczero::Position::GetGamePly" name="lczero::Position::GetGamePly">
+<area shape="rect" id="Node000001" title="Gets the number of half&#45;moves since the beginning of the game." alt="" coords="493,173,704,198"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="263,69,445,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,170,444,124,412,112,414,107,446,119,557,165"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1NodeTree.html#ac331c59ed262c5bfde63f102624084d4" title="Gets the number of plies (half&#45;moves) in the game." alt="" coords="263,133,445,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="488,174,445,168,446,163,488,168"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1NodeTree.html#af08d49956974eef8808730c5be7e560c" title=" " alt="" coords="264,197,444,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="488,202,444,208,444,203,488,197"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#aac4de64d54d6d119ebda60c89f9df514" title=" " alt="" coords="275,262,433,287"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="559,206,446,252,406,265,404,259,444,247,557,201"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title="Gets the best move and ponder move." alt="" coords="27,5,193,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,68,186,48,187,43,265,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="27,69,193,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,92,193,92,193,87,249,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title="Resets cached best move for temperature re&#45;sampling." alt="" coords="27,133,193,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,115,187,136,186,131,263,110"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1Position.html#abcff79e1a2e18acab475b82618586978" title="Gets a debug string representation of the position." alt="" coords="5,237,215,262"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="260,268,214,263,215,258,261,262"/>
+<area shape="rect" id="Node000010" href="$namespacelczero.html#adcf2f6b9d32f566b478274fe485f7d99" title=" " alt="" coords="59,286,161,311"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="261,286,161,296,161,291,261,281"/>
+</map>

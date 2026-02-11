@@ -1,0 +1,11 @@
+<map id="lczero::classic::Node::ReleaseChildrenExceptOne" name="lczero::classic::Node::ReleaseChildrenExceptOne">
+<area shape="rect" id="Node000001" title="Releases all children except one, which is kept." alt="" coords="467,69,673,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1NodeTree.html#a0064276f4c8e213e3f3064503ab28102" title="Advances the current head by applying a move." alt="" coords="236,69,419,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,92,419,92,419,87,453,87"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PolicyEvaluator.html#a17b16e3fef22de2caec4e3f3439e0f68" title=" " alt="" coords="11,5,182,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,68,169,48,170,43,242,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ValueEvaluator.html#a32def68e3b1ecbcf6829e963f05d27db" title=" " alt="" coords="13,69,180,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,92,180,92,180,87,222,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1NodeTree.html#a24a1927da8ff150330b802ad505a1796" title="Sets the tree to a new position from a GameState." alt="" coords="5,133,188,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="242,116,170,136,169,131,241,110"/>
+</map>

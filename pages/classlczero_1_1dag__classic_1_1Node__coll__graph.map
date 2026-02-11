@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::Node" name="lczero::dag_classic::Node">
+<area shape="rect" id="Node000001" title="Represents an expanded edge in the search DAG." alt="" coords="469,59,613,99"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="208,5,367,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,51,470,65,469,70,380,57"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Edge.html" title="Represents a single edge in the search graph (a move)." alt="" coords="215,99,359,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="372,103,469,87,469,93,373,108"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Move.html" title="Represents a chess move in the Lc0 engine." alt="" coords="5,106,111,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,116,215,116,215,121,124,121"/>
+</map>

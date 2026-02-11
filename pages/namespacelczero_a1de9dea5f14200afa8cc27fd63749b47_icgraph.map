@@ -1,0 +1,19 @@
+<map id="lczero::MoveToNNIndex" name="lczero::MoveToNNIndex">
+<area shape="rect" id="Node000001" title="Converts a move to a neural network output index." alt="" coords="715,106,889,131"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1V6TrainingDataArray.html#accd1d568f16af88f0dd196301160b0ba" title=" " alt="" coords="432,14,667,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,102,718,79,666,57,613,42,615,37,668,52,720,74,767,97"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title="Gets verbose debug info for a node." alt="" coords="467,67,632,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="701,109,632,100,633,94,702,103"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="454,131,645,171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="702,134,645,141,645,136,701,129"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1python_1_1GameState.html#a5c6268d238dffd93cf809eba106b28cb" title=" " alt="" coords="452,195,647,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="766,140,668,185,631,197,630,192,666,180,764,135"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SelfPlayGame.html#a2b64eaf61bca86d88a08315e8c16b6f1" title=" " alt="" coords="221,5,382,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,29,382,28,382,23,418,23"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title="Outputs detailed move statistics." alt="" coords="219,69,384,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,90,384,91,384,86,453,85"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,37,171,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,78,171,72,171,67,206,72"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,101,171,141"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="206,106,171,112,171,106,205,101"/>
+</map>

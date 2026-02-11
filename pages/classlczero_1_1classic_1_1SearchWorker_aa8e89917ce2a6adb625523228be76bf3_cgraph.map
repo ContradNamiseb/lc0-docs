@@ -1,0 +1,7 @@
+<map id="lczero::classic::SearchWorker::PrefetchIntoCache" name="lczero::classic::SearchWorker::PrefetchIntoCache">
+<area shape="rect" id="Node000001" title="Recursively finds and prefetches nodes into the cache." alt="" coords="5,37,216,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Backend.html#ad4c40737a6c46f90998347603ee6235f" title="Attempts to retrieve a cached evaluation for a position." alt="" coords="264,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,41,250,37,251,42,217,47"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#aa14df2e6f72ca3c6350c79a50ff9f369" title="Gets the total started visits (completed + in&#45;flight)." alt="" coords="288,69,443,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,68,275,75,274,81,216,73"/>
+</map>

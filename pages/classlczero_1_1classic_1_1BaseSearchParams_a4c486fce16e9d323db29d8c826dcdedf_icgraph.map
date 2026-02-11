@@ -1,0 +1,5 @@
+<map id="lczero::classic::BaseSearchParams::GetNpsLimit" name="lczero::classic::BaseSearchParams::GetNpsLimit">
+<area shape="rect" id="Node000001" title="Gets nodes per second limit." alt="" coords="219,5,416,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+</map>

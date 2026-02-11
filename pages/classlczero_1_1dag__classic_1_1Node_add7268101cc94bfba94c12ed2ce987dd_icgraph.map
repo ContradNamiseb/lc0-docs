@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::Node::GetChild" name="lczero::dag_classic::Node::GetChild">
+<area shape="rect" id="Node000001" title="Gets the first child (sibling in the linked list of children)." alt="" coords="495,35,639,75"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="606,23,592,16,567,13,545,15,531,20,526,26,529,34,524,35,521,25,528,16,543,10,567,8,593,11,608,18"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a5cfecd3d2d474d96edfce4900c69bb42" title="Allocates a new edge and a new node." alt="" coords="224,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,46,446,42,447,37,481,41"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a4da50481bf99a9d4200df90707b2eb07" title="Advances the current state of the game tree by one move." alt="" coords="5,35,176,75"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="481,59,447,60,224,60,176,59,176,54,224,55,447,55,481,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,43,176,47,176,42,210,38"/>
+</map>

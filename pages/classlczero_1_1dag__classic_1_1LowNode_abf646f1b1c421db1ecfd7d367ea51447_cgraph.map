@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::LowNode::LowNode" name="lczero::dag_classic::LowNode::LowNode">
+<area shape="rect" id="Node000001" title="Initializes from moves and creates one child immediately." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge.html#a5ee07420412c813599c4473202d38534" title="Creates array of edges from the list of moves." alt="" coords="212,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,23,198,23,198,28,164,28"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lczero::OnnxBuilder::Mul" name="lczero::OnnxBuilder::Mul">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,187,102"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OnnxBuilder.html#a3c3e53b5de976d5b5b2566a98bf778c8" title=" " alt="" coords="235,69,384,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,87,221,87,221,92,187,92"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OnnxConst.html#a3ab5c86532c2698757ed5d28d2fad012" title=" " alt="" coords="432,5,580,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,67,430,47,432,52,372,72"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OnnxConst.html#a3a93a8ff00882043137b9077b020387b" title=" " alt="" coords="432,69,580,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="384,87,418,87,418,92,384,92"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1OnnxConst.html#a488eb6890e98d886b4c80fb1dad55315" title=" " alt="" coords="432,133,580,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="372,107,432,127,430,132,371,112"/>
+</map>

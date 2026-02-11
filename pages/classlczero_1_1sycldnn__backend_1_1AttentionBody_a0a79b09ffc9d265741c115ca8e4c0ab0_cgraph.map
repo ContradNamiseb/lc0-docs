@@ -1,0 +1,33 @@
+<map id="lczero::sycldnn_backend::AttentionBody::Eval" name="lczero::sycldnn_backend::AttentionBody::Eval">
+<area shape="rect" id="Node000001" title="Evaluates the layer." alt="" coords="5,141,185,181"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a60390a5ea8a7691f64f749f4a20e5ef9" title="Adds bias to innermost dimension and performs optional activation." alt="" coords="267,205,447,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,179,262,199,261,205,177,184"/>
+<area shape="rect" id="Node000006" href="$namespacelczero_1_1sycldnn__backend.html#a746c81b6a9fd4801debafed827ac6c78" title="Adds two vectors (possibly of different sizes), with optional activation." alt="" coords="267,13,447,53"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,139,169,100,232,63,252,55,254,60,235,68,171,105,121,143"/>
+<area shape="rect" id="Node000010" href="$namespacelczero_1_1sycldnn__backend.html#a6c7a67491dd4776c8426f71b32351f15" title="Converts tensor from NCHW to NHWC layout." alt="" coords="267,77,447,117"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="177,139,261,118,262,123,178,144"/>
+<area shape="rect" id="Node000012" href="$namespacelczero_1_1sycldnn__backend.html#a151ed911b781f81dd5bf9c3a90f6ca26" title=" " alt="" coords="267,269,447,309"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="121,179,171,218,235,255,254,263,252,268,232,260,169,222,118,184"/>
+<area shape="rect" id="Node000014" href="$namespacelczero_1_1sycldnn__backend.html#a0c8df9468f97666d8fcc0f7f9ca3d3c8" title=" " alt="" coords="233,141,480,181"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="186,159,220,159,220,164,186,164"/>
+<area shape="rect" id="Node000003" href="$namespacelczero_1_1sycldnn__backend.html#ae623c78b0cd12094c831d2ebff262128" title=" " alt="" coords="528,133,708,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,203,479,191,536,175,537,180,481,196,437,208"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#a19362c5e523ddca3201122e31943b031" title=" " alt="" coords="528,198,708,253"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="447,223,514,223,514,228,447,228"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#adb4c001f0f655323613bb1ecbc2a03c4" title=" " alt="" coords="756,205,937,245"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="708,223,742,223,742,228,708,228"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="448,48,481,63,497,77,507,91,515,105,530,119,538,125,535,129,526,123,511,109,502,94,493,81,479,68,446,52"/>
+<area shape="rect" id="Node000007" href="$namespacelczero_1_1sycldnn__backend.html#aaf3a4fc505c1cc399435c6463879cee3" title=" " alt="" coords="528,5,708,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,28,514,26,514,31,447,33"/>
+<area shape="rect" id="Node000008" href="$namespacelczero_1_1sycldnn__backend.html#a23f9670776d983a5337b3f07f272b7a8" title=" " alt="" coords="757,5,937,45"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="708,23,743,23,743,28,708,28"/>
+<area shape="rect" id="Node000009" href="$namespacelczero_1_1sycldnn__backend.html#a22d0b48537a7d6d0a809f725b5b248a0" title=" " alt="" coords="985,5,1165,45"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="937,23,972,23,972,28,937,28"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="448,114,515,129,514,134,446,119"/>
+<area shape="rect" id="Node000011" href="$namespacelczero_1_1sycldnn__backend.html#a5e53b632310d62f8de938632545220dc" title=" " alt="" coords="528,69,708,109"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="447,92,514,90,514,95,447,97"/>
+<area shape="rect" id="Node000013" href="$namespacelczero.html#aa9badb0c3537b8ad33e6508dd64345a1" title=" " alt="" coords="545,277,691,302"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="447,287,531,287,531,292,447,292"/>
+<area shape="poly" id="edge16_Node000014_Node000003" title=" " alt="" coords="480,155,514,154,514,159,480,160"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="440,179,515,198,514,203,438,184"/>
+</map>

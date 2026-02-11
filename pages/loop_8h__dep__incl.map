@@ -1,0 +1,7 @@
+<map id="selfplay/loop.h" name="selfplay/loop.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,5,163,31"/>
+<area shape="rect" id="Node000002" href="$main_8cc.html" title=" " alt="" coords="5,79,79,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,43,54,80,50,77,82,40"/>
+<area shape="rect" id="Node000003" href="$loop_8cc.html" title=" " alt="" coords="103,79,227,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,40,157,77,153,80,120,43"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="trainingdata" name="trainingdata">
+<area shape="rect" id="node1" href="dir_a297e93d55ba86f8a73a5997542e5bfe.html" title="trainingdata" alt="" coords="122,5,223,31"/>
+<area shape="rect" id="node2" href="dir_19b2bf9199a15c634a08b1ede1dd896a.html" title="search" alt="" coords="5,79,71,104"/>
+<area shape="poly" id="edge1" href="dir_000025_000016.html" alt="" coords="152,33,73,74,71,70,150,28"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000025_000016.html" title="1" alt="" coords="75,70,85,85"/>
+<area shape="rect" id="node3" href="dir_1c08b7ae519e66632ee0a520b6e62993.html" title="syzygy" alt="" coords="95,79,163,104"/>
+<area shape="poly" id="edge2" href="dir_000025_000022.html" alt="" coords="168,32,145,68,141,66,163,30"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000025_000022.html" title="2" alt="" coords="148,60,157,75"/>
+<area shape="rect" id="node4" href="dir_8e636a8183a052b37e67a9d6ecfc1284.html" title="neural" alt="" coords="187,79,249,104"/>
+<area shape="poly" id="edge3" href="dir_000025_000010.html" alt="" coords="182,30,206,66,201,69,178,32"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000025_000010.html" title="2" alt="" coords="203,51,213,66"/>
+<area shape="rect" id="node5" href="dir_cbdb8362360e11eafe2fa3bc74cf0ffd.html" title="utils" alt="" coords="274,79,325,104"/>
+<area shape="poly" id="edge4" href="dir_000025_000026.html" alt="" coords="194,28,268,69,265,74,192,33"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000025_000026.html" title="6" alt="" coords="262,55,272,70"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="lczero::classic::Node::GetNInFlight" name="lczero::classic::Node::GetNInFlight">
+<area shape="rect" id="Node000001" title="Gets the number of in&#45;flight visits (virtual loss)." alt="" coords="709,101,864,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1EdgeAndNode.html#ab19940336e22d5393ef092c87868a49b" title="Gets in&#45;flight visits from node." alt="" coords="474,5,653,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="736,97,660,60,629,48,631,43,662,55,739,92"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title="Gets verbose debug info for a node." alt="" coords="481,69,646,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="695,111,646,104,647,99,696,106"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Node.html#a59295abdf94c3e095dd6d8186da09c53" title="Converts the node&#39;s children structure to a solid block for better memory locality." alt="" coords="486,133,641,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="696,137,641,145,640,140,695,132"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1classic_1_1VisitedNode__Iterator.html#a368a63890228cc70b86470d87bd8f71c" title=" " alt="" coords="465,197,661,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="739,151,662,188,631,200,629,195,660,183,736,146"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title="Outputs detailed move statistics." alt="" coords="235,69,401,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,92,401,92,401,87,467,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,37,171,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,79,171,71,171,66,222,73"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,101,171,141"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="222,105,171,112,171,107,221,100"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1classic_1_1VisitedNode__Iterator.html#a320a65460ad2792eeb947b02380096f9" title=" " alt="" coords="219,190,417,245"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="451,220,418,220,418,215,451,215"/>
+</map>

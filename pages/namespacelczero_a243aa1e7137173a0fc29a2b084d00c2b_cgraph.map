@@ -1,0 +1,80 @@
+<map id="lczero::EncodePositionForNN" name="lczero::EncodePositionForNN">
+<area shape="rect" id="Node000001" title="Encodes a position history into input planes for the neural network." alt="" coords="5,848,213,873"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#adc8388e0d38bd2817f36c192fd556b59" title=" " alt="" coords="261,819,469,844"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,846,247,842,248,847,214,851"/>
+<area shape="rect" id="Node000038" href="$classlczero_1_1PositionHistory.html#ad63bcb96a0eb1194b78a4ab213436e3d" title="Gets a span view of all positions in the history." alt="" coords="281,869,449,909"/>
+<area shape="poly" id="edge40_Node000001_Node000038" title=" " alt="" coords="214,869,268,875,267,881,213,875"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1BitBoard.html#abfa0d6cca4385dc2f6e7524f68b56694" title=" " alt="" coords="545,5,717,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,818,374,674,399,439,419,315,444,200,476,105,495,69,515,41,530,30,534,34,519,45,499,72,481,108,449,201,424,316,404,440,379,674,370,818"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ChessBoard_1_1Castlings.html#a96cf15e5594ce9796700643bde7e2878" title=" " alt="" coords="557,55,704,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,818,377,686,404,471,424,357,449,252,479,165,497,131,515,105,543,86,546,91,519,109,501,134,484,167,454,253,429,358,409,472,382,686,370,819"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ChessBoard.html#a639fe9f9322150c557a78aae4f7e2b40" title="Gets the bitboard of bishops on the board." alt="" coords="557,119,704,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="365,818,379,695,408,500,428,397,453,302,482,223,498,193,515,169,542,151,545,155,519,173,503,195,487,225,458,303,433,398,413,501,384,696,371,818"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1ChessBoard.html#afa96d6d2c92bf76e0a61d8fa8bd35768" title="Gets the castling rights information for the position." alt="" coords="557,183,704,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="366,818,381,706,411,530,432,437,457,352,484,281,499,254,516,233,543,215,546,219,519,237,504,257,489,284,462,354,437,439,417,531,386,707,371,819"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1BitBoard.html#ac5ab5710b6f8d85b21014ac1fff54484" title=" " alt="" coords="543,248,718,273"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="366,818,382,714,413,553,434,468,458,391,485,327,500,302,515,284,529,274,533,278,519,288,504,306,490,329,463,393,440,470,419,554,387,715,371,819"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1ChessBoard.html#a6a01c9182470d79b3ef663f74ae8a849" title="Gets the bitboard of en passant targets." alt="" coords="557,298,704,338"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="364,818,368,738,374,679,386,612,405,542,432,471,468,406,490,376,516,348,543,330,546,335,519,352,494,379,473,409,437,474,410,543,392,613,380,680,373,739,369,818"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1ChessBoard.html#a712259c26bc9c44dbff0ab563a851c01" title="Checks if the board is flipped (currently black&#39;s turn to move)." alt="" coords="557,362,704,402"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="365,818,373,749,396,643,415,583,441,524,474,468,516,419,543,400,546,404,519,423,479,471,446,526,420,585,401,644,378,750,370,819"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1BitBoard.html#afdcbdf9e0887c6950ab163297429440b" title=" " alt="" coords="792,616,1003,641"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="365,818,371,752,380,704,393,652,412,599,438,547,473,500,516,463,546,445,574,433,601,427,628,426,682,437,745,462,792,491,831,529,862,568,885,602,880,605,858,572,827,532,788,495,743,467,681,442,627,431,602,432,576,438,549,449,519,467,476,504,443,550,417,601,398,654,385,706,377,753,370,819"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1Position.html#a9f5f6a5c2faf1c8b7bf974a9dbd267b9" title="Gets the board from the point of view of the player to move." alt="" coords="535,477,726,503"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="366,818,378,762,404,678,424,633,449,588,479,547,516,512,522,507,525,511,519,516,483,551,453,591,429,635,409,680,383,763,371,819"/>
+<area shape="rect" id="Node000014" href="$namespacelczero.html#ad6ec154c2a6021557aa72bcc82c853f0" title=" " alt="" coords="553,527,709,552"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="367,817,382,768,411,699,431,661,455,624,483,590,516,561,538,549,541,554,519,566,487,594,459,627,435,664,416,701,387,770,372,819"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1Position.html#a675ace1e017f8546eba31906e52588a7" title="Gets the number of times this position has appeared in the game before." alt="" coords="517,576,744,601"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="369,817,387,777,417,720,461,661,487,633,516,610,526,605,528,609,519,615,490,637,465,664,422,723,392,779,374,820"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1Position.html#ae7bd458d03049e8b47f97698ada0fff3" title="Gets the number of half&#45;moves since the last capture or pawn move." alt="" coords="522,625,739,651"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="372,817,393,785,425,742,467,698,516,661,532,653,534,658,519,666,470,702,429,746,397,788,376,820"/>
+<area shape="rect" id="Node000017" href="$namespacelczero.html#acfafc161cc3bba46e55f339077e309bc" title="Checks if the input format is for Armageddon games." alt="" coords="517,675,744,715"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="380,817,437,772,476,747,516,725,533,718,535,722,518,730,478,752,440,777,383,821"/>
+<area shape="rect" id="Node000018" href="$namespacelczero.html#ab713fd18737b14c2e064420998cfa370" title="Checks if the input format is one of the canonical formats." alt="" coords="535,740,726,765"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="397,816,517,774,549,766,550,771,518,779,399,821"/>
+<area shape="rect" id="Node000019" href="$namespacelczero.html#a275126fc3183c8922a1734e97a1a8009" title="Checks if the input format uses hectoplies (100 half&#45;moves) for time encoding." alt="" coords="533,789,728,815"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="469,817,520,812,520,817,470,823"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1ChessBoard.html#a45bae22afa3ecc26233763bbdc577cec" title="Gets the bitboard of kings on the board." alt="" coords="557,839,704,879"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="470,840,544,848,543,853,469,845"/>
+<area shape="rect" id="Node000021" href="$classlczero_1_1ChessBoard.html#a0f21b051a004b0fba25071a9b07999bc" title="Gets the bitboard of knights on the board." alt="" coords="557,903,704,943"/>
+<area shape="poly" id="edge21_Node000002_Node000021" title=" " alt="" coords="435,842,471,854,495,872,519,889,545,900,543,905,516,894,492,876,468,859,433,847"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1ChessBoard.html#a4ff6ab258621e94fb4dff398d3a9c27d" title="Gets the bitboard of pawns on the board." alt="" coords="824,854,971,894"/>
+<area shape="poly" id="edge29_Node000002_Node000022" title=" " alt="" coords="449,842,471,855,483,867,490,881,495,907,500,932,507,943,519,953,549,970,577,981,602,986,628,987,681,977,743,953,758,943,767,931,775,917,790,904,810,894,812,899,794,908,779,921,771,934,762,947,745,958,682,982,628,993,602,992,575,986,547,975,516,958,503,947,495,934,489,908,484,882,478,870,468,859,446,846"/>
+<area shape="rect" id="Node000023" href="$classlczero_1_1ChessBoard.html#a71f55c55d217e5948991d54017b083bb" title="Swaps black and white pieces and mirrors them relative to the middle of the board." alt="" coords="557,1018,704,1058"/>
+<area shape="poly" id="edge23_Node000002_Node000023" title=" " alt="" coords="452,842,471,855,486,872,494,891,497,927,499,963,506,980,519,997,546,1016,543,1020,515,1001,501,983,494,964,491,927,488,892,481,875,468,859,449,846"/>
+<area shape="rect" id="Node000026" href="$namespacelczero.html#ab3bdad86346d95f099ec7dc4a433031e" title=" " alt="" coords="1051,1025,1259,1051"/>
+<area shape="poly" id="edge32_Node000002_Node000026" title=" " alt="" coords="454,842,471,855,490,882,498,910,497,939,493,967,489,994,490,1020,499,1045,519,1068,537,1079,559,1087,614,1097,680,1100,751,1097,893,1082,1002,1067,1092,1051,1093,1057,1003,1073,894,1087,752,1102,680,1105,613,1103,557,1092,534,1084,516,1072,494,1048,485,1021,484,994,488,966,492,938,492,911,485,884,467,859,451,846"/>
+<area shape="rect" id="Node000028" href="$classlczero_1_1ChessBoard.html#ac74c92c22299c3332550032e114c5ed4" title="Gets the bitboard of pieces belonging to the current player (&quot;us&quot;)." alt="" coords="557,1133,704,1173"/>
+<area shape="poly" id="edge28_Node000002_Node000028" title=" " alt="" coords="454,842,471,855,494,887,502,920,502,952,497,984,492,1016,492,1048,499,1080,519,1112,546,1132,543,1137,515,1116,494,1082,486,1049,487,1016,492,984,497,952,497,921,489,890,467,859,451,846"/>
+<area shape="rect" id="Node000029" href="$classlczero_1_1ChessBoard.html#af1cf4f04db5f12c6e14c509127456443" title="Gets the bitboard of queens on the board." alt="" coords="557,1197,704,1237"/>
+<area shape="poly" id="edge30_Node000002_Node000029" title=" " alt="" coords="455,842,471,855,487,876,498,897,508,938,505,980,497,1021,488,1061,485,1102,494,1142,504,1163,519,1183,546,1202,543,1206,515,1187,500,1165,489,1144,480,1102,483,1061,491,1019,500,979,502,939,493,898,483,879,467,859,452,846"/>
+<area shape="rect" id="Node000030" href="$namespacelczero.html#ad8d78a01e5500a683d2fa6be718724eb" title=" " alt="" coords="533,1261,729,1287"/>
+<area shape="poly" id="edge31_Node000002_Node000030" title=" " alt="" coords="455,842,471,855,490,880,502,905,510,930,512,955,507,1005,495,1054,484,1102,479,1151,482,1175,489,1199,501,1223,519,1247,524,1251,520,1255,515,1250,496,1226,484,1201,477,1176,474,1151,478,1102,490,1052,502,1004,507,955,504,931,498,907,485,883,467,859,452,846"/>
+<area shape="rect" id="Node000031" href="$classlczero_1_1ChessBoard.html#ab3dac08b8fd24e8a1a8276af8f2fd975" title="Gets the bitboard of rooks on the board." alt="" coords="557,1311,704,1351"/>
+<area shape="poly" id="edge33_Node000002_Node000031" title=" " alt="" coords="455,842,471,855,492,883,506,911,514,939,517,967,511,1023,497,1078,483,1133,477,1187,479,1215,487,1242,500,1270,519,1298,531,1309,546,1317,543,1321,528,1313,515,1301,495,1272,481,1244,474,1216,472,1187,478,1132,492,1076,506,1022,511,967,509,940,501,913,488,886,467,859,452,846"/>
+<area shape="rect" id="Node000032" href="$classlczero_1_1ChessBoard.html#a2421e797e3a4c248a43685a70dad19fa" title="Gets the bitboard of pieces belonging to the opponent (&quot;them&quot;)." alt="" coords="557,1375,704,1415"/>
+<area shape="poly" id="edge34_Node000002_Node000032" title=" " alt="" coords="456,842,471,855,484,874,492,899,500,960,501,1032,497,1110,493,1187,492,1259,500,1320,508,1343,519,1362,531,1373,546,1381,543,1386,528,1377,515,1365,503,1345,495,1321,487,1260,487,1187,491,1109,495,1032,495,960,487,900,479,877,467,858,453,846"/>
+<area shape="rect" id="Node000033" href="$classlczero_1_1ChessBoard_1_1Castlings.html#ac0d6f9e8cd036cbc4844faa14f05697b" title=" " alt="" coords="541,1439,721,1479"/>
+<area shape="poly" id="edge35_Node000002_Node000033" title=" " alt="" coords="456,842,471,855,485,877,494,904,503,973,502,1054,497,1142,491,1229,490,1310,498,1378,507,1405,519,1426,531,1436,527,1440,515,1429,502,1407,493,1379,485,1310,486,1229,491,1141,497,1054,498,973,489,906,480,879,467,858,453,846"/>
+<area shape="rect" id="Node000034" href="$classlczero_1_1ChessBoard_1_1Castlings.html#a2d1e98d20faa1c9c9478e82395a17356" title=" " alt="" coords="537,1503,725,1543"/>
+<area shape="poly" id="edge36_Node000002_Node000034" title=" " alt="" coords="456,842,471,855,486,879,497,910,503,946,505,986,504,1076,497,1174,490,1271,488,1361,496,1436,506,1466,519,1490,528,1498,524,1502,515,1493,501,1468,491,1438,482,1361,484,1271,491,1173,498,1076,500,986,497,946,491,911,482,882,467,858,453,846"/>
+<area shape="rect" id="Node000035" href="$namespacelczero.html#a5a894ac198641b76d1f008ab59e9d6dd" title=" " alt="" coords="527,1568,735,1593"/>
+<area shape="poly" id="edge37_Node000002_Node000035" title=" " alt="" coords="456,842,471,855,488,882,499,915,505,955,507,999,504,1099,496,1207,487,1314,484,1413,487,1457,493,1496,504,1528,519,1554,523,1558,520,1562,515,1557,499,1530,488,1497,481,1457,479,1413,481,1314,490,1206,499,1099,502,1000,500,956,493,917,483,884,467,858,453,846"/>
+<area shape="rect" id="Node000036" href="$classlczero_1_1ChessBoard_1_1Castlings.html#a09a5166ab6c7c3ecdb6427ac31e4911b" title=" " alt="" coords="545,1618,716,1658"/>
+<area shape="poly" id="edge38_Node000002_Node000036" title=" " alt="" coords="456,842,471,855,489,884,500,920,507,962,510,1009,507,1116,497,1231,487,1346,483,1452,486,1499,492,1541,503,1577,519,1604,535,1618,531,1622,515,1608,498,1579,487,1542,481,1500,478,1452,482,1345,492,1230,501,1116,505,1010,502,963,495,921,484,886,467,858,453,846"/>
+<area shape="rect" id="Node000037" href="$classlczero_1_1ChessBoard_1_1Castlings.html#af05cd4e30bfcb9d02eeaff8a2509e262" title=" " alt="" coords="541,1682,720,1722"/>
+<area shape="poly" id="edge39_Node000002_Node000037" title=" " alt="" coords="456,842,471,855,490,886,503,925,510,971,512,1023,508,1138,497,1263,486,1387,481,1503,483,1554,490,1600,502,1638,519,1668,532,1680,528,1684,515,1672,497,1640,485,1601,478,1555,476,1503,480,1387,492,1262,503,1138,507,1023,504,972,497,926,485,888,467,858,453,846"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="1073,592,1237,617"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1003,616,1059,611,1059,616,1003,621"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1BitBoard.html#afe60aa18a0c9ad80bc121071c633d544" title=" " alt="" coords="1060,641,1249,667"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1003,636,1046,641,1046,646,1003,642"/>
+<area shape="poly" id="edge20_Node000020_Node000010" title=" " alt="" coords="703,843,743,824,789,784,828,737,860,690,881,652,886,655,864,693,833,740,793,787,745,828,705,847"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="704,907,810,887,811,893,705,912"/>
+<area shape="rect" id="Node000024" href="$classlczero_1_1Square.html#a4b08b1d00cc91a02873fd818c0f7beb4" title=" " alt="" coords="824,919,971,944"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="703,1015,743,997,757,986,766,975,775,964,791,953,810,945,812,949,793,958,779,968,770,979,760,990,745,1002,706,1020"/>
+<area shape="rect" id="Node000025" href="$classlczero_1_1BitBoard.html#adabc129aadaf4ae7bfd6aa884282d9d8" title=" " alt="" coords="811,968,983,993"/>
+<area shape="poly" id="edge25_Node000023_Node000025" title=" " alt="" coords="704,1020,823,994,825,999,705,1025"/>
+<area shape="rect" id="Node000027" href="$classlczero_1_1ChessBoard_1_1Castlings.html#a5a7fc935a660287d3b76c1137fbce98e" title=" " alt="" coords="824,1018,971,1058"/>
+<area shape="poly" id="edge27_Node000023_Node000027" title=" " alt="" coords="704,1035,811,1035,811,1041,704,1041"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="956,991,1084,1020,1083,1025,955,996"/>
+</map>

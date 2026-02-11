@@ -1,0 +1,19 @@
+<map id="lczero::sycldnn_backend::addVectors_kernel" name="lczero::sycldnn_backend::addVectors_kernel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,197,641,237"/>
+<area shape="rect" id="Node000002" href="$namespacelczero_1_1sycldnn__backend.html#a746c81b6a9fd4801debafed827ac6c78" title="Adds two vectors (possibly of different sizes), with optional activation." alt="" coords="233,197,413,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,220,413,220,413,215,447,215"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1sycldnn__backend_1_1Conv1Layer.html#a1f5581b22bef2fc9674786b399773e88" title="Evaluates the layer." alt="" coords="5,5,185,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,188,252,123,220,89,184,60,163,48,166,43,187,55,223,85,256,120,305,184"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1sycldnn__backend_1_1AttentionBody.html#a0a79b09ffc9d265741c115ca8e4c0ab0" title="Evaluates the layer." alt="" coords="5,69,185,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,191,238,157,184,124,158,112,160,107,187,119,241,152,288,187"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1sycldnn__backend_1_1ValueHead.html#af9839fab7dfcc32bb8d3121c4650a387" title="Evaluates the layer." alt="" coords="5,133,185,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="238,196,166,176,168,171,239,191"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#ae6935c3fcff90413081153986034d460" title=" " alt="" coords="5,197,185,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="219,220,185,220,185,215,219,215"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a18d936fcaa961c9238360c39dc6a1ded" title=" " alt="" coords="5,261,185,301"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="239,244,168,264,166,259,238,238"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1sycldnn__backend_1_1SELayer.html#a3c3c4c6e00fe195d3c73078277b52024" title=" " alt="" coords="5,325,185,365"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="288,248,241,282,187,316,160,328,158,323,184,311,238,278,285,244"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1sycldnn__backend_1_1FCLayer.html#a43b27b5d9f6964eb9562becaf3decddc" title=" " alt="" coords="5,389,185,429"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="305,250,256,315,223,349,187,380,166,391,163,387,184,375,220,346,252,312,300,247"/>
+</map>

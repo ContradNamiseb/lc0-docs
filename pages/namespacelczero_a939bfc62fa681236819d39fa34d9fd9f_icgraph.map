@@ -1,0 +1,7 @@
+<map id="lczero::Is960CastlingFormat" name="lczero::Is960CastlingFormat">
+<area shape="rect" id="Node000001" title="Checks if the input format supports Chess960 castling rules." alt="" coords="497,13,700,38"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1V6TrainingDataArray.html#accd1d568f16af88f0dd196301160b0ba" title=" " alt="" coords="215,13,449,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,28,449,28,449,23,483,23"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1SelfPlayGame.html#a2b64eaf61bca86d88a08315e8c16b6f1" title=" " alt="" coords="5,5,167,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,28,167,28,167,23,201,23"/>
+</map>

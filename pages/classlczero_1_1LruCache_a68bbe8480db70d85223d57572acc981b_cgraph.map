@@ -1,0 +1,10 @@
+<map id="lczero::LruCache::Insert" name="lczero::LruCache::Insert">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,180,95"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1LruCache.html#ab3ed0952c251f9c770139abe71419ab9" title=" " alt="" coords="253,5,438,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,67,243,46,244,51,150,73"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1LruCache.html#a26fbd67b18596fbfc222fce110cdca07" title=" " alt="" coords="511,95,735,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,84,497,99,497,105,180,89"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1LruCache.html#ab8bbe568396d8dc8e80062f3266673c6" title=" " alt="" coords="228,121,463,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,93,269,115,268,121,157,98"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="463,120,497,117,497,122,463,125"/>
+</map>

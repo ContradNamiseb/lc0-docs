@@ -1,0 +1,7 @@
+<map id="lczero::Position::GetPliesSincePrevRepetition" name="lczero::Position::GetPliesSincePrevRepetition">
+<area shape="rect" id="Node000001" title="Gets the number of half&#45;moves since the same position last appeared in the game." alt="" coords="277,37,460,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchWorker.html#a745943387c25632f355c794421cb28f0" title="Extends a leaf node by generating legal moves and checking for terminal states." alt="" coords="12,5,223,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,47,222,41,223,36,264,41"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a2e81d37c28981830a3599211e4633d22" title="Check if the situation is a safe two&#45;fold or a draw by repetition." alt="" coords="5,69,229,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,73,230,78,229,72,263,68"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lczero::BitBoard::DebugString" name="lczero::BitBoard::DebugString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,219,80"/>
+<area shape="rect" id="Node000002" href="$structlczero_1_1File.html#ab99e72565a1274701e4457b4228464ca" title=" " alt="" coords="271,5,425,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,52,272,31,274,36,174,57"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1Rank.html#aeb6a8e026c4f15d6e56f19090ad374c6" title=" " alt="" coords="267,55,429,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,65,253,65,253,70,219,70"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1BitBoard.html#a19855cfecc8374909ac9ceed137553c1" title=" " alt="" coords="271,104,425,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,77,274,98,272,104,173,83"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Square.html#a1be93b90eff22449c4a4a003b3ac2b99" title=" " alt="" coords="477,104,641,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="426,114,464,114,464,119,426,119"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lczero::StringUciResponder::SendId" name="lczero::StringUciResponder::SendId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,203,67"/>
+<area shape="rect" id="Node000002" href="$version_8cc.html#a9c75ef6a92271dfda8343c165ad1196a" title=" " alt="" coords="294,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,33,280,24,281,29,203,38"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1StringUciResponder.html#ae1388424eb5f5320c6f1948c2956e358" title=" " alt="" coords="251,55,448,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,56,238,60,237,65,203,61"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1StringUciResponder.html#ab0ec14aa847fa6784410735ff5f20b1c" title=" " alt="" coords="496,55,693,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="448,73,482,73,482,78,448,78"/>
+</map>

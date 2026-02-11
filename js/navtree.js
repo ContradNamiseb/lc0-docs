@@ -84,27 +84,13 @@ function cachedLink() {
   }
 }
 
-// Determine the base path for JS files from the current script location
-var jsBasePath = (function () {
-  var scripts = document.getElementsByTagName('script');
-  for (var i = scripts.length - 1; i >= 0; i--) {
-    var src = scripts[i].src;
-    if (src && src.indexOf('navtree.js') !== -1) {
-      return src.substring(0, src.lastIndexOf('/') + 1);
-    }
-  }
-  return '';
-})();
-
 function getScript(scriptName, func) {
   var head = document.getElementsByTagName("head")[0];
   var script = document.createElement('script');
   script.id = scriptName;
   script.type = 'text/javascript';
   script.onload = func;
-  // Use jsBasePath for loading scripts (ensures navtreeindex files are found in js/)
-  var name = scriptName.indexOf('/') === -1 ? scriptName : scriptName.substring(scriptName.lastIndexOf('/') + 1);
-  script.src = jsBasePath + name + '.js?v=3';
+  script.src = scriptName + '.js';
   head.appendChild(script);
 }
 
@@ -335,7 +321,7 @@ function showNode(o, node, index, hash) {
   if (node && node.childrenData) {
     if (typeof (node.childrenData) === 'string') {
       var varName = node.childrenData;
-      getScript(node.relpath + varName, function () {
+      getScript(node.relpath + 'js/' + varName, function () {
         node.childrenData = getData(varName);
         showNode(o, node, index, hash);
       });
@@ -352,7 +338,7 @@ function showNode(o, node, index, hash) {
       } else {
         if (typeof (n.childrenData) === 'string') {
           var varName = n.childrenData;
-          getScript(n.relpath + varName, function () {
+          getScript(n.relpath + 'js/' + varName, function () {
             n.childrenData = getData(varName);
             node.expanded = false;
             showNode(o, node, index, hash); // retry with child node expanded
@@ -430,7 +416,7 @@ function navTo(o, root, hash, relpath) {
   if (navTreeSubIndices[i]) {
     gotoNode(o, i, root, hash, relpath)
   } else {
-    getScript(relpath + 'navtreeindex' + i, function () {
+    getScript(relpath + 'js/navtreeindex' + i, function () {
       navTreeSubIndices[i] = eval('NAVTREEINDEX' + i);
       if (navTreeSubIndices[i]) {
         gotoNode(o, i, root, hash, relpath);
@@ -440,11 +426,11 @@ function navTo(o, root, hash, relpath) {
 }
 
 function showSyncOff(n, relpath) {
-  n.html('<img src="' + relpath + 'sync_off.png" title="' + SYNCOFFMSG + '"/>');
+  n.html('<img src="' + relpath + 'images/sync_off.png" title="' + SYNCOFFMSG + '"/>');
 }
 
 function showSyncOn(n, relpath) {
-  n.html('<img src="' + relpath + 'sync_on.png" title="' + SYNCONMSG + '"/>');
+  n.html('<img src="' + relpath + 'images/sync_on.png" title="' + SYNCONMSG + '"/>');
 }
 
 function toggleSyncButton(relpath) {
@@ -510,36 +496,6 @@ function initNavTree(toroot, relpath) {
     loadUrl = hashUrl();
     loadRelPath = relpath;
     readyTriggered = true;
-  }
-
-  // Auto-expand "Search Topology" if it exists as a child of the root node
-  if (o.node.children && o.node.children.length > 0) {
-    // Usually the root node is "Leela Chess Zero"
-    var rootNode = o.node.children[0];
-
-    // Ensure the root node is expanded first so its children are populated
-    if (!rootNode.expanded) {
-      expandNode(o, rootNode, true, false);
-    }
-
-    // Now look for "Search Topology" in the root's children
-    if (rootNode.children) {
-      for (var i = 0; i < rootNode.children.length; i++) {
-        var child = rootNode.children[i];
-        if (child.label && child.label.nodeValue === "Search Topology") {
-          // Expand "Search Topology"
-          expandNode(o, child, true, false);
-
-          // Also expand its immediate children ("classic", "dag_classic")
-          if (child.children) {
-            for (var j = 0; j < child.children.length; j++) {
-              expandNode(o, child.children[j], true, false);
-            }
-          }
-          break; // Found it, stop searching
-        }
-      }
-    }
   }
 
   $(window).bind('hashchange', function () {

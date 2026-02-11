@@ -1,0 +1,5 @@
+<map id="lczero::dag_classic::LowNode::SortEdges" name="lczero::dag_classic::LowNode::SortEdges">
+<area shape="rect" id="Node000001" title="Sorts edges by policy/value." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge.html#aebf00d1d6d8352e55d0040bd5418cfdc" title="Sorts edges by policy probability (descending)." alt="" coords="216,5,360,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="lczero::Benchmark::OnBestMove" name="lczero::Benchmark::OnBestMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,156,265"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Move.html#a064296c9a78c5137b8b78287cb2f1dcd" title="Converts the move to a string representation." alt="" coords="204,232,369,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,242,190,242,190,247,157,247"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Square.html#a780f26bb4732b4221a1178a46310e465" title=" " alt="" coords="680,5,823,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,231,305,194,331,145,368,94,390,72,416,53,446,38,477,26,543,11,608,6,666,6,666,12,608,11,544,16,479,31,448,43,419,58,394,76,372,98,335,148,310,196,295,233"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Move.html#acfd7dffa1ee25335cdf6d491c0234d07" title="Gets the source square of the move." alt="" coords="445,207,589,232"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="369,233,431,226,431,231,370,238"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1Move.html#afded3aeade40113e162a38065acce4ec" title="Checks if the move is a castling move." alt="" coords="425,305,608,331"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="320,255,418,290,450,299,449,304,417,295,319,260"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1Move.html#a44027392ace0f2aab156ded6db79bb88" title="Checks if the move is a promotion." alt="" coords="417,355,616,380"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="303,255,352,297,384,320,418,340,439,348,437,353,416,344,381,324,348,301,299,259"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1Move.html#aa1f8647a227fb3fd8086d69aeae65d87" title="Gets the promotion piece type if this is a promotion move." alt="" coords="427,404,607,429"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="298,256,343,321,378,359,419,390,430,397,428,401,416,395,374,363,339,324,293,259"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1Square.html#a4a0426f2a21efdb8e2523ed453496711" title=" " alt="" coords="676,56,827,81"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="292,231,309,200,336,161,372,122,416,90,477,68,542,56,605,52,662,54,662,60,605,58,542,61,479,73,419,95,376,126,340,164,314,203,297,233"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1Move.html#a32942da77fed0a1c88b139634355bcde" title="Gets the destination square of the move." alt="" coords="453,256,580,281"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="370,251,440,258,439,263,369,256"/>
+<area shape="rect" id="Node000014" href="$structlczero_1_1Rank.html#ab33ba872cd25ae6aa006140a1efca269" title=" " alt="" coords="670,156,833,181"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="313,229,360,209,417,191,478,180,541,172,656,166,656,171,541,178,479,185,418,197,362,214,315,234"/>
+<area shape="rect" id="Node000015" href="$structlczero_1_1PieceType.html#a94c5bec2f4a52bcd20319bff1cf0a475" title=" " alt="" coords="445,454,588,494"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="295,256,311,293,337,342,373,395,395,419,419,440,434,450,431,454,416,444,391,423,369,398,333,345,306,295,290,258"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1Square.html#a01aa8d00e8932f76415bd5f171b5626a" title=" " alt="" coords="429,105,604,131"/>
+<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="300,230,350,190,416,148,452,133,454,137,419,152,353,194,304,234"/>
+<area shape="rect" id="Node000004" href="$structlczero_1_1File.html#ab99e72565a1274701e4457b4228464ca" title=" " alt="" coords="891,5,1045,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="823,15,877,15,877,21,823,21"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1Square.html#aec40d8b97f29773cc6672e67743e668d" title=" " alt="" coords="664,232,839,257"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="589,224,650,231,650,236,589,230"/>
+<area shape="rect" id="Node000010" href="$structlczero_1_1PieceType.html#a7c841bdb4c51bb52037a9bc05c99134a" title=" " alt="" coords="680,397,823,437"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="607,414,666,414,666,419,607,419"/>
+<area shape="rect" id="Node000012" href="$structlczero_1_1Rank.html#aeb6a8e026c4f15d6e56f19090ad374c6" title=" " alt="" coords="887,56,1049,81"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="827,66,873,66,873,71,827,71"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="580,260,650,252,650,258,580,265"/>
+<area shape="poly" id="edge17_Node000016_Node000003" title=" " alt="" coords="538,103,594,73,663,41,687,32,689,37,665,46,596,78,541,108"/>
+<area shape="poly" id="edge18_Node000016_Node000011" title=" " alt="" coords="577,103,676,82,677,87,578,108"/>
+<area shape="poly" id="edge19_Node000016_Node000014" title=" " alt="" coords="577,128,679,150,678,156,576,133"/>
+<area shape="rect" id="Node000017" href="$structlczero_1_1File.html#a7d4f5cfd1873debd8dfc9615ce1a3de5" title=" " alt="" coords="675,105,827,131"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="604,115,662,115,662,121,604,121"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::classic::EdgeAndNode::GetQ" name="lczero::classic::EdgeAndNode::GetQ">
+<area shape="rect" id="Node000001" title="Gets Q value with default for unexpanded nodes." alt="" coords="5,37,184,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Node.html#af1c56c2703f77874bab9398cf5bdbf0f" title="Gets the visit count N for this node." alt="" coords="232,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,41,218,36,219,41,184,47"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Node.html#a7b4c9c6a00a6f3340a46cd3c902ab892" title="Gets the Q value adjusted for draw score." alt="" coords="232,69,387,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,68,219,73,218,78,184,73"/>
+</map>

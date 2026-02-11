@@ -1,0 +1,11 @@
+<map id="lczero::PjrtHostToDeviceTransfer::~PjrtHostToDeviceTransfer" name="lczero::PjrtHostToDeviceTransfer::~PjrtHostToDeviceTransfer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,261,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1PjrtHostToDeviceTransfer.html#aff67c7d55aa07e5e6bf44a6c2dad5d6a" title="Blocks until the transfer is complete." alt="" coords="309,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,39,295,35,296,40,262,45"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PjrtCommon.html#a327976e2d703f116d508fca42dcc6902" title=" " alt="" coords="324,69,475,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,70,311,76,310,81,261,75"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PjrtCommon.html#aba9878fd9815252d2cf78fc786fbc95d" title=" " alt="" coords="537,37,708,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,76,523,69,524,74,475,81"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1PjrtCommon.html#a78c392c566249989054b3179d7b950a7" title=" " alt="" coords="547,101,698,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="475,97,534,106,533,111,474,103"/>
+</map>

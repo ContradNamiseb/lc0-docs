@@ -1,0 +1,7 @@
+<map id="lczero::dag_classic::Node::VisitedNodes" name="lczero::dag_classic::Node::VisitedNodes">
+<area shape="rect" id="Node000001" title="Returns an iterator range for child nodes that have been visited." alt="" coords="471,5,629,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#a637e9d627de7c3a02bfad6c390287b9e" title="Returns sum of policy priors of visited children." alt="" coords="244,5,423,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,28,423,28,423,23,457,23"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,28,196,28,196,23,230,23"/>
+</map>

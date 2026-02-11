@@ -1,0 +1,18 @@
+<map id="lczero::selu" name="lczero::selu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="575,55,671,80"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#aac113329d209c13ff117e596f6c3a59a" title="Applies activation function to a single value." alt="" coords="404,80,527,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,80,527,85,527,80,561,75"/>
+<area shape="rect" id="Node000003" href="$namespacelczero.html#ac2c4b0766b006a694f1ea13b9e33baf7" title="Applies activation function to a vector with bias: output = activation(data + bias)." alt="" coords="218,5,341,31"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="560,61,341,29,341,24,561,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,76,355,44,323,33,325,28,357,40,428,71"/>
+<area shape="rect" id="Node000004" href="$namespacelczero.html#a6d8030c57d7307497087bef0b366c657" title="Applies activation with batch normalization parameters: output = activation(gamma * data + bias + bet..." alt="" coords="218,55,341,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,85,340,78,341,73,391,80"/>
+<area shape="rect" id="Node000005" href="$namespacelczero.html#aadd65231f0de13257e4e8390c7b3b524" title="Applies Squeeze&#45;and&#45;Excitation (SE) scaling." alt="" coords="216,104,343,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="391,105,343,111,342,106,390,100"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#afb0bb31293e73826ebaf0a7d38d4a4ad" title="Computes: array = activation(array + bias)." alt="" coords="204,153,355,179"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="426,114,357,143,322,156,320,151,355,138,424,109"/>
+<area shape="rect" id="Node000008" href="$namespacelczero.html#a5de3d4a04337ce71314be0b7d30f6dd4" title="Computes: array = activation(array + residual + bias)." alt="" coords="203,203,356,228"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="446,118,407,156,357,194,332,205,330,200,355,189,404,152,442,114"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#ae6c39e6497f9da52ad07c00ec5932d19" title="Applies Squeeze&#45;and&#45;Excitation (SE) unit." alt="" coords="5,104,155,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="202,119,155,119,155,114,202,114"/>
+</map>

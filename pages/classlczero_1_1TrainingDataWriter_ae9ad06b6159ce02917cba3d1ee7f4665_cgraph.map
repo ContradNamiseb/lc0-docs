@@ -1,0 +1,11 @@
+<map id="lczero::TrainingDataWriter::TrainingDataWriter" name="lczero::TrainingDataWriter::TrainingDataWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,196,87"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#ab528345a2de23a79d5610833ac15ad54" title=" " alt="" coords="254,5,426,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,45,264,31,265,36,197,50"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Random.html#a56bd43d254b6608e573474715400dd7b" title="Gets the singleton instance of the random number generator." alt="" coords="263,55,417,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,65,249,65,249,70,196,70"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Random.html#a1e59074dc7e8348a80e47f0e81db5058" title="Generates a random string of specified length." alt="" coords="244,104,436,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,84,265,99,264,104,196,90"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Random.html#a1382d38ff9713b93bfaf2c6b87f978ec" title="Generates a random integer in the inclusive range [min, max]." alt="" coords="484,104,655,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="436,114,470,114,470,119,436,119"/>
+</map>

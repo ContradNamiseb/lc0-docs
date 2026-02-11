@@ -1,0 +1,35 @@
+<map id="neural/backends/shared/activation.h" name="neural/backends/shared/activation.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="876,5,1052,45"/>
+<area shape="rect" id="Node000002" href="$fully__connected__layer_8h.html" title=" " alt="" coords="137,93,317,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="863,38,619,61,328,96,317,98,316,92,328,91,618,55,862,32"/>
+<area shape="rect" id="Node000004" href="$network__blas_8cc.html" title=" " alt="" coords="399,181,558,221"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="863,38,693,60,617,76,564,96,540,114,519,137,490,182,486,180,515,134,536,110,561,91,615,71,692,54,862,33"/>
+<area shape="rect" id="Node000006" href="$se__unit_8h.html" title=" " alt="" coords="341,93,499,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="863,43,519,96,500,99,499,94,518,91,862,38"/>
+<area shape="rect" id="Node000007" href="$network__opencl_8cc.html" title=" " alt="" coords="575,93,750,133"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="885,52,729,96,728,91,884,47"/>
+<area shape="rect" id="Node000008" href="$activation_8cc.html" title=" " alt="" coords="775,93,951,133"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="933,56,887,95,883,91,929,52"/>
+<area shape="rect" id="Node000009" href="$common__kernels_8dp_8cpp.html" title=" " alt="" coords="975,93,1159,133"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="999,52,1046,91,1042,95,996,56"/>
+<area shape="rect" id="Node000010" href="$fp16__kernels_8dp_8cpp.html" title=" " alt="" coords="1183,93,1342,133"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="1043,47,1198,91,1197,96,1042,52"/>
+<area shape="rect" id="Node000011" href="$sycl_2kernels_8h.html" title=" " alt="" coords="1366,93,1525,133"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1066,41,1354,91,1366,93,1365,98,1353,96,1065,46"/>
+<area shape="rect" id="Node000013" href="$network__sycl_8cc_8dp_8cpp.html" title=" " alt="" coords="1549,181,1726,221"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="1066,26,1245,31,1450,42,1546,50,1628,61,1688,75,1709,82,1722,92,1729,104,1731,117,1719,141,1697,164,1671,183,1668,179,1693,160,1715,138,1725,116,1724,105,1718,95,1706,87,1687,80,1627,66,1545,56,1450,47,1245,36,1066,31"/>
+<area shape="rect" id="Node000014" href="$sycl_2layers_8h.html" title=" " alt="" coords="1549,93,1707,133"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1066,33,1283,56,1536,91,1549,93,1548,98,1536,96,1282,62,1065,39"/>
+<area shape="rect" id="Node000003" href="$fully__connected__layer_8cc.html" title=" " alt="" coords="5,181,192,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,144,128,183,126,179,185,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="296,135,424,179,423,184,294,140"/>
+<area shape="rect" id="Node000005" href="$se__unit_8cc.html" title=" " alt="" coords="217,181,375,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="253,143,283,179,279,183,249,146"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="443,143,468,180,463,183,438,146"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="383,143,325,183,322,179,380,139"/>
+<area shape="rect" id="Node000012" href="$layers_8cc_8dp_8cpp.html" title=" " alt="" coords="1366,181,1525,221"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1448,147,1448,181,1443,181,1443,147"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="1501,137,1596,179,1594,184,1499,141"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="1577,142,1486,184,1484,179,1574,137"/>
+<area shape="poly" id="edge18_Node000014_Node000013" title=" " alt="" coords="1634,147,1638,181,1633,181,1629,147"/>
+</map>

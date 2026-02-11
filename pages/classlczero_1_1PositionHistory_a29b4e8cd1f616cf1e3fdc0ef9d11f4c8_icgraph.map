@@ -1,0 +1,5 @@
+<map id="lczero::PositionHistory::HashLast" name="lczero::PositionHistory::HashLast">
+<area shape="rect" id="Node000001" title="Builds a hash from the last X positions in the history." alt="" coords="260,5,428,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title="Extends a leaf node by generating moves and checking for terminal states." alt="" coords="5,5,212,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,28,212,28,212,23,246,23"/>
+</map>

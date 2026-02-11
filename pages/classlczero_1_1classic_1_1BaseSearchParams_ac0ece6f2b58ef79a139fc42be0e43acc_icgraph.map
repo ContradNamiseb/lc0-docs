@@ -1,0 +1,11 @@
+<map id="lczero::classic::BaseSearchParams::GetTemperatureEndgame" name="lczero::classic::BaseSearchParams::GetTemperatureEndgame">
+<area shape="rect" id="Node000001" title="Gets endgame temperature value." alt="" coords="449,69,693,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a9de393eaaf3d647b4aa45945c0a68bd4" title="Computes best move, applying temperature if configured." alt="" coords="219,69,401,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,92,401,92,401,87,435,87"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#a24ff5a15ca020aceffc9949735603d01" title="Gets the best move and ponder move." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,68,157,48,159,43,227,63"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,92,171,92,171,87,205,87"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a0f21b19749f94e5873dadcb142efb99c" title="Resets cached best move for temperature re&#45;sampling." alt="" coords="5,133,171,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,116,159,136,157,131,226,111"/>
+</map>

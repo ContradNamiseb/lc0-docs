@@ -1,0 +1,17 @@
+<map id="lczero::dag_classic::SearchWorker::ShouldStopPickingHere" name="lczero::dag_classic::SearchWorker::ShouldStopPickingHere">
+<area shape="rect" id="Node000001" title="Check if there is a reason to stop picking and pick @node." alt="" coords="5,190,205,245"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#aeb73059b8109e1f9c6b52761ac70ae04" title="Returns min/max bounds of the value." alt="" coords="259,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,188,177,123,213,87,252,55,261,50,263,54,255,59,216,91,181,126,128,191"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a91510a77da2d1a93359084cbcb57e6bc" title="Returns the average Draw probability." alt="" coords="259,69,403,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,187,194,153,252,119,265,113,267,117,255,124,197,158,146,192"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1Node.html#a7559ca78bef68f3a3002cd5b993f3124" title="Gets shared pointer to the underlying LowNode (position)." alt="" coords="253,133,408,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,187,246,175,247,180,203,192"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1Node.html#a0b0af89e02e52780d848a1908ab34fb0" title="Returns the estimated moves remaining." alt="" coords="259,197,403,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,215,244,215,244,220,206,220"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1dag__classic_1_1Node.html#a52d0fdb2d36bac9a7ebc7baea41f9df1" title="Returns the visit count of this node/edge." alt="" coords="259,261,403,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,242,247,255,246,260,202,247"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1dag__classic_1_1Node.html#aec8985126b4a91d140fb72dedf68c30a" title="Returns the average Win&#45;Loss score." alt="" coords="259,325,403,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,243,197,277,255,311,267,317,265,322,252,316,194,281,143,247"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Node.html#a06334eb13e7fc7814f76ee88b3889e2a" title="Returns whether the node is terminal (game end)." alt="" coords="259,389,403,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="128,243,181,308,216,344,255,375,263,381,261,385,252,379,213,348,177,312,124,247"/>
+</map>

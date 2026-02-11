@@ -1,0 +1,11 @@
+<map id="lczero::Backend::CreateComputation" name="lczero::Backend::CreateComputation">
+<area shape="rect" id="Node000001" title="Creates a new computation instance for this backend." alt="" coords="264,109,523,134"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Backend.html#a1db2c6ca9bd58b99e1c701796854768a" title="Helper to evaluate a batch of positions directly (blocking)." alt="" coords="16,5,205,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,106,215,60,178,48,180,43,217,55,347,101"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1SearchWorker.html#a24cf34971c93c3245ea0233aa655297c" title="Phase 1: Initialize internal structures for iteration." alt="" coords="5,69,216,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,110,216,104,216,99,268,104"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1PolicyEvaluator.html#aa0504841f80b8a2534aafd56097d61c5" title=" " alt="" coords="25,133,196,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,138,196,146,196,141,267,133"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1ValueEvaluator.html#ae1e88e3c5e9b5c25e11e9fa7980a4642" title=" " alt="" coords="27,197,194,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="347,141,217,188,180,200,178,195,215,183,345,136"/>
+</map>

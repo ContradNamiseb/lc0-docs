@@ -1,0 +1,17 @@
+<map id="lczero::classic::BaseSearchParams::GetWDLRescaleDiff" name="lczero::classic::BaseSearchParams::GetWDLRescaleDiff">
+<area shape="rect" id="Node000001" title="Gets WDL rescale difference." alt="" coords="645,67,851,107"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title="Gets verbose debug info for a node." alt="" coords="432,8,597,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="654,66,594,51,595,45,656,61"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1Search.html#a2fc502bfb56460bc0ed2ad1bc386ed19" title="Constructs a Search instance." alt="" coords="432,124,597,164"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="653,113,597,127,596,121,652,107"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1Search.html#a34ea0b979efa5b2e1f006168452536d3" title="Sends UCI info string." alt="" coords="219,69,384,109"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="631,90,384,92,384,86,631,85"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title="Outputs detailed move statistics." alt="" coords="219,5,384,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,29,384,29,384,24,418,24"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,52,156,72,154,67,220,47"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="220,68,154,48,156,43,221,63"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="205,92,171,92,171,87,205,87"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="lczero::Square::ToString" name="lczero::Square::ToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,180,105"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Square.html#a780f26bb4732b4221a1178a46310e465" title=" " alt="" coords="238,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,77,227,39,249,32,251,37,229,45,127,82"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1Square.html#a4a0426f2a21efdb8e2523ed453496711" title=" " alt="" coords="234,55,385,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,80,220,75,221,80,181,85"/>
+<area shape="rect" id="Node000006" href="$structlczero_1_1Rank.html#ab33ba872cd25ae6aa006140a1efca269" title=" " alt="" coords="228,104,391,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="181,100,215,104,214,109,180,105"/>
+<area shape="rect" id="Node000007" href="$structlczero_1_1File.html#a7d4f5cfd1873debd8dfc9615ce1a3de5" title=" " alt="" coords="233,153,385,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,103,229,138,254,147,253,152,227,143,128,108"/>
+<area shape="rect" id="Node000003" href="$structlczero_1_1File.html#ab99e72565a1274701e4457b4228464ca" title=" " alt="" coords="443,5,597,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,15,430,15,430,21,381,21"/>
+<area shape="rect" id="Node000005" href="$structlczero_1_1Rank.html#aeb6a8e026c4f15d6e56f19090ad374c6" title=" " alt="" coords="439,55,601,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,65,425,65,425,70,385,70"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::Search::MaybeTriggerStop" name="lczero::dag_classic::Search::MaybeTriggerStop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,204,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1StoppersHints.html#aea0ae0c3a9dd1a5b63bea3355abbf290" title="Gets estimated remaining time." alt="" coords="252,5,527,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,67,286,46,287,51,195,72"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1StoppersHints.html#a2a40954e29ea46430e7fdae58e6f28fc" title="Resets all hints to default values." alt="" coords="300,69,479,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,87,286,87,286,92,204,92"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1StoppersHints.html#adf60398e4a67b1cc27eb8faaf9b3e281" title="Updates estimated nodes per second." alt="" coords="288,133,491,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,107,287,128,286,133,194,112"/>
+</map>

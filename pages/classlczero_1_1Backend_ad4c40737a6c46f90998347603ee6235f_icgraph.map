@@ -1,0 +1,15 @@
+<map id="lczero::Backend::GetCachedEvaluation" name="lczero::Backend::GetCachedEvaluation">
+<area shape="rect" id="Node000001" title="Attempts to retrieve a cached evaluation for a position." alt="" coords="691,101,893,141"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#a5017a7a47647499a9408a335133478fe" title="Gets verbose debug info for a node." alt="" coords="455,37,620,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="698,100,617,80,618,75,699,95"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1SelfPlayGame.html#a2b64eaf61bca86d88a08315e8c16b6f1" title=" " alt="" coords="457,101,618,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="677,124,618,124,618,119,677,119"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1classic_1_1SearchWorker.html#aa8e89917ce2a6adb625523228be76bf3" title="Recursively finds and prefetches nodes into the cache." alt="" coords="432,165,643,205"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="699,147,618,168,617,163,698,142"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1classic_1_1Search.html#aa8647b1ace47202a4560db1b7f1b0314" title="Outputs detailed move statistics." alt="" coords="219,37,384,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,60,384,60,384,55,441,55"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1classic_1_1Search.html#a997c3bb8b0632fdb705ff01d153a2e1d" title="Outputs search info if enough time has passed." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,46,171,40,171,35,206,40"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1classic_1_1Search.html#a3cecf14863954089a9d8be6fd1f16d79" title="Checks if search should stop based on limits." alt="" coords="5,69,171,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="206,74,171,80,171,74,205,69"/>
+</map>

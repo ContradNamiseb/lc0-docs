@@ -1,0 +1,39 @@
+<map id="lczero::dag_classic::Search" name="lczero::dag_classic::Search">
+<area shape="rect" id="Node000001" title="Main search engine for the DAG&#45;based MCTS implementation." alt="" coords="1093,411,1237,451"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsDict.html" title=" " alt="" coords="332,290,477,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,294,609,293,756,301,835,310,915,323,994,343,1070,368,1108,387,1140,408,1137,413,1105,392,1068,373,993,348,914,329,834,315,755,306,609,298,491,300"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="375,275,384,267,405,263,422,266,433,272,436,282,430,291,426,289,430,281,429,275,420,271,405,269,386,272,378,279"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1classic_1_1BaseSearchParams.html" title="Base configuration parameters for MCTS search." alt="" coords="712,191,909,231"/>
+<area shape="poly" id="edge18_Node000016_Node000002" title=" " alt="" coords="474,284,721,228,722,233,475,290"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,189,196,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,215,205,223,299,256,375,287,373,292,297,261,203,228,176,220"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="5,238,204,263"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="193,263,332,288,331,293,192,268"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="19,287,191,313"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="205,298,332,299,332,305,205,304"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="25,337,185,377"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="198,338,334,313,335,318,199,343"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,402,197,427"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="179,396,203,387,251,356,300,326,338,313,340,318,302,330,254,361,205,392,181,401"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1dag__classic_1_1Node.html" title="Represents an expanded edge in the search DAG." alt="" coords="739,353,883,393"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="897,382,1070,408,1094,413,1093,418,1069,413,897,387"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1dag__classic_1_1atomic__unique__ptr.html" title=" " alt="" coords="325,340,484,409"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="498,372,738,371,738,376,498,377"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1Edge.html" title="Represents a single edge in the search graph (a move)." alt="" coords="333,440,477,480"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="489,439,738,386,739,391,491,445"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1Move.html" title="Represents a chess move in the Lc0 engine." alt="" coords="52,451,157,477"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="171,460,332,458,333,464,171,466"/>
+<area shape="rect" id="Node000012" href="$classlczero_1_1SyzygyTablebase.html" title="Interface for loading and probing Syzygy endgame tablebases." alt="" coords="720,418,901,443"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="915,428,1093,428,1093,433,915,433"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1PositionHistory.html" title="Maintains a history of chess positions in a game." alt="" coords="727,467,895,493"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="908,469,1069,448,1093,444,1094,449,1070,453,909,474"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1Backend.html" title="Abstract interface for a neural network backend provider." alt="" coords="749,517,873,542"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="886,523,975,511,1023,501,1068,487,1105,469,1136,449,1139,453,1107,474,1070,492,1024,506,976,517,887,528"/>
+<area shape="rect" id="Node000015" href="$structlczero_1_1BackendAttributes.html" title="Configuration attributes for a neural network backend." alt="" coords="717,566,905,591"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="918,577,994,565,1032,554,1068,538,1095,519,1117,495,1150,450,1155,453,1122,499,1098,523,1071,542,1034,559,996,570,919,582"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="924,223,999,245,1037,262,1071,283,1102,313,1127,347,1159,409,1154,412,1122,350,1098,316,1068,287,1034,267,998,250,922,228"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1OptionId.html" title=" " alt="" coords="343,137,467,162"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="481,156,688,185,712,189,711,195,688,191,480,161"/>
+<area shape="rect" id="Node000018" href="$structlczero_1_1classic_1_1BaseSearchParams_1_1WDLRescaleParams.html" title="Helper structure for WDL rescaling parameters." alt="" coords="301,187,508,227"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="522,205,712,207,712,212,522,210"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lczero::Backend::ConfigurationHash" name="lczero::Backend::ConfigurationHash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,31,572,56"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Backend.html#aae798d3a00955d1b6c09f7c3db502858" title=" " alt="" coords="5,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,35,272,32,272,26,307,29"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Backend.html#ad5f3cc3d1bb5be110e65e81d5e0477b0" title="Updates the backend configuration." alt="" coords="5,55,272,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,57,272,60,272,54,306,52"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lczero::classic::Node::IsTwoFoldTerminal" name="lczero::classic::Node::IsTwoFoldTerminal">
+<area shape="rect" id="Node000001" title="Checks if node is terminal due to two&#45;fold repetition." alt="" coords="320,5,475,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1SearchWorker.html#abde95f25de7416e92958c8396a41bca3" title="Ensures 3&#45;fold repetition correctness by reverting terminal status if needed." alt="" coords="5,5,272,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,28,272,28,272,23,306,23"/>
+</map>

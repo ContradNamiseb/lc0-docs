@@ -1,0 +1,9 @@
+<map id="lczero::PositionHistory::GetPositions" name="lczero::PositionHistory::GetPositions">
+<area shape="rect" id="Node000001" title="Gets a span view of all positions in the history." alt="" coords="261,55,429,95"/>
+<area shape="rect" id="Node000002" href="$namespacelczero.html#a243aa1e7137173a0fc29a2b084d00c2b" title="Encodes a position history into input planes for the neural network." alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,55,162,33,163,28,250,49"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title="Extends a leaf node by generating moves and checking for terminal states." alt="" coords="6,55,213,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,78,213,78,213,73,247,73"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ValueEvaluator.html#aca51df0f053033843f652363cd9d0502" title=" " alt="" coords="26,119,193,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,102,184,122,183,117,257,96"/>
+</map>

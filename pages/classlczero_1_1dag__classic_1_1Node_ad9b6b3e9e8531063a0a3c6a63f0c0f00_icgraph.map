@@ -1,0 +1,7 @@
+<map id="lczero::dag_classic::Node::GetNumEdges" name="lczero::dag_classic::Node::GetNumEdges">
+<area shape="rect" id="Node000001" title="Returns the number of edges from the underlying LowNode." alt="" coords="265,37,431,77"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Search.html#aa48b15d8f5af620e68575d7ca7c8940f" title="Returns verbose information about given node, as vector of strings." alt="" coords="16,5,207,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,47,207,41,207,36,252,42"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1LowNode.html#a9fcb0a3b5d94e650908deff8ce1f5f0e" title="Reverts terminal status using information from a node." alt="" coords="5,69,217,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,73,218,78,217,72,251,68"/>
+</map>

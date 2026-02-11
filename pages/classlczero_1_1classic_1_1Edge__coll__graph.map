@@ -1,0 +1,5 @@
+<map id="lczero::classic::Edge" name="lczero::classic::Edge">
+<area shape="rect" id="Node000001" title="Represents an edge in the MCTS game tree connecting a parent node to a child move." alt="" coords="5,93,159,119"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1Move.html" title="Represents a chess move in the Lc0 engine." alt="" coords="29,5,135,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,45,85,93,79,93,79,45"/>
+</map>

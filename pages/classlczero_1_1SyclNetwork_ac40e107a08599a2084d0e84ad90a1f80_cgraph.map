@@ -1,0 +1,26 @@
+<map id="lczero::SyclNetwork::SyclNetwork" name="lczero::SyclNetwork::SyclNetwork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,315,156,355"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsDict.html#a7a5cef61f5c4aa5cba99b314e0ba05ac" title=" " alt="" coords="251,29,396,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,314,95,266,118,202,153,136,175,106,202,79,236,60,239,65,206,83,180,109,157,139,123,205,100,267,88,315"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1OptionsDict.html#a1e48aa5d30fccb31803845d8cde4047d" title=" " alt="" coords="235,118,411,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="87,313,103,278,128,235,161,191,202,154,221,144,224,148,206,158,165,194,133,238,108,281,92,315"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1SyclNetwork.html#a609aa9bfc4e4f20ef609ad5ba181f2f2" title=" " alt="" coords="248,168,399,208"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="96,313,141,265,170,239,203,218,233,204,236,209,205,222,173,244,144,269,100,316"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1SyclNetwork.html#af49a7c455b0d9088673a9461108f4888" title=" " alt="" coords="248,232,399,272"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="126,312,203,281,234,272,236,277,205,287,128,317"/>
+<area shape="rect" id="Node000006" href="$namespacelczero.html#af3c3d8d9760200f64a76d8e13de19e9f" title="Computes maximum attention body size." alt="" coords="204,297,443,322"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="156,324,190,321,191,326,157,329"/>
+<area shape="rect" id="Node000007" href="$namespacelczero.html#a240fb199a13e5acdecb5207efc7becde" title="Computes maximum attention head size." alt="" coords="204,346,443,371"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="157,339,191,343,190,348,156,345"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1OptionsDict.html#a1d4e92198fa104f08d9f7ae8efba8498" title=" " alt="" coords="251,420,396,460"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="129,352,265,412,262,417,127,357"/>
+<area shape="rect" id="Node000009" href="$structlczero_1_1sycldnn__backend_1_1DeviceCapabilities.html#adb4c001f0f655323613bb1ecbc2a03c4" title=" " alt="" coords="233,484,414,524"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="96,353,140,412,171,443,205,470,221,478,219,483,203,474,167,447,136,415,92,356"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1SyclNetwork.html#a27f0ea867df29691fb7d20b2719966cc" title=" " alt="" coords="248,548,399,588"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="91,354,106,392,130,441,163,491,183,514,206,534,236,550,233,555,202,538,179,518,159,495,125,444,101,394,86,356"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1SyclNetwork.html#afe7031b60ab51459bc9b7cf77a8a5473" title=" " alt="" coords="248,612,399,652"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="88,354,99,404,121,470,156,539,179,571,206,598,236,616,234,620,202,602,175,574,151,542,116,472,94,405,83,355"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="278,30,275,20,283,10,299,5,323,3,352,6,367,13,365,18,350,11,323,8,300,10,286,15,281,21,283,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="284,120,275,110,280,100,296,94,323,91,358,95,367,100,371,106,367,109,364,104,356,100,323,97,297,99,283,104,281,109,288,116"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="278,420,275,410,283,401,299,395,323,393,352,396,367,403,365,408,350,401,323,399,300,401,286,405,281,411,283,419"/>
+</map>

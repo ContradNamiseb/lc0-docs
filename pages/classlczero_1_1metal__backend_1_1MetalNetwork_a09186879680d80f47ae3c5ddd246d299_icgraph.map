@@ -1,0 +1,5 @@
+<map id="lczero::metal_backend::MetalNetwork::ReleaseInputsOutputs" name="lczero::metal_backend::MetalNetwork::ReleaseInputsOutputs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,5,493,60"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1metal__backend_1_1MetalNetworkComputation.html#aceb8e67169d6aab6f71a0003eed79436" title=" " alt="" coords="5,5,223,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,35,223,35,223,30,257,30"/>
+</map>

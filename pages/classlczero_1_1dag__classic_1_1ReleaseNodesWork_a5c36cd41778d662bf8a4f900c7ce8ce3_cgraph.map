@@ -1,0 +1,9 @@
+<map id="lczero::dag_classic::ReleaseNodesWork::~ReleaseNodesWork" name="lczero::dag_classic::ReleaseNodesWork::~ReleaseNodesWork">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,169,100"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1ReleaseNodesWork.html#a1a174aed3b411e7515fe1449f2d5326b" title=" " alt="" coords="217,45,381,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,70,204,70,204,75,170,75"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1NodeGarbageCollector.html#afffd7d6978f54f2663b23446dbe80c11" title="Access to the singleton instance." alt="" coords="429,5,607,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,55,415,49,416,54,382,60"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1dag__classic_1_1ReleaseNodesWork.html#a3463111aaf6ba999f6b70f8e66b08811" title=" " alt="" coords="436,84,600,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,85,423,92,422,97,381,90"/>
+</map>

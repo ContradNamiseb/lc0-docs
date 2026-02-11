@@ -1,0 +1,15 @@
+<map id="lczero::OptionId::help_text" name="lczero::OptionId::help_text">
+<area shape="rect" id="Node000001" title=" " alt="" coords="419,141,612,166"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1OptionsParser_1_1Option.html#a51730c59b138d49e01fba3447c60ba92" title=" " alt="" coords="209,133,371,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,156,371,156,371,151,405,151"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1StringOption.html#a6eeab9510a1804bf9e74d0e117bcd5a9" title=" " alt="" coords="8,5,159,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,127,210,93,160,60,137,48,139,43,163,55,213,88,257,122"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1IntOption.html#ac230ae3b8fcc1f3b852abe3da6463ec7" title=" " alt="" coords="15,69,152,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,132,148,112,149,107,213,127"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1FloatOption.html#a00dd22dc2a0fc139373f5123a6ce16b2" title=" " alt="" coords="11,133,156,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="196,156,156,156,156,151,196,151"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1BoolOption.html#a313afe96e2ab6d5f5373fa0f4e452b06" title="Gets help text for this option." alt="" coords="13,197,154,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="213,180,149,200,148,195,211,175"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1ChoiceOption.html#afb5e1694d318ffd2e45176d81058bda2" title=" " alt="" coords="5,261,161,301"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="257,184,213,218,163,252,139,264,137,259,160,247,210,214,254,180"/>
+</map>

@@ -1,0 +1,80 @@
+<map id="lczero::Move::is_castling" name="lczero::Move::is_castling">
+<area shape="rect" id="Node000001" title="Checks if the move is a castling move." alt="" coords="1285,206,1468,231"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1ChessBoard.html#ab24b2476e34ef43596501ac717832fb3" title="Applies a move to the board." alt="" coords="852,199,999,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1271,221,999,221,999,216,1271,216"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1ChessBoard.html#ad09e84ee411b61f7245c148718c33786" title="Checks whether a pseudolegal move is actually legal (doesn&#39;t leave own king in check)." alt="" coords="588,5,735,45"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="1315,205,734,47,735,42,1316,200"/>
+<area shape="rect" id="Node000013" href="$classlczero_1_1Move.html#a064296c9a78c5137b8b78287cb2f1dcd" title="Converts the move to a string representation." alt="" coords="1072,462,1237,487"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1357,244,1169,464,1165,460,1353,240"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1PgnReader.html#af10cd52a86b3b23ac21e49e59a0b53aa" title=" " alt="" coords="588,169,735,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="838,212,735,200,735,195,839,206"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="897,189,835,115,803,81,777,60,734,41,736,36,780,55,807,77,839,111,901,186"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1Position.html#a6e6b392da7d9f25294981ba156aba837" title="Creates a position from a parent position and a move." alt="" coords="571,234,752,259"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="839,230,753,240,752,234,838,225"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1classic_1_1NodeTree.html#a92173c725272da4b10edeeee814b92dc" title="Sets the tree to a new position, attempting to reuse existing nodes." alt="" coords="570,308,753,348"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="864,246,712,310,710,305,862,242"/>
+<area shape="rect" id="Node000010" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a24d4ddd5b1b7991ffe378ca3421cf083" title="Resets the tree to a specific position defined by FEN and moves." alt="" coords="560,372,763,412"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="902,251,850,308,817,337,780,362,754,374,752,369,777,358,813,333,847,304,898,248"/>
+<area shape="rect" id="Node000011" href="$namespacelczero.html#aaf329f45cbf736b11997d4d471f8b299" title=" " alt="" coords="611,70,712,95"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="892,191,841,148,810,127,778,109,745,98,712,90,713,85,746,92,780,104,813,122,844,144,896,187"/>
+<area shape="rect" id="Node000012" href="$namespacelczero.html#a856ae0d0ec4ed19e7fbad2883502e6c4" title=" " alt="" coords="611,119,712,145"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="869,195,778,160,712,143,713,138,779,155,871,191"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="706,296,691,289,661,287,636,289,620,293,615,299,617,307,612,308,609,298,617,289,635,283,661,281,692,284,709,291"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1BackendBenchmark.html#a4fa16ad3601134c32a5305ddaf721d72" title=" " alt="" coords="265,315,496,341"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="556,331,496,331,496,325,556,325"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1Benchmark.html#a67c3e9827ab9e3e1abad604c3eed0573" title=" " alt="" coords="293,365,469,390"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="557,349,454,367,453,362,556,344"/>
+<area shape="rect" id="Node000008" href="$main_8cc.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="84,341,139,366"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="252,343,139,353,139,348,251,338"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="279,371,138,358,139,353,279,366"/>
+<area shape="poly" id="edge16_Node000013_Node000002" title=" " alt="" coords="1131,454,943,241,947,237,1135,450"/>
+<area shape="rect" id="Node000014" href="$classlczero_1_1classic_1_1Edge.html#a784317eb93508efe335ce5e2e19af384" title="Returns debug information about this edge." alt="" coords="849,487,1002,527"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="1058,491,1003,499,1002,493,1058,485"/>
+<area shape="rect" id="Node000016" href="$classlczero_1_1dag__classic_1_1Edge.html#a271cc603c967aa2cb0d8938e657ce4af" title=" " alt="" coords="850,551,1001,591"/>
+<area shape="poly" id="edge19_Node000013_Node000016" title=" " alt="" coords="1119,496,1025,541,993,553,991,548,1023,536,1117,492"/>
+<area shape="rect" id="Node000018" href="$classlczero_1_1dag__classic_1_1Node.html#a9cc8beebe5bcfba17a0b58086a2873ef" title="Returns debug info string." alt="" coords="849,647,1001,687"/>
+<area shape="poly" id="edge21_Node000013_Node000018" title=" " alt="" coords="1135,499,1087,549,1026,605,962,649,959,644,1022,601,1083,546,1131,496"/>
+<area shape="rect" id="Node000034" href="$classlczero_1_1dag__classic_1_1Node.html#afdf0a3aac05dda18f15596ff7173c96a" title="Generates Graphviz dot string for the edge to the LowNode." alt="" coords="843,775,1008,815"/>
+<area shape="poly" id="edge37_Node000013_Node000034" title=" " alt="" coords="1144,501,1097,592,1063,647,1026,700,989,742,952,776,949,773,985,739,1022,697,1059,644,1092,589,1139,499"/>
+<area shape="rect" id="Node000036" href="$classlczero_1_1Benchmark.html#a6e7c34f50635133d3c591b27ac6e4389" title=" " alt="" coords="850,359,1001,399"/>
+<area shape="poly" id="edge39_Node000013_Node000036" title=" " alt="" coords="1117,458,1023,413,991,401,993,396,1025,408,1119,453"/>
+<area shape="rect" id="Node000037" href="$classlczero_1_1StringUciResponder.html#a4b4cdf76317d374ad38acbade1d49871" title=" " alt="" coords="827,423,1024,463"/>
+<area shape="poly" id="edge41_Node000013_Node000037" title=" " alt="" coords="1058,464,1024,459,1025,454,1058,459"/>
+<area shape="rect" id="Node000015" href="$classlczero_1_1classic_1_1EdgeAndNode.html#ab72ded587f406f52c5358f3b612c0c31" title="Returns debug string representation." alt="" coords="572,487,751,527"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="835,509,751,509,751,504,835,504"/>
+<area shape="rect" id="Node000017" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a36eee378e13e51ce5ebe7ce4e9a3edf4" title=" " alt="" coords="557,551,766,591"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="836,573,766,573,766,568,836,568"/>
+<area shape="rect" id="Node000019" href="$classlczero_1_1dag__classic_1_1Node.html#aa0a35fcaaa44369c32bab642cf5d14e7" title=" " alt="" coords="557,679,766,719"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="836,680,767,689,766,683,835,675"/>
+<area shape="rect" id="Node000027" href="$classlczero_1_1dag__classic_1_1LowNode.html#a049422b66ac20fd7279be6092652e196" title=" " alt="" coords="544,839,779,879"/>
+<area shape="poly" id="edge30_Node000018_Node000027" title=" " alt="" coords="887,697,692,841,689,836,884,693"/>
+<area shape="rect" id="Node000033" href="$classlczero_1_1dag__classic_1_1Node.html#a6e5af647ece653750f6ac56cea755d5b" title="Debug check for zero in&#45;flight visits." alt="" coords="581,615,742,655"/>
+<area shape="poly" id="edge36_Node000018_Node000033" title=" " alt="" coords="835,658,742,647,742,642,836,653"/>
+<area shape="rect" id="Node000020" href="$classlczero_1_1dag__classic_1_1Node.html#a7b1c29c277d63cbdac27ad4e1bec3f53" title="Adjusts value statistics for terminal nodes." alt="" coords="286,711,475,751"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="543,715,476,723,475,717,542,710"/>
+<area shape="rect" id="Node000021" href="$classlczero_1_1dag__classic_1_1Node.html#a35df217fd99100d6b0cfa1b5b73c5ecf" title="Finalizes score update with new backpropagated values." alt="" coords="278,519,483,559"/>
+<area shape="poly" id="edge24_Node000019_Node000021" title=" " alt="" coords="549,674,542,669,531,657,524,644,517,619,511,595,505,584,494,573,476,561,479,557,498,569,509,581,516,593,523,618,529,642,535,653,546,665,552,669"/>
+<area shape="rect" id="Node000022" href="$classlczero_1_1dag__classic_1_1Node.html#a235a47352b0fcb886a7c65090f86ea15" title="Marks the node as non&#45;terminal, recomputing stats." alt="" coords="287,583,474,623"/>
+<area shape="poly" id="edge25_Node000019_Node000022" title=" " alt="" coords="561,677,543,669,519,653,495,637,464,625,466,620,497,632,521,648,545,664,563,672"/>
+<area shape="rect" id="Node000024" href="$classlczero_1_1dag__classic_1_1Node.html#a0726f814d7d4ad7f52cd41be76699a3c" title="Marks the node as terminal." alt="" coords="299,647,462,687"/>
+<area shape="poly" id="edge27_Node000019_Node000024" title=" " alt="" coords="543,688,462,679,462,673,544,683"/>
+<area shape="rect" id="Node000023" href="$classlczero_1_1dag__classic_1_1NodeTree.html#a4da50481bf99a9d4200df90707b2eb07" title="Advances the current state of the game tree by one move." alt="" coords="26,583,197,623"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="274,605,197,605,197,600,274,600"/>
+<area shape="rect" id="Node000025" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a10217d94c366d32c20c2b4324056e5bf" title="Extends a leaf node by generating moves and checking for terminal states." alt="" coords="8,647,215,687"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="285,669,215,669,215,664,285,664"/>
+<area shape="rect" id="Node000026" href="$classlczero_1_1dag__classic_1_1SearchWorker.html#a81088dcdaa546f75e0e65babad1fad69" title="Adjust parameters for updating node &#160;&#160;and its parent low node." alt="" coords="5,711,217,766"/>
+<area shape="poly" id="edge29_Node000024_Node000026" title=" " alt="" coords="293,693,215,714,213,709,291,688"/>
+<area shape="rect" id="Node000028" href="$classlczero_1_1dag__classic_1_1LowNode.html#a173a151fa8e1376f63bb981d6722accf" title="Updates statistics for terminal node encounters." alt="" coords="273,839,488,879"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="530,861,488,861,488,856,530,856"/>
+<area shape="rect" id="Node000029" href="$classlczero_1_1dag__classic_1_1LowNode.html#a5763a639c59feaa32e332c3a282c3a19" title="Updates the node with newly computed value v." alt="" coords="265,903,496,943"/>
+<area shape="poly" id="edge32_Node000027_Node000029" title=" " alt="" coords="560,884,469,905,468,900,559,879"/>
+<area shape="rect" id="Node000030" href="$classlczero_1_1dag__classic_1_1LowNode.html#a9fcb0a3b5d94e650908deff8ce1f5f0e" title="Reverts terminal status using information from a node." alt="" coords="275,967,487,1007"/>
+<area shape="poly" id="edge33_Node000027_Node000030" title=" " alt="" coords="555,887,546,893,530,908,522,924,514,941,498,957,476,969,473,964,494,953,510,937,518,921,526,905,542,889,552,883"/>
+<area shape="rect" id="Node000031" href="$classlczero_1_1dag__classic_1_1LowNode.html#a32ceb87972a8aebe93788f440bf5f9d7" title="Marks the node as terminal with a specific result." alt="" coords="286,1031,475,1071"/>
+<area shape="poly" id="edge34_Node000027_Node000031" title=" " alt="" coords="551,889,546,893,533,908,526,923,523,955,519,988,511,1004,498,1021,477,1035,474,1030,494,1017,507,1002,514,986,517,954,521,921,529,905,542,889,547,885"/>
+<area shape="rect" id="Node000032" href="$classlczero_1_1dag__classic_1_1LowNode.html#a0533a93aef8445afa0779adc13c3dc11" title="Populates the node with neural network evaluation results." alt="" coords="297,775,464,815"/>
+<area shape="poly" id="edge35_Node000027_Node000032" title=" " alt="" coords="559,838,464,816,465,811,560,833"/>
+<area shape="rect" id="Node000035" href="$classlczero_1_1dag__classic_1_1Node.html#a3e29fe78070d0cae9490b5cca7c48eb5" title="Generates Graphviz dot string for the subgraph starting at this node." alt="" coords="575,903,747,943"/>
+<area shape="poly" id="edge38_Node000034_Node000035" title=" " alt="" coords="889,826,839,860,780,893,748,905,746,900,778,888,836,856,886,821"/>
+<area shape="poly" id="edge40_Node000036_Node000009" title=" " alt="" coords="850,405,779,427,713,435,661,438,609,435,544,427,475,412,415,393,417,388,476,406,544,421,610,430,661,433,713,430,778,421,849,400"/>
+</map>

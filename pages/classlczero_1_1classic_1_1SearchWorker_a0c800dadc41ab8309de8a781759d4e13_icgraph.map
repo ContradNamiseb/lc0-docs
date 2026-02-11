@@ -1,0 +1,5 @@
+<map id="lczero::classic::SearchWorker::RunBlocking" name="lczero::classic::SearchWorker::RunBlocking">
+<area shape="rect" id="Node000001" title="Runs search iterations until search is stopped." alt="" coords="219,5,429,45"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1Search.html#ad4774d0f7171bc249b277bdb9d7b75b1" title="Starts the specified number of worker threads." alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+</map>

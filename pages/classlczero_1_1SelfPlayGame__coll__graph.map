@@ -1,0 +1,24 @@
+<map id="lczero::SelfPlayGame" name="lczero::SelfPlayGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="904,131,1065,156"/>
+<area shape="rect" id="Node000002" href="$structlczero_1_1PlayerOptions.html" title=" " alt="" coords="577,104,737,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="751,122,904,134,904,139,751,127"/>
+<area shape="rect" id="Node000003" href="$classlczero_1_1Backend.html" title="Abstract interface for a neural network backend provider." alt="" coords="273,16,397,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,42,611,101,609,107,395,48"/>
+<area shape="rect" id="Node000004" href="$classlczero_1_1OptionsDict.html" title=" " alt="" coords="262,104,407,129"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="421,114,577,114,577,119,421,119"/>
+<area shape="poly" id="edge9_Node000004_Node000004" title=" " alt="" coords="313,89,320,81,335,77,347,80,355,86,357,96,353,105,348,103,351,95,350,89,345,85,335,83,323,85,318,92"/>
+<area shape="rect" id="Node000005" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,5,196,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="184,32,205,40,267,71,316,102,313,106,265,75,203,44,182,37"/>
+<area shape="rect" id="Node000006" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="5,55,204,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="178,80,275,101,274,107,177,85"/>
+<area shape="rect" id="Node000007" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="19,104,191,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="205,114,262,114,262,119,205,119"/>
+<area shape="rect" id="Node000008" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="25,154,185,194"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="197,148,282,127,284,132,199,153"/>
+<area shape="rect" id="Node000009" href="$classlczero_1_1TypeDict.html" title=" " alt="" coords="13,219,197,244"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="190,211,202,204,218,189,227,173,235,156,252,140,277,127,279,132,255,144,240,159,231,176,222,192,206,208,192,216"/>
+<area shape="rect" id="Node000010" href="$structlczero_1_1SelfPlayLimits.html" title=" " alt="" coords="253,153,416,179"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="429,150,532,134,578,127,578,132,532,139,430,155"/>
+<area shape="rect" id="Node000011" href="$classlczero_1_1V6TrainingDataArray.html" title=" " alt="" coords="556,153,759,179"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="773,166,880,161,927,153,928,159,880,166,773,171"/>
+</map>

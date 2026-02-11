@@ -1,0 +1,5 @@
+<map id="lczero::classic::VisitsStopper::ShouldStop" name="lczero::classic::VisitsStopper::ShouldStop">
+<area shape="rect" id="Node000001" title="Checks if visit limit is reached." alt="" coords="5,13,212,53"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1classic_1_1StoppersHints.html#ad99506d9c32fb8dd0229b5c730dd7ef1" title="Updates estimated remaining playouts." alt="" coords="260,5,507,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,30,246,30,246,35,212,35"/>
+</map>
