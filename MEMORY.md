@@ -1,4 +1,4 @@
-# Project Memory
+cd # Project Memory
 
 ## Overview
 This file serves as a persistent memory context for the `lc0-docs` project. It documents architectural decisions, conventions, and the current state of the project to ensure consistency across sessions.
