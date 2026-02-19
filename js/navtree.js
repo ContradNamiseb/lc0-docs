@@ -32,11 +32,30 @@ function getData(varName) {
   return eval(n.replace(/\-/g, '_'));
 }
 
+/*
 function stripPath(uri) {
+  var pagesIndex = uri.indexOf('pages/');
+  if (pagesIndex !== -1) {
+    return uri.substring(pagesIndex);
+  }
   return uri.substring(uri.lastIndexOf('/') + 1);
+}
+*/
+
+// Replace your current stripPath with this:
+function stripPath(uri) {
+  var i = uri.lastIndexOf('/');
+  var s = uri.substring(i + 1);
+  // This ensures we always compare just the filename (e.g., class_low_node.html) 
+  // against the tree index, regardless of whether it's in the root or /pages/
+  return s;
 }
 
 function stripPath2(uri) {
+  var pagesIndex = uri.indexOf('pages/');
+  if (pagesIndex !== -1) {
+    return uri.substring(pagesIndex);
+  }
   var i = uri.lastIndexOf('/');
   var s = uri.substring(i + 1);
   var m = uri.substring(0, i + 1).match(/\/d\w\/d\w\w\/$/);
@@ -251,7 +270,11 @@ function expandNode(o, node, imm, setFocus) {
   if (node.childrenData && !node.expanded) {
     if (typeof (node.childrenData) === 'string') {
       var varName = node.childrenData;
-      getScript(node.relpath + varName, function () {
+      var scriptPath = node.relpath + varName;
+      if (scriptPath.indexOf('pages/') === -1 && scriptPath !== 'navtreeindex' && (varName.startsWith('namespaces') || varName.startsWith('annotated') || varName.startsWith('classes') || varName.startsWith('files') || varName.startsWith('functions') || varName.startsWith('globals'))) {
+        scriptPath = 'pages/' + scriptPath;
+      }
+      getScript(scriptPath, function () {
         node.childrenData = getData(varName);
         expandNode(o, node, imm, setFocus);
       });
@@ -390,6 +413,9 @@ function gotoNode(o, subIndex, root, hash, relpath) {
     $('.item').removeClass('selected');
     $('.item').removeAttr('id');
   }
+  if (!o.breadcrumbs && root == NAVTREE[0][1]) {
+    o.breadcrumbs = [];
+  }
   if (o.breadcrumbs) {
     o.breadcrumbs.unshift(0); // add 0 for root node
     showNode(o, o.node, 0, hash);
@@ -397,6 +423,9 @@ function gotoNode(o, subIndex, root, hash, relpath) {
 }
 
 function navTo(o, root, hash, relpath) {
+  if (root.indexOf('pages/') === -1 && root !== 'index.html' && root !== 'files.html' && root !== 'globals.html' && (root.startsWith('class') || root.startsWith('struct') || root.startsWith('namespace') || root.startsWith('dir_'))) {
+    root = 'pages/' + root;
+  }
   var link = cachedLink();
   if (link) {
     var parts = link.split('#');
@@ -412,14 +441,41 @@ function navTo(o, root, hash, relpath) {
   var url = root + hash;
   var i = -1;
   while (NAVTREEINDEX[i + 1] <= url) i++;
-  if (i == -1) { i = 0; root = NAVTREE[0][1]; } // fallback: show index
+  if (i == -1) {
+    i = 0;
+    root = NAVTREE[0][1];
+  } // fallback: show index
+  if (window.location.href.indexOf('index.html') !== -1 || root === 'index.html' || root === 'pages/index.html') {
+    o.breadcrumbs = [0];
+    showNode(o, o.node, 0, hash);
+    return;
+  }
+
   if (navTreeSubIndices[i]) {
     gotoNode(o, i, root, hash, relpath)
   } else {
+    // If we are at root index.html and it's not in the index, just show root.
+    if (i === 0 && root === 'index.html' && typeof NAVTREEINDEX0 === 'undefined') {
+      // Proceed to show root without index if index0 is not loaded yet or doesn't exist for it
+      // This might need more robust handling if index0 IS needed for children.
+      // Let's try to load it anyway.
+    }
+
     getScript(relpath + 'js/navtreeindex' + i, function () {
       navTreeSubIndices[i] = eval('NAVTREEINDEX' + i);
       if (navTreeSubIndices[i]) {
-        gotoNode(o, i, root, hash, relpath);
+        if (navTreeSubIndices[i][root + hash] || navTreeSubIndices[i][root]) {
+          gotoNode(o, i, root, hash, relpath);
+        } else if (i === 0 && (root === 'index.html' || root === 'pages/index.html')) {
+          console.log("Fallback 1 calling showNode with:", o, o.node);
+          showNode(o, o.node, 0, hash);
+        } else {
+          gotoNode(o, i, root, hash, relpath);
+        }
+      } else if (i === 0 && (root === 'index.html' || root === 'pages/index.html')) {
+        // Fallback if index0 doesn't contain entry for index.html but we want to show root
+        console.log("Fallback 2 calling showNode with:", o, o.node);
+        showNode(o, o.node, 0, hash);
       }
     });
   }
