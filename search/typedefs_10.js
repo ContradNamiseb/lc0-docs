@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['value_5ftype_0',['value_type',['../classlczero_1_1classic_1_1Edge__Iterator.html#a1f670a8242aecf771247a5dd4385fc69',1,'lczero::classic::Edge_Iterator::value_type'],['../classlczero_1_1dag__classic_1_1Edge__Iterator.html#aeed341dae6d032df19b0c9ece5fe7725',1,'lczero::dag_classic::Edge_Iterator::value_type'],['../classlczero_1_1BitIterator.html#a8e8f50e9eea561b3fa27973daef6f715',1,'lczero::BitIterator::value_type'],['../classlczero_1_1LayerAdapter_1_1Iterator.html#afd672e27e84387bf470c311473068d5a',1,'lczero::LayerAdapter::Iterator::value_type']]],
-  ['valueformat_1',['ValueFormat',['../classlczero_1_1python_1_1Weights.html#aadec0a2cfb7b465820f52dfbeed24bed',1,'lczero::python::Weights']]],
-  ['valuetype_2',['valuetype',['../classlczero_1_1StringOption.html#ac46af7dab75a5bc0be6f3968d2046ef8',1,'lczero::StringOption::ValueType'],['../classlczero_1_1IntOption.html#a19e9e989b0d08cb59d59f09c23a27bda',1,'lczero::IntOption::ValueType'],['../classlczero_1_1FloatOption.html#a535d8926ccedf3efba6f7ef264733599',1,'lczero::FloatOption::ValueType'],['../classlczero_1_1BoolOption.html#af86a3ba24035c07d8184b1668bf76022',1,'lczero::BoolOption::ValueType'],['../classlczero_1_1ButtonOption.html#a43dfd81b6fbb8f5df19ab0846f1903f3',1,'lczero::ButtonOption::ValueType'],['../classlczero_1_1ChoiceOption.html#a2c6a436bc71ff3f82590160e94c69276',1,'lczero::ChoiceOption::ValueType']]],
-  ['vec_3',['Vec',['../structlczero_1_1BaseWeights.html#a9dd276a450bc4c6700cb3f5ee13d83dd',1,'lczero::BaseWeights']]]
-];

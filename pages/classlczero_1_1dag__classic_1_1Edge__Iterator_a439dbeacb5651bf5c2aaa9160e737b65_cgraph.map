@@ -1,6 +1,6 @@
 <map id="lczero::dag_classic::Edge_Iterator::GetOrSpawnNode" name="lczero::dag_classic::Edge_Iterator::GetOrSpawnNode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,245,171"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title=" " alt="" coords="293,72,479,112"/>
+<area shape="rect" id="Node000001" title="Returns an existing node if one exists, or creates a new one if not." alt="" coords="5,131,245,171"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title="Advances the internal pointers to the target index." alt="" coords="293,72,479,112"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,128,283,112,284,118,215,133"/>
 <area shape="rect" id="Node000005" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html#a4a31fdd5dc2c8f467be7b3c146780900" title=" " alt="" coords="527,133,688,173"/>
 <area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="246,149,513,150,513,155,246,154"/>

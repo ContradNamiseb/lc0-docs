@@ -1,5 +1,5 @@
 <map id="lczero::dag_classic::Edge_Iterator::Actualize" name="lczero::dag_classic::Edge_Iterator::Actualize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,191,109"/>
+<area shape="rect" id="Node000001" title="Advances the internal pointers to the target index." alt="" coords="5,69,191,109"/>
 <area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Node.html#acbc9782f31bf1771fb14ac75074666b6" title="Gets pointer to the next sibling node." alt="" coords="247,5,391,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,67,236,47,237,52,169,72"/>
 <area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#a58aaa205c05fc56ff9c8c811dcef482d" title=" " alt="" coords="247,69,391,109"/>

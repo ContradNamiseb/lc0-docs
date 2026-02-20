@@ -17,6 +17,7 @@ This file serves as a persistent memory context for the `lc0-docs` project. It d
 - **Use Absolute Paths**: Always use absolute paths for file operations.
 - **Documentation Strategy**: Only edit the html and web related files, not the original source files unless the user specifies so.
 - **Relative Paths**: Resources in `pages/` must link to assets using `../` (e.g., `../css/doxygen.css`).
+- **Never replace**: todo.html, index.html will add more as we go.
 - **Navtree Patch**: `navtree.js` is patched to handle the dual-depth structure (root vs `pages/`).
 
 ### 2. Google Analytics

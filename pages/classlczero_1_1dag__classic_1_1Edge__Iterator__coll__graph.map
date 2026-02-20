@@ -1,5 +1,5 @@
 <map id="lczero::dag_classic::Edge_Iterator&lt; is_const &gt;" name="lczero::dag_classic::Edge_Iterator&lt; is_const &gt;">
-<area shape="rect" id="Node000001" title="Iterator for traversing edges of a node." alt="" coords="129,417,273,472"/>
+<area shape="rect" id="Node000001" title="Iterator for traversing edges of a node in the search tree." alt="" coords="129,417,273,472"/>
 <area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1EdgeAndNode.html" title="Contains Edge and Node pair and set of proxy functions." alt="" coords="129,328,273,368"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,382,203,417,198,417,198,382"/>
 <area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Edge.html" title="Represents a single edge in the search graph (a move)." alt="" coords="189,108,333,148"/>

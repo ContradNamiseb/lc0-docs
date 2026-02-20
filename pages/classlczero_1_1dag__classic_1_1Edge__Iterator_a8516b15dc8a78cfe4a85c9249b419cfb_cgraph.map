@@ -1,6 +1,6 @@
 <map id="lczero::dag_classic::Edge_Iterator::operator++" name="lczero::dag_classic::Edge_Iterator::operator++">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,208,109"/>
-<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title=" " alt="" coords="256,69,441,109"/>
+<area shape="rect" id="Node000001" title="Advances the iterator to the next edge." alt="" coords="5,69,208,109"/>
+<area shape="rect" id="Node000002" href="$classlczero_1_1dag__classic_1_1Edge__Iterator.html#ad10e3b6932a1a2e5f4fe0a75bc859670" title="Advances the internal pointers to the target index." alt="" coords="256,69,441,109"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,87,242,87,242,92,208,92"/>
 <area shape="rect" id="Node000003" href="$classlczero_1_1dag__classic_1_1Node.html#acbc9782f31bf1771fb14ac75074666b6" title="Gets pointer to the next sibling node." alt="" coords="498,5,642,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,67,487,47,488,52,419,72"/>
